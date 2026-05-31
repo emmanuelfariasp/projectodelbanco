@@ -1,0 +1,333 @@
+{
+  "key": "fisio_cap81_aleatorio",
+  "title": "Capítulo 81",
+  "subtitle": "Funciones reproductoras y hormonales masculinas",
+  "level": "25 preguntas",
+  "questions": [
+    {
+      "id": "fisio_aleatorio_81_01",
+      "q": "Las funciones reproductoras masculinas incluyen:",
+      "exp": "El capítulo divide las funciones masculinas en espermatogenia, acto sexual y regulación hormonal.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Espermatogenia, acto sexual y regulación hormonal.",
+        "Mineralización ósea y secreción de calcitonina.",
+        "Gestación, parto y eyección láctea.",
+        "Ovogenia, ovulación y formación del cuerpo lúteo."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_02",
+      "q": "Los espermatozoides se forman en:",
+      "exp": "La espermatogenia ocurre en los túbulos seminíferos.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Próstata.",
+        "Túbulos seminíferos.",
+        "Epidídimo proximal.",
+        "Vesículas seminales."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_03",
+      "q": "El epidídimo sirve principalmente para:",
+      "exp": "Los espermatozoides maduran durante su paso por el epidídimo.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Producción del líquido prostático.",
+        "Formación del acrosoma en Leydig.",
+        "Maduración y transporte de espermatozoides.",
+        "Síntesis principal de testosterona."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_04",
+      "q": "La espermatogenia comienza normalmente:",
+      "exp": "La espermatogenia inicia en la pubertad por FSH/LH y continúa durante la vida sexual activa.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Antes del nacimiento y termina al nacer.",
+        "En la pubertad bajo estimulación gonadotropa.",
+        "Solo después de la primera fecundación.",
+        "En la menopausia masculina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_05",
+      "q": "La duración aproximada de la espermatogenia completa es:",
+      "exp": "Desde espermatogonia hasta espermatozoide maduro dura unos 74 días.",
+      "topic": "Capítulo 81",
+      "options": [
+        "180 días.",
+        "74 días.",
+        "28 días.",
+        "14 días."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_06",
+      "q": "Durante la meiosis espermatogénica, cada espermátide recibe:",
+      "exp": "La meiosis reduce el número cromosómico a 23.",
+      "topic": "Capítulo 81",
+      "options": [
+        "46 pares de cromosomas.",
+        "92 cromátidas funcionales.",
+        "23 cromosomas.",
+        "Un cromosoma sin autosomas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_07",
+      "q": "El sexo genético del descendiente depende de:",
+      "exp": "El espermatozoide aporta X o Y; el ovocito aporta X.",
+      "topic": "Capítulo 81",
+      "options": [
+        "La concentración de progesterona luteínica.",
+        "La cantidad de líquido prostático.",
+        "Si el ovocito secundario aporta X o Y.",
+        "Si fecunda un espermatozoide con X o con Y."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_08",
+      "q": "El acrosoma contiene enzimas importantes como:",
+      "exp": "El acrosoma ayuda a atravesar estructuras que rodean al ovocito.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Hialuronidasa y enzimas proteolíticas.",
+        "Insulinasa y glucocinasa.",
+        "Aldosterona sintasa y renina.",
+        "Peroxidasa tiroidea y pendrina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_09",
+      "q": "La cola del espermatozoide tiene un esqueleto central llamado:",
+      "exp": "El axonema de microtúbulos permite el movimiento flagelar.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Axonema.",
+        "Antro.",
+        "Coloide.",
+        "Teca interna."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_10",
+      "q": "La energía para el movimiento del flagelo proviene sobre todo de:",
+      "exp": "Las mitocondrias de la pieza media producen ATP para la motilidad.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Aldosterona producida por la próstata.",
+        "ATP producido por mitocondrias del cuerpo de la cola.",
+        "Tiroglobulina almacenada dentro del acrosoma.",
+        "Fosfato libre secretado por vesículas seminales."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_11",
+      "q": "La testosterona es producida principalmente por:",
+      "exp": "Las células de Leydig sintetizan testosterona.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Células germinales primordiales.",
+        "Células prostáticas secretoras.",
+        "Células de Sertoli.",
+        "Células intersticiales de Leydig."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_12",
+      "q": "La LH en el varón estimula principalmente:",
+      "exp": "La LH estimula a las células de Leydig.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Producción de fructosa por vesículas seminales.",
+        "Coagulación del semen por fibrinógeno.",
+        "Conversión de espermátides por células de Sertoli.",
+        "Secreción de testosterona por células de Leydig."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_13",
+      "q": "La FSH en el testículo actúa principalmente sobre:",
+      "exp": "La FSH estimula células de Sertoli, esenciales para la espermatogenia.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Células prostáticas.",
+        "Células bulbouretrales.",
+        "Células de Sertoli.",
+        "Células de Leydig."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_14",
+      "q": "Sin estimulación por FSH, se compromete especialmente:",
+      "exp": "Las Sertoli estimuladas por FSH son necesarias para maduración espermática.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Liberación de T3 y T4 desde tiroglobulina.",
+        "Secreción de ADH por neurohipófisis.",
+        "Secreción de aldosterona por zona glomerular.",
+        "Conversión de espermátides en espermatozoides."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_15",
+      "q": "La hormona del crecimiento en el testículo contribuye a:",
+      "exp": "La GH favorece metabolismo testicular y división temprana de espermatogonias.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Capacitación espermática dentro del epidídimo.",
+        "Coagulación del semen por acción prostática.",
+        "Secreción directa de testosterona por vesículas seminales.",
+        "Funciones metabólicas y división temprana de espermatogonias."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_16",
+      "q": "Tras salir de túbulos seminíferos, los espermatozoides inicialmente son:",
+      "exp": "Al inicio no son móviles ni fértiles; maduran en epidídimo.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Maduros y activos durante años.",
+        "Totalmente capacitados para fecundar.",
+        "Inmóviles e incapaces de fecundar.",
+        "Sin núcleo ni acrosoma."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_17",
+      "q": "En el epidídimo, la capacidad de motilidad aparece tras aproximadamente:",
+      "exp": "Tras permanecer en epidídimo 18-24 h desarrollan capacidad de motilidad.",
+      "topic": "Capítulo 81",
+      "options": [
+        "14 días exactos.",
+        "1 a 2 minutos.",
+        "18 a 24 horas.",
+        "74 semanas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_18",
+      "q": "Los testículos adultos producen aproximadamente:",
+      "exp": "Guyton menciona unos 120 millones diarios.",
+      "topic": "Capítulo 81",
+      "options": [
+        "120 millones de espermatozoides por día.",
+        "12 millones de espermatozoides por año.",
+        "120 mil espermatozoides por mes.",
+        "1 millón de espermatozoides por eyaculación."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_19",
+      "q": "La capacitación espermática ocurre principalmente en:",
+      "exp": "La capacitación es un proceso en el tracto femenino antes de la fecundación.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Túbulos seminíferos testiculares.",
+        "Aparato genital femenino.",
+        "Líquido prostático alcalino.",
+        "Secreción de vesícula seminal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_20",
+      "q": "Las vesículas seminales aportan un líquido rico en:",
+      "exp": "El líquido seminal vesicular nutre y favorece la función espermática.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Fructosa, prostaglandinas y fibrinógeno.",
+        "PTH, calcitonina y vitamina D.",
+        "Tiroglobulina, yoduro y peroxidasa.",
+        "Cortisol, aldosterona y DHEA."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_21",
+      "q": "La próstata secreta un líquido que es principalmente:",
+      "exp": "La secreción prostática ayuda a neutralizar acidez y mejorar motilidad.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Lechoso y ligeramente alcalino.",
+        "Hipertónico y rico en insulina.",
+        "Esteroideo y rico en cortisol.",
+        "Ácido y rico en tiroglobulina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_22",
+      "q": "La mayor proporción del volumen seminal proviene de:",
+      "exp": "Aproximadamente 60% del semen proviene de vesículas seminales.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Conductos deferentes.",
+        "Vesículas seminales.",
+        "Glándulas bulbouretrales.",
+        "Glándula prostática."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_23",
+      "q": "En el acto sexual masculino, la erección depende principalmente de:",
+      "exp": "La erección es mediada principalmente por parasimpático.",
+      "topic": "Capítulo 81",
+      "options": [
+        "PTH paratiroidea.",
+        "ACTH adenohipofisaria.",
+        "Señales simpáticas exclusivas.",
+        "Señales parasimpáticas."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_24",
+      "q": "La emisión y la eyaculación dependen principalmente de:",
+      "exp": "Emisión y eyaculación son funciones simpáticas.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Mecanismos paratiroideos.",
+        "Mecanismos tiroideos.",
+        "Mecanismos simpáticos.",
+        "Mecanismos pancreáticos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_25",
+      "q": "La temperatura elevada de los testículos puede causar infertilidad porque:",
+      "exp": "El aumento de temperatura testicular impide la formación normal de espermatozoides.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Duplica la producción de testosterona.",
+        "Aumenta la capacitación en el epidídimo.",
+        "Deteriora la espermatogenia.",
+        "Estimula excesivamente la próstata."
+      ],
+      "answer": 2
+    }
+  ]
+}

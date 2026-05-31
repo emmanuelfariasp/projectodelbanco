@@ -1,0 +1,333 @@
+{
+  "key": "clase5",
+  "title": "Clase 5",
+  "subtitle": "Cerebelo y ventrículos cerebrales",
+  "level": "25 preguntas",
+  "questions": [
+    {
+      "q": "El cerebelo proviene embriológicamente del:",
+      "exp": "La clase señala que el cerebelo proviene del rombencéfalo y se ubica en la fosa posterior.",
+      "topic": "Cerebelo",
+      "options": [
+        "Rombencéfalo.",
+        "Telencéfalo.",
+        "Prosencéfalo.",
+        "Diencéfalo."
+      ],
+      "answer": 0,
+      "id": "clase5_01"
+    },
+    {
+      "q": "El cerebelo se ubica:",
+      "exp": "La relación posterior con puente/bulbo/cuarto ventrículo es esencial.",
+      "topic": "Cerebelo",
+      "options": [
+        "Telencéfalo, lateral al núcleo caudado.",
+        "Fosa anterior, sobre el lóbulo frontal.",
+        "Diencéfalo, dentro del tercer ventrículo.",
+        "Fosa posterior, detrás de puente y bulbo."
+      ],
+      "answer": 3,
+      "id": "clase5_02"
+    },
+    {
+      "q": "La división anatómica del cerebelo en lóbulos incluye:",
+      "exp": "No confundir lóbulos cerebelosos con lóbulos cerebrales.",
+      "topic": "Cerebelo",
+      "options": [
+        "Lóbulo insular, límbico y occipital.",
+        "Lóbulo caudado, putaminal y pálido.",
+        "Lóbulo anterior, posterior y floculonodular.",
+        "Lóbulo frontal, parietal y temporal."
+      ],
+      "answer": 2,
+      "id": "clase5_03"
+    },
+    {
+      "q": "La fisura primaria separa:",
+      "exp": "La fisura primaria es una referencia mayor entre lóbulo anterior y posterior.",
+      "topic": "Fisuras cerebelosas",
+      "options": [
+        "Tálamo de hipotálamo.",
+        "Lóbulo anterior del lóbulo posterior/medio.",
+        "Vermis de hemisferios cerebelosos.",
+        "Asta frontal del cuerpo ventricular."
+      ],
+      "answer": 1,
+      "id": "clase5_04"
+    },
+    {
+      "q": "La división filogenética que corresponde al lóbulo floculonodular es:",
+      "exp": "Arquicerebelo = floculonodular = equilibrio/vestibular.",
+      "topic": "División filogenética",
+      "options": [
+        "Arquicerebelo, relacionado con lenguaje de Broca.",
+        "Neocerebelo, relacionado exclusivamente con olfato.",
+        "Paleocerebelo, relacionado con memoria de trabajo.",
+        "Arquicerebelo, relacionado con función vestibular y equilibrio."
+      ],
+      "answer": 3,
+      "id": "clase5_05"
+    },
+    {
+      "q": "El paleocerebelo está formado por:",
+      "exp": "Paleocerebelo recibe aferencias medulares y participa en postura y tono.",
+      "topic": "División filogenética",
+      "options": [
+        "Lóbulo anterior más pirámide y úvula.",
+        "Solo lóbulo floculonodular.",
+        "Todo el lóbulo posterior menos vermis.",
+        "Núcleo caudado y putamen."
+      ],
+      "answer": 0,
+      "id": "clase5_06"
+    },
+    {
+      "q": "El neocerebelo se relaciona principalmente con:",
+      "exp": "Neocerebelo se vincula al lóbulo posterior y control fino/coordinación.",
+      "topic": "División filogenética",
+      "options": [
+        "Secreción de LCR y drenaje venoso.",
+        "Dolor, temperatura y tacto grueso.",
+        "Aferencias corticales motoras.",
+        "Parasimpático toracoabdominal vagal."
+      ],
+      "answer": 2,
+      "id": "clase5_07"
+    },
+    {
+      "q": "Las capas de la corteza cerebelosa son:",
+      "exp": "La triada cortical cerebelosa clásica: molecular, Purkinje y granular.",
+      "topic": "Corteza cerebelosa",
+      "options": [
+        "Molecular, células de Purkinje y granular.",
+        "Compacta, esponjosa y medular.",
+        "Piramidal externa, granular interna y multiforme.",
+        "Ependimaria, aracnoidea y pial."
+      ],
+      "answer": 0,
+      "id": "clase5_08"
+    },
+    {
+      "q": "El núcleo fastigio se asocia con:",
+      "exp": "Lesión del fastigio da ataxia troncal e inestabilidad.",
+      "topic": "Núcleos cerebelosos",
+      "options": [
+        "Audición y cuerpo geniculado medial.",
+        "Planificación de movimientos finos de extremidades.",
+        "Equilibrio y control postural del tronco.",
+        "Secreción de enzimas digestivas."
+      ],
+      "answer": 2,
+      "id": "clase5_09"
+    },
+    {
+      "q": "El núcleo dentado se relaciona con:",
+      "exp": "El dentado participa en planificación motora fina; puede causar disdiadococinesia y temblor de intención.",
+      "topic": "Núcleos cerebelosos",
+      "options": [
+        "Producción de dopamina de recompensa.",
+        "Planificación de movimientos voluntarios finos.",
+        "Plexo submucoso intestinal.",
+        "Control exclusivo de tronco y equilibrio axial."
+      ],
+      "answer": 1,
+      "id": "clase5_10"
+    },
+    {
+      "q": "Los ventrículos cerebrales son:",
+      "exp": "Son cuatro cavidades ventriculares principales.",
+      "topic": "Ventrículos",
+      "options": [
+        "Tres laterales y un acueducto.",
+        "Solo los ventrículos laterales dentro del diencéfalo.",
+        "Dos terceros y dos cuartos.",
+        "Dos laterales, tercer ventrículo y cuarto ventrículo."
+      ],
+      "answer": 3,
+      "id": "clase5_11"
+    },
+    {
+      "q": "Los forámenes de Monro comunican:",
+      "exp": "El acueducto de Silvio comunica tercero con cuarto; Monro comunica laterales con tercero.",
+      "topic": "Ventrículos",
+      "options": [
+        "El cuarto ventrículo con el espacio subaracnoideo.",
+        "El tercer ventrículo con el cuarto.",
+        "Cada ventrículo lateral con el tercer ventrículo.",
+        "El acueducto con el seno venoso."
+      ],
+      "answer": 2,
+      "id": "clase5_12"
+    },
+    {
+      "q": "El tercer ventrículo se ubica en:",
+      "exp": "El tercer ventrículo corresponde a la cavidad del diencéfalo.",
+      "topic": "Ventrículos",
+      "options": [
+        "Cerebelo, entre folias.",
+        "Diencéfalo, en la línea media.",
+        "Lóbulo temporal, dentro del hipocampo.",
+        "Mesencéfalo, lateral a la sustancia negra."
+      ],
+      "answer": 1,
+      "id": "clase5_13"
+    },
+    {
+      "q": "El cuarto ventrículo se localiza:",
+      "exp": "El cuarto ventrículo está detrás del puente y bulbo y delante del cerebelo.",
+      "topic": "Ventrículos",
+      "options": [
+        "En fosa posterior, entre tronco cerebral y cerebelo.",
+        "En la médula espinal cervical, como expansión del canal central.",
+        "Dentro del lóbulo frontal, sin relación con LCR.",
+        "Entre hemisferios cerebrales, rodeando al tálamo."
+      ],
+      "answer": 0,
+      "id": "clase5_14"
+    },
+    {
+      "q": "El asta frontal del ventrículo lateral se caracteriza por:",
+      "exp": "La trampa es confundir asta frontal con temporal u occipital.",
+      "topic": "Ventrículos laterales",
+      "options": [
+        "Comunica directo con cuarto ventrículo.",
+        "Asta frontal sin plexo coroideo.",
+        "Inmersa en lóbulo temporal profundo.",
+        "Porción más posterior: asta occipital."
+      ],
+      "answer": 1,
+      "id": "clase5_15"
+    },
+    {
+      "q": "La tienda del cerebelo se relaciona principalmente con:",
+      "exp": "La tienda del cerebelo es una reflexión dural relacionada con la protección/separación del cerebelo.",
+      "topic": "Meninges/cerebelo",
+      "options": [
+        "Separar el cerebelo de los lóbulos occipitales superiores.",
+        "Formar el plexo coroideo del tercer ventrículo.",
+        "Conducir fibras corticoespinales hacia la médula.",
+        "Producir dopamina en los núcleos basales."
+      ],
+      "answer": 0,
+      "id": "clase5_16"
+    },
+    {
+      "q": "El vermis cerebeloso se caracteriza por:",
+      "exp": "El vermis es la estructura medial estrecha que une ambos hemisferios cerebelosos.",
+      "topic": "Vermis",
+      "options": [
+        "Unir medialmente los hemisferios cerebelosos.",
+        "Comunicar ventrículo lateral con tercer ventrículo.",
+        "Formar el núcleo caudado en C abierta.",
+        "Inervar directamente el músculo recto externo."
+      ],
+      "answer": 0,
+      "id": "clase5_17"
+    },
+    {
+      "q": "La capa molecular de la corteza cerebelosa contiene principalmente:",
+      "exp": "La capa molecular es externa y contiene arborizaciones dendríticas de Purkinje y fibras paralelas.",
+      "topic": "Corteza cerebelosa",
+      "options": [
+        "Dendritas de Purkinje y axones de células granulares.",
+        "Cuerpos neuronales sensitivos de ganglios espinales.",
+        "Plexos coroideos y células ependimarias.",
+        "Venas puente y senos venosos durales."
+      ],
+      "answer": 0,
+      "id": "clase5_18"
+    },
+    {
+      "q": "Los axones de las células de Purkinje se dirigen principalmente hacia:",
+      "exp": "Las células de Purkinje son la salida cortical hacia núcleos profundos cerebelosos.",
+      "topic": "Corteza cerebelosa",
+      "options": [
+        "Núcleos cerebelosos profundos.",
+        "Ganglios sensitivos raquídeos.",
+        "Granulaciones aracnoideas.",
+        "Mucosa olfatoria nasal."
+      ],
+      "answer": 0,
+      "id": "clase5_19"
+    },
+    {
+      "q": "El núcleo globoso se relaciona más con lesión tipo:",
+      "exp": "Los núcleos interpósitos, como el globoso, ajustan movimientos de extremidades.",
+      "topic": "Núcleos cerebelosos",
+      "options": [
+        "Ataxia apendicular y dismetría.",
+        "Ptosis, midriasis y ojo hacia afuera.",
+        "Hemianopsia por lesión quiasmática.",
+        "Rinne negativo con conducción ósea mayor."
+      ],
+      "answer": 0,
+      "id": "clase5_20"
+    },
+    {
+      "q": "El cerebelo recibe irrigación principalmente del sistema:",
+      "exp": "La vascularización cerebelosa depende del sistema vertebrobasilar.",
+      "topic": "Vascularización",
+      "options": [
+        "Vertebrobasilar.",
+        "Carotídeo externo facial.",
+        "Coronario derecho.",
+        "Venoso portal."
+      ],
+      "answer": 0,
+      "id": "clase5_21"
+    },
+    {
+      "q": "La arteria PICA suele originarse de:",
+      "exp": "La arteria cerebelosa posteroinferior es rama de la vertebral.",
+      "topic": "Vascularización",
+      "options": [
+        "Arteria vertebral.",
+        "Arteria cerebral anterior.",
+        "Carótida externa.",
+        "Arteria comunicante anterior."
+      ],
+      "answer": 0,
+      "id": "clase5_22"
+    },
+    {
+      "q": "La AICA se origina con mayor frecuencia de:",
+      "exp": "La arteria cerebelosa anteroinferior emerge de la basilar.",
+      "topic": "Vascularización",
+      "options": [
+        "Arteria basilar.",
+        "Arteria espinal anterior.",
+        "Seno sagital superior.",
+        "Arteria cerebral media."
+      ],
+      "answer": 0,
+      "id": "clase5_23"
+    },
+    {
+      "q": "La función cognitiva atribuida al cerebelo incluye participación en:",
+      "exp": "La guía menciona funciones cerebelosas cognitivas además de motoras.",
+      "topic": "Funciones cerebelosas",
+      "options": [
+        "Atención, planificación y procesamiento del lenguaje.",
+        "Producción exclusiva de LCR ventricular.",
+        "Sensibilidad facial por trigémino.",
+        "Secreción parotídea por IX par."
+      ],
+      "answer": 0,
+      "id": "clase5_24"
+    },
+    {
+      "q": "El atrio ventricular corresponde al punto donde confluyen:",
+      "exp": "El atrio es la confluencia del cuerpo con las astas occipital y temporal.",
+      "topic": "Ventrículos",
+      "options": [
+        "Cuerpo y astas occipital y temporal del ventrículo lateral.",
+        "Tercer ventrículo y acueducto de Silvio.",
+        "Cuarto ventrículo y canal ependimario sacro.",
+        "Espacio subdural y granulaciones aracnoideas."
+      ],
+      "answer": 0,
+      "id": "clase5_25"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "key": "fisio_cap77_aleatorio",
+  "title": "Capítulo 77",
+  "subtitle": "Hormonas metabólicas tiroideas",
+  "level": "25 preguntas",
+  "questions": [
+    {
+      "id": "fisio_aleatorio_77_01",
+      "q": "Sobre la secreción hormonal tiroidea normal, marque lo correcto:",
+      "exp": "Aproximadamente 93% de la secreción es T4 y 7% es T3.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Predomina T3 y T4 se secreta solo en trazas.",
+        "T3 y T4 se secretan en proporciones idénticas.",
+        "Predomina T4 y se secreta menor cantidad de T3.",
+        "La tiroides secreta solo T3 en adultos sanos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_02",
+      "q": "Comparada con T4, la T3 se caracteriza por ser:",
+      "exp": "T3 es unas cuatro veces más potente que T4, pero circula menos y dura menos.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Inactiva, abundante y almacenada solo en células C.",
+        "Peptídica, hidrosoluble y libre en el plasma.",
+        "Menos potente, más abundante y de duración más larga.",
+        "Más potente, menos abundante y de duración más breve."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_03",
+      "q": "La unidad funcional microscópica de la tiroides contiene:",
+      "exp": "La glándula tiroides está compuesta por folículos llenos de coloide con tiroglobulina.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Túbulos seminíferos con células de Sertoli y Leydig.",
+        "Folículos cerrados con coloide rico en tiroglobulina.",
+        "Islotes con células alfa, beta y delta alrededor de capilares.",
+        "Zonas glomerular, fascicular y reticular concéntricas."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_04",
+      "q": "Para formar tiroxina normalmente se requiere:",
+      "exp": "El yoduro es esencial para la síntesis de T3 y T4.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Colesterol captado por LDL.",
+        "Yodo ingerido como yoduro.",
+        "Calcio unido a calmodulina.",
+        "Glucosa transportada por GLUT-4."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_05",
+      "q": "La primera etapa en la síntesis tiroidea es:",
+      "exp": "La síntesis comienza con captación de yoduro por la célula folicular.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Atrapamiento de yoduro desde sangre a célula folicular.",
+        "Proteólisis de tiroglobulina dentro del capilar sanguíneo.",
+        "Unión de T4 a TBG dentro del coloide folicular.",
+        "Conversión de T3 en calcitonina por células C."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_06",
+      "q": "El NIS se localiza principalmente en la membrana:",
+      "exp": "El simportador sodio-yoduro actúa en la membrana basolateral de células foliculares.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Basolateral de la célula folicular tiroidea.",
+        "Luminal del osteoclasto activo.",
+        "Nuclear de la célula corticosuprarrenal.",
+        "Apical de la célula beta pancreática."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_07",
+      "q": "El NIS cotransporta hacia la célula folicular:",
+      "exp": "El NIS cotransporta I- con Na+, usando el gradiente de sodio.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Una tiroglobulina junto con dos cloruros.",
+        "Dos T4 junto con una molécula de TBG.",
+        "Dos yoduros junto con un calcio.",
+        "Un yoduro junto con dos sodios."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_08",
+      "q": "El gradiente que impulsa el NIS depende de:",
+      "exp": "La Na+/K+-ATPasa mantiene bajo el sodio intracelular y permite el cotransporte.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Bomba Na+/K+-ATPasa.",
+        "Aromatasa ovárica.",
+        "Aldosterona sintasa.",
+        "Insulinasa hepática."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_09",
+      "q": "El paso de yoduro hacia el coloide se asocia con:",
+      "exp": "La pendrina transporta yoduro hacia la luz folicular.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Pendrina en la membrana apical.",
+        "Transcortina en el plasma.",
+        "GLUT-4 en músculo esquelético.",
+        "Megalina en la membrana basal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_10",
+      "q": "La tiroglobulina es mejor descrita como:",
+      "exp": "La tiroglobulina contiene tirosinas que serán yodadas y acopladas.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Receptor nuclear que activa genes tiroideos.",
+        "Enzima que transforma yoduro en sodio intracelular.",
+        "Proteína plasmática principal de transporte de cortisol.",
+        "Matriz proteica donde se forman y almacenan T3 y T4."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_11",
+      "q": "La oxidación del yoduro depende principalmente de:",
+      "exp": "La TPO oxida el yoduro para permitir su unión a tirosina.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Glucocinasa hepática y glucosa plasmática.",
+        "Peroxidasa tiroidea y peróxido de hidrógeno.",
+        "Colesterol desmolasa y ACTH.",
+        "Insulinasa renal y péptido C."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_12",
+      "q": "La organificación del yodo significa:",
+      "exp": "Organificación es incorporación de yodo a residuos de tirosina de la tiroglobulina.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Liberación de calcitonina por células parafoliculares.",
+        "Transporte de T4 desde plasma al núcleo celular.",
+        "Unión del yodo oxidado a tirosinas de tiroglobulina.",
+        "Separación de MIT y DIT por desyodasa hepática."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_13",
+      "q": "La formación de T4 se produce por acoplamiento de:",
+      "exp": "T4 se forma por acoplamiento de dos diyodotirosinas.",
+      "topic": "Capítulo 77",
+      "options": [
+        "MIT con MIT.",
+        "MIT con DIT.",
+        "T3 con yoduro.",
+        "DIT con DIT."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_14",
+      "q": "La formación de T3 se produce principalmente por acoplamiento de:",
+      "exp": "T3 se forma por acoplamiento de MIT y DIT.",
+      "topic": "Capítulo 77",
+      "options": [
+        "MIT con MIT.",
+        "DIT con DIT.",
+        "T4 con TBG.",
+        "MIT con DIT."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_15",
+      "q": "El coloide tiroideo permite almacenar hormona para aproximadamente:",
+      "exp": "La tiroides almacena suficiente hormona en coloide para 2-3 meses.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Menos de una hora en ayuno.",
+        "Toda la vida reproductiva.",
+        "Varias semanas a pocos meses.",
+        "Solo segundos después de sintetizarla."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_16",
+      "q": "Para liberar T3 y T4, la célula folicular realiza:",
+      "exp": "La tiroglobulina yodada se endocita y se digiere para liberar T3 y T4.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Difusión directa de tiroglobulina intacta por capilares linfáticos.",
+        "Endocitosis del coloide y proteólisis lisosomal de tiroglobulina.",
+        "Conversión de colesterol en pregnenolona y cortisol.",
+        "Exocitosis de insulina y péptido C en cantidades iguales."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_17",
+      "q": "La megalina en la tiroides se ubica en la membrana:",
+      "exp": "La megalina está en la superficie luminal y participa en captación de tiroglobulina.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Mitocondrial de la célula fascicular.",
+        "Nuclear de la célula paratiroidea.",
+        "Luminal o apical de la célula folicular.",
+        "Basolateral de la célula de Leydig."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_18",
+      "q": "Las MIT y DIT que quedan tras proteólisis:",
+      "exp": "MIT y DIT se desyodan y el yoduro se reutiliza.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Se unen a transcortina para aumentar la vida media plasmática.",
+        "Se secretan como principales hormonas metabólicas activas.",
+        "Se desyodan para reciclar yoduro en la célula tiroidea.",
+        "Se transforman en calcitonina dentro de las células C."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_19",
+      "q": "En sangre, T3 y T4 circulan principalmente:",
+      "exp": "Más del 99% de T3/T4 está unido a proteínas plasmáticas.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Unidas exclusivamente a transcortina.",
+        "Dentro de vesículas secretoras intactas.",
+        "Libres, sin transportadores plasmáticos.",
+        "Unidas a TBG, prealbúmina y albúmina."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_20",
+      "q": "T4 tiene vida media mayor que T3 porque:",
+      "exp": "La unión proteica más intensa prolonga la vida media de T4.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Se une con mayor fuerza a proteínas plasmáticas.",
+        "Es hidrosoluble y se filtra menos en el riñón.",
+        "Es secretada por células C junto con calcitonina.",
+        "No entra a las células diana del organismo."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_21",
+      "q": "El efecto celular principal de T3 y T4 es:",
+      "exp": "Las hormonas tiroideas actúan en receptores nucleares y aumentan expresión de proteínas.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Activar AMPc solo en la membrana luminal tiroidea.",
+        "Cerrar canales de sodio en músculo liso vascular.",
+        "Aumentar transcripción génica y síntesis proteica metabólica.",
+        "Bloquear toda actividad mitocondrial dependiente de oxígeno."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_22",
+      "q": "La TSH estimula en la tiroides:",
+      "exp": "La TSH estimula casi todas las etapas de síntesis y secreción tiroidea.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Solo conversión periférica de T4 en T3.",
+        "Captación de yoduro, síntesis, liberación y crecimiento folicular.",
+        "Exclusivamente unión plasmática a TBG.",
+        "Solo secreción de calcitonina por células C."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_23",
+      "q": "La retroalimentación negativa tiroidea ocurre cuando:",
+      "exp": "Las hormonas tiroideas inhiben TRH y TSH cuando sus niveles aumentan.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Calcitonina elevada estimula TSH.",
+        "T3 y T4 elevadas reducen TRH/TSH.",
+        "TBG elevada bloquea la secreción de TRH.",
+        "TSH elevada reduce directamente T3 y T4."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_24",
+      "q": "Una consecuencia fisiológica del aumento de hormonas tiroideas es:",
+      "exp": "T3/T4 elevan el metabolismo basal y el consumo de oxígeno.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Bloqueo completo de absorción intestinal de glucosa.",
+        "Menor actividad simpática en todos los tejidos.",
+        "Mayor metabolismo basal y consumo de oxígeno.",
+        "Menor crecimiento y maduración cerebral infantil."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_25",
+      "q": "En niños, la deficiencia importante de hormona tiroidea puede causar:",
+      "exp": "Las hormonas tiroideas son esenciales para crecimiento y desarrollo neurológico.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Retraso de crecimiento y desarrollo del sistema nervioso.",
+        "Exceso de cierre epifisario por estrógenos ováricos.",
+        "Hipersecreción de insulina por células beta centrales.",
+        "Aumento de calcio plasmático por calcitonina baja."
+      ],
+      "answer": 0
+    }
+  ]
+}

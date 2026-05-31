@@ -1,7 +1,5 @@
-const SUBJECTS = {
-  neuro:{key:'neuro',label:'Neurociencias',subtitle:'Sistema nervioso, médula, tronco cerebral, cerebelo, pares craneales, sinapsis, HTEC, hidrocefalia, absceso y empiema.',sections:NEURO_SECTIONS,pdf:'pdf_todas_questoes_neuroquiz_400_emmanuel.pdf',pdfLabel:'Descargar PDF Neurociencias'},
-  fisio:{key:'fisio',label:'Fisiología',subtitle:'Endocrinología y reproducción: capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.',sections:PHYSIO_SECTIONS,pdf:'pdf_fisiologia_banco_completo_500_preguntas_emmanuel.pdf',pdfLabel:'Descargar todo Fisiología (PDF)'}
-};
+let SUBJECTS = {};
+let appReady = false;
 let currentSubject=null, currentSection=null, questions=[], idx=0, answers=[], locked=false, selectedChoice=null, currentMode='study';
 const letters=['A','B','C','D','E'];
 const NAME_KEY='banco4_student_name';
@@ -156,11 +154,29 @@ function showMenuForUser(){
   renderDashboard();
   renderCards();
 }
-function submitName(event){event.preventDefault(); const input=$('nameInput'); const name=cleanName(input?input.value:''); if(!name){alert('Escribe tu nombre para entrar.'); return;} localStorage.setItem(NAME_KEY,name); registerVisit(); trackAnalyticsEvent('student_name_saved'); showSubjectSelection();}
+function submitName(event){event.preventDefault(); if(!appReady){alert('El banco de preguntas todavía está cargando. Intenta nuevamente en unos segundos.'); return;} const input=$('nameInput'); const name=cleanName(input?input.value:''); if(!name){alert('Escribe tu nombre para entrar.'); return;} localStorage.setItem(NAME_KEY,name); registerVisit(); trackAnalyticsEvent('student_name_saved'); showSubjectSelection();}
 function changeVisitorName(){const current=getVisitorName(); localStorage.removeItem(NAME_KEY); currentSubject=null; showLogin(); if($('nameInput')) $('nameInput').value=current;}
-function chooseSubject(subject){if(!SUBJECTS[subject]) return; currentSubject=subject; localStorage.setItem(SUBJECT_KEY,subject); registerVisit(); trackAnalyticsEvent('subject_selected',{selected_subject:subject}); showMenuForUser();}
+function chooseSubject(subject){if(!appReady){alert('El banco de preguntas todavía está cargando. Intenta nuevamente en unos segundos.'); return;} if(!SUBJECTS[subject]) return; currentSubject=subject; localStorage.setItem(SUBJECT_KEY,subject); registerVisit(); trackAnalyticsEvent('subject_selected',{selected_subject:subject}); showMenuForUser();}
 function changeSubject(){currentSubject=null; showSubjectSelection();}
-function initApp(){ensureVisitorId(); if(getVisitorName()) showSubjectSelection(); else showLogin();}
+async function initApp(){
+  ensureVisitorId();
+  $('heroLead').textContent = 'Cargando banco de preguntas...';
+  try{
+    if(typeof loadBancoQuestionData !== 'function'){
+      throw new Error('No se encontró js/data-loader.js');
+    }
+    SUBJECTS = await loadBancoQuestionData();
+    appReady = true;
+  }catch(error){
+    console.error(error);
+    $('heroLead').textContent = 'No se pudo cargar el banco de preguntas.';
+    $('login').classList.remove('hidden');
+    $('login').innerHTML = `<h2>Error al cargar preguntas</h2><p>No se pudieron cargar los archivos JSON de la carpeta <b>data</b>. En GitHub Pages esto debe funcionar normalmente. Si abriste el archivo directamente en tu computadora, usa un servidor local o sube el proyecto al GitHub.</p><p class="small">Detalle técnico: ${escHtml(error.message || error)}</p>`;
+    return;
+  }
+  if(getVisitorName()) showSubjectSelection(); else showLogin();
+}
+
 
 function readProgress(subject,key,mode,includeCompleted=false){
   const state=safeParse(localStorage.getItem(attemptKeyFor(subject,key,mode))||'null');

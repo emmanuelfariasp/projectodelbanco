@@ -1,0 +1,333 @@
+{
+  "key": "fisio_cap76_aleatorio",
+  "title": "Capítulo 76",
+  "subtitle": "Hormonas hipofisarias y control hipotalámico",
+  "level": "25 preguntas",
+  "questions": [
+    {
+      "id": "fisio_aleatorio_76_01",
+      "q": "Desde el punto de vista fisiológico, la hipófisis se divide en:",
+      "exp": "La hipófisis tiene lóbulo anterior o adenohipófisis y lóbulo posterior o neurohipófisis.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Folículo y coloide hipofisario.",
+        "Adenohipófisis y neurohipófisis.",
+        "Zona glomerular y zona fascicular.",
+        "Corteza y médula hipofisarias."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_76_02",
+      "q": "El origen embrionario de la adenohipófisis explica que sus células sean:",
+      "exp": "La adenohipófisis deriva de la bolsa de Rathke, una invaginación del epitelio faríngeo.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Neuronales, derivadas del tubo neural posterior.",
+        "Epiteliales, derivadas de la bolsa de Rathke.",
+        "Cromafines, derivadas de la cresta suprarrenal.",
+        "Foliculares, derivadas del epitelio tiroideo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_76_03",
+      "q": "La neurohipófisis se relaciona con el hipotálamo porque:",
+      "exp": "La neurohipófisis tiene origen nervioso a partir del hipotálamo.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Deriva de la corteza suprarrenal en desarrollo fetal.",
+        "Se forma por migración de células de la granulosa ovárica.",
+        "Se origina por invaginación del epitelio del saco vitelino.",
+        "Proviene de una evaginación de tejido nervioso hipotalámico."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_76_04",
+      "q": "Son hormonas principales de la adenohipófisis, excepto:",
+      "exp": "La oxitocina se sintetiza en el hipotálamo y se libera desde la neurohipófisis.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Prolactina.",
+        "Tirotropina.",
+        "Hormona del crecimiento.",
+        "Oxitocina."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_76_05",
+      "q": "Las hormonas almacenadas y liberadas por la neurohipófisis son:",
+      "exp": "La neurohipófisis libera ADH y oxitocina, producidas en neuronas hipotalámicas.",
+      "topic": "Capítulo 76",
+      "options": [
+        "ADH y oxitocina.",
+        "FSH y LH.",
+        "GH y prolactina.",
+        "TSH y ACTH."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_76_06",
+      "q": "Las somatotropas adenohipofisarias producen principalmente:",
+      "exp": "Las somatotropas secretan GH y son abundantes en la adenohipófisis.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Hormona luteinizante.",
+        "Hormona del crecimiento.",
+        "Corticotropina.",
+        "Prolactina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_76_07",
+      "q": "Las corticotropas producen una hormona que:",
+      "exp": "La ACTH estimula zonas fasciculada y reticular de la corteza suprarrenal.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Convierte tiroglobulina en MIT y DIT dentro del coloide.",
+        "Estimula glucocorticoides y andrógenos corticosuprarrenales.",
+        "Libera agua por inhibición directa de los túbulos renales.",
+        "Estimula solo la secreción de leche en la glándula mamaria."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_76_08",
+      "q": "La TSH se relaciona directamente con:",
+      "exp": "La tirotropina estimula la función y el tamaño de las células foliculares tiroideas.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Maduración de espermatozoides dentro del epidídimo.",
+        "Secreción de aldosterona por la zona glomerular suprarrenal.",
+        "Síntesis y secreción de T3 y T4 por células foliculares tiroideas.",
+        "Reabsorción de calcio en el túbulo distal renal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_76_09",
+      "q": "La prolactina se inhibe fisiológicamente sobre todo por:",
+      "exp": "La dopamina es el factor inhibidor principal de la secreción de prolactina.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Gonadoliberina pulsátil.",
+        "Angiotensina II plasmática.",
+        "Calcitonina tiroidea.",
+        "Dopamina hipotalámica."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_76_10",
+      "q": "Las gonadotropas adenohipofisarias secretan:",
+      "exp": "Las gonadotropas producen FSH y LH.",
+      "topic": "Capítulo 76",
+      "options": [
+        "FSH y LH.",
+        "T3 y T4.",
+        "ADH y oxitocina.",
+        "TRH y CRH."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_76_11",
+      "q": "Las hormonas neurohipofisarias se sintetizan en:",
+      "exp": "ADH y oxitocina se forman en neuronas magnocelulares hipotalámicas.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Células acidófilas del lóbulo anterior hipofisario.",
+        "Células cromafines de la médula suprarrenal.",
+        "Células beta del islote pancreático.",
+        "Cuerpos neuronales de núcleos supraóptico y paraventricular."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_76_12",
+      "q": "En general, el núcleo supraóptico se asocia más con:",
+      "exp": "La mayor parte de la ADH se sintetiza en el núcleo supraóptico.",
+      "topic": "Capítulo 76",
+      "options": [
+        "FSH.",
+        "ACTH.",
+        "ADH.",
+        "TSH."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_76_13",
+      "q": "En general, el núcleo paraventricular se asocia más con:",
+      "exp": "La mayor parte de la oxitocina se sintetiza en el núcleo paraventricular.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Aldosterona.",
+        "Glucagón.",
+        "Oxitocina.",
+        "Calcitonina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_76_14",
+      "q": "La adenohipófisis se controla principalmente por:",
+      "exp": "El sistema porta hipotalámico-hipofisario lleva factores reguladores a la adenohipófisis.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Catecolaminas de la médula suprarrenal que llegan por la uretra.",
+        "Hormonas liberadoras e inhibidoras que llegan por el sistema porta.",
+        "Tiroglobulina transportada desde la tiroides al tallo hipofisario.",
+        "Axones motores que terminan directamente en cada célula endocrina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_76_15",
+      "q": "La hormona liberadora de tirotropina estimula principalmente:",
+      "exp": "La TRH estimula la secreción de TSH y también puede favorecer prolactina.",
+      "topic": "Capítulo 76",
+      "options": [
+        "TSH.",
+        "ADH.",
+        "PTH.",
+        "Insulina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_76_16",
+      "q": "La corticoliberina estimula principalmente la secreción de:",
+      "exp": "La CRH estimula a las corticotropas para secretar ACTH.",
+      "topic": "Capítulo 76",
+      "options": [
+        "ACTH adenohipofisaria.",
+        "Estradiol ovárico.",
+        "PTH paratiroidea.",
+        "TSH adenohipofisaria."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_76_17",
+      "q": "La GH actúa en gran parte estimulando la formación de:",
+      "exp": "La GH induce factores de crecimiento similares a insulina, principalmente IGF-1 hepático.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Aldosterona, sobre todo en médula suprarrenal.",
+        "Tiroglobulina, sobre todo en tiroides.",
+        "IGF-1, sobre todo en el hígado.",
+        "Calcitonina, sobre todo en paratiroides."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_76_18",
+      "q": "Un estímulo clásico para aumentar GH es:",
+      "exp": "Ayuno, hipoglucemia, ejercicio y estrés favorecen la secreción de GH.",
+      "topic": "Capítulo 76",
+      "options": [
+        "IGF-1 muy elevado.",
+        "Hipoglucemia o ayuno.",
+        "Somatostatina elevada.",
+        "Hiperglucemia mantenida."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_76_19",
+      "q": "La somatostatina hipotalámica tiene como efecto:",
+      "exp": "La somatostatina inhibe la hormona del crecimiento.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Activar la zona glomerular.",
+        "Aumentar oxitocina directamente.",
+        "Estimular la liberación de LH.",
+        "Inhibir la secreción de GH."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_76_20",
+      "q": "La ADH regula principalmente:",
+      "exp": "La ADH aumenta la reabsorción de agua y ayuda a regular la osmolaridad.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Reabsorción renal de agua y concentración de líquidos corporales.",
+        "Síntesis de T3 y T4 en la membrana apical tiroidea.",
+        "Conversión de colesterol en hormonas sexuales ováricas.",
+        "Secreción de insulina y péptido C por células beta."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_76_21",
+      "q": "Un aumento de osmolaridad plasmática provoca:",
+      "exp": "Los osmorreceptores estimulan ADH cuando aumenta la osmolaridad.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Aumento de TSH y bloqueo de la sed.",
+        "Aumento de ADH y estímulo de la sed.",
+        "Disminución de oxitocina y natriuresis.",
+        "Inhibición de ADH y diuresis concentrada."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_76_22",
+      "q": "La hipovolemia importante estimula ADH porque:",
+      "exp": "La disminución de volumen o presión arterial favorece la liberación de ADH.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Estimula solo el crecimiento del lóbulo anterior.",
+        "Bloquea la absorción de agua para diluir el plasma.",
+        "Ayuda a conservar agua y puede apoyar la presión arterial.",
+        "Convierte prolactina en vasopresina dentro del riñón."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_76_23",
+      "q": "La oxitocina participa de forma destacada en:",
+      "exp": "La oxitocina facilita la eyección de leche y también puede participar en el parto.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Eyección de leche por contracción de células mioepiteliales.",
+        "Transporte de yoduro por NIS en tiroides.",
+        "Reabsorción renal de fosfato en el túbulo proximal.",
+        "Síntesis de glucógeno hepático tras la comida."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_76_24",
+      "q": "El exceso de GH antes del cierre epifisario produce típicamente:",
+      "exp": "Antes del cierre de epífisis, el exceso de GH causa crecimiento lineal excesivo.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Hipoparatiroidismo por déficit de PTH.",
+        "Acromegalia por exceso pospuberal de GH.",
+        "Diabetes insípida por déficit de ADH.",
+        "Gigantismo por exceso prepuberal de GH."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_76_25",
+      "q": "El exceso de GH después del cierre epifisario produce típicamente:",
+      "exp": "Después del cierre epifisario, el exceso de GH agranda huesos acrales y tejidos blandos.",
+      "topic": "Capítulo 76",
+      "options": [
+        "Cretinismo congénito.",
+        "Enanismo hipofisario.",
+        "Acromegalia.",
+        "Menopausia precoz."
+      ],
+      "answer": 2
+    }
+  ]
+}
