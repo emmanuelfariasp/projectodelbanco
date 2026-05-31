@@ -253,3 +253,114 @@ body{margin:0;font-family:Inter,Arial,Helvetica,sans-serif;background:var(--bg);
   .dashStat,.smartCard{background:#182235;border-color:var(--line)}
   .errorBadge{background:rgba(180,35,24,.22);color:#ff8a80;border-color:rgba(255,138,128,.55)}
 }
+
+
+/* ===== Ajustes de legibilidad: resultados y dashboard ===== */
+.stat,
+.dashStat,
+.statBox,
+.review details,
+.topicTag,
+.randomButtons .btn{
+  overflow-wrap:anywhere;
+  word-break:normal;
+}
+
+.stats{
+  align-items:stretch;
+}
+.stat{
+  min-width:0;
+  background:linear-gradient(180deg,#ffffff 0%,#f8fafc 100%);
+  box-shadow:0 6px 16px rgba(20,35,60,.06);
+}
+.stat h3{
+  color:var(--ink);
+  line-height:1.08;
+  font-size:clamp(24px,3vw,30px);
+}
+.stat p{font-weight:800;letter-spacing:.2px}
+
+#topicResults h3,
+.review h3{
+  margin:18px 0 10px;
+  font-size:20px;
+  letter-spacing:-.2px;
+}
+.topicTag{
+  border:1px solid var(--line);
+  background:#f1f5f9;
+  color:#263244;
+  margin:5px 6px 5px 0;
+  line-height:1.25;
+}
+.review{
+  margin-top:18px;
+  border-radius:18px;
+  padding:1px 0 0;
+}
+.review details{
+  background:#ffffff;
+  color:var(--ink);
+  box-shadow:0 4px 12px rgba(20,35,60,.05);
+}
+.review details[open]{border-color:#9db7dc}
+.review summary{line-height:1.35;padding:2px 0;color:var(--ink)}
+.review p{margin:9px 0;color:#344054;line-height:1.5}
+
+.smartGrid{grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
+.smartCard{min-width:0;overflow:hidden}
+.randomButtons{grid-template-columns:repeat(auto-fit,minmax(92px,1fr))}
+.randomButtons .btn{
+  min-width:0;
+  width:100%;
+  padding:11px 8px;
+  line-height:1.15;
+  text-align:center;
+  white-space:normal;
+}
+.dashboardStats{grid-template-columns:repeat(auto-fit,minmax(170px,1fr))}
+.dashStat{min-width:0}
+.dashStat b{font-size:clamp(20px,2.7vw,24px)}
+
+@media(max-width:760px){
+  .stats{grid-template-columns:1fr}
+  .smartGrid{grid-template-columns:1fr}
+  .dashboardActions .btn{width:100%}
+}
+
+@media (prefers-color-scheme: dark){
+  .stat{
+    background:#182235;
+    color:var(--ink);
+    border-color:var(--line);
+    box-shadow:0 6px 16px rgba(0,0,0,.22);
+  }
+  .stat h3{color:#f2f4f7}
+  .stat p{color:#cbd5e1}
+  .topicTag{
+    background:#1d2939;
+    color:#e4e7ec;
+    border-color:#334155;
+  }
+  .review{
+    background:transparent;
+    color:var(--ink);
+  }
+  .review h3,
+  #topicResults h3{color:#f2f4f7}
+  .review details{
+    background:#182235;
+    color:#f2f4f7;
+    border-color:#334155;
+    box-shadow:0 8px 18px rgba(0,0,0,.20);
+  }
+  .review details[open]{border-color:#5b7fb5}
+  .review summary{color:#f2f4f7}
+  .review p{color:#d0d5dd}
+  .randomButtons .btn.warn{
+    background:#b38300;
+    color:#ffffff;
+    border-color:#d6a400;
+  }
+}

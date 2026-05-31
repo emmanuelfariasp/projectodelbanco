@@ -84,7 +84,7 @@ function renderDashboard(){
   const latest=getLatestIncompleteProgress();
   const wrongCount=typeof countWrongForSubject==='function' ? countWrongForSubject(currentSubject) : 0;
   const best=stats.best ? `${escHtml(stats.best.title)} · ${stats.best.p}%` : 'Sin bloque finalizado';
-  const worst=stats.worst ? `${escHtml(stats.worst.title)} · ${stats.worst.p}%` : 'Sin datos suficientes';
+  const worst=stats.completed >= 2 && stats.worst ? `${escHtml(stats.worst.title)} · ${stats.worst.p}%` : 'Completa otro bloque para comparar';
   const continueBtn=latest ? `<button class="btn" onclick="continueLatestProgress()">Continuar donde paré</button>` : `<button class="btn" disabled>Continuar donde paré</button>`;
   el.innerHTML=`
     <div class="dashboardHero">
