@@ -25,3 +25,8 @@ Proyecto separado en archivos y con mejoras principales:
    - `pdf_todas_questoes_neuroquiz_400_emmanuel.pdf`
    - `pdf_fisiologia_banco_completo_500_preguntas_emmanuel.pdf`
 4. Espera que GitHub Pages actualice el sitio.
+
+
+## Versión V3
+
+Corrección de contraste y sobreposiciones en el resultado final, revisión de errores y botones de simulados. El index usa style-v3.css?v=3.0.1 para evitar caché del navegador.
