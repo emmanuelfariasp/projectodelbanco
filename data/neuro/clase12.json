@@ -1,0 +1,333 @@
+{
+  "key": "clase12",
+  "title": "Clase 12",
+  "subtitle": "Absceso cerebral y empiema subdural",
+  "level": "25 preguntas",
+  "questions": [
+    {
+      "q": "Los factores de riesgo para absceso cerebral incluyen:",
+      "exp": "La clase destaca factores infecciosos, traumáticos e inmunitarios.",
+      "topic": "Absceso cerebral",
+      "options": [
+        "Cardiopatía, TCE, otitis o VIH.",
+        "Tabaquismo, rinitis, migraña y parosmia.",
+        "Estenosis de Silvio y Evans bajo.",
+        "Rinne negativo, Weber lateralizado y tinnitus."
+      ],
+      "answer": 0,
+      "id": "clase12_01"
+    },
+    {
+      "q": "La vía de diseminación más frecuente para abscesos cerebrales es:",
+      "exp": "La diseminación hemática es la más frecuente; contigüidad ocupa segundo lugar.",
+      "topic": "Etiología",
+      "options": [
+        "Por vía olfatoria exclusivamente.",
+        "Por contigüidad siempre.",
+        "Hematógena.",
+        "Por LCR desde ventrículos siempre."
+      ],
+      "answer": 2,
+      "id": "clase12_02"
+    },
+    {
+      "q": "La sinusitis etmoidal y frontal se asocia más con abscesos en:",
+      "exp": "La localización depende del foco contiguo; frontal/etmoidal tiende al frontal.",
+      "topic": "Contigüidad",
+      "options": [
+        "Lóbulo frontal.",
+        "Cerebelo exclusivamente.",
+        "Núcleo caudado.",
+        "Lóbulo occipital."
+      ],
+      "answer": 0,
+      "id": "clase12_03"
+    },
+    {
+      "q": "Las infecciones del oído medio y celdillas mastoideas pueden causar abscesos en:",
+      "exp": "Otitis/mastoiditis se relacionan con temporal y fosa posterior/cerebelo.",
+      "topic": "Contigüidad",
+      "options": [
+        "Lóbulo frontal únicamente.",
+        "Tálamo exclusivamente.",
+        "Lóbulo temporal y cerebelo.",
+        "Médula cervical."
+      ],
+      "answer": 2,
+      "id": "clase12_04"
+    },
+    {
+      "q": "En sinusitis, los patógenos relacionados con absceso cerebral suelen ser:",
+      "exp": "Trauma/neurocirugía y odontógenos tienen patrones distintos.",
+      "topic": "Patógenos",
+      "options": [
+        "Hongos en todos los inmunocompetentes.",
+        "Estreptococos.",
+        "Staphylococcus epidermidis siempre.",
+        "Actinomicetos exclusivamente."
+      ],
+      "answer": 1,
+      "id": "clase12_05"
+    },
+    {
+      "q": "En abscesos post-neurocirugía se mencionan como gérmenes frecuentes:",
+      "exp": "El contexto postquirúrgico cambia los patógenos probables.",
+      "topic": "Patógenos",
+      "options": [
+        "Estreptococos por sinusitis.",
+        "S. aureus y S. epidermidis.",
+        "Hongos en inmunodeficiencia.",
+        "Actinomicetos odontógenos."
+      ],
+      "answer": 1,
+      "id": "clase12_06"
+    },
+    {
+      "q": "La clínica del absceso cerebral puede incluir:",
+      "exp": "La ausencia de fiebre no excluye absceso cerebral.",
+      "topic": "Clínica",
+      "options": [
+        "Marcha, incontinencia y demencia siempre.",
+        "HTEC, focalidad y convulsiones.",
+        "Hipoacusia conductiva como signo central.",
+        "Fiebre intensa obligatoria sin déficit focal."
+      ],
+      "answer": 1,
+      "id": "clase12_07"
+    },
+    {
+      "q": "Ante sospecha de absceso cerebral, la punción lumbar:",
+      "exp": "La PL puede ser peligrosa por riesgo de herniación si existe HTEC/efecto de masa.",
+      "topic": "Diagnóstico",
+      "options": [
+        "Está contraindicada, especialmente si hay clínica de HTEC.",
+        "Debe hacerse antes de toda imagen en cualquier caso.",
+        "Es el método diagnóstico de elección siempre.",
+        "Solo sirve para medir índice de Evans."
+      ],
+      "answer": 0,
+      "id": "clase12_08"
+    },
+    {
+      "q": "En tomografía, el absceso cerebral típicamente puede mostrar:",
+      "exp": "El realce en anillo es un dato de cápsula/cerebritis tardía.",
+      "topic": "Imagen",
+      "options": [
+        "TAC normal siempre en fase tardía.",
+        "C simple del núcleo caudado.",
+        "Forma biconvexa extraaxial obligatoria.",
+        "Imagen en anillo."
+      ],
+      "answer": 3,
+      "id": "clase12_09"
+    },
+    {
+      "q": "En RM por difusión, el absceso cerebral se describe como:",
+      "exp": "La restricción de difusión orienta a pus dentro de cavidad abscedada.",
+      "topic": "Imagen",
+      "options": [
+        "Solo visible en radiografía simple.",
+        "Hipointenso con CDA hiperintenso siempre.",
+        "Hiperintenso con CDA hipointenso.",
+        "Sin cambios en difusión."
+      ],
+      "answer": 2,
+      "id": "clase12_10"
+    },
+    {
+      "q": "El tratamiento médico exclusivo del absceso puede ser eficaz cuando:",
+      "exp": "La cápsula reduce penetración antibiótica; en casos graves se considera cirugía.",
+      "topic": "Tratamiento",
+      "options": [
+        "Sin posibilidad de seguimiento por imagen.",
+        "Cápsula tardía, gran tamaño y Glasgow bajo.",
+        "Objeto extraño traumático intracraneal.",
+        "Cerebritis pequeña con Glasgow >=12."
+      ],
+      "answer": 3,
+      "id": "clase12_11"
+    },
+    {
+      "q": "No conviene tratamiento médico exclusivo en abscesos bien encapsulados porque:",
+      "exp": "El encapsulamiento protege al absceso y reduce eficacia antimicrobiana.",
+      "topic": "Tratamiento",
+      "options": [
+        "La cápsula y pobre irrigación dificultan penetración del antibiótico.",
+        "El medio ácido mejora todos los antibióticos.",
+        "El antibiótico atraviesa mejor cuando hay cápsula tardía.",
+        "La cápsula drena espontáneamente al ventrículo siempre."
+      ],
+      "answer": 0,
+      "id": "clase12_12"
+    },
+    {
+      "q": "La punción aspirativa de absceso:",
+      "exp": "Es menos invasiva, pero puede ser insuficiente en multiloculados.",
+      "topic": "Cirugía",
+      "options": [
+        "Es más invasiva que resección abierta siempre.",
+        "Solo se usa para hematomas epidurales.",
+        "Nunca necesita repetirse.",
+        "Puede requerir repetición hasta en 70% y es ideal estereotáctica para lesiones profundas."
+      ],
+      "answer": 3,
+      "id": "clase12_13"
+    },
+    {
+      "q": "Los empiemas subdurales son urgentes porque:",
+      "exp": "Al no estar encapsulados, pueden diseminarse rápido y complicarse.",
+      "topic": "Empiema",
+      "options": [
+        "Drenaje espontáneo por granulaciones.",
+        "Sin barrera; drenaje urgente.",
+        "Cápsula gruesa que limita infección.",
+        "Colección benigna bifrontal infantil."
+      ],
+      "answer": 1,
+      "id": "clase12_14"
+    },
+    {
+      "q": "El diagnóstico por imagen del empiema subdural con contraste puede mostrar:",
+      "exp": "La forma cóncava extraaxial orienta a colección subdural; el contexto infeccioso orienta a empiema.",
+      "topic": "Empiema",
+      "options": [
+        "Lesión biconvexa cráneo-duramadre.",
+        "Ventrículos laterales en C normal.",
+        "Colección cóncava con realce.",
+        "Anillo intraparenquimatoso exclusivo."
+      ],
+      "answer": 2,
+      "id": "clase12_15"
+    },
+    {
+      "q": "La cerebritis inicial de un absceso corresponde aproximadamente a:",
+      "exp": "La guía estadifica cerebritis inicial en los primeros 1–3 días.",
+      "topic": "Estadificación",
+      "options": [
+        "Días 1 a 3.",
+        "Días 10 a 13.",
+        "Más de 14 días.",
+        "Solo fase crónica de meses."
+      ],
+      "answer": 0,
+      "id": "clase12_16"
+    },
+    {
+      "q": "La cerebritis tardía suele corresponder aproximadamente a:",
+      "exp": "La matriz reticular y necrosis en desarrollo corresponden a cerebritis tardía.",
+      "topic": "Estadificación",
+      "options": [
+        "Días 4 a 9.",
+        "Primeras 6 horas.",
+        "Más de 6 meses.",
+        "Solo periodo neonatal."
+      ],
+      "answer": 0,
+      "id": "clase12_17"
+    },
+    {
+      "q": "La cápsula inicial del absceso se ubica aproximadamente entre:",
+      "exp": "La cápsula inicial se describe cerca de 10–13 días.",
+      "topic": "Estadificación",
+      "options": [
+        "Días 10 a 13.",
+        "Días 1 a 2.",
+        "Meses 3 a 5.",
+        "Años después del trauma."
+      ],
+      "answer": 0,
+      "id": "clase12_18"
+    },
+    {
+      "q": "En cápsula tardía de absceso cerebral se espera:",
+      "exp": "La cápsula tardía incluye colágeno, necrosis central y gliosis perilesional.",
+      "topic": "Estadificación",
+      "options": [
+        "Cápsula de colágeno, centro necrótico y gliosis alrededor.",
+        "Ausencia total de necrosis y sin realce de imagen.",
+        "Solo edema citotóxico sin inflamación.",
+        "Colección epidural biconvexa arterial."
+      ],
+      "answer": 0,
+      "id": "clase12_19"
+    },
+    {
+      "q": "En RM T1 con contraste, un absceso cerebral puede mostrar:",
+      "exp": "La guía describe en T1 con contraste anillo y centro hipointenso.",
+      "topic": "Imagen",
+      "options": [
+        "Imagen en anillo con centro hipointenso.",
+        "Siempre señal normal sin realce.",
+        "Solo biconvexidad extraaxial arterial.",
+        "Ventrículos laterales colapsados sin lesión."
+      ],
+      "answer": 0,
+      "id": "clase12_20"
+    },
+    {
+      "q": "La espectroscopía por RM de absceso puede mostrar aumento de:",
+      "exp": "La espectroscopía puede detectar aminoácidos, acetato y lactato elevados.",
+      "topic": "Imagen",
+      "options": [
+        "Aminoácidos, acetato y lactato.",
+        "Dopamina, melanina y tiroxina.",
+        "Insulina, glucagón y cortisol.",
+        "Na, K y LCR exclusivamente."
+      ],
+      "answer": 0,
+      "id": "clase12_21"
+    },
+    {
+      "q": "Un seguimiento tomográfico satisfactorio debe mostrar disminución de:",
+      "exp": "La mejoría se acompaña de menor realce, edema, masa y tamaño.",
+      "topic": "Seguimiento",
+      "options": [
+        "Realce en anillo, edema, efecto de masa y tamaño lesional.",
+        "Conductos auditivos, Rinne y Weber.",
+        "Perímetro cefálico y agudeza visual únicamente.",
+        "Olfato, gusto y reflejo corneal."
+      ],
+      "answer": 0,
+      "id": "clase12_22"
+    },
+    {
+      "q": "La mortalidad del absceso cerebral en la era de la TC se describe aproximadamente como:",
+      "exp": "La guía resume mortalidad de 0–10% en era de TC, aunque con morbilidad relevante.",
+      "topic": "Pronóstico",
+      "options": [
+        "0% a 10%.",
+        "80% a 100% inevitable.",
+        "50% fija en todos los casos.",
+        "Igual a cero sin tratamiento."
+      ],
+      "answer": 0,
+      "id": "clase12_23"
+    },
+    {
+      "q": "La causa más frecuente de empiema subdural en adultos suele ser:",
+      "exp": "La tabla etiológica ubica sinusitis paranasal como causa principal en adultos.",
+      "topic": "Empiema",
+      "options": [
+        "Sinusitis paranasal, sobre todo frontal.",
+        "Cierre incompleto del tubo neural.",
+        "Papiloma de plexo coroideo.",
+        "Corea de Huntington."
+      ],
+      "answer": 0,
+      "id": "clase12_24"
+    },
+    {
+      "q": "El empiema subdural puede complicarse con:",
+      "exp": "La guía menciona complicación con abscesos cerebrales y trombosis venosa.",
+      "topic": "Empiema",
+      "options": [
+        "Abscesos cerebrales y trombosis venosa.",
+        "Rinne positivo y paracusia de Willis.",
+        "Macrocefalia benigna hasta los 2 años.",
+        "Degeneración exclusiva del núcleo caudado."
+      ],
+      "answer": 0,
+      "id": "clase12_25"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "key": "clase8",
+  "title": "Clase 8",
+  "subtitle": "Pares craneales VIII al XII: vestibulococlear, IX, X, XI y XII",
+  "level": "25 preguntas",
+  "questions": [
+    {
+      "q": "El VIII par craneal debe explorarse considerando:",
+      "exp": "Vestibulococlear une audición y equilibrio, pero se exploran como componentes diferentes.",
+      "topic": "VIII par",
+      "options": [
+        "Solo función parasimpática digestiva.",
+        "Una porción motora faríngea única.",
+        "Porciones coclear y vestibular.",
+        "Tres ramas sensitivas faciales juntas."
+      ],
+      "answer": 2,
+      "id": "clase8_01"
+    },
+    {
+      "q": "La paracusia de Willis se caracteriza por:",
+      "exp": "La trampa es paracusia de Weber: peor al masticar.",
+      "topic": "VIII coclear",
+      "options": [
+        "Pierde toda audición bilateral.",
+        "Oye peor durante la masticación.",
+        "Siente dolor con sonidos comunes.",
+        "Oye mejor con ruido ambiental."
+      ],
+      "answer": 3,
+      "id": "clase8_02"
+    },
+    {
+      "q": "La prueba de Rinne positiva significa:",
+      "exp": "Rinne positivo no descarta hipoacusia sensorioneural; indica CA > CO.",
+      "topic": "Rinne",
+      "options": [
+        "Conducción ósea mejor o igual que aérea, sugestiva de hipoacusia conductiva.",
+        "Lateralización del sonido al oído afectado.",
+        "Conducción aérea mejor que conducción ósea, considerado normal.",
+        "Ausencia de función vestibular."
+      ],
+      "answer": 2,
+      "id": "clase8_03"
+    },
+    {
+      "q": "En hipoacusia de conducción del oído afectado se espera:",
+      "exp": "En conducción, el paciente oye mejor por hueso que por aire en el oído afectado.",
+      "topic": "Rinne",
+      "options": [
+        "Prueba de Romberg positiva como único hallazgo.",
+        "Rinne negativo.",
+        "Pérdida del reflejo nauseoso.",
+        "Rinne positivo obligatorio bilateral."
+      ],
+      "answer": 1,
+      "id": "clase8_04"
+    },
+    {
+      "q": "La prueba de Weber consiste en:",
+      "exp": "Rinne compara CA/CO; Weber evalúa lateralización del sonido en línea media.",
+      "topic": "Weber",
+      "options": [
+        "Tocar la pared posterior de la faringe.",
+        "Colocar el diapasón en la mastoides y luego cerca del oído externo.",
+        "Colocar el diapasón vibrando en línea media de la frente o cabeza.",
+        "Pedir caminar en línea recta con un pie delante del otro."
+      ],
+      "answer": 2,
+      "id": "clase8_05"
+    },
+    {
+      "q": "El síndrome vestibular tiene como síntoma principal:",
+      "exp": "Vértigo puede acompañarse de náuseas, vómitos y desequilibrio.",
+      "topic": "VIII vestibular",
+      "options": [
+        "Ageusia aislada.",
+        "Vértigo: sensación de giro del paciente o del entorno.",
+        "Hipoacusia conductiva exclusivamente.",
+        "Ptosis palpebral con midriasis."
+      ],
+      "answer": 1,
+      "id": "clase8_06"
+    },
+    {
+      "q": "La prueba de Romberg evalúa:",
+      "exp": "Al cerrar los ojos, se pierde referencia visual y se evidencian déficits vestibulares/proprioceptivos.",
+      "topic": "Romberg",
+      "options": [
+        "Elevación del paladar y úvula.",
+        "Fuerza de trapecio y cuello.",
+        "Conducción aérea frente a ósea.",
+        "Pies juntos; ojos cerrados."
+      ],
+      "answer": 3,
+      "id": "clase8_07"
+    },
+    {
+      "q": "La respuesta vestíbulo-ocular sirve para:",
+      "exp": "El sistema vestibular informa movimiento cefálico y ajusta músculos oculares.",
+      "topic": "VOR",
+      "options": [
+        "Mantener la fijación visual durante movimientos de cabeza.",
+        "Aumentar el volumen de LCR en ventrículos.",
+        "Cerrar ambos párpados ante estímulo corneal.",
+        "Estimular la secreción parotídea por el VII par."
+      ],
+      "answer": 0,
+      "id": "clase8_08"
+    },
+    {
+      "q": "El IX par craneal transmite sensibilidad/gusto de:",
+      "exp": "El tercio posterior de la lengua corresponde al glosofaríngeo.",
+      "topic": "IX par",
+      "options": [
+        "Cóclea y laberinto vestibular.",
+        "Faringe y tercio posterior de la lengua.",
+        "Dos tercios anteriores de la lengua.",
+        "Músculos trapecio y esternocleidomastoideo."
+      ],
+      "answer": 1,
+      "id": "clase8_09"
+    },
+    {
+      "q": "El glosofaríngeo participa en regulación cardiovascular porque:",
+      "exp": "IX lleva aferencias de barorreceptores carotídeos; el vago es la vía parasimpática principal.",
+      "topic": "IX par",
+      "options": [
+        "Transmite información de barorreceptores carotídeos al SNC.",
+        "Es la principal vía parasimpática toracoabdominal.",
+        "Inerva directamente el músculo cardíaco ventricular.",
+        "Forma el núcleo dentado del cerebelo."
+      ],
+      "answer": 0,
+      "id": "clase8_10"
+    },
+    {
+      "q": "El nervio vago se destaca por:",
+      "exp": "El X par regula frecuencia cardíaca, digestión, función pulmonar y señales de saciedad.",
+      "topic": "X par",
+      "options": [
+        "Motor de músculos extraoculares.",
+        "Auditivo coclear y vestibular.",
+        "Vía parasimpática visceral.",
+        "Motor puro de trapecio y ECM."
+      ],
+      "answer": 2,
+      "id": "clase8_11"
+    },
+    {
+      "q": "En pares IX y X, al pedir “A” prolongada se evalúa:",
+      "exp": "IX y X se exploran juntos por sus funciones faríngeas y palatinas.",
+      "topic": "IX/X exploración",
+      "options": [
+        "Elevación simétrica del velo del paladar, posición de úvula y fonación.",
+        "Conducción aérea y ósea del sonido.",
+        "Fuerza del esternocleidomastoideo.",
+        "Sensibilidad de las tres ramas trigeminales."
+      ],
+      "answer": 0,
+      "id": "clase8_12"
+    },
+    {
+      "q": "En paresia unilateral de IX/X, la úvula se desvía:",
+      "exp": "El lado sano tira de la úvula; por eso se desvía al lado no paralizado.",
+      "topic": "IX/X lesión",
+      "options": [
+        "Hacia el lado lesionado.",
+        "Hacia el lado de la hipoacusia.",
+        "Siempre hacia abajo sin lateralización.",
+        "Hacia el lado sano."
+      ],
+      "answer": 3,
+      "id": "clase8_13"
+    },
+    {
+      "q": "El síncope vasovagal ocurre por:",
+      "exp": "La consecuencia final es reducción del flujo sanguíneo cerebral y pérdida temporal de conciencia.",
+      "topic": "Síncope vagal",
+      "options": [
+        "Conducción aérea fallida del oído.",
+        "Exceso vagal con bradicardia.",
+        "Monro bloqueado con hidrocefalia.",
+        "Caudado hiperactivo con corea."
+      ],
+      "answer": 1,
+      "id": "clase8_14"
+    },
+    {
+      "q": "El XI par craneal inerva principalmente:",
+      "exp": "El accesorio se evalúa con movimientos de hombro y rotación de cabeza.",
+      "topic": "XI par",
+      "options": [
+        "Trapecio y esternocleidomastoideo.",
+        "Lengua intrínseca y extrínseca exclusivamente.",
+        "Cuerpo ciliar y esfínter pupilar.",
+        "Glándula parótida y músculo estilofaríngeo."
+      ],
+      "answer": 0,
+      "id": "clase8_15"
+    },
+    {
+      "q": "El origen aparente del VIII par se ubica en:",
+      "exp": "La guía de VIII-XII ubica el origen aparente del vestibulococlear en el surco bulbopontino.",
+      "topic": "VIII par",
+      "options": [
+        "Surco bulbopontino.",
+        "Fosa interpeduncular.",
+        "Lámina cribosa del etmoides.",
+        "Surco medio posterior medular."
+      ],
+      "answer": 0,
+      "id": "clase8_16"
+    },
+    {
+      "q": "La algiacusia se define como:",
+      "exp": "Algiacusia es dolor asociado a sonidos.",
+      "topic": "VIII coclear",
+      "options": [
+        "Dolor al escuchar sonidos.",
+        "Audición mejor en ambiente ruidoso.",
+        "Oír peor al masticar.",
+        "Pérdida total de audición."
+      ],
+      "answer": 0,
+      "id": "clase8_17"
+    },
+    {
+      "q": "Las emisiones otoacústicas son útiles sobre todo para evaluar:",
+      "exp": "OAE miden respuestas del oído interno y ayudan a evaluar función coclear.",
+      "topic": "VIII coclear",
+      "options": [
+        "Función coclear, especialmente en recién nacidos y niños.",
+        "Fuerza del esternocleidomastoideo.",
+        "Gusto posterior de la lengua.",
+        "Presión de LCR en hidrocefalia."
+      ],
+      "answer": 0,
+      "id": "clase8_18"
+    },
+    {
+      "q": "La impedanciometría evalúa principalmente:",
+      "exp": "La impedanciometría estudia la mecánica del tímpano/oído medio.",
+      "topic": "VIII coclear",
+      "options": [
+        "Movilidad timpánica y respuesta del oído medio a presión.",
+        "Movimientos finos de extremidades por núcleo dentado.",
+        "Elevación simétrica del velo del paladar.",
+        "Sensibilidad corneal por rama oftálmica."
+      ],
+      "answer": 0,
+      "id": "clase8_19"
+    },
+    {
+      "q": "La sensibilidad general de los dos tercios anteriores de la lengua depende principalmente de:",
+      "exp": "En los 2/3 anteriores: V da sensibilidad general; VII da gusto.",
+      "topic": "Lengua",
+      "options": [
+        "Trigémino, por la rama lingual mandibular.",
+        "Facial, por la cuerda del tímpano únicamente.",
+        "Glosofaríngeo en todos los casos.",
+        "Hipogloso por sus fibras motoras."
+      ],
+      "answer": 0,
+      "id": "clase8_20"
+    },
+    {
+      "q": "El gusto de los dos tercios anteriores de la lengua corresponde sobre todo al:",
+      "exp": "La sensibilidad especial/gusto anterior viaja con el facial.",
+      "topic": "Lengua",
+      "options": [
+        "Nervio facial VII.",
+        "Nervio trigémino V.",
+        "Nervio accesorio XI.",
+        "Nervio abducens VI."
+      ],
+      "answer": 0,
+      "id": "clase8_21"
+    },
+    {
+      "q": "El tercio posterior de la lengua tiene sensibilidad general y gusto por:",
+      "exp": "El IX inerva el tercio posterior para sensibilidad general y especial.",
+      "topic": "Lengua",
+      "options": [
+        "Glosofaríngeo IX.",
+        "Facial VII exclusivamente.",
+        "Trigémino V solamente.",
+        "Hipogloso XII sensitivo."
+      ],
+      "answer": 0,
+      "id": "clase8_22"
+    },
+    {
+      "q": "El nervio hipogloso inerva:",
+      "exp": "El XII es motor de la lengua; el palatogloso depende del vago.",
+      "topic": "XII par",
+      "options": [
+        "Músculos de la lengua, excepto palatogloso.",
+        "Trapecio y esternocleidomastoideo.",
+        "Glándula parótida y estilofaríngeo.",
+        "Músculos de la expresión facial."
+      ],
+      "answer": 0,
+      "id": "clase8_23"
+    },
+    {
+      "q": "En lesión del XII par, al protruir la lengua se desvía hacia:",
+      "exp": "La lengua se desvía hacia el lado lesionado durante la protrusión.",
+      "topic": "XII par",
+      "options": [
+        "El lado afectado.",
+        "El lado sano siempre.",
+        "Arriba sin lateralización.",
+        "El lado de la hipoacusia."
+      ],
+      "answer": 0,
+      "id": "clase8_24"
+    },
+    {
+      "q": "El síncope vasovagal puede presentar pródromos como:",
+      "exp": "La guía menciona palidez, náuseas, calor, sudor frío y visión túnel.",
+      "topic": "X par",
+      "options": [
+        "Palidez, náuseas, sudor frío y visión túnel.",
+        "Ptosis, midriasis y ojo hacia afuera.",
+        "Rinne negativo y Weber lateralizado.",
+        "Macrocefalia con sol poniente."
+      ],
+      "answer": 0,
+      "id": "clase8_25"
+    }
+  ]
+}

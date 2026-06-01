@@ -1,0 +1,333 @@
+{
+  "key": "clase9",
+  "title": "Clase 9",
+  "subtitle": "Neuroglia, barrera hematoencefálica, sinapsis y potencial de acción",
+  "level": "25 preguntas",
+  "questions": [
+    {
+      "q": "Las neuronas son unidades estructurales y funcionales porque:",
+      "exp": "Las otras opciones corresponden a epéndimo, microglia y oligodendrocitos.",
+      "topic": "Neuronas",
+      "options": [
+        "Actúan como macrófagos inflamatorios.",
+        "Revisten ventrículos y movilizan LCR.",
+        "Forman mielina en sustancia blanca.",
+        "Impulsos nerviosos y sinapsis."
+      ],
+      "answer": 3,
+      "id": "clase9_01"
+    },
+    {
+      "q": "Los astrocitos pueden:",
+      "exp": "Astrocitos son células estrelladas con múltiples funciones metabólicas y de soporte.",
+      "topic": "Astrocitos",
+      "options": [
+        "Soporte, glucógeno, reciclaje y gliosis.",
+        "Epitelio ventricular con cilios.",
+        "Mielina central y conducción saltatoria.",
+        "Fagocitosis mesodérmica inflamatoria."
+      ],
+      "answer": 0,
+      "id": "clase9_02"
+    },
+    {
+      "q": "Los oligodendrocitos se relacionan con:",
+      "exp": "La mielina aumenta velocidad de conducción por conducción saltatoria.",
+      "topic": "Oligodendrocitos",
+      "options": [
+        "Macrófagos inflamatorios.",
+        "Cilios ventriculares.",
+        "Mielina del SNC.",
+        "Secreción gástrica."
+      ],
+      "answer": 2,
+      "id": "clase9_03"
+    },
+    {
+      "q": "Respecto a la microglia del sistema nervioso central, ¿cuál afirmación es correcta?",
+      "exp": "La microglia es la célula inmunitaria residente del SNC; deriva del mesodermo y puede actuar con función macrofágica en procesos inflamatorios.",
+      "topic": "Microglia",
+      "options": [
+        "Mesodermo y función macrofágica.",
+        "Epéndimo; conducción saltatoria.",
+        "Endotelio; barrera hemato-LCR.",
+        "Ectodermo; mielina periférica."
+      ],
+      "answer": 0,
+      "id": "clase9_04"
+    },
+    {
+      "q": "Sobre las células ependimarias, ¿cuál opción describe mejor su localización y función?",
+      "exp": "El epéndimo reviste los ventrículos y el conducto central, y sus cilios ayudan al movimiento del LCR dentro del sistema ventricular.",
+      "topic": "Epéndimo",
+      "options": [
+        "Producen mielina periférica.",
+        "Epéndimo: ventrículos y LCR.",
+        "Equivalen a duramadre espinal.",
+        "Forman ganglios sensitivos."
+      ],
+      "answer": 1,
+      "id": "clase9_05"
+    },
+    {
+      "q": "La barrera hematoencefálica cumple como función:",
+      "exp": "La BHE regula glucosa, iones y sustancias que entran al SNC.",
+      "topic": "BHE",
+      "options": [
+        "Sustitución completa del LCR.",
+        "Estabilidad química y antitoxinas.",
+        "Paso libre de proteínas plasmáticas.",
+        "Contracción pupilar directa."
+      ],
+      "answer": 1,
+      "id": "clase9_06"
+    },
+    {
+      "q": "La barrera hemato-LCR se sitúa en:",
+      "exp": "No confundirla con la barrera hémato-LEC de capilares del SNC.",
+      "topic": "BHE",
+      "options": [
+        "Duramadre del espacio epidural.",
+        "Núcleo rojo mesencefálico.",
+        "Capilares musculares del SNP.",
+        "Plexo coroideo."
+      ],
+      "answer": 3,
+      "id": "clase9_07"
+    },
+    {
+      "q": "Una sinapsis química se caracteriza por:",
+      "exp": "La sinapsis eléctrica usa uniones comunicantes; la química usa neurotransmisores.",
+      "topic": "Sinapsis",
+      "options": [
+        "Ausencia de membrana postsináptica.",
+        "Transmisión por LCR ventricular.",
+        "Continuidad citoplasmática bidireccional.",
+        "Neurotransmisor en hendidura sináptica."
+      ],
+      "answer": 3,
+      "id": "clase9_08"
+    },
+    {
+      "q": "En el SNC, el neurotransmisor excitatorio más común es:",
+      "exp": "GABA es el inhibidor más común; glutamato el excitatorio más común.",
+      "topic": "Neurotransmisores",
+      "options": [
+        "Acetilcolina en placa motora.",
+        "GABA.",
+        "Glutamato.",
+        "Dopamina solamente."
+      ],
+      "answer": 2,
+      "id": "clase9_09"
+    },
+    {
+      "q": "En el SNC, el neurotransmisor inhibidor más común es:",
+      "exp": "La trampa es invertir glutamato/GABA.",
+      "topic": "Neurotransmisores",
+      "options": [
+        "Acetilcolina.",
+        "Lactato.",
+        "GABA.",
+        "Glutamato."
+      ],
+      "answer": 2,
+      "id": "clase9_10"
+    },
+    {
+      "q": "La bomba sodio-potasio:",
+      "exp": "Mantiene gradientes iónicos en contra del gradiente de concentración.",
+      "topic": "Potencial de membrana",
+      "options": [
+        "Permite entrada libre de Cl− en reposo.",
+        "Se abre solo cuando llega un neurotransmisor.",
+        "Exporta 3 Na+ e importa 2 K+ usando ATP.",
+        "Exporta 2 K+ e importa 3 Na+ sin energía."
+      ],
+      "answer": 2,
+      "id": "clase9_11"
+    },
+    {
+      "q": "El potencial de membrana en reposo neuronal se encuentra aproximadamente entre:",
+      "exp": "La clase usa como referencia cercana −70 mV.",
+      "topic": "Potencial de reposo",
+      "options": [
+        "Entre +35 y +60 mV.",
+        "Entre -60 y -80 mV.",
+        "Entre 0 y +5 mV.",
+        "Entre -5 y -10 mV."
+      ],
+      "answer": 1,
+      "id": "clase9_12"
+    },
+    {
+      "q": "Cuando la despolarización alcanza el umbral, se abren principalmente:",
+      "exp": "La entrada de Na+ amplifica la despolarización hasta valores positivos.",
+      "topic": "Potencial de acción",
+      "options": [
+        "Canales de Na+ dependientes de voltaje.",
+        "Uniones estrechas del plexo coroideo.",
+        "Canales de K+ pasivos solamente.",
+        "Bombas Na+/K+ ATPasa como canales rápidos."
+      ],
+      "answer": 0,
+      "id": "clase9_13"
+    },
+    {
+      "q": "La conducción saltatoria ocurre en:",
+      "exp": "La mielina concentra canales de Na+ en nodos y aumenta la velocidad.",
+      "topic": "Propagación",
+      "options": [
+        "Hendiduras sinápticas químicas exclusivamente.",
+        "Fibras mielínicas, saltando de un nodo a otro.",
+        "Canales ependimarios sin axones.",
+        "Fibras amielínicas de forma continua."
+      ],
+      "answer": 1,
+      "id": "clase9_14"
+    },
+    {
+      "q": "La regeneración nerviosa es:",
+      "exp": "En el SNC la cicatriz glial y productos de oligodendrocitos dificultan regeneración.",
+      "topic": "Regeneración",
+      "options": [
+        "Más vigorosa y a menudo completa en el SNP que en el SNC.",
+        "Más vigorosa en el SNC por acción de oligodendrocitos.",
+        "Imposible en el SNP por cicatriz glial.",
+        "Igual en SNC y SNP siempre."
+      ],
+      "answer": 0,
+      "id": "clase9_15"
+    },
+    {
+      "q": "Los cuerpos de Nissl corresponden principalmente a:",
+      "exp": "Los cuerpos de Nissl reflejan maquinaria de síntesis proteica neuronal.",
+      "topic": "Neurona",
+      "options": [
+        "Retículo endoplásmico rugoso y ribosomas del soma neuronal.",
+        "Uniones estrechas del plexo coroideo.",
+        "Capilares no fenestrados con pies astrocitarios.",
+        "Vesículas de acetilcolina en placa motora."
+      ],
+      "answer": 0,
+      "id": "clase9_16"
+    },
+    {
+      "q": "El cono axónico o segmento inicial es importante porque:",
+      "exp": "El segmento inicial concentra canales y es zona gatillo del potencial de acción.",
+      "topic": "Neurona",
+      "options": [
+        "Allí suele originarse el potencial de acción.",
+        "Produce la mayor parte del LCR ventricular.",
+        "Forma la capa molecular del cerebelo.",
+        "Actúa como macrófago en inflamación."
+      ],
+      "answer": 0,
+      "id": "clase9_17"
+    },
+    {
+      "q": "El transporte axonal anterógrado mueve sustancias:",
+      "exp": "Anterógrado va del cuerpo neuronal al axón terminal, con proteínas como kinesina.",
+      "topic": "Transporte axonal",
+      "options": [
+        "Desde el soma hacia el terminal axónico.",
+        "Desde la sinapsis hacia el núcleo solamente.",
+        "Desde LCR hacia sangre venosa dural.",
+        "Desde músculo hacia placa motora."
+      ],
+      "answer": 0,
+      "id": "clase9_18"
+    },
+    {
+      "q": "El transporte retrógrado mueve sustancias:",
+      "exp": "Retrógrado vuelve al soma, por ejemplo con factores tróficos o productos de degradación.",
+      "topic": "Transporte axonal",
+      "options": [
+        "Desde el terminal axónico hacia el soma.",
+        "Desde ventrículos hacia granulaciones.",
+        "Desde piamadre hacia duramadre.",
+        "Desde tálamo hacia plexo coroideo."
+      ],
+      "answer": 0,
+      "id": "clase9_19"
+    },
+    {
+      "q": "En una sinapsis química, la entrada presináptica de Ca2+ provoca:",
+      "exp": "El calcio en terminal presináptico desencadena exocitosis vesicular.",
+      "topic": "Sinapsis",
+      "options": [
+        "Fusión de vesículas y liberación de neurotransmisor.",
+        "Cierre permanente de canales de Na+ postsinápticos.",
+        "Producción directa de mielina por microglía.",
+        "Drenaje de LCR por granulaciones aracnoideas."
+      ],
+      "answer": 0,
+      "id": "clase9_20"
+    },
+    {
+      "q": "Los canales dependientes de ligando se abren cuando:",
+      "exp": "En membrana postsináptica, ligandos como neurotransmisores pueden abrir canales iónicos.",
+      "topic": "Canales iónicos",
+      "options": [
+        "Un neurotransmisor se une al receptor/canal.",
+        "La célula alcanza siempre +35 mV.",
+        "El axón pierde toda su mielina.",
+        "El LCR atraviesa el acueducto."
+      ],
+      "answer": 0,
+      "id": "clase9_21"
+    },
+    {
+      "q": "El umbral aproximado para iniciar un potencial de acción se sitúa cerca de:",
+      "exp": "La guía de neuroglia/potenciales menciona un umbral cercano a −55 mV.",
+      "topic": "Potencial de acción",
+      "options": [
+        "−55 mV.",
+        "−120 mV.",
+        "0 mV exacto.",
+        "+80 mV."
+      ],
+      "answer": 0,
+      "id": "clase9_22"
+    },
+    {
+      "q": "Durante la repolarización, ocurre principalmente:",
+      "exp": "Tras el pico, se inactivan canales de Na+ y sale K+ para volver a valores negativos.",
+      "topic": "Potencial de acción",
+      "options": [
+        "Salida de K+ por canales dependientes de voltaje.",
+        "Entrada masiva de Na+ por canales recién abiertos.",
+        "Fusión de vesículas por acetilcolina.",
+        "Cierre de las granulaciones aracnoideas."
+      ],
+      "answer": 0,
+      "id": "clase9_23"
+    },
+    {
+      "q": "El período refractario absoluto significa que:",
+      "exp": "Durante parte del potencial, canales de Na+ inactivos impiden un nuevo disparo.",
+      "topic": "Potencial de acción",
+      "options": [
+        "No puede generarse otro potencial de acción en ese momento.",
+        "La neurona responde con potenciales cada vez mayores.",
+        "El axón queda sin membrana y sin canales iónicos.",
+        "El neurotransmisor cruza sin receptor postsináptico."
+      ],
+      "answer": 0,
+      "id": "clase9_24"
+    },
+    {
+      "q": "Los pericitos de capilares del SNC ayudan principalmente a:",
+      "exp": "La guía los menciona como células que rodean capilares y contribuyen a la BHE.",
+      "topic": "BHE",
+      "options": [
+        "Mantener la integridad de la barrera hematoencefálica.",
+        "Formar cuerpos de Nissl en el soma neuronal.",
+        "Producir mielina en nervios periféricos.",
+        "Activar el reflejo fotomotor directo."
+      ],
+      "answer": 0,
+      "id": "clase9_25"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "key": "fisio_cap75_aleatorio",
+  "title": "Capítulo 75",
+  "subtitle": "Introducción a la endocrinología",
+  "level": "25 preguntas",
+  "questions": [
+    {
+      "id": "fisio_aleatorio_75_01",
+      "q": "Respecto a los mensajeros químicos, señale la opción correcta:",
+      "exp": "Las hormonas endocrinas se secretan a la sangre y llegan a células diana distantes.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Endocrinas: pasan a sangre y actúan en células diana distantes.",
+        "Autocrinas: viajan por el sistema porta hipofisario.",
+        "Neurotransmisores: actúan por sangre sobre órganos lejanos.",
+        "Paracrinas: actúan siempre sobre la misma célula secretora."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_75_02",
+      "q": "Una hormona neuroendocrina se diferencia porque:",
+      "exp": "Las hormonas neuroendocrinas son secretadas por neuronas hacia la sangre.",
+      "topic": "Capítulo 75",
+      "options": [
+        "La fabrica el hígado para actuar como proteína plasmática.",
+        "La secreta una neurona hacia la circulación sanguínea.",
+        "La produce un adipocito y actúa solo en el mismo adipocito.",
+        "La libera una célula epitelial solo dentro de una sinapsis."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_75_03",
+      "q": "Son clases químicas generales de hormonas, excepto:",
+      "exp": "Guyton describe tres grandes clases: peptídicas/proteicas, esteroideas y derivadas de tirosina.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Derivados del aminoácido tirosina.",
+        "Proteínas y polipéptidos.",
+        "Polisacáridos hormonales nucleares.",
+        "Esteroides derivados del colesterol."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_75_04",
+      "q": "Sobre hormonas peptídicas y proteicas, marque lo correcto:",
+      "exp": "Las hormonas peptídicas suelen sintetizarse como preprohormonas en el RER.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Se forman desde colesterol en la mitocondria y no se almacenan.",
+        "Se forman como preprohormonas en el retículo endoplásmico rugoso.",
+        "Se sintetizan libres en plasma y luego entran por endocitosis.",
+        "Se yodan en la tiroglobulina dentro del coloide tiroideo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_75_05",
+      "q": "Respecto a las hormonas esteroideas, señale lo correcto:",
+      "exp": "Los esteroides derivan del colesterol y, por ser liposolubles, pueden difundir a través de la membrana.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Se almacenan en vesículas junto con fragmentos inactivos.",
+        "Son hidrosolubles y circulan casi siempre sin proteínas.",
+        "Se producen por yodación de residuos de tirosina.",
+        "Derivan del colesterol y difunden al líquido intersticial."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_75_06",
+      "q": "Las hormonas derivadas de tirosina incluyen:",
+      "exp": "T3, T4, adrenalina y noradrenalina derivan del aminoácido tirosina.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Cortisol, aldosterona y progesterona.",
+        "Tiroxina, triyodotironina y catecolaminas.",
+        "Insulina, glucagón, PTH y calcitonina.",
+        "Gastrina, secretina y colecistocinina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_75_07",
+      "q": "En el transporte hormonal en sangre, es más correcto afirmar que:",
+      "exp": "Las hormonas hidrosolubles, como muchas peptídicas, suelen circular libres; las liposolubles se unen a proteínas.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Las liposolubles se eliminan más rápido al unirse a proteínas.",
+        "Las tiroideas circulan sin unión relevante a proteínas.",
+        "Las esteroideas circulan libres por ser poco liposolubles.",
+        "Las peptídicas suelen circular libres por ser hidrosolubles."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_75_08",
+      "q": "La unión de hormonas liposolubles a proteínas plasmáticas suele:",
+      "exp": "La unión proteica funciona como reservorio y reduce variaciones rápidas de hormona libre.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Impedir toda acción sobre tejidos diana periféricos.",
+        "Aumentar su filtración inmediata en el glomérulo.",
+        "Convertirlas en hormonas peptídicas activas.",
+        "Servir como reservorio y prolongar su permanencia."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_75_09",
+      "q": "La retroalimentación negativa hormonal tiene como función principal:",
+      "exp": "La retroalimentación negativa limita la secreción cuando la respuesta del sistema ya es suficiente.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Estabilizar la respuesta y evitar actividad hormonal excesiva.",
+        "Eliminar permanentemente los receptores de la célula diana.",
+        "Mantener una secreción exagerada del tejido endocrino.",
+        "Transformar señales paracrinas en señales autocrinas."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_75_10",
+      "q": "Los receptores hormonales se caracterizan porque:",
+      "exp": "El receptor determina especificidad y convierte la unión hormonal en respuesta celular.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Reconocen ligandos específicos y activan respuestas celulares.",
+        "Solo se ubican en el núcleo de todas las células.",
+        "No cambian en número frente a estímulos hormonales.",
+        "Reconocen cualquier hormona con la misma afinidad."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_75_11",
+      "q": "La regulación a la baja de receptores puede ocurrir cuando:",
+      "exp": "La exposición persistente a mucha hormona puede disminuir el número o sensibilidad de receptores.",
+      "topic": "Capítulo 75",
+      "options": [
+        "La célula diana no posee ningún receptor para esa hormona.",
+        "El receptor cambia de membrana a cromosoma sin degradarse.",
+        "La hormona desaparece totalmente del plasma durante pocas horas.",
+        "La célula recibe exposición prolongada a altas concentraciones hormonales."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_75_12",
+      "q": "Un receptor acoplado a proteína G puede activar:",
+      "exp": "Los receptores GPCR pueden activar sistemas de AMPc, PLC/IP3/DAG y otros.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Solo transcripción nuclear directa, sin segundos mensajeros.",
+        "Exclusivamente desmolasa de colesterol mitocondrial.",
+        "Adenilato ciclasa o fosfolipasa C, según el receptor.",
+        "Solo la digestión lisosomal de tiroglobulina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_75_13",
+      "q": "El sistema adenilato ciclasa-AMPc es típico en acciones de:",
+      "exp": "Varias hormonas peptídicas y glucoproteicas usan el sistema AMPc.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Cortisol, aldosterona y testosterona.",
+        "ACTH, TSH, FSH, LH y PTH.",
+        "Tiroxina, T3 y vitamina D activa.",
+        "Insulina, péptido C y tiroglobulina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_75_14",
+      "q": "El sistema fosfolipasa C-IP3-DAG produce, de modo general:",
+      "exp": "IP3 libera calcio y DAG participa en la activación de PKC.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Aumento de calcio citosólico y activación de proteína cinasa C.",
+        "Yodación directa de tirosina dentro de la tiroglobulina.",
+        "Disminución obligatoria de calcio y bloqueo de toda cinasa.",
+        "Transporte de glucosa por GLUT-4 sin receptor hormonal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_75_15",
+      "q": "El complejo calcio-calmodulina sirve principalmente para:",
+      "exp": "La calmodulina une Ca2+ y regula múltiples proteínas celulares.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Unir colesterol a LDL dentro de la corteza suprarrenal.",
+        "Secretar tiroglobulina desde la membrana basolateral.",
+        "Modificar actividad enzimática ante aumento de calcio citosólico.",
+        "Transportar T4 y T3 por proteínas plasmáticas específicas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_75_16",
+      "q": "El receptor de insulina se clasifica mejor como:",
+      "exp": "El receptor de insulina es un receptor de membrana con actividad tirosina cinasa.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Receptor de membrana con actividad tirosina cinasa.",
+        "Receptor citosólico exclusivo de hormonas esteroideas.",
+        "Receptor nuclear unido a elementos de respuesta tiroidea.",
+        "Canal iónico dependiente de voltaje en neuronas."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_75_17",
+      "q": "Los receptores intracelulares de esteroides producen efectos al:",
+      "exp": "Los esteroides regulan la expresión génica mediante receptores intracelulares.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Regular transcripción génica y síntesis de proteínas.",
+        "Activar pinocitosis del coloide dentro de la tiroides.",
+        "Abrir canales rápidos de sodio en la membrana apical.",
+        "Formar AMPc en la superficie de toda célula diana."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_75_18",
+      "q": "Las hormonas tiroideas actúan de forma importante porque:",
+      "exp": "T3/T4 tienen acción nuclear y aumentan la transcripción de numerosos genes.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Nunca se unen a proteínas dentro o fuera de la célula.",
+        "Solo activan receptores alfa adrenérgicos de membrana.",
+        "Se unen a receptores nucleares y aumentan transcripción génica.",
+        "Bloquean la síntesis proteica en casi todos los tejidos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_75_19",
+      "q": "Una diferencia correcta entre peptídicas y esteroideas es:",
+      "exp": "Las peptídicas suelen almacenarse en vesículas; los esteroides se sintetizan y difunden tras el estímulo.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Peptídicas entran al núcleo; esteroideas activan solo AMPc.",
+        "Peptídicas derivan de colesterol; esteroideas derivan de tirosina.",
+        "Peptídicas se almacenan en vesículas; esteroideas se sintetizan a demanda.",
+        "Peptídicas circulan unidas a TBG; esteroideas siempre libres."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_75_20",
+      "q": "La exocitosis de muchas hormonas peptídicas depende de:",
+      "exp": "La secreción peptídica suele activarse por Ca2+ citosólico o por AMPc.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Disminución sostenida de calcio dentro del citosol.",
+        "Unión obligatoria de la hormona a transcortina plasmática.",
+        "Conversión de colesterol a pregnenolona mitocondrial.",
+        "Aumento de calcio intracelular o activación de AMPc."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_75_21",
+      "q": "Una hormona paracrina se define mejor como aquella que:",
+      "exp": "Las hormonas paracrinas actúan en células vecinas mediante el líquido extracelular.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Actúa solo sobre la misma célula que la secretó.",
+        "Actúa localmente sobre células vecinas de otro tipo.",
+        "Se libera por neuronas solo en una hendidura sináptica.",
+        "Viaja por sangre hacia tejidos diana lejanos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_75_22",
+      "q": "Una hormona autocrina se caracteriza porque:",
+      "exp": "En la señalización autocrina, el mensajero actúa sobre la célula que lo produjo.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Siempre se une a albúmina antes de actuar localmente.",
+        "Solo actúa en órganos con capilares fenestrados.",
+        "La hipófisis la almacena y la libera desde axones.",
+        "La célula que la produce también puede responder a ella."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_75_23",
+      "q": "Las citocinas, según la fisiología endocrina general, pueden actuar como:",
+      "exp": "Las citocinas pueden comportarse como señales autocrinas, paracrinas o endocrinas.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Neurotransmisores exclusivos de la placa motora.",
+        "Mensajeros autocrinos, paracrinos o endocrinos.",
+        "Esteroides circulantes sintetizados desde colesterol.",
+        "Aminas tiroideas almacenadas en tiroglobulina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_75_24",
+      "q": "Las hormonas regulan múltiples funciones corporales, excepto:",
+      "exp": "Las hormonas regulan funciones, pero no cambian la secuencia heredada del ADN.",
+      "topic": "Capítulo 75",
+      "options": [
+        "El metabolismo energético y el crecimiento.",
+        "El equilibrio hidroelectrolítico.",
+        "La secuencia primaria fija del ADN heredado.",
+        "La reproducción y el comportamiento."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_75_25",
+      "q": "La célula diana responde a una hormona principalmente porque:",
+      "exp": "La presencia de receptores específicos define la sensibilidad de la célula diana.",
+      "topic": "Capítulo 75",
+      "options": [
+        "Posee receptores adecuados para reconocer esa señal.",
+        "Carece de mecanismos de terminación de respuesta.",
+        "Contiene la misma cantidad de todos los receptores hormonales.",
+        "Está siempre cerca de la glándula que secreta la hormona."
+      ],
+      "answer": 0
+    }
+  ]
+}
