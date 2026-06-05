@@ -1,110 +1,52 @@
-# Banco de cuestiones 4º semestre - V4
+# Banco de cuestiones 4º semestre - V4.14
 
-Esta versión separa el sitio en archivos de código y archivos de preguntas.
+Versión V4.14 del sitio de Emmanuel Farias.
 
-## Estructura principal
-
-```text
-bancodecuestiones/
-├── index.html
-├── README.md
-├── css/
-│   ├── style-v4.css
-│   └── style.css / style-v3.css  # antiguos, no obligatorios
-├── js/
-│   ├── data-loader.js
-│   ├── app.js
-│   ├── storage.js
-│   ├── simulado.js
-│   └── questions.js # solo aviso de compatibilidad
-└── data/
-    ├── manifest.json
-    ├── plantilla-bloque.json
-    ├── neuro/
-    │   ├── clase1.json
-    │   ├── clase2.json
-    │   └── ...
-    └── fisio/
-        ├── fisio_cap75_aleatorio.json
-        ├── fisio_cap76_aleatorio.json
-        └── ...
-```
-
-## Cómo agregar preguntas a un bloque existente
-
-Ejemplo: para agregar una pregunta en Neurociencias, Clase 12, abre:
+## Estructura
 
 ```text
-data/neuro/clase12.json
+index.html
+README.md
+GUIA_AGREGAR_PREGUNTAS.md
+css/style-v4.css
+js/data-loader.js
+js/storage.js
+js/simulado.js
+js/app.js
+data/manifest.json
+data/neuro/*.json
+data/fisio/*.json
+Cuestionario_Neurociencia_Final.pdf
+pdf_fisiologia_banco_completo_747_preguntas_2_columnas_emmanuel.pdf
 ```
 
-Dentro de `questions`, agrega una nueva pregunta siguiendo este formato:
+## Conteo actual
 
-```json
-{
-  "id": "clase12_026",
-  "q": "Escribe aquí la pregunta.",
-  "topic": "Diagnóstico",
-  "options": [
-    "Alternativa A",
-    "Alternativa B",
-    "Alternativa C",
-    "Alternativa D"
-  ],
-  "answer": 1,
-  "exp": "Explicación clara de la respuesta correcta."
-}
-```
+- Neurociencias: 15 bloques, 600 preguntas.
+- Fisiología Unidad XIV: 11 bloques, 747 preguntas.
+- Fisiología Unidad V: 7 bloques, 350 preguntas.
 
-### Regla de la respuesta correcta
+## PDFs usados por el sitio
 
-```text
-0 = A
-1 = B
-2 = C
-3 = D
-4 = E
-```
+- Neurociencias: `Cuestionario_Neurociencia_Final.pdf`
+- Fisiología Unidad XIV: `pdf_fisiologia_banco_completo_747_preguntas_2_columnas_emmanuel.pdf`
+- Fisiología Unidad V: `cuestionario_fisiologia_renal_capitulos_25_31.pdf`
 
-No necesitas cambiar manualmente el número de preguntas. La V4 cuenta las preguntas automáticamente.
+## Cómo agregar preguntas
 
-## Cómo agregar un bloque nuevo
+Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas tocar `app.js` para agregar nuevas preguntas.
 
-1. Copia `data/plantilla-bloque.json`.
-2. Pega el archivo en `data/neuro/` o `data/fisio/`.
-3. Cambia el nombre del archivo, por ejemplo:
+## Verificación V4.12
 
-```text
-data/neuro/clase13.json
-```
-
-4. Edita `data/manifest.json` y agrega el nuevo bloque en la lista de `sections` del área correspondiente:
-
-```json
-{
-  "key": "clase13",
-  "file": "data/neuro/clase13.json"
-}
-```
-
-## Importante
-
-- No abras el `index.html` directamente desde tu computadora para probar la V4, porque algunos navegadores bloquean la carga de JSON local.
-- Para probar localmente, usa un servidor local:
-
-```bash
-python -m http.server 8000
-```
-
-Luego abre:
-
-```text
-http://localhost:8000
-```
-
-En GitHub Pages funcionará normalmente.
+- JSON validado.
+- IDs únicos.
+- Respuestas dentro del rango correcto.
+- Archivos referenciados por el sitio presentes.
+- Modo simulado mantiene progreso, lista y feedback ocultos durante el intento.
 
 
-## V4.1 - Modo simulado
+## V4.14
 
-En modo simulado no se muestran aciertos, errores ni lista de preguntas durante el intento. La corrección aparece solamente al finalizar.
+- Fisiología ahora se divide en dos unidades: Unidad XIV - Endocrinología y reproducción, y Unidad V - Los líquidos corporales y los riñones.
+- Unidad V incluye 7 bloques nuevos, capítulos 25 a 31, con 50 preguntas por capítulo.
+- Para agregar preguntas renales, edita los archivos en `data/fisio/unidad_v/`.

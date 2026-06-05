@@ -11,7 +11,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Banco de cuestiones 4º semestre</title>
-<link rel="stylesheet" href="css/style-v4.css?v=4.1.0" />
+<link rel="stylesheet" href="css/style-v4.css?v=4.14.0" />
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -46,11 +46,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="subjectGrid">
       <div class="subjectCard" onclick="chooseSubject('neuro')">
         <div><div class="subjectIcon">🧠</div><h3>Neurociencias</h3><p>Continúa con el aplicativo de neurociencias de la misma manera: clases, simulados, progreso, explicación y revisión.</p></div>
-        <div class="subjectStats"><span>14 bloques</span><span>400 preguntas</span><span>PDF disponible</span></div>
+        <div class="subjectStats"><span>15 bloques</span><span>600 preguntas</span><span>PDF disponible</span></div>
       </div>
       <div class="subjectCard" onclick="chooseSubject('fisio')">
-        <div><div class="subjectIcon">🧬</div><h3>Fisiología</h3><p>Banco basado en endocrinología y reproducción, con capítulos 75 al 82 y cuestionarios integrados.</p></div>
-        <div class="subjectStats"><span>11 bloques</span><span>500 preguntas</span><span>PDF único</span></div>
+        <div><div class="subjectIcon">🧬</div><h3>Fisiología</h3><p>Elige primero la unidad: Unidad XIV - Endocrinología y reproducción o Unidad V - Los líquidos corporales y los riñones.</p></div>
+        <div class="subjectStats"><span>2 unidades</span><span>1097 preguntas</span><span>PDFs disponibles</span></div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <section id="unitSelect" class="panel hidden">
+    <div class="subjectTop">
+      <div>
+        <h2>Fisiología: elige la unidad</h2>
+        <p>Primero selecciona la unidad que quieres estudiar. Después podrás elegir el capítulo, hacer simulado o revisar tus errores.</p>
+      </div>
+      <div class="menuActions">
+        <button class="btn secondary" onclick="showSubjectSelection()">Volver a áreas</button>
+        <button class="btn secondary" onclick="changeVisitorName()">Cambiar nombre</button>
+      </div>
+    </div>
+    <div id="unitGreeting" class="greetingBox"></div>
+    <div class="subjectGrid unitGrid">
+      <div class="subjectCard" onclick="chooseFisioUnit('fisio_endocrino')">
+        <div><div class="subjectIcon">🧪</div><h3>Unidad XIV</h3><p><b>Endocrinología y reproducción.</b><br>Capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.</p></div>
+        <div class="subjectStats"><span>11 bloques</span><span>747 preguntas</span><span>PDF disponible</span></div>
+      </div>
+      <div class="subjectCard" onclick="chooseFisioUnit('fisio_renal')">
+        <div><div class="subjectIcon">🩺</div><h3>Unidad V</h3><p><b>Los líquidos corporales y los riñones.</b><br>Capítulos 25 al 31, con 50 preguntas por capítulo.</p></div>
+        <div class="subjectStats"><span>7 bloques</span><span>350 preguntas</span><span>PDF disponible</span></div>
       </div>
     </div>
   </section>
@@ -112,9 +138,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>
   <div class="footerNote">Sitio creado por Emmanuel Farias. Banco de cuestiones 4º semestre.</div>
 </div>
-<script src="js/data-loader.js?v=4.1.0"></script>
-<script src="js/storage.js?v=4.1.0"></script>
-<script src="js/simulado.js?v=4.1.0"></script>
-<script src="js/app.js?v=4.1.0"></script>
+<script src="js/data-loader.js?v=4.14.0"></script>
+<script src="js/storage.js?v=4.14.0"></script>
+<script src="js/simulado.js?v=4.14.0"></script>
+<script src="js/app.js?v=4.14.0"></script>
 </body>
 </html>

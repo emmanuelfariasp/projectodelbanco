@@ -2,7 +2,7 @@
   "key": "fisio_cap81_aleatorio",
   "title": "Capítulo 81",
   "subtitle": "Funciones reproductoras y hormonales masculinas",
-  "level": "25 preguntas",
+  "level": "64 preguntas",
   "questions": [
     {
       "id": "fisio_aleatorio_81_01",
@@ -326,6 +326,513 @@
         "Aumenta la capacitación en el epidídimo.",
         "Deteriora la espermatogenia.",
         "Estimula excesivamente la próstata."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_26",
+      "q": "Durante la erección, ¿cuál es el papel del óxido nítrico (NO) liberado por los nervios parasimpáticos?",
+      "exp": "El aumento de cGMP relaja el músculo liso de las arterias peneanas, permitiendo un mayor flujo sanguíneo a los cuerpos cavernosos.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Estimular la contracción del conducto deferente",
+        "Degradar el exceso de testosterona circulante",
+        "Activar la guanililo ciclasa para aumentar el cGMP",
+        "Cerrar el esfínter vesical para evitar la micción"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_27",
+      "q": "¿Qué componente del espermatozoide contiene las enzimas hialuronidasa y proteolíticas necesarias para la penetración del óvulo?",
+      "exp": "El acrosoma es una vesícula en la cabeza del espermatozoide derivada del aparato de Golgi que almacena enzimas líticas.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Núcleo",
+        "Axonema",
+        "Acrosoma",
+        "Cuerpo de la cola"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_28",
+      "q": "¿Cuál es la causa fisiológica por la cual la criptorquidia suele provocar esterilidad?",
+      "exp": "Los testículos requieren una temperatura aproximadamente 2°C inferior a la corporal para que el epitelio tubular no degenere.",
+      "topic": "Capítulo 81",
+      "options": [
+        "La temperatura abdominal es demasiado alta para la espermatogenia",
+        "La falta de estimulación por la hormona luteinizante",
+        "La ausencia de células de Leydig en los testículos abdominales",
+        "La compresión mecánica de los conductos deferentes"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_29",
+      "q": "¿Qué hormona es secretada por las células de Sertoli para inhibir selectivamente la secreción de FSH por la adenohipófisis?",
+      "exp": "La inhibina proporciona una retroalimentación negativa específica para controlar la tasa de espermatogenia sin afectar la LH.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Gonadotropina coriónica",
+        "Somatostatina",
+        "Inhibina",
+        "Testosterona"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_30",
+      "q": "En el contexto de la capacitación espermática, ¿qué cambio permite que la membrana del acrosoma se vuelva más permeable a los iones calcio?",
+      "exp": "Al alejarse de las vesículas de colesterol del semen, la membrana se debilita, aumentando su permeabilidad iónica y facilitando la reacción acrosómica.",
+      "topic": "Capítulo 81",
+      "options": [
+        "La unión inmediata a las proteínas de la zona pelúcida",
+        "La exposición al pH altamente ácido de la vagina",
+        "La pérdida gradual del exceso de colesterol de la membrana",
+        "La liberación masiva de hialuronidasa en el útero"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_31",
+      "q": "¿Cuál es la duración aproximada del proceso completo de la espermatogenia, desde la espermatogonia hasta el espermatozoide maduro?",
+      "exp": "Este período abarca todas las divisiones mitóticas y meióticas, así como la diferenciación final en espermatozoides.",
+      "topic": "Capítulo 81",
+      "options": [
+        "30 días",
+        "74 días",
+        "120 días",
+        "24 días"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_32",
+      "q": "Durante la meiosis II de la espermatogenia, ¿qué células se dividen para formar las espermátides?",
+      "exp": "Los espermatocitos secundarios resultan de la Meiosis I y se dividen en la Meiosis II para reducir la carga genética a células haploides.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Espermatocitos secundarios",
+        "Espermatocitos primarios",
+        "Espermatogonias",
+        "Espermatozoides"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_33",
+      "q": "En el mecanismo de acción de la testosterona, ¿qué enzima es responsable de convertirla en su forma más activa en la próstata?",
+      "exp": "Esta enzima convierte la testosterona en dihidrotestosterona (DHT), la cual tiene una mayor afinidad por los receptores en ciertos tejidos efectores.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Fosfodiesterasa tipo 5",
+        "5α-reductasa",
+        "Aromatasa",
+        "Hialuronidasa"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_34",
+      "q": "¿Qué función cumple la hormona luteinizante (LH) en el sistema reproductor masculino?",
+      "exp": "La LH se une a receptores en las células intersticiales de Leydig, activando la síntesis de testosterona a partir del colesterol.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Inhibe la secreción de GnRH en el hipotálamo",
+        "Induce la conversión de espermátides en espermatozoides",
+        "Promueve la división temprana de las espermatogonias",
+        "Estimula a las células de Leydig para producir testosterona"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_35",
+      "q": "¿Cuál es la función principal de las prostaglandinas secretadas por las vesículas seminales en el proceso de fecundación?",
+      "exp": "Se cree que las prostaglandinas facilitan el transporte espermático al provocar movimientos uterinos y tubáricos hacia los ovarios.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Inducir contracciones peristálticas invertidas en el útero",
+        "Neutralizar la acidez de las secreciones vaginales",
+        "Proporcionar energía en forma de ATP al axonema",
+        "Formar un coágulo de fibrina para retener el semen"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_36",
+      "q": "En el desarrollo fetal, ¿cuál es el estímulo normal que provoca el descenso de los testículos al escroto?",
+      "exp": "La testosterona fetal es esencial para guiar el descenso testicular a través del conducto inguinal en los últimos meses de gestación.",
+      "topic": "Capítulo 81",
+      "options": [
+        "La maduración pulmonar fetal",
+        "La secreción de testosterona por los propios testículos fetales",
+        "La secreción de estrógenos por la placenta materna",
+        "La alta presión intraabdominal del feto en crecimiento"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_37",
+      "q": "¿Qué efecto tiene la testosterona sobre los huesos largos durante la pubertad?",
+      "exp": "A pesar de causar un estirón inicial, la testosterona induce la unión de las epífisis con las diáfisis, limitando la talla final.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Evita la osificación de los cartílagos costales",
+        "Disminuye la densidad mineral ósea",
+        "Provoca el cierre precoz de las epífisis",
+        "Ensancha la salida de la pelvis para facilitar el movimiento"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_38",
+      "q": "¿Cuál es la función de la glándula pineal en relación con la reproducción en animales estacionales?",
+      "exp": "En respuesta a los cambios de luz (fotoperíodo), la melatonina regula los ciclos de fertility inhibiendo el eje hipotálamo-hipofisario.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Secreta melatonina que inhibe la secreción de gonadotropinas",
+        "Estimula directamente la producción de testosterona en invierno",
+        "Convierte la progesterona en estrógenos para iniciar el celo",
+        "Regula el pH del semen mediante señales nerviosas"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_39",
+      "q": "¿Qué cambio ocurre en el óvulo inmediatamente después de la penetración del primer espermatozoide para evitar la polispermia?",
+      "exp": "La entrada de calcio provoca que el ovocito libere gránulos que modifican la zona pelúcida, impidiendo la unión de más espermatozoides.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Contracción rítmica de las trompas de Falopio",
+        "Despolarización total de la membrana mitocondrial del óvulo",
+        "Liberación de gránulos corticales por exocitosis",
+        "Aumento súbito de la temperatura del líquido perivitelino"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_40",
+      "q": "¿Qué porcentaje aproximado del volumen total del semen proviene de las vesículas seminales?",
+      "exp": "Las vesículas seminales aportan la mayor parte del volumen, incluyendo nutrientes como la fructosa y fibrinógeno.",
+      "topic": "Capítulo 81",
+      "options": [
+        "90%",
+        "60%",
+        "30%",
+        "10%"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_41",
+      "q": "En el tratamiento de la disfunción eréctil, ¿cómo actúan los inhibidores de la PDE-5 como el sildenafilo?",
+      "exp": "Al inhibir la enzima fosfodiesterasa 5, se mantienen niveles altos de cGMP, prolongando la relajación del músculo liso vascular.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Bloquean los receptores simpáticos de la próstata",
+        "Estimulan la liberación de óxido nítrico desde los nervios",
+        "Aumentan directamente la secreción de testosterona",
+        "Evitan la degradación del cGMP en el tejido eréctil"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_42",
+      "q": "¿Cuál es la función de la hormona del crecimiento (GH) en la fisiología testicular?",
+      "exp": "La GH es esencial para el control metabólico general y específicamente estimula la proliferación inicial de las células germinales.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Neutraliza el efecto de la inhibina sobre la hipófisis",
+        "Induce el descenso de los testículos durante el feto",
+        "Estimula la contracción de las células mioepiteliales del epidídimo",
+        "Promueve la división temprana de las espermatogonias"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_43",
+      "q": "¿Cuál es el pH promedio del semen eyaculado y qué glándula contribuye principalmente a este valor?",
+      "exp": "El líquido prostático neutraliza la acidez del conducto deferente y de la vagina, facilitando la motilidad espermática.",
+      "topic": "Capítulo 81",
+      "options": [
+        "8.5; debido al moco de las glándulas bulbouretrales",
+        "7.5; debido a la secreción prostática alcalina",
+        "4.5; para igualar el pH de las secreciones vaginales",
+        "6.0; debido al ácido cítrico de las vesículas seminales"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_44",
+      "q": "¿Qué proceso del acto sexual masculino está mediado por los nervios simpáticos que abandonan la médula al nivel de T12 a L2?",
+      "exp": "La emisión implica la contracción de los conductos y glándulas para llevar el semen a la uretra interna bajo control simpático.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Erección",
+        "Emisión",
+        "Lubricación",
+        "Resolución"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_45",
+      "q": "¿Por qué un recuento de espermatozoides inferior a 20 millones/mL suele asociarse con infertilidad, a pesar de que solo se necesita uno para fecundar?",
+      "exp": "Muchos espermatozoides deben liberar sus enzimas para disolver las células de la granulosa antes de que uno pueda alcanzar la zona pelúcida.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Se necesita una gran cantidad de enzimas acrosómicas colectivas para penetrar las capas del óvulo",
+        "La mayoría de los espermatozoides mueren por el pH neutro del semen",
+        "Los anticuerpos femeninos destruyen el 99% de los espermatozoides inmediatamente",
+        "Solo los espermatozoides que viajan en grupos grandes pueden sobrevivir al útero"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_46",
+      "q": "Un tumor de las células germinales que contiene múltiples tejidos como pelo, dientes y hueso se denomina:",
+      "exp": "Dado que las células germinales son pluripotentes, pueden diferenciarse en diversos tipos de tejidos dentro de la masa tumoral.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Arrenoblastoma",
+        "Criptorquidia",
+        "Adenoma prostático",
+        "Teratoma"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_47",
+      "q": "¿Cuál es la función principal del moco secretado por las glándulas uretrales y bulbouretrales durante el acto sexual?",
+      "exp": "Aunque la mayoría proviene de la mujer, este moco ayuda a facilitar el deslizamiento del pene durante la cópula.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Lubricación del coito",
+        "Coagulación inmediata del semen en la uretra",
+        "Aporte de fructosa para los espermatozoides",
+        "Estimular la contracción del músculo isquiocavernoso"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_48",
+      "q": "¿Qué efecto tiene la testosterona sobre la producción de glóbulos rojos (eritrocitos)?",
+      "exp": "Este efecto se debe en parte al aumento de la tasa metabólica basal y posiblemente a un efecto directo en la médula ósea.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Disminuye el hematocrito al aumentar el volumen plasmático",
+        "No tiene ningún efecto sobre la serie roja de la sangre",
+        "Aumenta la cantidad de eritrocitos en un 15-20%",
+        "Provoca anemia por agotamiento de los depósitos de hierro"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_49",
+      "q": "¿En qué lugar se almacenan la mayoría de los espermatozoides manteniendo su fertilidad hasta por un mes?",
+      "exp": "Es el sitio principal de almacenamiento a largo plazo, donde se mantienen en estado de inhibición metabólica.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Conducto deferente",
+        "Vesículas seminales",
+        "Ampolla de la uretra",
+        "Túbulos seminíferos"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_50",
+      "q": "¿Cuál es el papel del fibrinógeno en el semen?",
+      "exp": "El fibrinógeno reacciona con enzimas coagulantes prostáticas para mantener el semen cerca del cuello uterino.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Debilitar la zona pelúcida del óvulo",
+        "Formar un coágulo débil de fibrina tras la eyaculación",
+        "Actuar como factor inhibidor de la capacitación",
+        "Servir como la principal fuente de energía para el flagelo"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_51",
+      "q": "¿Qué ocurre con la espermatogenia en ausencia de estimulación por FSH?",
+      "exp": "La FSH estimula a las células de Sertoli para producir los factores necesarios para la espermiogenia (diferenciación final).",
+      "topic": "Capítulo 81",
+      "options": [
+        "Se detiene la división mitótica de las espermatogonias",
+        "Las células de Leydig dejan de producir testosterona",
+        "No se produce la conversión de espermátides en espermatozoides",
+        "Aumenta la velocidad de maduración en el epidídimo"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_52",
+      "q": "Tras la eyaculación, ¿qué enzima es responsable de disolver el coágulo de fibrina del semen en la vagina?",
+      "exp": "La fibrinolisina, formada a partir de la profibrinolisina prostática, disuelve el coágulo para que los espermatozoides recuperen su movilidad.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Lipasa lipoproteica",
+        "5α-reductasa",
+        "Fibrinolisina",
+        "Hialuronidasa"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_53",
+      "q": "¿Cuál de las siguientes es una característica del eunucoidismo prepuberal?",
+      "exp": "Al no cerrarse las epífisis a tiempo por falta de testosterona, los huesos largos crecen más, aunque son menos robustos.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Huesos más finos y altura mayor que la media",
+        "Voz grave y desarrollo muscular excesivo",
+        "Pérdida de pelo en la parte superior de la cabeza",
+        "Cierre prematuro de las placas de crecimiento óseo"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_54",
+      "q": "¿Qué estructura celular del espermatozoide contiene las mitocondrias que proporcionan ATP para su movimiento?",
+      "exp": "Las mitocondrias se disponen en espiral alrededor de la porción proximal del axonema en el cuerpo de la cola.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Cuerpo de la cola",
+        "Punta del flagelo",
+        "Cabeza",
+        "Acrosoma"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_55",
+      "q": "En el control del eje hipotálamo-hipófisis, ¿cómo es el patrón de secreción de la GnRH?",
+      "exp": "La secreción intermitente es fundamental para prevenir la desensibilización de los receptores en la adenohipófisis.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Estimulado exclusivamente por altos niveles de testosterona",
+        "Únicamente durante las horas de sueño profundo",
+        "Continuo y constante durante las 24 horas",
+        "Pulsátil, cada 1 a 3 horas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_56",
+      "q": "¿Cuál es la función del axonema en el espermatozoide?",
+      "exp": "Está compuesto por 11 microtúbulos que permiten el deslizamiento longitudinal y el movimiento rítmico de la cola.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Proteger al acrosoma del pH vaginal",
+        "Proporcionar el esqueleto estructural para el movimiento flagelar",
+        "Sintetizar ATP mediante la fosforilación oxidativa",
+        "Almacenar los 23 cromosomas del padre"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_57",
+      "q": "En el metabolismo de la testosterona, ¿dónde ocurre principalmente su degradación a androsterona y conjugación con glucurónidos?",
+      "exp": "El hígado es el órgano principal para la inactivación de hormonas esteroideas antes de su excreción biliar o renal.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Riñones",
+        "Hígado",
+        "Células de Sertoli",
+        "Próstata"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_58",
+      "q": "¿Qué factor determina el sexo de la descendencia según el proceso de meiosis?",
+      "exp": "La meiosis reparte los cromosomas sexuales; el óvulo siempre aporta un X, mientras que el espermatozoide aporta X (femenino) o Y (masculino).",
+      "topic": "Capítulo 81",
+      "options": [
+        "Si el óvulo es fecundado por un espermatozoide con cromosoma X o Y",
+        "La cantidad de testosterona presente en el moco cervical",
+        "El pH del tracto genital femenino al momento del coito",
+        "La velocidad de maduración de los espermatocitos primarios"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_59",
+      "q": "¿Qué evento desencadena las señales sensitivas que inician la fase de eyaculación propiamente dicha?",
+      "exp": "La distensión de la uretra envía impulsos al nivel sacro de la médula, provocando contracciones musculares rítmicas.",
+      "topic": "Capítulo 81",
+      "options": [
+        "La visión o pensamiento de contenido sexual",
+        "La liberación de óxido nítrico en los cuerpos cavernosos",
+        "El llenado de la uretra interna por el semen",
+        "La disminución súbita de los niveles de testosterona"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_81_60",
+      "q": "¿Qué sucede con la actividad de los espermatozoides cuando la temperatura aumenta moderadamente (por encima de la normal testicular)?",
+      "exp": "El calor acelera el metabolismo flagelar, agotando las reservas energéticas y provocando una muerte más temprana.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Duplican su vida media en el tracto femenino",
+        "Aumenta la actividad pero se acorta drásticamente la supervivencia",
+        "Se vuelven completamente inmóviles por desnaturalización de proteínas",
+        "Inician la reacción acrosómica de forma espontánea"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_81_61",
+      "q": "¿Cuál es la función del gen SRY presente en el cromosoma Y?",
+      "exp": "La proteína SRY activa una cascada de genes que diferencia la cresta genital en tejido testicular productor de testosterona.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Asegurar que el espermatozoide sea móvil",
+        "Bloquear la secreción de FSH en la vida adulta",
+        "Estimular la producción de vello en la línea alba",
+        "Codificar una proteína que induce la formación de los testículos"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_81_62",
+      "q": "En el mecanismo intracelular de la testosterona, ¿a dónde se traslada el complejo hormona- receptor después de formarse en el citoplasma?",
+      "exp": "El complejo migra al núcleo para unirse a proteínas nucleares e inducir la transcripción de ADN a ARN.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Al núcleo celular",
+        "A las mitocondrias",
+        "Al aparato de Golgi",
+        "A la membrana plasmática externa"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_63",
+      "q": "¿Qué síntoma suele ser el resultado de la hiperplasia benigna de próstata en varones ancianos?",
+      "exp": "El crecimiento excesivo del tejido prostático comprime la uretra, dificultando el flujo de orina desde la vejiga.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Obstrucción urinaria",
+        "Cierre prematuro de las epífisis",
+        "Esterilidad por falta de espermatozoides",
+        "Incapacidad para secretar LH"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_81_64",
+      "q": "¿Qué efecto tiene el sistema parasimpático sobre las arterias del pene durante la erección?",
+      "exp": "La relajación del músculo liso vascular permite que la sangre arterial llene los sinusoides cavernosos a presión.",
+      "topic": "Capítulo 81",
+      "options": [
+        "Contracción del revestimiento fibroso externo",
+        "Aumento de la permeabilidad capilar al fibrinógeno",
+        "Vasodilatación masiva mediada por GMPc",
+        "Vasoconstricción para evitar la pérdida de sangre"
       ],
       "answer": 2
     }

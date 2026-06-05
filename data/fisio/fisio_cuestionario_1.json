@@ -84,7 +84,7 @@
         "el conducto pancreático.",
         "el coloide folicular.",
         "los túbulos colectores renales.",
-        "la circulación linfática intestinal solamente. Cuestionario mixto de Endocrinología - Guyton"
+        "la circulación linfática intestinal solamente."
       ],
       "answer": 0
     },
@@ -168,14 +168,14 @@
         "destrucción permanente de acuaporinas.",
         "bloqueo de adenilato ciclasa y pérdida de agua.",
         "activación de TSH en la tiroides.",
-        "receptores de membrana, AMPc e inserción de acuaporinas en membrana apical. Cuestionario mixto de Endocrinología - Guyton"
+        "receptores de membrana, AMPc e inserción de acuaporinas en membrana apical."
       ],
       "answer": 4
     },
     {
       "id": "fisio_cuestionario_1_013",
       "q": "Si un receptor hormonal se acopla a proteína Gi, el efecto esperado sobre la adenilato ciclasa es:",
-      "exp": "inhibición de la adenilato ciclasa y menor AMPc. Guyton diferencia proteínas G estimuladoras (Gs) e inhibidoras (Gi). Las Gi reducen la actividad de adenilato ciclasa, disminuyendo AMPc y cambiando la respuesta celular. Cuestionario mixto de Endocrinología - Guyton",
+      "exp": "inhibición de la adenilato ciclasa y menor AMPc. Guyton diferencia proteínas G estimuladoras (Gs) e inhibidoras (Gi). Las Gi reducen la actividad de adenilato ciclasa, disminuyendo AMPc y cambiando la respuesta celular.",
       "topic": "Cuestionário 1",
       "options": [
         "activación obligatoria de la fosfolipasa C.",
@@ -252,7 +252,7 @@
         "aumento de la traducción de ARN.",
         "aumento de transcripción nuclear de ADN.",
         "disminución de la degradación proteica.",
-        "aumento del catabolismo de proteínas y aminoácidos. Cuestionario mixto de Endocrinología - Guyton"
+        "aumento del catabolismo de proteínas y aminoácidos."
       ],
       "answer": 4
     },
@@ -350,7 +350,7 @@
         "aumento de TSI en órbitas.",
         "exceso de catecolaminas en piel.",
         "secreción de oxitocina por tiroides.",
-        "acúmulo de gel tisular con ácido hialurónico y sulfato de condroitina, causando edema sin fóvea. Cuestionario mixto de Endocrinología - Guyton"
+        "acúmulo de gel tisular con ácido hialurónico y sulfato de condroitina, causando edema sin fóvea."
       ],
       "answer": 4
     },
@@ -371,7 +371,7 @@
     {
       "id": "fisio_cuestionario_1_027",
       "q": "La neurohipófisis está compuesta principalmente por pituicitos, que:",
-      "exp": "son células de sostén para fibras nerviosas y no secretan las hormonas principales. Los pituicitos se parecen a células gliales y sirven de soporte a fibras y terminaciones nerviosas procedentes de núcleos hipotalámicos. Cuestionario mixto de Endocrinología - Guyton",
+      "exp": "son células de sostén para fibras nerviosas y no secretan las hormonas principales. Los pituicitos se parecen a células gliales y sirven de soporte a fibras y terminaciones nerviosas procedentes de núcleos hipotalámicos.",
       "topic": "Cuestionário 1",
       "options": [
         "son células foliculares que producen T4.",
@@ -434,7 +434,7 @@
         "T3 y T4.",
         "ATP y ADP.",
         "MIT y DIT.",
-        "ADH y oxitocina. Cuestionario mixto de Endocrinología - Guyton"
+        "ADH y oxitocina."
       ],
       "answer": 0
     },
@@ -518,7 +518,7 @@
         "basal externa.",
         "nuclear.",
         "mitocondrial.",
-        "eritrocitaria. Cuestionario mixto de Endocrinología - Guyton"
+        "eritrocitaria."
       ],
       "answer": 0
     },
@@ -581,7 +581,7 @@
     {
       "id": "fisio_cuestionario_1_042",
       "q": "Una ventaja del ELISA frente a métodos radiactivos es que:",
-      "exp": "no utiliza isótopos radiactivos y puede automatizarse en placas. Guyton señala que el ELISA combina especificidad de anticuerpos con detección enzimática, evita radioisótopos y puede automatizarse, por ejemplo, en placas de 96 pocillos. Cuestionario mixto de Endocrinología - Guyton",
+      "exp": "no utiliza isótopos radiactivos y puede automatizarse en placas. Guyton señala que el ELISA combina especificidad de anticuerpos con detección enzimática, evita radioisótopos y puede automatizarse, por ejemplo, en placas de 96 pocillos.",
       "topic": "Cuestionário 1",
       "options": [
         "solo mide hormonas esteroideas.",
@@ -616,7 +616,7 @@
         "se almacena obligatoriamente en el coloide tiroideo.",
         "necesita circular unida a globulina fijadora de tiroxina.",
         "se produce exclusivamente en la neurohipófisis.",
-        "actúa sobre la misma célula que la produjo o sobre células del mismo tipo cercanas. Cuestionario mixto de Endocrinología - Guyton"
+        "actúa sobre la misma célula que la produjo o sobre células del mismo tipo cercanas."
       ],
       "answer": 4
     },
@@ -714,7 +714,7 @@
         "convierte T4 en T3 dentro del núcleo.",
         "secretada por células C reduce calcio.",
         "une T4 en el plasma.",
-        "transporta yoduro a través de la membrana apical hacia el folículo. Cuestionario mixto de Endocrinología - Guyton"
+        "transporta yoduro a través de la membrana apical hacia el folículo."
       ],
       "answer": 4
     },
@@ -777,7 +777,7 @@
     {
       "id": "fisio_cuestionario_1_056",
       "q": "La acromegalia se caracteriza por exceso de GH:",
-      "exp": "después del cierre epifisario, con engrosamiento de huesos y tejidos blandos. Tras la adolescencia, los huesos largos no crecen en longitud, pero huesos membranosos y tejidos blandos pueden aumentar de grosor: mandíbula, cráneo, manos, pies y órganos. Cuestionario mixto de Endocrinología - Guyton",
+      "exp": "después del cierre epifisario, con engrosamiento de huesos y tejidos blandos. Tras la adolescencia, los huesos largos no crecen en longitud, pero huesos membranosos y tejidos blandos pueden aumentar de grosor: mandíbula, cráneo, manos, pies y órganos.",
       "topic": "Cuestionário 1",
       "options": [
         "durante la lactancia por exceso de oxitocina.",
@@ -798,7 +798,7 @@
         "el epitelio faríngeo.",
         "la médula suprarrenal.",
         "las células foliculares tiroideas.",
-        "una evaginación de tejido nervioso del hipotálamo. Cuestionario mixto de Endocrinología - Guyton"
+        "una evaginación de tejido nervioso del hipotálamo."
       ],
       "answer": 4
     },
@@ -896,7 +896,7 @@
         "bloquear todos los canales de agua.",
         "transportar yoduro desde la sangre.",
         "destruir la adenilato ciclasa.",
-        "movilizar calcio desde depósitos intracelulares. Cuestionario mixto de Endocrinología - Guyton"
+        "movilizar calcio desde depósitos intracelulares."
       ],
       "answer": 4
     },
@@ -987,14 +987,14 @@
     {
       "id": "fisio_cuestionario_1_071",
       "q": "El gigantismo ocurre cuando el exceso de GH aparece:",
-      "exp": "antes de la fusión de las epífisis de los huesos largos. Si el tumor acidófilo secretor de GH aparece antes del cierre epifisario, los huesos largos aún pueden crecer en longitud y la persona puede alcanzar talla gigante. Cuestionario mixto de Endocrinología - Guyton",
+      "exp": "antes de la fusión de las epífisis de los huesos largos. Si el tumor acidófilo secretor de GH aparece antes del cierre epifisario, los huesos largos aún pueden crecer en longitud y la persona puede alcanzar talla gigante.",
       "topic": "Cuestionário 1",
       "options": [
         "después de la adolescencia con epífisis cerradas.",
         "antes de la fusión de las epífisis de los huesos largos.",
         "solo en ausencia de somatomedina C.",
         "por falta total de GH en la infancia.",
-        "por déficit de yodo alimentario. Cuestionario mixto de Endocrinología - Guyton"
+        "por déficit de yodo alimentario."
       ],
       "answer": 1
     },
@@ -1092,7 +1092,7 @@
         "diarrea por aumento de motilidad.",
         "TSH siempre indetectable por TSI.",
         "gasto cardíaco aumentado 60%.",
-        "fatiga, somnolencia, bradicardia, estreñimiento y lentitud mental. Cuestionario mixto de Endocrinología - Guyton"
+        "fatiga, somnolencia, bradicardia, estreñimiento y lentitud mental."
       ],
       "answer": 4
     },
@@ -1183,14 +1183,14 @@
     {
       "id": "fisio_cuestionario_1_085",
       "q": "Un ejemplo clásico de retroalimentación positiva mencionado en Guyton es:",
-      "exp": "el aumento de LH estimulado por estrógenos antes de la ovulación. Antes de la ovulación, los estrógenos estimulan la adenohipófisis para liberar más LH; esa LH favorece más producción ovárica de estrógenos, generando un bucle positivo transitorio. Cuestionario mixto de Endocrinología - Guyton",
+      "exp": "el aumento de LH estimulado por estrógenos antes de la ovulación. Antes de la ovulación, los estrógenos estimulan la adenohipófisis para liberar más LH; esa LH favorece más producción ovárica de estrógenos, generando un bucle positivo transitorio.",
       "topic": "Cuestionário 1",
       "options": [
         "la inhibición de TSH por exceso de hormonas tiroideas.",
         "la disminución de GH por somatomedina C.",
         "la inhibición de prolactina por dopamina.",
         "el aumento de LH estimulado por estrógenos antes de la ovulación.",
-        "la reducción de ACTH por cortisol. Cuestionario mixto de Endocrinología - Guyton"
+        "la reducción de ACTH por cortisol."
       ],
       "answer": 3
     },
@@ -1288,7 +1288,7 @@
         "prolactina y producción de leche.",
         "FSH y liberación de agua.",
         "TSH y contracción uterina.",
-        "ACTH y expulsión de leche. Cuestionario mixto de Endocrinología - Guyton"
+        "ACTH y expulsión de leche."
       ],
       "answer": 1
     },
@@ -1372,14 +1372,14 @@
         "pérdida completa de su capacidad de disociarse.",
         "destrucción rápida por enzimas plasmáticas.",
         "excreción directa por el sudor.",
-        "un reservorio circulante y eliminación más lenta. Cuestionario mixto de Endocrinología - Guyton"
+        "un reservorio circulante y eliminación más lenta."
       ],
       "answer": 4
     },
     {
       "id": "fisio_cuestionario_1_099",
       "q": "Son síntomas esperados de hipertiroidismo, excepto:",
-      "exp": "somnolencia extrema de 12 a 14 h diarias. La somnolencia extrema es más propia del hipotiroidismo. En hipertiroidismo predominan excitabilidad, calor, sudoración, pérdida de peso, diarrea, debilidad, nerviosismo, insomnio y temblor. Cuestionario mixto de Endocrinología - Guyton",
+      "exp": "somnolencia extrema de 12 a 14 h diarias. La somnolencia extrema es más propia del hipotiroidismo. En hipertiroidismo predominan excitabilidad, calor, sudoración, pérdida de peso, diarrea, debilidad, nerviosismo, insomnio y temblor.",
       "topic": "Cuestionário 1",
       "options": [
         "intolerancia al calor.",
@@ -1393,14 +1393,14 @@
     {
       "id": "fisio_cuestionario_1_100",
       "q": "La GH favorece el uso de grasas porque:",
-      "exp": "libera ácidos grasos del tejido adiposo y aumenta su uso como energía. La GH moviliza ácidos grasos, aumenta su concentración en líquidos corporales y favorece su conversión a acetil-CoA para obtención de energía. Cuestionario mixto de Endocrinología - Guyton",
+      "exp": "libera ácidos grasos del tejido adiposo y aumenta su uso como energía. La GH moviliza ácidos grasos, aumenta su concentración en líquidos corporales y favorece su conversión a acetil-CoA para obtención de energía.",
       "topic": "Cuestionário 1",
       "options": [
         "impide la conversión de ácidos grasos en acetil-CoA.",
         "bloquea toda lipólisis.",
         "convierte grasa en glucógeno muscular.",
         "libera ácidos grasos del tejido adiposo y aumenta su uso como energía.",
-        "estimula únicamente síntesis de colesterol tiroideo. Cuestionario mixto de Endocrinología - Guyton"
+        "estimula únicamente síntesis de colesterol tiroideo."
       ],
       "answer": 3
     }

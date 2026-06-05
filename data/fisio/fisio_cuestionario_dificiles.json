@@ -1,6 +1,6 @@
 {
   "key": "fisio_cuestionario_dificiles",
-  "title": "Cuestionário dificiles",
+  "title": "Cuestionario difícil",
   "subtitle": "Cuestionario difícil de Endocrinología - Guyton",
   "level": "100 preguntas",
   "questions": [
@@ -70,7 +70,7 @@
         "retroalimentación positiva por amplificación permanente de la señal",
         "organificación hormonal por incorporación de yodo a proteínas",
         "regulación a la baja por pérdida funcional de receptores activos",
-        "transcitosis hormonal por transporte del receptor hacia la sangre Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "transcitosis hormonal por transporte del receptor hacia la sangre"
       ],
       "answer": 3
     },
@@ -168,7 +168,7 @@
         "se activa el transporte axonal de prolactina desde el núcleo supraóptico",
         "la prolactina se convierte en oxitocina dentro de la neurohipófisis",
         "la adenohipófisis deja de depender de vasos porta para todas sus hormonas",
-        "la dopamina estimula directamente la secreción de prolactina en lactótropas Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "la dopamina estimula directamente la secreción de prolactina en lactótropas"
       ],
       "answer": 0
     },
@@ -217,7 +217,7 @@
     {
       "id": "fisio_cuestionario_dificiles_016",
       "q": "Una lesión selectiva impide el transporte porta hipotalámico-hipofisario, pero conserva axones neurohipofisarios. ¿Cuál alteración sería más esperable?",
-      "exp": "menor respuesta adenohipofisaria a hormonas liberadoras hipotalámicas. Cap. 76: la adenohipófisis depende de hormonas liberadoras/inhibidoras que viajan por vasos porta. La neurohipófisis depende sobre todo de transporte axonal. Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82",
+      "exp": "menor respuesta adenohipofisaria a hormonas liberadoras hipotalámicas. Cap. 76: la adenohipófisis depende de hormonas liberadoras/inhibidoras que viajan por vasos porta. La neurohipófisis depende sobre todo de transporte axonal.",
       "topic": "Cuestionário dificiles",
       "options": [
         "menor respuesta adenohipofisaria a hormonas liberadoras hipotalámicas",
@@ -266,7 +266,7 @@
         "prolactina sintetiza leche y oxitocina contrae células mioepiteliales",
         "prolactina concentra orina y oxitocina forma péptido C",
         "prolactina inhibe GnRH y oxitocina aumenta captación de yoduro",
-        "prolactina libera cortisol y oxitocina cierra canales K-ATP Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "prolactina libera cortisol y oxitocina cierra canales K-ATP"
       ],
       "answer": 1
     },
@@ -364,7 +364,7 @@
         "la TBG convierte T4 en TSH activa dentro de la sangre",
         "la fracción unida atraviesa membranas y activa receptores nucleares",
         "la TBG destruye el receptor de T3 para evitar hiperfunción",
-        "la fracción total determina sola la actividad metabólica tisular Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "la fracción total determina sola la actividad metabólica tisular"
       ],
       "answer": 0
     },
@@ -462,14 +462,14 @@
         "conversión obligatoria de aldosterona en cortisol plasmático",
         "inhibición de toda filtración glomerular por potasio elevado",
         "secreción de TSH que reduce reabsorción distal de sodio",
-        "escape de aldosterona por presión arterial elevada y natriuresis renal Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "escape de aldosterona por presión arterial elevada y natriuresis renal"
       ],
       "answer": 4
     },
     {
       "id": "fisio_cuestionario_dificiles_034",
       "q": "En insuficiencia suprarrenal primaria, la hiperpigmentación se relaciona con una molécula precursora común. ¿Cuál es la mejor explicación?",
-      "exp": "aumento de ACTH/POMC con péptidos relacionados a MSH. Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82 Cap. 78: ACTH deriva de POMC, precursor que también origina péptidos con actividad melanocitoestimulante; en Addison primario ACTH aumenta por falta de cortisol.",
+      "exp": "aumento de ACTH/POMC con péptidos relacionados a MSH. Cap. 78: ACTH deriva de POMC, precursor que también origina péptidos con actividad melanocitoestimulante; en Addison primario ACTH aumenta por falta de cortisol.",
       "topic": "Cuestionário dificiles",
       "options": [
         "exceso de aldosterona con activación directa de melanocitos",
@@ -560,7 +560,7 @@
         "hipocalcemia, tetania y aumento de fosfato plasmático",
         "hipoglucemia, cetosis severa y ausencia de sodio urinario",
         "hipopotasemia, alcalosis metabólica y aumento de presión arterial",
-        "hipotiroidismo, mixedema y bradicardia por déficit de TSH Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "hipotiroidismo, mixedema y bradicardia por déficit de TSH"
       ],
       "answer": 3
     },
@@ -658,7 +658,7 @@
         "se forma solo cuando el glucagón se degrada en el hígado",
         "se secreta equimolarmente con insulina al escindirse la proinsulina",
         "se une a TBG y aumenta la semivida de la insulina",
-        "se produce exclusivamente en células alfa durante hipoglucemia Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "se produce exclusivamente en células alfa durante hipoglucemia"
       ],
       "answer": 2
     },
@@ -707,7 +707,7 @@
     {
       "id": "fisio_cuestionario_dificiles_051",
       "q": "La hipocalcemia produce tetania por alterar la excitabilidad neuronal. ¿Cuál mecanismo es más correcto?",
-      "exp": "aumenta permeabilidad neuronal al sodio y facilita potenciales de acción. Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82 Cap. 80: la disminución de calcio extracelular aumenta la permeabilidad neuronal al sodio, facilita descargas espontáneas y causa tetania.",
+      "exp": "aumenta permeabilidad neuronal al sodio y facilita potenciales de acción. Cap. 80: la disminución de calcio extracelular aumenta la permeabilidad neuronal al sodio, facilita descargas espontáneas y causa tetania.",
       "topic": "Cuestionário dificiles",
       "options": [
         "aumenta permeabilidad neuronal al sodio y facilita potenciales de acción",
@@ -756,7 +756,7 @@
         "colesterol, pregnenolona renal y cortisol intestinal",
         "colecalciferol, 25-OH hepático y 1,25-(OH)2 renal activo",
         "PTH, osteocalcina hepática y aldosterona renal",
-        "ergocalciferol, insulina pancreática y glucagón intestinal Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "ergocalciferol, insulina pancreática y glucagón intestinal"
       ],
       "answer": 2
     },
@@ -854,7 +854,7 @@
         "provoca emisión seminal por contracción del conducto deferente",
         "convierte directamente testosterona en aldosterona testicular",
         "bloquea la división meiótica y mantiene espermatogonias fetales",
-        "favorece conversión de espermátides en espermatozoides y soporte germinal Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "favorece conversión de espermátides en espermatozoides y soporte germinal"
       ],
       "answer": 4
     },
@@ -945,14 +945,14 @@
     {
       "id": "fisio_cuestionario_dificiles_068",
       "q": "En el acto sexual masculino, emisión y eyaculación dependen de vías diferentes. ¿Cuál combinación es más precisa?",
-      "exp": "emisión es simpática; expulsión final incluye reflejos motores rítmicos. Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82 Cap. 81: la emisión se relaciona con estímulos simpáticos que desplazan semen a uretra; la eyaculación implica reflejos y contracciones rítmicas de estructuras reproductoras y músculos.",
+      "exp": "emisión es simpática; expulsión final incluye reflejos motores rítmicos. Cap. 81: la emisión se relaciona con estímulos simpáticos que desplazan semen a uretra; la eyaculación implica reflejos y contracciones rítmicas de estructuras reproductoras y músculos.",
       "topic": "Cuestionário dificiles",
       "options": [
         "emisión es parasimpática; erección final depende solo de somatostatina",
         "emisión depende de LH; eyaculación depende de FSH intratesticular",
         "emisión es simpática; expulsión final incluye reflejos motores rítmicos",
         "emisión es tiroidea; expulsión final depende de calcitonina",
-        "emisión es ovárica; eyaculación depende de cuerpo lúteo Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "emisión es ovárica; eyaculación depende de cuerpo lúteo"
       ],
       "answer": 2
     },
@@ -1050,7 +1050,7 @@
         "atrofia completa del endometrio por ausencia de glándulas",
         "queratinización vaginal como único cambio uterino relevante",
         "transformación secretora que prepara el endometrio para implantación",
-        "bloqueo de vasos espirales por ausencia de hormonas ováricas Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "bloqueo de vasos espirales por ausencia de hormonas ováricas"
       ],
       "answer": 3
     },
@@ -1148,7 +1148,7 @@
         "ADH, receptor citosólico y síntesis obligatoria de ADN",
         "aldosterona, receptor intracelular y efecto tardío por proteínas inducidas",
         "T3, receptor de membrana y acción completa en segundos",
-        "glucagón, receptor de tiroglobulina y almacenamiento en coloide Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "glucagón, receptor de tiroglobulina y almacenamiento en coloide"
       ],
       "answer": 2
     },
@@ -1169,7 +1169,7 @@
     {
       "id": "fisio_cuestionario_dificiles_084",
       "q": "¿Cuál situación diferencia mejor diabetes mellitus tipo 1 de diabetes insípida por déficit de ADH?",
-      "exp": "la primera cursa con glucosuria hiperglucémica; la segunda con orina diluida sin glucosa. Caps. 76 y 79: la diabetes mellitus se debe a alteración de insulina/glucosa y puede causar glucosuria; la diabetes insípida por déficit de ADH produce gran volumen de orina diluida. Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82",
+      "exp": "la primera cursa con glucosuria hiperglucémica; la segunda con orina diluida sin glucosa. Caps. 76 y 79: la diabetes mellitus se debe a alteración de insulina/glucosa y puede causar glucosuria; la diabetes insípida por déficit de ADH produce gran volumen de orina diluida.",
       "topic": "Cuestionário dificiles",
       "options": [
         "la primera cursa con TSH alta; la segunda con T3 elevada",
@@ -1246,7 +1246,7 @@
         "ADH y oxitocina",
         "cortisol y progesterona",
         "TSH y FSH",
-        "calcitonina y prolactina Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "calcitonina y prolactina"
       ],
       "answer": 2
     },
@@ -1344,7 +1344,7 @@
         "testosterona normal con espermatozoides móviles y morfología normal",
         "motilidad o morfología espermática anormal pese a cantidad suficiente",
         "capacitación completa con reacción acrosómica eficiente",
-        "pH seminal alcalino con recuento y motilidad preservados Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "pH seminal alcalino con recuento y motilidad preservados"
       ],
       "answer": 2
     },
@@ -1393,14 +1393,14 @@
     {
       "id": "fisio_cuestionario_dificiles_100",
       "q": "¿Cuál escenario representa mejor una hormona con acción rápida por membrana y otra lenta por regulación génica?",
-      "exp": "glucagón vía AMPc hepático y cortisol vía receptor intracelular. Caps. 75, 78 y 79: glucagón es peptídico y actúa por receptores de membrana/AMPc en hígado; cortisol es esteroideo, entra a la célula y regula genes mediante receptor intracelular. Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82",
+      "exp": "glucagón vía AMPc hepático y cortisol vía receptor intracelular. Caps. 75, 78 y 79: glucagón es peptídico y actúa por receptores de membrana/AMPc en hígado; cortisol es esteroideo, entra a la célula y regula genes mediante receptor intracelular.",
       "topic": "Cuestionário dificiles",
       "options": [
         "cortisol vía canal de sodio y glucagón vía elemento de respuesta nuclear",
         "T4 vía exocitosis vesicular y insulina vía tiroglobulina",
         "progesterona vía pendrina y ADH vía receptor de estrógeno",
         "aldosterona vía acrosoma y FSH vía transcortina plasmática",
-        "glucagón vía AMPc hepático y cortisol vía receptor intracelular Cuestionario dificil de Endocrinologia - Guyton caps. 75 a 82"
+        "glucagón vía AMPc hepático y cortisol vía receptor intracelular"
       ],
       "answer": 4
     }

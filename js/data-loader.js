@@ -1,7 +1,7 @@
 // Carga dinámica de preguntas desde archivos JSON separados.
 // V4: Para agregar preguntas, edita los archivos dentro de /data/.
 
-const BANCO_DATA_VERSION = '4.0.0';
+const BANCO_DATA_VERSION = '4.14.0';
 
 async function fetchJSON(path){
   const separator = path.includes('?') ? '&' : '?';

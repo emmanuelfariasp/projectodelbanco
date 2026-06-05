@@ -1,8 +1,8 @@
 {
   "key": "fisio_cap78_aleatorio",
   "title": "Capítulo 78",
-  "subtitle": "Hormonas corticosuprarrenales",
-  "level": "25 preguntas",
+  "subtitle": "Hormonas corticosuprarrenales: corteza suprarrenal, aldosterona, cortisol, ACTH y trastornos relacionados",
+  "level": "64 preguntas",
   "questions": [
     {
       "id": "fisio_aleatorio_78_01",
@@ -328,6 +328,513 @@
         "Control exclusivo por potasio plasmático."
       ],
       "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_26",
+      "q": "¿Cuál es el paso limitante en la síntesis de todas las hormonas esteroideas en la corteza suprarrenal?",
+      "exp": "La escisión inicial del colesterol para formar pregnenolona es el paso que limita la velocidad de la esteroidogénesis suprarrenal.",
+      "topic": "Capítulo 78",
+      "options": [
+        "El transporte de las lipoproteínas de baja densidad (LDL) desde el líquido intersticial.",
+        "La conversión de colesterol en pregnenolona mediada por la enzima colesterol desmolasa.",
+        "La síntesis de novo de colesterol a partir de moléculas de acetato.",
+        "La hidroxilación de la progesterona en la posición C21 por la 21β-hidroxilasa."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_78_27",
+      "q": "¿Por qué el cortisol, aunque puede unirse al receptor mineralocorticoide, normalmente no produce efectos intensos de aldosterona en el riñón?",
+      "exp": "La 11β-HSD2 convierte cortisol en cortisona en células epiteliales renales, evitando la activación excesiva del receptor mineralocorticoide.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Por la acción de la enzima 11β-hidroxiesteroide deshidrogenasa tipo 2 (11β-HSD2).",
+        "Porque el cortisol circula casi totalmente unido a la globulina fijadora de cortisol.",
+        "Porque el cortisol se degrada con mayor rapidez que la aldosterona en el túbulo renal.",
+        "Porque el receptor mineralocorticoide reconoce exclusivamente a la aldosterona."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_28",
+      "q": "¿Cuál es la función principal de la zona glomerular de la corteza suprarrenal?",
+      "exp": "La zona glomerular contiene aldosterona sintetasa y es la capa responsable de producir cantidades importantes de aldosterona.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Sintetizar adrenalina en respuesta a la estimulación nerviosa simpática.",
+        "Producir grandes cantidades de andrógenos como DHEA.",
+        "Regular el metabolismo de carbohidratos mediante cortisol.",
+        "Secretar aldosterona mediante la enzima aldosterona sintetasa."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_78_29",
+      "q": "En el mecanismo genómico de la aldosterona, ¿cuál es el resultado final relacionado con el transporte tubular?",
+      "exp": "La aldosterona induce síntesis de proteínas que aumentan la reabsorción de sodio y la secreción de potasio en células tubulares.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Aumento de proteínas que favorecen la entrada de Na+ por la membrana luminal y la actividad de la Na+/K+-ATPasa basolateral.",
+        "Inhibición del receptor mineralocorticoide por retroalimentación negativa directa.",
+        "Liberación de enzimas lisosómicas para degradar transportadores de glucosa.",
+        "Apertura inmediata de canales de potasio dependientes de voltaje en segundos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_30",
+      "q": "¿Cuál de los siguientes efectos metabólicos es consecuencia directa del exceso de cortisol?",
+      "exp": "El cortisol estimula enzimas gluconeogénicas y moviliza aminoácidos desde tejidos extrahepáticos, elevando la producción hepática de glucosa.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Aumento marcado de la gluconeogenia hepática.",
+        "Disminución de los ácidos grasos libres en plasma.",
+        "Aumento de síntesis proteica en músculo esquelético.",
+        "Mayor sensibilidad periférica a la insulina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_31",
+      "q": "¿Qué fenómeno explica que la excreción renal de sodio vuelva a la normalidad a pesar de niveles altos persistentes de aldosterona?",
+      "exp": "El aumento de presión arterial produce natriuresis y diuresis por presión, compensando la retención inicial de sodio y agua.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Retroalimentación negativa directa de la angiotensina II.",
+        "Efecto permisivo de la ACTH.",
+        "Síndrome de exceso mineralocorticoide aparente.",
+        "Escape de aldosterona."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_78_32",
+      "q": "En el transporte plasmático, ¿qué proporción aproximada de cortisol circula libre y cuál es su semivida?",
+      "exp": "El 90-95% del cortisol se une a transcortina y albúmina; por eso solo una fracción pequeña circula libre y la semivida es relativamente larga.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Aproximadamente 5-10% libre, con semivida de 60-90 minutos.",
+        "El 100% unido a eritrocitos, con semivida de varias horas.",
+        "Cerca del 40% libre, con semivida de 20 minutos.",
+        "Alrededor del 95% libre, con acción inmediata en segundos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_33",
+      "q": "¿Qué efecto antiinflamatorio ejerce el cortisol sobre los lisosomas?",
+      "exp": "La estabilización de las membranas lisosómicas disminuye la liberación de enzimas que amplifican el daño tisular durante la inflamación.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Aumenta la permeabilidad lisosómica para facilitar apoptosis celular.",
+        "Promueve la migración lisosómica para secretar interleucina 1.",
+        "Estabiliza las membranas lisosómicas y reduce la liberación de enzimas proteolíticas.",
+        "Estimula la formación de nuevos lisosomas para fagocitar bacterias."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_34",
+      "q": "¿Cuál es la causa principal de la hiperpigmentación melánica en la enfermedad de Addison?",
+      "exp": "Cuando falta cortisol, aumenta ACTH; por su relación con derivados de POMC/MSH, se estimula la producción de melanina.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Aumento de ACTH y de péptidos relacionados con MSH que estimulan melanocitos.",
+        "Acumulación de precursores de colesterol en las capas superficiales de la piel.",
+        "Aumento de cortisol que estimula directamente melanóforos.",
+        "Ataque autoinmunitario directo contra las células de la dermis."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_35",
+      "q": "¿Cómo ayuda la prueba con dexametasona a diferenciar síndrome de Cushing dependiente de ACTH de uno independiente?",
+      "exp": "En tumores suprarrenales primarios la secreción de cortisol es autónoma y la ACTH suele estar baja; en enfermedad hipofisaria puede existir cierta supresión con dosis altas.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Solo mide excreción de sodio, no niveles hormonales.",
+        "Dosis bajas de dexametasona suprimen siempre los adenomas hipofisarios.",
+        "Dosis altas pueden suprimir la ACTH en enfermedad hipofisaria, pero no en tumores suprarrenales autónomos.",
+        "La dexametasona eleva el cortisol solo en tumores ectópicos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_36",
+      "q": "A partir del precursor POMC, ¿qué efecto tiene la prohormona convertasa 2 (PC2) en neuronas hipotalámicas?",
+      "exp": "El procesamiento de POMC depende del tejido; en neuronas hipotalámicas la PC2 favorece derivados como MSH y β-endorfina.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Favorece la formación de péptidos como α-MSH, β-MSH, γ-MSH y β-endorfina.",
+        "Genera exclusivamente ACTH funcional para el sistema porta hipofisario.",
+        "Inactiva la corticoliberina para frenar la adenohipófisis.",
+        "Convierte pregnenolona en deshidroepiandrosterona."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_37",
+      "q": "¿Cuál es la consecuencia cardiovascular más peligrosa de una deficiencia total de mineralocorticoides?",
+      "exp": "Sin aldosterona se pierden NaCl y agua por el riñón, disminuye el volumen extracelular y puede aparecer shock en pocos días.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Hipertensión maligna por activación compensatoria del sistema renina-angiotensina.",
+        "Shock circulatorio por disminución intensa del líquido extracelular, volemia y gasto cardíaco.",
+        "Bradicardia extrema causada por hipopotasemia severa.",
+        "Aumento persistente del gasto cardíaco para compensar anemia perniciosa."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_78_38",
+      "q": "¿Cómo afecta el exceso de cortisol al transporte de glucosa en el músculo esquelético?",
+      "exp": "El cortisol antagoniza la acción de la insulina en tejidos periféricos y contribuye a hiperglucemia o diabetes suprarrenal.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Promueve depósito masivo de glucógeno muscular como efecto principal.",
+        "Estimula GLUT-1 para asegurar energía durante estrés agudo.",
+        "Disminuye la acción de la insulina y reduce la captación periférica de glucosa.",
+        "Aumenta la fosforilación de glucosa para acelerar glucólisis anaerobia."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_39",
+      "q": "¿Cuál es la función de la transcortina en la fisiología de los glucocorticoides?",
+      "exp": "La globulina fijadora del cortisol transporta gran parte del cortisol y reduce fluctuaciones rápidas de la fracción libre.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Es el receptor intracelular que media la transcripción génica.",
+        "Actúa como reservorio y amortigua cambios rápidos del cortisol libre.",
+        "Facilita la entrada del cortisol al sistema porta hipofisario.",
+        "Degrada el cortisol en metabolitos inactivos en el hígado."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_78_40",
+      "q": "En el síndrome de Conn, ¿qué hallazgo analítico es característico por retroalimentación negativa?",
+      "exp": "El exceso primario de aldosterona expande volumen y suprime la secreción de renina por el aparato yuxtaglomerular.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Aumento importante de angiotensina II.",
+        "Elevación extrema de ACTH hipofisaria.",
+        "Descenso marcado de renina plasmática.",
+        "Hiponatremia severa con acidosis metabólica."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_41",
+      "q": "¿Cuál es la función de la proteína cinasa A (PKA) en la señalización de la ACTH?",
+      "exp": "La ACTH actúa por AMPc/PKA y estimula pasos iniciales de la esteroidogénesis, incluido el paso limitante colesterol -> pregnenolona.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Fosforilar el receptor mineralocorticoide para impedir la unión de aldosterona.",
+        "Transportar aminoácidos hacia el interior del hepatocito.",
+        "Degradar el AMPc para finalizar la señal.",
+        "Activar procesos enzimáticos que favorecen la conversión de colesterol en pregnenolona."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_78_42",
+      "q": "¿Por qué los pacientes con enfermedad de Addison pueden presentar debilidad muscular intensa?",
+      "exp": "El cortisol ayuda a mantener la movilización energética y la función metabólica; su déficit favorece debilidad y fatiga.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Por depósito de calcio en fibras musculares lisas.",
+        "Por policitemia severa que dificulta el flujo periférico.",
+        "Por acumulación excesiva de glucógeno en músculo esquelético.",
+        "Por pérdida de efectos metabólicos de los glucocorticoides necesarios para la función tisular."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_78_43",
+      "q": "¿Cuál es la latencia típica para observar el efecto máximo de la aldosterona?",
+      "exp": "La aldosterona actúa sobre receptores intracelulares y requiere síntesis proteica; por eso el efecto máximo tarda horas.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Pocos segundos, por segundos mensajeros como fosfatidilinositol.",
+        "Menos de un minuto, por unión directa a ENaC.",
+        "Aproximadamente 20 minutos, igual a su semivida.",
+        "Varias horas, por transcripción y síntesis de nuevas proteínas."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_78_44",
+      "q": "¿Qué ocurre con el nitrógeno corporal total bajo concentraciones crónicamente elevadas de cortisol?",
+      "exp": "El cortisol moviliza proteínas periféricas hacia aminoácidos que se usan en hígado, agotando proteínas corporales y aumentando pérdida de nitrógeno.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Disminuye la excreción de urea por retención de aminoácidos en músculo.",
+        "Aparece balance nitrogenado positivo por aumento de proteínas plasmáticas.",
+        "Se produce balance nitrogenado negativo por catabolismo proteico extrahepático.",
+        "Permanece estable por compensación de hormona del crecimiento."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_45",
+      "q": "¿Cuál es el papel del CRF o corticoliberina en el eje hipotálamo-hipófisis-suprarrenal?",
+      "exp": "La corticoliberina hipotalámica se libera al sistema porta hipofisario y estimula células corticótropas para secretar ACTH.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Inhibe la ACTH cuando el estrés es elevado.",
+        "Viaja por sangre general para activar receptores de cortisol en hígado.",
+        "Se secreta en el hipotálamo y llega a la adenohipófisis para estimular ACTH.",
+        "Se libera por la zona reticular para inhibir al hipocampo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_46",
+      "q": "¿Qué efecto tiene el cortisol sobre la permeabilidad capilar durante la inflamación?",
+      "exp": "El cortisol reduce la permeabilidad capilar, lo que disminuye edema y salida de líquido durante la inflamación.",
+      "topic": "Capítulo 78",
+      "options": [
+        "La aumenta para que los anticuerpos lleguen más rápido al tejido.",
+        "No tiene efecto; solo estabiliza eritrocitos.",
+        "La reduce y disminuye la salida de plasma hacia los tejidos.",
+        "Rompe capilares para inducir eritema localizado."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_47",
+      "q": "En relación con los andrógenos suprarrenales, ¿cuál es uno de los más importantes y cuál es su destino periférico?",
+      "exp": "La corteza suprarrenal secreta andrógenos débiles como DHEA, que pueden transformarse en andrógenos más activos en tejidos periféricos.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Progesterona, que se convierte en cortisol dentro de la médula suprarrenal.",
+        "Testosterona, secretada directamente en gran cantidad por zona glomerular.",
+        "Deshidroepiandrosterona (DHEA), que puede convertirse en testosterona en tejidos extrasuprarrenales.",
+        "Androstenodiona, que viaja al núcleo paraventricular para regular apetito."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_48",
+      "q": "¿Cuál afirmación sobre el mecanismo de acción del cortisol es correcta?",
+      "exp": "Como esteroide liposoluble, el cortisol atraviesa la membrana, se une a receptores citoplasmáticos y modula expresión génica.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Se une a receptores intracelulares y el complejo regula la transcripción génica en el ADN.",
+        "Necesita activar adenilato ciclasa para entrar al núcleo.",
+        "Su receptor se localiza permanentemente en la membrana mitocondrial externa.",
+        "Actúa exclusivamente por receptores de membrana acoplados a proteína G."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_49",
+      "q": "¿Qué efecto tiene el exceso de cortisol sobre el recuento de células sanguíneas?",
+      "exp": "El exceso de glucocorticoides suele disminuir eosinófilos y linfocitos, y este efecto puede usarse como indicador de hiperproducción.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Reduce eosinófilos y linfocitos en la sangre.",
+        "Causa anemia severa por inhibición de eritrocitos.",
+        "Incrementa masivamente anticuerpos por tejido linfático.",
+        "Aumenta la migración leucocitaria hacia zonas de traumatismo."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_50",
+      "q": "¿Cuál es la función de la prohormona convertasa 1 (PC1) en las células corticótropas de la hipófisis?",
+      "exp": "El procesamiento de POMC por PC1 en células corticótropas genera ACTH junto con otros péptidos derivados.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Convertir cortisol en cortisona para evitar retroalimentación excesiva.",
+        "Inhibir la liberación de CRF en respuesta a endorfinas.",
+        "Sintetizar α-MSH a partir de ACTH para pigmentar localmente la piel.",
+        "Procesar POMC para generar ACTH y otros péptidos derivados."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_78_51",
+      "q": "En condiciones de estrés crónico, ¿cómo se afecta el ritmo circadiano de secreción de cortisol?",
+      "exp": "El estrés puede aumentar la liberación de CRF/ACTH y cortisol, superponiéndose al patrón circadiano normal.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Se vuelve idéntico al ritmo de aldosterona y depende solo del potasio.",
+        "Los estímulos estresantes predominan y mantienen elevada la secreción.",
+        "La secreción se detiene por agotamiento de la zona fascicular.",
+        "El pico matutino se desplaza siempre hacia la medianoche."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_78_52",
+      "q": "¿Qué ocurre con la excreción de H+ ante un exceso de aldosterona?",
+      "exp": "La aldosterona estimula la secreción de H+ en células intercaladas y puede generar alcalosis metabólica leve.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Disminuye para compensar pérdida renal de bicarbonato.",
+        "Aumenta la secreción tubular de H+ y favorece alcalosis metabólica.",
+        "Se bloquea para permitir reabsorción de cloruro sódico.",
+        "No cambia porque la aldosterona solo actúa sobre sodio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_78_53",
+      "q": "¿Cuál es la relación entre cortisol y utilización de grasas como fuente de energía?",
+      "exp": "El cortisol moviliza ácidos grasos desde tejido adiposo, lo que ayuda a ahorrar glucosa durante ayuno o estrés.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Reduce ácidos grasos libres para prevenir cetosis diabética.",
+        "Moviliza ácidos grasos del tejido adiposo y favorece su utilización energética.",
+        "Inhibe la lipólisis para que el cerebro use solo cuerpos cetónicos.",
+        "Convierte ácidos grasos en aminoácidos para síntesis proteica hepática."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_78_54",
+      "q": "¿Qué manifestación es característica del síndrome adrenogenital en mujeres?",
+      "exp": "El exceso de andrógenos suprarrenales en mujeres produce virilización, con aparición de caracteres masculinos.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Pérdida total de vello axilar y púbico por atrofia suprarrenal.",
+        "Hipoglucemia severa entre comidas por ausencia de gluconeogenia.",
+        "Virilización con crecimiento de barba, voz grave y otros rasgos masculinos.",
+        "Estrías purpúreas y debilidad ósea extrema como dato exclusivo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_55",
+      "q": "Además de la angiotensina II, ¿qué cambio iónico estimula de forma potente la secreción de aldosterona?",
+      "exp": "El aumento de K+ extracelular estimula directamente la zona glomerular y aumenta la secreción de aldosterona.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Disminución de angiotensina II.",
+        "Aumento de sodio plasmático.",
+        "Aumento de potasio en el líquido extracelular.",
+        "Secreción de adrenalina por la médula suprarrenal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_56",
+      "q": "¿Qué porcentaje aproximado del colesterol utilizado por la corteza suprarrenal procede de LDL plasmáticas?",
+      "exp": "Guyton describe que cerca del 80% del colesterol usado en esteroidogénesis suprarrenal procede de LDL plasmáticas.",
+      "topic": "Capítulo 78",
+      "options": [
+        "100%, porque la corteza no sintetiza colesterol.",
+        "Menos del 5%, porque la síntesis de novo es la fuente principal.",
+        "Alrededor del 80%.",
+        "Exactamente 50%, equilibrado con HDL."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_57",
+      "q": "¿Cuál es la función del complejo aldosterona-receptor dentro del núcleo celular?",
+      "exp": "El complejo aldosterona-receptor actúa como regulador de transcripción y promueve proteínas implicadas en transporte iónico.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Unirse a ribosomas para acelerar proteínas contráctiles.",
+        "Inducir síntesis de ARNm relacionado con transporte de sodio y potasio.",
+        "Catalizar directamente ADP en ATP.",
+        "Bloquear replicación del ADN para evitar hiperplasia suprarrenal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_78_58",
+      "q": "¿Qué ocurre con los depósitos de proteínas celulares ante un gran exceso de cortisol?",
+      "exp": "El cortisol moviliza aminoácidos desde tejidos periféricos hacia el hígado; por eso reduce proteínas celulares extrahepáticas.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Se transforman directamente en tejido adiposo dentro del miocito.",
+        "Disminuyen en casi todas las células del organismo, excepto en el hígado.",
+        "Se mantienen estables si hay consumo adecuado de carbohidratos.",
+        "Aumentan globalmente para preparar al cuerpo para ejercicio intenso."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_78_59",
+      "q": "¿Cuál es el efecto de la aldosterona sobre glándulas sudoríparas y salivales?",
+      "exp": "La aldosterona ayuda a conservar sal en sudor y saliva al aumentar reabsorción de cloruro sódico y secreción de potasio.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Estimula pérdida fecal de potasio para mantener el equilibrio osmótico.",
+        "Aumenta reabsorción de NaCl y favorece secreción de K+ en sus conductos.",
+        "Produce secreción primaria muy rica en sodio y pobre en agua.",
+        "Inhibe completamente la producción de sudor."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_78_60",
+      "q": "¿Cómo se transporta la mayor parte de la aldosterona en el plasma?",
+      "exp": "La aldosterona se une menos a proteínas que el cortisol: cerca de 60% unida y 40% libre, con semivida más corta.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Cerca del 60% unida a proteínas plasmáticas y alrededor del 40% libre.",
+        "Unida a hemoglobina para regular afinidad por oxígeno.",
+        "Disuelta en el citoplasma eritrocitario como complejo lipídico.",
+        "Unida exclusivamente a transcortina en un 95%."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_61",
+      "q": "Según Guyton, ¿qué mecanismo puede contribuir a que el cortisol favorezca la resolución de una inflamación?",
+      "exp": "Uno de los mecanismos propuestos es que el cortisol moviliza aminoácidos y los hace disponibles para reparación de tejidos dañados.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Inhibir la síntesis de glucosa para forzar el uso de lactato.",
+        "Estimular la liberación masiva de histamina en la lesión.",
+        "Movilizar aminoácidos que pueden utilizarse en procesos de reparación tisular.",
+        "Aumentar la fiebre para inactivar bacterias termolábiles."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_78_62",
+      "q": "¿Cuál es la función del núcleo paraventricular del hipotálamo en el eje suprarrenal?",
+      "exp": "El núcleo paraventricular participa en la liberación de CRF, que estimula la secreción adenohipofisaria de ACTH.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Inhibir adrenalina mediante proyecciones directas a la médula.",
+        "Contener neuronas que secretan CRF hacia el sistema porta hipofisario.",
+        "Actuar como sitio primario de retroalimentación positiva para cortisol.",
+        "Sintetizar ACTH directamente durante el sueño profundo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_78_63",
+      "q": "¿Qué alteración metabólica caracteriza a la llamada \"diabetes suprarrenal\"?",
+      "exp": "El exceso de cortisol puede elevar la glucosa y reducir la sensibilidad a la insulina, produciendo un cuadro parecido a diabetes.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Hiperglucemia con resistencia de los tejidos a los efectos de la insulina.",
+        "Hipoglucemia intensa por glucosa plasmática menor de 50 mg/dl.",
+        "Destrucción autoinmunitaria primaria de las células beta pancreáticas.",
+        "Ausencia de gluconeogenia hepática por agotamiento enzimático."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_78_64",
+      "q": "¿Cuál es el destino metabólico de aproximadamente el 25% de los esteroides suprarrenales degradados?",
+      "exp": "Tras metabolizarse en el hígado y conjugarse, cerca de una cuarta parte se elimina por la bilis y por las heces.",
+      "topic": "Capítulo 78",
+      "options": [
+        "Regresan a la zona glomerular para reutilizarse.",
+        "Son captados por melanocitos para sintetizar pigmento.",
+        "Se filtran en el glomérulo y se reabsorben totalmente.",
+        "Se eliminan por la bilis y luego por las heces."
+      ],
+      "answer": 3
     }
   ]
 }

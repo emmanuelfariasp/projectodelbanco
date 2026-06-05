@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap30",
+  "title": "Capítulo 30",
+  "subtitle": "Potasio, calcio, fosfato, magnesio y volumen",
+  "questions": [
+    {
+      "id": "fisio_renal_cap30_001",
+      "q": "Sobre K normal, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La concentración extracelular de potasio se mantiene cerca de 4,2 mEq/l.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "La concentración extracelular de potasio se mantiene cerca de 4,2 mEq/l.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "ANP se libera por hipovolemia intensa y retiene sodio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_002",
+      "q": "Sobre K cardiaco, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Pequeños aumentos de potasio pueden causar arritmias y paro cardíaco.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "Pequeños aumentos de potasio pueden causar arritmias y paro cardíaco.",
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "PTH disminuye reabsorción renal de calcio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_003",
+      "q": "Sobre K intracelular, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Más del 98% del potasio corporal total está dentro de las células.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "Más del 98% del potasio corporal total está dentro de las células."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_004",
+      "q": "Sobre K extracelular, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Solo una fracción pequeña del potasio corporal está en el líquido extracelular.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "Solo una fracción pequeña del potasio corporal está en el líquido extracelular.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "Las células principales reabsorben potasio mediante SGLT2."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_005",
+      "q": "Sobre primera defensa K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La redistribución celular del potasio amortigua cambios rápidos del potasio plasmático.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "La redistribución celular del potasio amortigua cambios rápidos del potasio plasmático.",
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "PTH aumenta reabsorción renal de fosfato."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_006",
+      "q": "Sobre insulina K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Insulina estimula captación de potasio por las células después de una comida.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "PTH aumenta reabsorción renal de fosfato.",
+        "PTH disminuye reabsorción renal de calcio.",
+        "Insulina estimula captación de potasio por las células después de una comida.",
+        "ANP se libera por hipovolemia intensa y retiene sodio."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_007",
+      "q": "Sobre deficit insulina, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La deficiencia de insulina favorece aumento de potasio extracelular.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La deficiencia de insulina favorece aumento de potasio extracelular.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "Insulina saca potasio de las células después de una comida.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "Las células principales reabsorben potasio mediante SGLT2."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_008",
+      "q": "Sobre aldosterona K celular, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Aldosterona favorece captación celular de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "Aldosterona favorece captación celular de potasio.",
+        "La mayor parte del potasio corporal está en el líquido extracelular.",
+        "PTH disminuye reabsorción renal de calcio.",
+        "Las células principales reabsorben potasio mediante SGLT2."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_009",
+      "q": "Sobre Addison K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Deficiencia de aldosterona en Addison favorece hiperpotasemia.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "Deficiencia de aldosterona en Addison favorece hiperpotasemia.",
+        "Insulina saca potasio de las células después de una comida.",
+        "La mayor parte del potasio corporal está en el líquido extracelular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_010",
+      "q": "Sobre Conn K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Exceso de aldosterona puede producir hipopotasemia.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "Exceso de aldosterona puede producir hipopotasemia.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "PTH aumenta reabsorción renal de fosfato.",
+        "El aumento de flujo tubular distal reduce secreción de potasio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_011",
+      "q": "Sobre beta adrenergico, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El estímulo beta-adrenérgico aumenta captación celular de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El estímulo beta-adrenérgico aumenta captación celular de potasio.",
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "PTH disminuye reabsorción renal de calcio.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "ANP se libera por hipovolemia intensa y retiene sodio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_012",
+      "q": "Sobre beta bloqueo, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El beta-bloqueo puede favorecer salida de potasio y tendencia a hiperpotasemia.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "PTH aumenta reabsorción renal de fosfato.",
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "El beta-bloqueo puede favorecer salida de potasio y tendencia a hiperpotasemia."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_013",
+      "q": "Sobre acidosis K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La acidosis metabólica aumenta potasio extracelular por menor captación celular.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La acidosis metabólica aumenta potasio extracelular por menor captación celular.",
+        "PTH aumenta reabsorción renal de fosfato.",
+        "Insulina saca potasio de las células después de una comida.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "La acidosis metabólica reduce siempre el potasio extracelular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_014",
+      "q": "Sobre alcalosis K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La alcalosis metabólica reduce potasio extracelular.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "PTH aumenta reabsorción renal de fosfato.",
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "La alcalosis metabólica reduce potasio extracelular.",
+        "El aumento de flujo tubular distal reduce secreción de potasio."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_015",
+      "q": "Sobre lisis celular, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La lisis celular libera potasio intracelular al líquido extracelular.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La lisis celular libera potasio intracelular al líquido extracelular.",
+        "La mayor parte del potasio corporal está en el líquido extracelular.",
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "Aldosterona disminuye la secreción renal de potasio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_016",
+      "q": "Sobre ejercicio, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El ejercicio extenuante libera potasio desde músculo esquelético.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "El ejercicio extenuante libera potasio desde músculo esquelético.",
+        "PTH aumenta reabsorción renal de fosfato."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_017",
+      "q": "Sobre osmolaridad K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La hiperosmolaridad extracelular saca agua de células y favorece salida de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "Insulina saca potasio de las células después de una comida.",
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "La hiperosmolaridad extracelular saca agua de células y favorece salida de potasio.",
+        "PTH aumenta reabsorción renal de fosfato."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_018",
+      "q": "Sobre excrecion renal K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La excreción renal de potasio resulta de filtración, reabsorción y secreción.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "La excreción renal de potasio resulta de filtración, reabsorción y secreción.",
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "El aumento de flujo tubular distal reduce secreción de potasio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_019",
+      "q": "Sobre filtracion K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La carga filtrada de potasio depende de FG y potasio plasmático.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La carga filtrada de potasio depende de FG y potasio plasmático.",
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "Las células principales reabsorben potasio mediante SGLT2."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_020",
+      "q": "Sobre proximal K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El túbulo proximal reabsorbe alrededor de 65% del potasio filtrado.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "Insulina saca potasio de las células después de una comida.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "El túbulo proximal reabsorbe alrededor de 65% del potasio filtrado."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_021",
+      "q": "Sobre asa K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El asa de Henle reabsorbe cerca de 25-30% del potasio filtrado.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El asa de Henle reabsorbe cerca de 25-30% del potasio filtrado.",
+        "PTH aumenta reabsorción renal de fosfato.",
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "El volumen extracelular depende principalmente del potasio intracelular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_022",
+      "q": "Sobre distal K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La regulación diaria del potasio ocurre sobre todo en distal tardío y colector cortical.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "La regulación diaria del potasio ocurre sobre todo en distal tardío y colector cortical.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_023",
+      "q": "Sobre principal celula, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Las células principales son el sitio clave de secreción de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "PTH disminuye reabsorción renal de calcio.",
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "Insulina saca potasio de las células después de una comida.",
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "Las células principales son el sitio clave de secreción de potasio."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_024",
+      "q": "Sobre secrecion K pasos, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La secreción de K+ inicia con captación basolateral por Na-K-ATPasa y salida luminal por canales.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "Insulina saca potasio de las células después de una comida.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "La mayor parte del potasio corporal está en el líquido extracelular.",
+        "La secreción de K+ inicia con captación basolateral por Na-K-ATPasa y salida luminal por canales."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_025",
+      "q": "Sobre ROMK BK, señale la alternativa correcta según el capítulo 30.",
+      "exp": "ROMK y BK son canales luminales importantes para secreción de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "ROMK y BK son canales luminales importantes para secreción de potasio.",
+        "Insulina saca potasio de las células después de una comida.",
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "PTH disminuye reabsorción renal de calcio.",
+        "PTH aumenta reabsorción renal de fosfato."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_026",
+      "q": "Sobre K extracelular secrecion, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El aumento de potasio extracelular estimula directamente secreción tubular de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "El aumento de potasio extracelular estimula directamente secreción tubular de potasio.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "Insulina saca potasio de las células después de una comida."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_027",
+      "q": "Sobre K y aldosterona, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El aumento de potasio extracelular estimula secreción de aldosterona.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El aumento de potasio extracelular estimula secreción de aldosterona.",
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "PTH disminuye reabsorción renal de calcio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_028",
+      "q": "Sobre aldosterona secrecion K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Aldosterona aumenta Na-K-ATPasa y canales luminales de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "PTH disminuye reabsorción renal de calcio.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "Aldosterona aumenta Na-K-ATPasa y canales luminales de potasio.",
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "ANP se libera por hipovolemia intensa y retiene sodio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_029",
+      "q": "Sobre flujo tubular K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El aumento de flujo tubular distal aumenta secreción de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "El aumento de flujo tubular distal aumenta secreción de potasio.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "La acidosis metabólica reduce siempre el potasio extracelular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_030",
+      "q": "Sobre acidosis secrecion K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La acidosis reduce la secreción distal de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "Insulina saca potasio de las células después de una comida.",
+        "La acidosis reduce la secreción distal de potasio.",
+        "Aldosterona disminuye la secreción renal de potasio."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_031",
+      "q": "Sobre intercalada A, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Las células intercaladas tipo A reabsorben potasio durante depleción de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "PTH disminuye reabsorción renal de calcio.",
+        "Las células intercaladas tipo A reabsorben potasio durante depleción de potasio.",
+        "Insulina saca potasio de las células después de una comida.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_032",
+      "q": "Sobre intercalada B, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Las células intercaladas tipo B pueden secretar potasio durante exceso corporal.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "Insulina saca potasio de las células después de una comida.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "Las células intercaladas tipo B pueden secretar potasio durante exceso corporal.",
+        "El volumen extracelular depende principalmente del potasio intracelular."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_033",
+      "q": "Sobre H K ATPasa, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La H-K-ATPasa participa en reabsorción de potasio en células intercaladas tipo A.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "La mayor parte del potasio corporal está en el líquido extracelular.",
+        "La H-K-ATPasa participa en reabsorción de potasio en células intercaladas tipo A.",
+        "PTH disminuye reabsorción renal de calcio.",
+        "Aldosterona disminuye la secreción renal de potasio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_034",
+      "q": "Sobre diureticos K, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Diuréticos con mayor entrega distal de sodio pueden aumentar secreción de potasio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "Diuréticos con mayor entrega distal de sodio pueden aumentar secreción de potasio.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "Insulina saca potasio de las células después de una comida.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_035",
+      "q": "Sobre calcio renal, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El calcio filtrable se reabsorbe en túbulos y es regulado por PTH.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "El calcio filtrable se reabsorbe en túbulos y es regulado por PTH.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "El volumen extracelular depende principalmente del potasio intracelular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_036",
+      "q": "Sobre PTH calcio, señale la alternativa correcta según el capítulo 30.",
+      "exp": "PTH aumenta reabsorción renal de calcio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "PTH aumenta reabsorción renal de calcio.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "Insulina saca potasio de las células después de una comida.",
+        "PTH aumenta reabsorción renal de fosfato."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_037",
+      "q": "Sobre PTH vitamina D, señale la alternativa correcta según el capítulo 30.",
+      "exp": "PTH estimula formación renal de calcitriol.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "PTH estimula formación renal de calcitriol.",
+        "La mayor parte del potasio corporal está en el líquido extracelular.",
+        "PTH aumenta reabsorción renal de fosfato."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_038",
+      "q": "Sobre fosfato renal, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La excreción renal de fosfato aumenta cuando PTH reduce su reabsorción.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La excreción renal de fosfato aumenta cuando PTH reduce su reabsorción.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "La mayor parte del potasio corporal está en el líquido extracelular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_039",
+      "q": "Sobre PTH fosfato, señale la alternativa correcta según el capítulo 30.",
+      "exp": "PTH disminuye reabsorción proximal de fosfato.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "La mayor parte del potasio corporal está en el líquido extracelular.",
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "PTH disminuye reabsorción proximal de fosfato."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_040",
+      "q": "Sobre magnesio renal, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El riñón ajusta reabsorción de magnesio para mantener balance.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "El riñón ajusta reabsorción de magnesio para mantener balance.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "PTH aumenta reabsorción renal de fosfato.",
+        "PTH disminuye reabsorción renal de calcio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_041",
+      "q": "Sobre volumen LEC, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El volumen extracelular depende principalmente del contenido total de sodio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "El volumen extracelular depende principalmente del contenido total de sodio.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "Las células principales reabsorben potasio mediante SGLT2."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_042",
+      "q": "Sobre sodio agua, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El agua acompaña osmóticamente a cambios en sodio extracelular.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "El agua acompaña osmóticamente a cambios en sodio extracelular.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "La natriuresis por presión reduce sodio urinario cuando sube la presión.",
+        "ANP se libera por hipovolemia intensa y retiene sodio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_043",
+      "q": "Sobre hipovolemia, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La hipovolemia activa simpático, angiotensina II, aldosterona y ADH.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "PTH disminuye reabsorción renal de calcio.",
+        "La hipovolemia activa simpático, angiotensina II, aldosterona y ADH.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "El aumento de flujo tubular distal reduce secreción de potasio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_044",
+      "q": "Sobre hipervolemia, señale la alternativa correcta según el capítulo 30.",
+      "exp": "La expansión de volumen favorece natriuresis y diuresis.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "Insulina saca potasio de las células después de una comida.",
+        "La expansión de volumen favorece natriuresis y diuresis.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "PTH aumenta reabsorción renal de fosfato."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_045",
+      "q": "Sobre presion natriuresis, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El aumento de presión arterial aumenta excreción renal de sodio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "PTH disminuye reabsorción renal de calcio.",
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "El aumento de presión arterial aumenta excreción renal de sodio.",
+        "El volumen extracelular depende principalmente del potasio intracelular."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_046",
+      "q": "Sobre presion diuresis, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El aumento de presión arterial aumenta excreción renal de agua.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "El aumento de presión arterial aumenta excreción renal de agua.",
+        "PTH aumenta reabsorción renal de fosfato."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_047",
+      "q": "Sobre angiotensina volumen, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Angiotensina II conserva volumen al aumentar reabsorción de sodio y estimular aldosterona.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "PTH disminuye reabsorción renal de calcio.",
+        "El aumento de flujo tubular distal reduce secreción de potasio.",
+        "Angiotensina II conserva volumen al aumentar reabsorción de sodio y estimular aldosterona.",
+        "La mayor parte del potasio corporal está en el líquido extracelular.",
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_048",
+      "q": "Sobre aldosterona volumen, señale la alternativa correcta según el capítulo 30.",
+      "exp": "Aldosterona conserva sodio en segmentos distales y ayuda a sostener volumen extracelular.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "El volumen extracelular depende principalmente del potasio intracelular.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "Aldosterona conserva sodio en segmentos distales y ayuda a sostener volumen extracelular.",
+        "La mayor parte del potasio corporal está en el líquido extracelular."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_049",
+      "q": "Sobre ADH volumen, señale la alternativa correcta según el capítulo 30.",
+      "exp": "ADH conserva agua aumentando permeabilidad de colectores.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "ADH conserva agua aumentando permeabilidad de colectores.",
+        "Las células principales reabsorben potasio mediante SGLT2.",
+        "Aldosterona disminuye la secreción renal de potasio.",
+        "ANP se libera por hipovolemia intensa y retiene sodio.",
+        "PTH aumenta reabsorción renal de fosfato."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_050",
+      "q": "Sobre ANP, señale la alternativa correcta según el capítulo 30.",
+      "exp": "El péptido natriurético auricular se libera con distensión auricular y aumenta natriuresis.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
+      "options": [
+        "La enfermedad de Addison produce hipopotasemia por exceso de aldosterona.",
+        "PTH aumenta reabsorción renal de fosfato.",
+        "La acidosis metabólica reduce siempre el potasio extracelular.",
+        "El péptido natriurético auricular se libera con distensión auricular y aumenta natriuresis.",
+        "Insulina saca potasio de las células después de una comida. Capítulo 31 - Regulación acidobásica"
+      ],
+      "answer": 3
+    }
+  ]
+}

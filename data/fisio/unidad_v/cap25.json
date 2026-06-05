@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap25",
+  "title": "Capítulo 25",
+  "subtitle": "Compartimientos líquidos, osmolaridad y edema",
+  "questions": [
+    {
+      "id": "fisio_renal_cap25_001",
+      "q": "Sobre balance hidrico, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La estabilidad del agua corporal exige que la entrada total de agua se iguale con sus pérdidas.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El NaCl hipertónico introduce agua a las células.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "La estabilidad del agua corporal exige que la entrada total de agua se iguale con sus pérdidas.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "La vejiga es el principal órgano regulador del volumen intracelular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_002",
+      "q": "Sobre ingesta diaria de agua, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La ingesta ordinaria proviene de líquidos/alimentos y de agua metabólica producida por oxidación.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "La ingesta ordinaria proviene de líquidos/alimentos y de agua metabólica producida por oxidación.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "La vejiga es el principal órgano regulador del volumen intracelular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_003",
+      "q": "Sobre perdida insensible, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La pérdida insensible ocurre por piel y pulmones sin percepción consciente directa.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "La pérdida insensible ocurre por piel y pulmones sin percepción consciente directa.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_004",
+      "q": "Sobre piel y barrera cornificada, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La capa cornificada rica en colesterol reduce la pérdida de agua por difusión cutánea.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "La capa cornificada rica en colesterol reduce la pérdida de agua por difusión cutánea."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_005",
+      "q": "Sobre quemaduras extensas, señale la alternativa correcta según el capítulo 25.",
+      "exp": "Las quemaduras extensas aumentan mucho la evaporación cutánea y exigen reposición hídrica.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "Las quemaduras extensas aumentan mucho la evaporación cutánea y exigen reposición hídrica.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "La vejiga es el principal órgano regulador del volumen intracelular.",
+        "El edema extracelular siempre se debe a entrada de agua en las células."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_006",
+      "q": "Sobre via respiratoria, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El aire inspirado se humidifica en la vía aérea y el agua se pierde al espirar.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "El edema extracelular siempre se debe a entrada de agua en las células.",
+        "El aire inspirado se humidifica en la vía aérea y el agua se pierde al espirar."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_007",
+      "q": "Sobre clima frio, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El clima frío aumenta la pérdida pulmonar relativa porque el aire inspirado contiene menos vapor de agua.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "El clima frío aumenta la pérdida pulmonar relativa porque el aire inspirado contiene menos vapor de agua.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_008",
+      "q": "Sobre sudor, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La pérdida por sudor puede aumentar mucho con calor o ejercicio intenso.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "El edema extracelular siempre se debe a entrada de agua en las células.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "La pérdida por sudor puede aumentar mucho con calor o ejercicio intenso.",
+        "La pérdida insensible depende solo de la sudoración visible."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_009",
+      "q": "Sobre heces, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La pérdida fecal normal de agua es pequeña, pero la diarrea puede elevarla a litros por día.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "La pérdida fecal normal de agua es pequeña, pero la diarrea puede elevarla a litros por día.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El edema extracelular siempre se debe a entrada de agua en las células."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_010",
+      "q": "Sobre riñones, señale la alternativa correcta según el capítulo 25.",
+      "exp": "Los riñones ajustan el volumen urinario para igualar entradas y salidas de agua y electrolitos.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "Los riñones ajustan el volumen urinario para igualar entradas y salidas de agua y electrolitos.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "El edema extracelular siempre se debe a entrada de agua en las células.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_011",
+      "q": "Sobre agua corporal total, señale la alternativa correcta según el capítulo 25.",
+      "exp": "En un varón adulto de 70 kg, el agua corporal total se aproxima a 42 litros.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "En un varón adulto de 70 kg, el agua corporal total se aproxima a 42 litros.",
+        "El edema extracelular siempre se debe a entrada de agua en las células."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_012",
+      "q": "Sobre porcentaje de agua, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El porcentaje de agua corporal disminuye con edad y obesidad por mayor proporción de grasa.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "El porcentaje de agua corporal disminuye con edad y obesidad por mayor proporción de grasa.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_013",
+      "q": "Sobre mujer adulta, señale la alternativa correcta según el capítulo 25.",
+      "exp": "En promedio, la mujer adulta tiene menor porcentaje de agua corporal que el varón por más grasa corporal.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "En promedio, la mujer adulta tiene menor porcentaje de agua corporal que el varón por más grasa corporal.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "La pérdida insensible depende solo de la sudoración visible."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_014",
+      "q": "Sobre neonato, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El neonato tiene mayor porcentaje de agua corporal total que el adulto.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El edema extracelular siempre se debe a entrada de agua en las células.",
+        "El neonato tiene mayor porcentaje de agua corporal total que el adulto.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_015",
+      "q": "Sobre liquido intracelular, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El líquido intracelular representa cerca del 40% del peso corporal en el adulto promedio.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "La vejiga es el principal órgano regulador del volumen intracelular.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "El líquido intracelular representa cerca del 40% del peso corporal en el adulto promedio.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_016",
+      "q": "Sobre liquido extracelular, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El líquido extracelular representa cerca del 20% del peso corporal en el adulto promedio.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "El líquido extracelular representa cerca del 20% del peso corporal en el adulto promedio."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_017",
+      "q": "Sobre intersticio, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El líquido intersticial constituye la mayor parte del líquido extracelular.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "El líquido intersticial constituye la mayor parte del líquido extracelular.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_018",
+      "q": "Sobre plasma, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El plasma representa aproximadamente una cuarta parte del líquido extracelular.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "El plasma representa aproximadamente una cuarta parte del líquido extracelular.",
+        "El NaCl hipertónico introduce agua a las células."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_019",
+      "q": "Sobre liquido transcelular, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El líquido transcelular incluye espacios como sinovial, peritoneal, pericárdico y cefalorraquídeo.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "El líquido transcelular incluye espacios como sinovial, peritoneal, pericárdico y cefalorraquídeo.",
+        "El efecto Donnan elimina todos los cationes del plasma."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_020",
+      "q": "Sobre volumen sanguineo, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El volumen sanguíneo adulto promedio es cercano a 5 litros o 7% del peso corporal.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "El volumen sanguíneo adulto promedio es cercano a 5 litros o 7% del peso corporal.",
+        "La vejiga es el principal órgano regulador del volumen intracelular."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_021",
+      "q": "Sobre hematocrito, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El hematocrito expresa la fracción del volumen sanguíneo ocupada por eritrocitos.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "El hematocrito expresa la fracción del volumen sanguíneo ocupada por eritrocitos.",
+        "El NaCl hipertónico introduce agua a las células."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_022",
+      "q": "Sobre hematocrito medido, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El hematocrito medido puede sobrestimar el real porque queda plasma atrapado entre eritrocitos.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "El edema extracelular siempre se debe a entrada de agua en las células.",
+        "El hematocrito medido puede sobrestimar el real porque queda plasma atrapado entre eritrocitos.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "La vejiga es el principal órgano regulador del volumen intracelular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_023",
+      "q": "Sobre plasma e intersticio, señale la alternativa correcta según el capítulo 25.",
+      "exp": "Plasma e intersticio tienen composición iónica semejante, pero el plasma contiene más proteínas.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "Plasma e intersticio tienen composición iónica semejante, pero el plasma contiene más proteínas.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_024",
+      "q": "Sobre efecto Donnan, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El efecto Donnan mantiene ligeramente más cationes en el plasma por la carga negativa proteica.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "El efecto Donnan mantiene ligeramente más cationes en el plasma por la carga negativa proteica."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_025",
+      "q": "Sobre LEC composicion, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El líquido extracelular contiene mucho sodio, cloro y bicarbonato.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "El líquido extracelular contiene mucho sodio, cloro y bicarbonato.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "El NaCl hipertónico introduce agua a las células."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_026",
+      "q": "Sobre LIC composicion, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El líquido intracelular contiene mucho potasio, fosfato, magnesio y proteínas.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "El líquido intracelular contiene mucho potasio, fosfato, magnesio y proteínas.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_027",
+      "q": "Sobre membrana celular, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La membrana celular es muy permeable al agua, pero mucho menos a la mayoría de electrolitos.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La membrana celular es muy permeable al agua, pero mucho menos a la mayoría de electrolitos.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El edema extracelular siempre se debe a entrada de agua en las células.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_028",
+      "q": "Sobre indicador dilucion, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El volumen de un compartimiento puede estimarse con indicador que se distribuya solo en ese compartimiento.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El volumen de un compartimiento puede estimarse con indicador que se distribuya solo en ese compartimiento.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El NaCl hipertónico introduce agua a las células."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_029",
+      "q": "Sobre principio masa, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El método de dilución usa conservación de masa: cantidad inyectada igual a cantidad distribuida.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "El método de dilución usa conservación de masa: cantidad inyectada igual a cantidad distribuida."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_030",
+      "q": "Sobre agua total indicador, señale la alternativa correcta según el capítulo 25.",
+      "exp": "Agua pesada, tritio o antipirina pueden estimar el agua corporal total.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "Agua pesada, tritio o antipirina pueden estimar el agua corporal total.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_031",
+      "q": "Sobre LEC indicador, señale la alternativa correcta según el capítulo 25.",
+      "exp": "Inulina, tiosulfato o sodio radiactivo pueden estimar el volumen extracelular.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El NaCl hipertónico introduce agua a las células.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "El edema extracelular siempre se debe a entrada de agua en las células.",
+        "Inulina, tiosulfato o sodio radiactivo pueden estimar el volumen extracelular.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_032",
+      "q": "Sobre LIC calculo, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El líquido intracelular se calcula como agua corporal total menos líquido extracelular.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "El líquido intracelular se calcula como agua corporal total menos líquido extracelular.",
+        "La pérdida insensible depende solo de la sudoración visible."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_033",
+      "q": "Sobre plasma indicador, señale la alternativa correcta según el capítulo 25.",
+      "exp": "Albúmina marcada o azul de Evans sirven para medir volumen plasmático.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La vejiga es el principal órgano regulador del volumen intracelular.",
+        "Albúmina marcada o azul de Evans sirven para medir volumen plasmático.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_034",
+      "q": "Sobre intersticio calculo, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El líquido intersticial se calcula como líquido extracelular menos volumen plasmático.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "El líquido intersticial se calcula como líquido extracelular menos volumen plasmático.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_035",
+      "q": "Sobre volumen sanguineo calculo, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El volumen sanguíneo puede calcularse como volumen plasmático dividido por uno menos hematocrito.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El NaCl hipertónico introduce agua a las células.",
+        "El volumen sanguíneo puede calcularse como volumen plasmático dividido por uno menos hematocrito.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "El edema extracelular siempre se debe a entrada de agua en las células."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_036",
+      "q": "Sobre osmosis celular, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El agua se distribuye entre LIC y LEC según solutos efectivos que no cruzan libremente la membrana.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "El agua se distribuye entre LIC y LEC según solutos efectivos que no cruzan libremente la membrana.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El edema extracelular siempre se debe a entrada de agua en las células."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_037",
+      "q": "Sobre tonicidad, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La tonicidad depende de solutos no permeantes que sostienen gradientes osmóticos.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El NaCl hipertónico introduce agua a las células.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "La tonicidad depende de solutos no permeantes que sostienen gradientes osmóticos."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_038",
+      "q": "Sobre NaCl isotonico, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El NaCl isotónico expande sobre todo el líquido extracelular sin cambiar mucho el volumen celular.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La vejiga es el principal órgano regulador del volumen intracelular.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "El NaCl isotónico expande sobre todo el líquido extracelular sin cambiar mucho el volumen celular."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_039",
+      "q": "Sobre NaCl hipertonico, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El NaCl hipertónico extrae agua de las células y expande el líquido extracelular.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El NaCl hipertónico extrae agua de las células y expande el líquido extracelular.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_040",
+      "q": "Sobre agua libre, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El exceso de agua libre baja la osmolaridad extracelular y aumenta el volumen intracelular.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El exceso de agua libre baja la osmolaridad extracelular y aumenta el volumen intracelular.",
+        "El edema extracelular siempre se debe a entrada de agua en las células.",
+        "La pérdida insensible depende solo de la sudoración visible."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_041",
+      "q": "Sobre glucosa cinco por ciento, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La glucosa al 5% actúa finalmente como agua libre cuando la glucosa se metaboliza.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "La glucosa al 5% actúa finalmente como agua libre cuando la glucosa se metaboliza."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_042",
+      "q": "Sobre urea, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La urea es osmóticamente menos efectiva entre compartimientos porque cruza muchas membranas.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "La urea es osmóticamente menos efectiva entre compartimientos porque cruza muchas membranas.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_043",
+      "q": "Sobre edema extracelular, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El edema extracelular se produce cuando la filtración capilar supera la reabsorción y el drenaje linfático.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "El edema extracelular siempre se debe a entrada de agua en las células.",
+        "El edema extracelular se produce cuando la filtración capilar supera la reabsorción y el drenaje linfático.",
+        "La vejiga es el principal órgano regulador del volumen intracelular."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_044",
+      "q": "Sobre presion venosa, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El aumento de presión venosa favorece edema por elevar la presión hidrostática capilar.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "El aumento de presión venosa favorece edema por elevar la presión hidrostática capilar.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "El efecto Donnan elimina todos los cationes del plasma."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_045",
+      "q": "Sobre hipoproteinemia, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La caída de proteínas plasmáticas favorece edema por reducir la presión coloidosmótica del plasma.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "La caída de proteínas plasmáticas favorece edema por reducir la presión coloidosmótica del plasma.",
+        "El líquido transcelular corresponde a la mayor parte del agua corporal total.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El efecto Donnan elimina todos los cationes del plasma."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_046",
+      "q": "Sobre permeabilidad capilar, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La mayor permeabilidad capilar a proteínas eleva la presión coloidosmótica intersticial y favorece edema.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El edema extracelular siempre se debe a entrada de agua en las células.",
+        "El NaCl hipertónico introduce agua a las células.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "La mayor permeabilidad capilar a proteínas eleva la presión coloidosmótica intersticial y favorece edema.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_047",
+      "q": "Sobre linfedema, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La obstrucción linfática causa edema porque impide retirar líquido y proteínas del intersticio.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La vejiga es el principal órgano regulador del volumen intracelular.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El líquido intracelular contiene más sodio que el líquido extracelular.",
+        "La obstrucción linfática causa edema porque impide retirar líquido y proteínas del intersticio.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_048",
+      "q": "Sobre edema intracelular, señale la alternativa correcta según el capítulo 25.",
+      "exp": "El edema intracelular aparece con hiponatremia o depresión metabólica que altera bombas iónicas.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "El efecto Donnan elimina todos los cationes del plasma.",
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "El edema intracelular aparece con hiponatremia o depresión metabólica que altera bombas iónicas.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_049",
+      "q": "Sobre bomba sodio potasio, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La falla de la bomba sodio-potasio permite acumular sodio dentro de la célula y arrastrar agua.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La linfa favorece edema porque impide retirar proteínas intersticiales.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "La urea mantiene gradientes osmóticos sostenidos entre LIC y LEC.",
+        "La falla de la bomba sodio-potasio permite acumular sodio dentro de la célula y arrastrar agua.",
+        "El hematocrito mide la fracción del plasma ocupada por proteínas."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_050",
+      "q": "Sobre seguridad antiedema, señale la alternativa correcta según el capítulo 25.",
+      "exp": "La baja distensibilidad intersticial, el aumento del flujo linfático y el lavado de proteínas protegen contra edema.",
+      "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
+      "options": [
+        "La glucosa al 5% permanece como soluto extracelular no permeante permanente.",
+        "La albúmina atraviesa libremente todos los capilares en condiciones normales.",
+        "La pérdida insensible depende solo de la sudoración visible.",
+        "La baja distensibilidad intersticial, el aumento del flujo linfático y el lavado de proteínas protegen contra edema.",
+        "El edema extracelular siempre se debe a entrada de agua en las células. Capítulo 26 - Sistema urinario y anatomía funcional"
+      ],
+      "answer": 3
+    }
+  ]
+}

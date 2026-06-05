@@ -128,13 +128,13 @@ function renderDashboard(){
 
 
 function showLogin(){
-  ['subjectSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
+  ['subjectSelect','unitSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
   $('login').classList.remove('hidden');
   $('heroLead').textContent='Antes de comenzar, escribe tu nombre para personalizar tu experiencia.';
   setTimeout(()=>{ if($('nameInput')) $('nameInput').focus(); },60);
 }
 function showSubjectSelection(){
-  ['login','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
+  ['login','unitSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
   $('subjectSelect').classList.remove('hidden');
   $('heroLead').textContent='Banco de cuestiones para organizar tus estudios del 4º semestre.';
   const name=getVisitorName();
@@ -142,7 +142,7 @@ function showSubjectSelection(){
 }
 function showMenuForUser(){
   if(!currentSubject || !SUBJECTS[currentSubject]){ showSubjectSelection(); return; }
-  ['login','subjectSelect','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
+  ['login','subjectSelect','unitSelect','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
   $('menu').classList.remove('hidden');
   $('heroLead').textContent=`${subjectLabel()}: elige un bloque y comienza a practicar.`;
   $('menuHeading').textContent=`Banco de ${subjectLabel()}`;
@@ -158,7 +158,37 @@ function showMenuForUser(){
 }
 function submitName(event){event.preventDefault(); if(!appReady){alert('El banco de preguntas todavía está cargando. Intenta nuevamente en unos segundos.'); return;} const input=$('nameInput'); const name=cleanName(input?input.value:''); if(!name){alert('Escribe tu nombre para entrar.'); return;} localStorage.setItem(NAME_KEY,name); registerVisit(); trackAnalyticsEvent('student_name_saved'); showSubjectSelection();}
 function changeVisitorName(){const current=getVisitorName(); localStorage.removeItem(NAME_KEY); currentSubject=null; showLogin(); if($('nameInput')) $('nameInput').value=current;}
-function chooseSubject(subject){if(!appReady){alert('El banco de preguntas todavía está cargando. Intenta nuevamente en unos segundos.'); return;} if(!SUBJECTS[subject]) return; currentSubject=subject; localStorage.setItem(SUBJECT_KEY,subject); registerVisit(); trackAnalyticsEvent('subject_selected',{selected_subject:subject}); showMenuForUser();}
+function showFisioUnitSelection(){
+  ['login','subjectSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
+  $('unitSelect').classList.remove('hidden');
+  $('heroLead').textContent='Fisiología: elige la unidad que quieres practicar.';
+  const name=getVisitorName();
+  $('unitGreeting').innerHTML=`<span class="helloName">Hola, ${escHtml(name)}.</span> Elige entre Endocrinología y reproducción o Líquidos corporales y riñones.`;
+}
+function chooseSubject(subject){
+  if(!appReady){alert('El banco de preguntas todavía está cargando. Intenta nuevamente en unos segundos.'); return;}
+  if(subject==='fisio'){
+    registerVisit();
+    trackAnalyticsEvent('subject_category_selected',{selected_subject:'fisio'});
+    showFisioUnitSelection();
+    return;
+  }
+  if(!SUBJECTS[subject]) return;
+  currentSubject=subject;
+  localStorage.setItem(SUBJECT_KEY,subject);
+  registerVisit();
+  trackAnalyticsEvent('subject_selected',{selected_subject:subject});
+  showMenuForUser();
+}
+function chooseFisioUnit(unitKey){
+  if(!appReady){alert('El banco de preguntas todavía está cargando. Intenta nuevamente en unos segundos.'); return;}
+  if(!SUBJECTS[unitKey]) return;
+  currentSubject=unitKey;
+  localStorage.setItem(SUBJECT_KEY,unitKey);
+  registerVisit();
+  trackAnalyticsEvent('subject_selected',{selected_subject:unitKey});
+  showMenuForUser();
+}
 function changeSubject(){currentSubject=null; showSubjectSelection();}
 async function initApp(){
   ensureVisitorId();
@@ -204,8 +234,8 @@ function saveProgress(extra={}){
   localStorage.setItem(attemptKey(currentSection.key,currentMode), JSON.stringify(state));
 }
 function shortMenuName(sec){
-  if(currentSubject==='fisio') return sec.subtitle;
-  const names={clase1:'Sistema Nervioso',clase2:'Médula espinal I',clase3:'Médula espinal II',clase4:'Tronco cerebral',clase5:'Cerebelo y ventrículos',clase6:'Configuración del cerebro',clase7:'Pares craneales I–VII',clase8:'Pares craneales VIII–XII',clase9:'Neuroglia y sinapsis',clase10:'HTEC, edema y ACV',clase11:'Hidrocefalia',clase12:'Absceso y empiema',general_medio:'Todo el contenido · nivel medio',general_dificil:'Todo el contenido · nivel difícil'};
+  if(currentSubject && currentSubject.startsWith('fisio')) return sec.subtitle;
+  const names={clase1:'Sistema Nervioso',clase2:'Médula espinal I',clase3:'Médula espinal II',clase4:'Tronco cerebral',clase5:'Cerebelo y ventrículos',clase6:'Configuración del cerebro',clase7:'Pares craneales I–VII',clase8:'Pares craneales VIII–XII',clase9:'Neuroglia y sinapsis',clase10:'HTEC, edema y ACV',clase11:'Hidrocefalia',clase12:'Absceso y empiema',general_medio:'Todo el contenido · nivel medio',clase13_final_ordinario:'Especial para examen final ordinario',general_dificil:'Todo el contenido · nivel difícil'};
   return names[sec.key] || sec.subtitle;
 }
 function progressMarkup(sec){
@@ -213,7 +243,7 @@ function progressMarkup(sec){
   if(!prog) return `<div class="miniProgress"><span>Avance: 0/${sec.questions.length} (0%)</span><div class="track"><div class="fill" style="width:0%"></div></div></div>`;
   const total=prog.questions.length || sec.questions.length, done=uniqueAnsweredCount(prog.answers), ok=(prog.answers||[]).filter(a=>a.correct).length, bad=(prog.answers||[]).filter(a=>a.correct===false).length, pending=Math.max(total-done,0), pp=pct(done,total), modeName=prog.mode==='exam'?'simulado':'estudio';
   if(prog.mode==='exam' && !prog.completed){
-    return `<div class="miniProgress"><span>Avance ${modeName}: ${done}/${total} (${pp}%)</span><div class="track"><div class="fill" style="width:${pp}%"></div></div><div class="miniStats"><span>Respondidas: ${done}</span><span>Pendientes: ${pending}</span><span>Resultado al final</span></div></div>`;
+    return `<div class="miniProgress examHiddenProgress"><span>Simulado en curso</span><div class="miniStats"><span>Progreso y aciertos ocultos hasta finalizar</span></div></div>`;
   }
   return `<div class="miniProgress"><span>Avance ${modeName}: ${done}/${total} (${pp}%)</span><div class="track"><div class="fill" style="width:${pp}%"></div></div><div class="miniStats"><span class="ok">✓ ${ok}</span><span class="bad">✕ ${bad}</span><span>Pendientes: ${pending}</span></div></div>`;
 }
@@ -224,7 +254,7 @@ function makeCard(sec,i,isGeneral=false){
   let statusClass=''; if(hist){ statusClass = hist.p > 60 ? ' score-ok' : ' score-bad'; }
   const div=document.createElement('div'); div.className='square'+(isGeneral?' general':'')+statusClass;
   const last=hist?` · último: ${hist.p}%`:'';
-  const label=currentSubject==='fisio' ? sec.title.replace('Capítulo ','Cap. ') : (isGeneral ? (sec.key.includes('dificil')?'Difícil':'Medio') : (i+1));
+  const label=(currentSubject && currentSubject.startsWith('fisio')) ? sec.title.replace('Capítulo ','Cap. ') : (isGeneral ? (sec.key.includes('dificil')?'Difícil':'Medio') : (i+1));
   const studyLabel=studyProgress?'Continuar estudio':'Estudiar', examLabel=examProgress?'Continuar simulado':'Simulado';
   div.innerHTML=`<div><div class="num">${escHtml(label)}</div><h3>${escHtml(sec.title)}</h3><span class="cardSub">${escHtml(shortMenuName(sec))}</span>${progressMarkup(sec)}</div><p><b>${escHtml(sec.level)}</b>${last}</p><div class="cardActions"><button class="btn" data-action="study">${studyLabel}</button><button class="btn warn" data-action="exam">${examLabel}</button><button class="btn view" data-action="list">Ver preguntas</button></div>`;
   div.querySelector('[data-action="study"]').onclick=()=>startSection(sec.key,'study',false);
@@ -236,14 +266,24 @@ function renderCards(){
   const classCards=$('classCards'), generalCards=$('generalCards'); classCards.innerHTML=''; generalCards.innerHTML='';
   const sections=getSections();
   if(currentSubject==='neuro'){
-    $('groupTitleClasses').textContent='Clases individuales'; $('groupHintClasses').textContent='Repasa un tema específico con 25 preguntas.';
+    $('groupTitleClasses').textContent='Clases y bloque especial'; $('groupHintClasses').textContent='Repasa un tema específico o el bloque especial para el examen final ordinario.';
     $('generalBlock').classList.remove('hidden');
     sections.filter(s=>s.key.startsWith('clase')).forEach((sec,i)=>classCards.appendChild(makeCard(sec,i,false)));
     sections.filter(s=>s.key.includes('general')).forEach((sec,i)=>generalCards.appendChild(makeCard(sec,i,true)));
-  } else {
-    $('groupTitleClasses').textContent='Bloques de Fisiología'; $('groupHintClasses').textContent='Incluye capítulos 75 al 82 y tres cuestionarios mixtos de 100 preguntas.';
+  } else if(currentSubject==='fisio_endocrino') {
+    $('groupTitleClasses').textContent='Unidad XIV - Endocrinología y reproducción';
+    $('groupHintClasses').textContent='Incluye capítulos 75 al 82 y tres cuestionarios mixtos.';
     $('generalBlock').classList.add('hidden');
     sections.forEach((sec,i)=>classCards.appendChild(makeCard(sec,i,false)));
+  } else if(currentSubject==='fisio_renal') {
+    $('groupTitleClasses').textContent='Unidad V - Los líquidos corporales y los riñones';
+    $('groupHintClasses').textContent='Capítulos 25 al 31: 50 preguntas por capítulo.';
+    $('generalBlock').classList.add('hidden');
+    sections.forEach((sec,i)=>classCards.appendChild(makeCard(sec,i,false)));
+  } else {
+    $('groupTitleClasses').textContent='Bloques';
+    $('groupHintClasses').textContent='Elige un bloque para empezar.';
+    $('generalBlock').classList.add('hidden');
   }
 }
 function applyStateToQuiz(sec,state,preferredMode){currentSection=sec; currentMode=(state&&state.mode)||(preferredMode==='exam'?'exam':'study'); questions=(state&&Array.isArray(state.questions))?state.questions:prepareQuestions(sec.questions); answers=(state&&Array.isArray(state.answers))?state.answers:[]; idx=(state&&typeof state.idx==='number')?Math.min(Math.max(state.idx,0),questions.length-1):0; selectedChoice=null; locked=false;}
@@ -252,11 +292,16 @@ function showQuizShell(openList=false){
   $('questionList').innerHTML='';
   $('listBtn').textContent='Ver todas las preguntas';
   $('listBtn').classList.toggle('hidden', currentMode==='exam');
-  ['subjectSelect','menu','result','login'].forEach(id=>$(id).classList.add('hidden'));
+  $('listBtn').style.display = currentMode==='exam' ? 'none' : '';
+  const progressPanel=document.querySelector('#quiz .progressPanel');
+  if(progressPanel) progressPanel.classList.toggle('hidden', currentMode==='exam');
+  ['subjectSelect','unitSelect','menu','result','login'].forEach(id=>$(id).classList.add('hidden'));
   $('quiz').classList.remove('hidden');
   $('quizPill').textContent=subjectLabel()+' · '+currentSection.title+' · '+currentSection.level;
   const mp=$('modePill'); mp.textContent=modeLabel(); mp.className='modeTag '+modeClass();
-  $('quizSub').textContent=currentMode==='exam'?currentSection.subtitle+' · En simulado no se muestran aciertos, errores ni lista de preguntas hasta finalizar.':currentSection.subtitle+' · Recibirás explicación inmediata.';
+  $('quizSub').textContent=currentMode==='exam'?currentSection.subtitle+' · Modo simulado: sin progreso, sin lista y sin corrección hasta finalizar.':currentSection.subtitle+' · Recibirás explicación inmediata.';
+  $('feedback').className='feedback';
+  $('feedback').innerHTML='';
   renderQuestion();
   if(currentMode!=='exam') renderQuestionList();
   if(openList && currentMode!=='exam') toggleQuestionList();
@@ -272,15 +317,20 @@ function openSectionList(key){
 }
 function updateProgressUI(){
   const done=uniqueAnsweredCount(answers), ok=(answers||[]).filter(a=>a.correct).length, bad=(answers||[]).filter(a=>a.correct===false).length, pending=Math.max(questions.length-done,0), pp=pct(done,questions.length);
-  $('bar').style.width=pp+'%';
   if(currentMode==='exam'){
-    $('progressText').innerHTML=`<div class="progressLabel"><strong>Simulado en curso</strong><span>${done}/${questions.length} respondidas · resultado al final</span></div><div class="statsGrid examStats"><div class="statBox"><b>${done}</b><span>Respondidas</span></div><div class="statBox pending"><b>${pending}</b><span>Pendientes</span></div><div class="statBox"><b>${idx+1}</b><span>Pregunta actual</span></div><div class="statBox pending"><b>Final</b><span>Corrección</span></div></div>`;
+    $('bar').style.width='0%';
+    $('progressText').innerHTML='';
+    const progressPanel=document.querySelector('#quiz .progressPanel');
+    if(progressPanel) progressPanel.classList.add('hidden');
     return;
   }
+  const progressPanel=document.querySelector('#quiz .progressPanel');
+  if(progressPanel) progressPanel.classList.remove('hidden');
+  $('bar').style.width=pp+'%';
   $('progressText').innerHTML=`<div class="progressLabel"><strong>Progreso del bloque</strong><span>${done}/${questions.length} respondidas · ${pp}%</span></div><div class="statsGrid"><div class="statBox"><b>${done}</b><span>Respondidas</span></div><div class="statBox ok"><b>${ok}</b><span>Ciertos</span></div><div class="statBox bad"><b>${bad}</b><span>Errores</span></div><div class="statBox pending"><b>${pending}</b><span>Pendientes</span></div></div>`;
 }
 function renderQuestion(){locked=false; selectedChoice=null; $('nextBtn').disabled=true; $('nextBtn').textContent=(idx===questions.length-1?'Ver resultado':'Siguiente'); const q=questions[idx]; updateProgressUI(); $('question').textContent=q.q; const opts=$('options'); opts.innerHTML=''; $('feedback').className='feedback'; $('feedback').innerHTML=''; q.options.forEach((op,i)=>{const b=document.createElement('button'); b.className='option'; b.innerHTML=`<b>${letters[i]})</b>&nbsp;${escHtml(op)}`; b.onclick=()=>selectOption(i); opts.appendChild(b);}); restoreCurrentAnswerView(); equalizeOptionHeights();}
-function restoreCurrentAnswerView(){const q=questions[idx], rec=answerFor(q.id); if(!rec) return; selectedChoice=rec.choice; $('nextBtn').disabled=false; const buttons=[...$('options').children]; buttons.forEach((b,i)=>{b.classList.toggle('selected',i===rec.choice);}); if(currentMode==='exam'){$('feedback').className='feedback info'; $('feedback').innerHTML='<strong>Respuesta guardada</strong>Continúa el simulado. La corrección y los aciertos aparecerán solamente al final.'; return;} locked=true; buttons.forEach((b,i)=>{b.disabled=true; if(i===q.answer) b.classList.add('correct'); if(i===rec.choice&&i!==q.answer) b.classList.add('wrong'); if(i!==rec.choice&&i!==q.answer) b.classList.add('dim');}); const fb=$('feedback'); fb.className='feedback '+(rec.correct?'good':'bad'); fb.innerHTML=rec.correct?`<strong>✅ Correcto</strong>${escHtml(q.exp)}`:`<strong>❌ Incorrecto</strong>Respuesta correcta: <b>${letters[q.answer]}) ${escHtml(q.options[q.answer])}</b><br>${escHtml(q.exp)}`;}
+function restoreCurrentAnswerView(){const q=questions[idx], rec=answerFor(q.id); if(!rec) return; selectedChoice=rec.choice; $('nextBtn').disabled=false; const buttons=[...$('options').children]; buttons.forEach((b,i)=>{b.classList.toggle('selected',i===rec.choice);}); if(currentMode==='exam'){$('feedback').className='feedback'; $('feedback').innerHTML=''; return;} locked=true; buttons.forEach((b,i)=>{b.disabled=true; if(i===q.answer) b.classList.add('correct'); if(i===rec.choice&&i!==q.answer) b.classList.add('wrong'); if(i!==rec.choice&&i!==q.answer) b.classList.add('dim');}); const fb=$('feedback'); fb.className='feedback '+(rec.correct?'good':'bad'); fb.innerHTML=rec.correct?`<strong>✅ Correcto</strong>${escHtml(q.exp)}`:`<strong>❌ Incorrecto</strong>Respuesta correcta: <b>${letters[q.answer]}) ${escHtml(q.options[q.answer])}</b><br>${escHtml(q.exp)}`;}
 function equalizeOptionHeights(){const buttons=[...document.querySelectorAll('.option')]; if(!buttons.length) return; buttons.forEach(b=>b.style.height='auto'); const max=Math.max(...buttons.map(b=>b.offsetHeight)); buttons.forEach(b=>b.style.height=Math.max(max,76)+'px');}
 function renderQuestionList(){
   const box=$('questionList');
@@ -300,9 +350,9 @@ function toggleQuestionList(){
   const box=$('questionList'); box.classList.toggle('hidden'); $('listBtn').textContent=box.classList.contains('hidden')?'Ver todas las preguntas':'Ocultar lista'; if(!box.classList.contains('hidden')) renderQuestionList();
 }
 function storeAnswer(choice, options={}){const q=questions[idx], correct=choice===q.answer, existing=answers.findIndex(a=>a.id===q.id); const record={id:q.id,q:q.q,options:q.options,answer:q.answer,choice,correct,exp:q.exp,topic:q.topic}; if(existing>=0) answers[existing]=record; else answers.push(record); const updateWrongBank=options.updateWrongBank!==false; if(updateWrongBank && typeof removeWrongAnswer==='function' && typeof saveWrongAnswer==='function'){ if(correct) removeWrongAnswer(q.id); else saveWrongAnswer(record); } return record;}
-function selectOption(choice){const q=questions[idx]; selectedChoice=choice; const buttons=[...$('options').children]; buttons.forEach((b,i)=>{b.classList.toggle('selected',i===choice);}); $('nextBtn').disabled=false; if(currentMode==='exam'){storeAnswer(choice,{updateWrongBank:false}); saveProgress(); updateProgressUI(); $('questionList').classList.add('hidden'); $('feedback').className='feedback info'; $('feedback').innerHTML='<strong>Respuesta guardada</strong>Continúa el simulado. La corrección y los aciertos aparecerán solamente al final.'; return;} if(locked) return; locked=true; const rec=storeAnswer(choice); buttons.forEach((b,i)=>{b.disabled=true; if(i===q.answer) b.classList.add('correct'); if(i===choice&&i!==q.answer) b.classList.add('wrong'); if(i!==choice&&i!==q.answer) b.classList.add('dim');}); const fb=$('feedback'); fb.className='feedback '+(rec.correct?'good':'bad'); fb.innerHTML=rec.correct?`<strong>✅ Correcto</strong>${escHtml(q.exp)}`:`<strong>❌ Incorrecto</strong>Respuesta correcta: <b>${letters[q.answer]}) ${escHtml(q.options[q.answer])}</b><br>${escHtml(q.exp)}`; saveProgress(); updateProgressUI(); renderQuestionList();}
+function selectOption(choice){const q=questions[idx]; selectedChoice=choice; const buttons=[...$('options').children]; buttons.forEach((b,i)=>{b.classList.toggle('selected',i===choice);}); $('nextBtn').disabled=false; if(currentMode==='exam'){storeAnswer(choice,{updateWrongBank:false}); saveProgress(); $('questionList').classList.add('hidden'); $('feedback').className='feedback'; $('feedback').innerHTML=''; updateProgressUI(); return;} if(locked) return; locked=true; const rec=storeAnswer(choice); buttons.forEach((b,i)=>{b.disabled=true; if(i===q.answer) b.classList.add('correct'); if(i===choice&&i!==q.answer) b.classList.add('wrong'); if(i!==choice&&i!==q.answer) b.classList.add('dim');}); const fb=$('feedback'); fb.className='feedback '+(rec.correct?'good':'bad'); fb.innerHTML=rec.correct?`<strong>✅ Correcto</strong>${escHtml(q.exp)}`:`<strong>❌ Incorrecto</strong>Respuesta correcta: <b>${letters[q.answer]}) ${escHtml(q.options[q.answer])}</b><br>${escHtml(q.exp)}`; saveProgress(); updateProgressUI(); renderQuestionList();}
 function nextQuestion(){if(currentMode==='exam'){if(selectedChoice===null&&!answerForCurrent()) return; if(selectedChoice!==null) storeAnswer(selectedChoice,{updateWrongBank:false});} saveProgress(); if(idx<questions.length-1){idx++; saveProgress(); renderQuestion(); if(currentMode!=='exam' && !$('questionList').classList.contains('hidden')) renderQuestionList();} else showResult();}
-function showResult(){saveProgress({completed:true}); ['quiz','menu','subjectSelect','login'].forEach(id=>$(id).classList.add('hidden')); $('result').classList.remove('hidden'); const total=questions.length, score=answers.filter(a=>a.correct).length, p=pct(score,total); if(currentMode==='exam' && typeof removeWrongAnswer==='function' && typeof saveWrongAnswer==='function'){ answers.forEach(a=>{ if(a.correct) removeWrongAnswer(a.id); else saveWrongAnswer(a); }); } if(!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))){ localStorage.setItem(scoreKey(currentSection.key),JSON.stringify({score,total,p,date:new Date().toISOString()})); } trackAnalyticsEvent('finish_block',{block_key:currentSection.key,mode:currentMode,score,total,percent:p,synthetic:!!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))}); $('resultPill').textContent=subjectLabel()+' · '+currentSection.title; const rm=$('resultMode'); rm.textContent=modeLabel(); rm.className='modeTag '+modeClass(); $('resultSub').textContent=currentSection.subtitle; $('resultTitle').textContent=p>=80?'Muy bien, estás fuerte en este bloque.':p>=60?'Buen avance, pero hay puntos para revisar.':'Necesitas reforzar este contenido antes de la prueba.'; $('scorePct').textContent=p+'%'; $('scoreNum').textContent=score+'/'+total; $('scoreMsg').textContent=p>=80?'Dominio alto':p>=60?'Regular/medio':'Reforzar'; const topicMap={}; answers.forEach(a=>{if(!topicMap[a.topic]) topicMap[a.topic]={ok:0,total:0}; topicMap[a.topic].total++; if(a.correct) topicMap[a.topic].ok++;}); let topicHtml='<h3>Resultado por tema</h3>'; Object.entries(topicMap).sort((a,b)=>pct(a[1].ok,a[1].total)-pct(b[1].ok,b[1].total)).forEach(([t,v])=>{const pp=pct(v.ok,v.total); topicHtml+=`<span class="topicTag">${escHtml(t)}: ${v.ok}/${v.total} (${pp}%)</span>`;}); $('topicResults').innerHTML=topicHtml; const wrong=answers.filter(a=>!a.correct); let rev='<h3>Revisión de errores</h3>'; if(!wrong.length) rev+='<p class="small">No hubo errores en este intento.</p>'; wrong.forEach((a,i)=>{rev+=`<details><summary>${i+1}. ${escHtml(a.q)}</summary><p><b>Tu respuesta:</b> ${letters[a.choice]}) ${escHtml(a.options[a.choice])}</p><p><b>Correcta:</b> ${letters[a.answer]}) ${escHtml(a.options[a.answer])}</p><p>${escHtml(a.exp)}</p></details>`;}); $('review').innerHTML=rev; renderDashboard(); renderCards();}
+function showResult(){saveProgress({completed:true}); ['quiz','menu','subjectSelect','unitSelect','login'].forEach(id=>$(id).classList.add('hidden')); $('result').classList.remove('hidden'); const total=questions.length, score=answers.filter(a=>a.correct).length, p=pct(score,total); if(currentMode==='exam' && typeof removeWrongAnswer==='function' && typeof saveWrongAnswer==='function'){ answers.forEach(a=>{ if(a.correct) removeWrongAnswer(a.id); else saveWrongAnswer(a); }); } if(!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))){ localStorage.setItem(scoreKey(currentSection.key),JSON.stringify({score,total,p,date:new Date().toISOString()})); } trackAnalyticsEvent('finish_block',{block_key:currentSection.key,mode:currentMode,score,total,percent:p,synthetic:!!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))}); $('resultPill').textContent=subjectLabel()+' · '+currentSection.title; const rm=$('resultMode'); rm.textContent=modeLabel(); rm.className='modeTag '+modeClass(); $('resultSub').textContent=currentSection.subtitle; $('resultTitle').textContent=p>=80?'Muy bien, estás fuerte en este bloque.':p>=60?'Buen avance, pero hay puntos para revisar.':'Necesitas reforzar este contenido antes de la prueba.'; $('scorePct').textContent=p+'%'; $('scoreNum').textContent=score+'/'+total; $('scoreMsg').textContent=p>=80?'Dominio alto':p>=60?'Regular/medio':'Reforzar'; const topicMap={}; answers.forEach(a=>{if(!topicMap[a.topic]) topicMap[a.topic]={ok:0,total:0}; topicMap[a.topic].total++; if(a.correct) topicMap[a.topic].ok++;}); let topicHtml='<h3>Resultado por tema</h3>'; Object.entries(topicMap).sort((a,b)=>pct(a[1].ok,a[1].total)-pct(b[1].ok,b[1].total)).forEach(([t,v])=>{const pp=pct(v.ok,v.total); topicHtml+=`<span class="topicTag">${escHtml(t)}: ${v.ok}/${v.total} (${pp}%)</span>`;}); $('topicResults').innerHTML=topicHtml; const wrong=answers.filter(a=>!a.correct); let rev='<h3>Revisión de errores</h3>'; if(!wrong.length) rev+='<p class="small">No hubo errores en este intento.</p>'; wrong.forEach((a,i)=>{rev+=`<details><summary>${i+1}. ${escHtml(a.q)}</summary><p><b>Tu respuesta:</b> ${letters[a.choice]}) ${escHtml(a.options[a.choice])}</p><p><b>Correcta:</b> ${letters[a.answer]}) ${escHtml(a.options[a.answer])}</p><p>${escHtml(a.exp)}</p></details>`;}); $('review').innerHTML=rev; renderDashboard(); renderCards();}
 function backToMenu(){saveProgress(); showMenuForUser();}
 function restartCurrent(){if(!currentSection) return; if(typeof restartSyntheticQuiz==='function' && restartSyntheticQuiz()) return; localStorage.removeItem(attemptKey(currentSection.key,currentMode)); startSection(currentSection.key,currentMode,false);}
 function clearHistory(){if(!currentSubject) return; if(confirm('¿Quieres borrar los resultados, avances y errores guardados de '+subjectLabel()+'?')){getSections().forEach(s=>{localStorage.removeItem(scoreKeyFor(currentSubject,s.key)); localStorage.removeItem(attemptKeyFor(currentSubject,s.key,'study')); localStorage.removeItem(attemptKeyFor(currentSubject,s.key,'exam'));}); if(typeof wrongKeyFor==='function') localStorage.removeItem(wrongKeyFor(currentSubject)); renderDashboard(); renderCards();}}

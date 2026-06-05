@@ -126,7 +126,7 @@
         "calcitonina en 93%.",
         "T4 en mayor proporcion.",
         "T3 en igual proporcion.",
-        "TSH en coloide. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "TSH en coloide."
       ],
       "answer": 2
     },
@@ -266,7 +266,7 @@
         "cretinismo.",
         "gigantismo.",
         "Addison.",
-        "acromegalia. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "acromegalia."
       ],
       "answer": 2
     },
@@ -406,7 +406,7 @@
         "calcitonina tiroidea.",
         "catecolaminas medulares.",
         "androgenos suprarrenales.",
-        "aldosterona pura. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "aldosterona pura."
       ],
       "answer": 3
     },
@@ -455,7 +455,7 @@
     {
       "id": "fisio_cuestionario_2_033",
       "q": "El receptor de insulina activa principalmente:",
-      "exp": "tirosina cinasa. Capítulo 79. La union de insulina activa la actividad tirosina cinasa del receptor y fosforila IRS. Cuestionario nuevo mixto de Endocrinología - Guyton",
+      "exp": "tirosina cinasa. Capítulo 79. La union de insulina activa la actividad tirosina cinasa del receptor y fosforila IRS.",
       "topic": "Cuestionário 2",
       "options": [
         "colesterol desmolasa.",
@@ -546,7 +546,7 @@
         "hipersecrecion de amilina.",
         "deficit de celulas beta.",
         "resistencia aislada leve.",
-        "exceso de celulas alfa. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "exceso de celulas alfa."
       ],
       "answer": 2
     },
@@ -686,7 +686,7 @@
         "pregnenolona.",
         "somatomedina.",
         "tiroglobulina.",
-        "transcortina. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "transcortina."
       ],
       "answer": 0
     },
@@ -826,7 +826,7 @@
         "amilina.",
         "tiroglobulina.",
         "transcortina.",
-        "fibras de colageno. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "fibras de colageno."
       ],
       "answer": 4
     },
@@ -945,7 +945,7 @@
     {
       "id": "fisio_cuestionario_2_068",
       "q": "La ACTH estimula de forma importante:",
-      "exp": "zonas fascicular y reticular. Capítulo 78. Cuestionario nuevo mixto de Endocrinología - Guyton La ACTH controla sobre todo cortisol y androgenos en zonas fascicular y reticular.",
+      "exp": "zonas fascicular y reticular. Capítulo 78. La ACTH controla sobre todo cortisol y androgenos en zonas fascicular y reticular.",
       "topic": "Cuestionário 2",
       "options": [
         "celulas beta pancreaticas.",
@@ -966,7 +966,7 @@
         "actua solo en sinapsis.",
         "permanece dentro del nucleo.",
         "se queda en el coloide.",
-        "alcanza dianas por sangre. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "alcanza dianas por sangre."
       ],
       "answer": 4
     },
@@ -1106,7 +1106,7 @@
         "74 dias.",
         "12 horas.",
         "2 anos.",
-        "180 dias. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "180 dias."
       ],
       "answer": 1
     },
@@ -1246,7 +1246,7 @@
         "simpaticas.",
         "parasimpaticas.",
         "somaticas motoras.",
-        "sensoriales vagales. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "sensoriales vagales."
       ],
       "answer": 2
     },
@@ -1386,21 +1386,21 @@
         "secrecion de glucagon.",
         "degradacion de glucogeno.",
         "formacion de cuerpos cetonicos.",
-        "deposito de glucogeno. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "deposito de glucogeno."
       ],
       "answer": 4
     },
     {
       "id": "fisio_cuestionario_2_100",
       "q": "Un receptor unido a enzima se ejemplifica mejor con:",
-      "exp": "receptor de insulina. Capítulo 75. El receptor de insulina es de membrana y posee actividad tirosina cinasa. Cuestionario nuevo mixto de Endocrinología - Guyton",
+      "exp": "receptor de insulina. Capítulo 75. El receptor de insulina es de membrana y posee actividad tirosina cinasa.",
       "topic": "Cuestionário 2",
       "options": [
         "receptor de insulina.",
         "neurofisina II.",
         "globulina fijadora de cortisol.",
         "receptor nuclear de T3.",
-        "pendrina apical. Cuestionario nuevo mixto de Endocrinología - Guyton"
+        "pendrina apical."
       ],
       "answer": 0
     }
