@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap26",
+  "title": "Capítulo 26",
+  "subtitle": "Sistema urinario y anatomía funcional",
+  "questions": [
+    {
+      "id": "fisio_renal_cap26_001",
+      "q": "En relación con función renal general, ¿cuál afirmación es correcta?",
+      "exp": "Los riñones mantienen el medio interno al regular agua, electrolitos, desechos, presión y equilibrio acidobásico.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "Los riñones mantienen el medio interno al regular agua, electrolitos, desechos, presión y equilibrio acidobásico.",
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "La arteriola eferente lleva sangre hacia el glomérulo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_002",
+      "q": "En relación con formación de orina, ¿cuál afirmación es correcta?",
+      "exp": "La orina se forma filtrando plasma y modificando el filtrado por reabsorción y secreción.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "La orina se forma filtrando plasma y modificando el filtrado por reabsorción y secreción.",
+        "La renina degrada angiotensina II y baja siempre la presión."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap26_003",
+      "q": "En relación con urea, ¿cuál afirmación es correcta?",
+      "exp": "La urea es producto del metabolismo de aminoácidos y debe excretarse por los riñones.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La orina se forma principalmente dentro de la vejiga.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "La urea es producto del metabolismo de aminoácidos y debe excretarse por los riñones.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "La pelvis renal produce calcitriol y no conduce orina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_004",
+      "q": "En relación con creatinina, ¿cuál afirmación es correcta?",
+      "exp": "La creatinina procede del metabolismo de la creatina muscular.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "La orina se forma principalmente dentro de la vejiga.",
+        "La creatinina procede del metabolismo de la creatina muscular.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap26_005",
+      "q": "En relación con ácido úrico, ¿cuál afirmación es correcta?",
+      "exp": "El ácido úrico deriva del metabolismo de los ácidos nucleicos.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El ácido úrico deriva del metabolismo de los ácidos nucleicos.",
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "La orina se forma principalmente dentro de la vejiga."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_006",
+      "q": "En relación con bilirrubina, ¿cuál afirmación es correcta?",
+      "exp": "La bilirrubina es un producto final relacionado con el metabolismo de la hemoglobina.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La bilirrubina es un producto final relacionado con el metabolismo de la hemoglobina.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "La orina se forma principalmente dentro de la vejiga.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_007",
+      "q": "En relación con balance de electrolitos, ¿cuál afirmación es correcta?",
+      "exp": "La excreción renal debe ajustarse a la ingesta para mantener el balance de agua y electrolitos.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "La orina se forma principalmente dentro de la vejiga.",
+        "La excreción renal debe ajustarse a la ingesta para mantener el balance de agua y electrolitos."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap26_008",
+      "q": "En relación con ingesta de sodio, ¿cuál afirmación es correcta?",
+      "exp": "Ante aumento de ingesta de sodio, los riñones aumentan su excreción en pocos días.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Ante aumento de ingesta de sodio, los riñones aumentan su excreción en pocos días.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_009",
+      "q": "En relación con retención inicial, ¿cuál afirmación es correcta?",
+      "exp": "Durante la adaptación a alta ingesta de sodio puede haber retención modesta y leve expansión del LEC.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La arteriola eferente lleva sangre hacia el glomérulo.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "Durante la adaptación a alta ingesta de sodio puede haber retención modesta y leve expansión del LEC.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "La orina se forma principalmente dentro de la vejiga."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_010",
+      "q": "En relación con presión arterial, ¿cuál afirmación es correcta?",
+      "exp": "Los riñones dominan el control a largo plazo de la presión arterial por excreción de sodio y agua.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "Los riñones dominan el control a largo plazo de la presión arterial por excreción de sodio y agua.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_011",
+      "q": "En relación con renina, ¿cuál afirmación es correcta?",
+      "exp": "La renina contribuye al control vascular y de presión al favorecer angiotensina II.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "La renina contribuye al control vascular y de presión al favorecer angiotensina II.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "La orina se forma principalmente dentro de la vejiga."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_012",
+      "q": "En relación con equilibrio ácido base, ¿cuál afirmación es correcta?",
+      "exp": "Los riñones regulan el equilibrio acidobásico al excretar ácidos y regular bicarbonato.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "Los riñones regulan el equilibrio acidobásico al excretar ácidos y regular bicarbonato.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "Los capilares peritubulares tienen presión alta para favorecer filtración."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_013",
+      "q": "En relación con eritropoyetina, ¿cuál afirmación es correcta?",
+      "exp": "La hipoxia renal estimula eritropoyetina, que promueve producción de eritrocitos.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "La hipoxia renal estimula eritropoyetina, que promueve producción de eritrocitos."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap26_014",
+      "q": "En relación con nefropatia anemia, ¿cuál afirmación es correcta?",
+      "exp": "La nefropatía grave puede causar anemia por menor producción de eritropoyetina.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La nefropatía grave puede causar anemia por menor producción de eritropoyetina.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "La renina degrada angiotensina II y baja siempre la presión."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_015",
+      "q": "En relación con calcitriol, ¿cuál afirmación es correcta?",
+      "exp": "El riñón activa vitamina D a calcitriol, importante para calcio y hueso.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El riñón activa vitamina D a calcitriol, importante para calcio y hueso.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "La orina se forma principalmente dentro de la vejiga."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_016",
+      "q": "En relación con gluconeogenesis, ¿cuál afirmación es correcta?",
+      "exp": "En ayuno prolongado, el riñón puede sintetizar glucosa por gluconeogénesis.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "En ayuno prolongado, el riñón puede sintetizar glucosa por gluconeogénesis.",
+        "La orina se forma principalmente dentro de la vejiga.",
+        "La arteriola eferente lleva sangre hacia el glomérulo.",
+        "La médula renal está formada por alvéolos llenos de aire."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_017",
+      "q": "En relación con insuficiencia renal, ¿cuál afirmación es correcta?",
+      "exp": "La insuficiencia renal completa acumula potasio, ácidos, líquido y desechos en pocos días.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "La insuficiencia renal completa acumula potasio, ácidos, líquido y desechos en pocos días.",
+        "El uréter conduce orina desde la vejiga hacia los cálices."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap26_018",
+      "q": "En relación con hemodiálisis, ¿cuál afirmación es correcta?",
+      "exp": "La hemodiálisis puede restablecer parcialmente el equilibrio de líquidos y electrolitos.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "La hemodiálisis puede restablecer parcialmente el equilibrio de líquidos y electrolitos.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_019",
+      "q": "En relación con posición renal, ¿cuál afirmación es correcta?",
+      "exp": "Los riñones están en la pared posterior abdominal, fuera de la cavidad peritoneal.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "Los riñones están en la pared posterior abdominal, fuera de la cavidad peritoneal.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_020",
+      "q": "En relación con hilio, ¿cuál afirmación es correcta?",
+      "exp": "El hilio renal transmite arteria, vena, linfáticos, nervios y uréter.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El hilio renal transmite arteria, vena, linfáticos, nervios y uréter.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_021",
+      "q": "En relación con cápsula renal, ¿cuál afirmación es correcta?",
+      "exp": "La cápsula fibrosa renal protege estructuras internas delicadas.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "La cápsula fibrosa renal protege estructuras internas delicadas.",
+        "Las nefronas se regeneran masivamente después de los 40 años."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap26_022",
+      "q": "En relación con corteza y médula, ¿cuál afirmación es correcta?",
+      "exp": "El riñón se divide en corteza externa y médula interna.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "El riñón se divide en corteza externa y médula interna."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap26_023",
+      "q": "En relación con pirámides, ¿cuál afirmación es correcta?",
+      "exp": "La médula forma pirámides renales que terminan en papilas.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La médula forma pirámides renales que terminan en papilas.",
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "La arteriola eferente lleva sangre hacia el glomérulo."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_024",
+      "q": "En relación con papilas, ¿cuál afirmación es correcta?",
+      "exp": "Las papilas proyectan la orina hacia cálices y pelvis renal.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Las papilas proyectan la orina hacia cálices y pelvis renal.",
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "La arteriola eferente lleva sangre hacia el glomérulo.",
+        "La médula renal está formada por alvéolos llenos de aire."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_025",
+      "q": "En relación con cálices, ¿cuál afirmación es correcta?",
+      "exp": "Los cálices menores reciben orina de las papilas y drenan hacia cálices mayores.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "Los cálices menores reciben orina de las papilas y drenan hacia cálices mayores.",
+        "Las nefronas se regeneran masivamente después de los 40 años."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap26_026",
+      "q": "En relación con pelvis renal, ¿cuál afirmación es correcta?",
+      "exp": "La pelvis renal continúa con el uréter y conduce la orina hacia la vejiga.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "La pelvis renal continúa con el uréter y conduce la orina hacia la vejiga."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap26_027",
+      "q": "En relación con uréter, ¿cuál afirmación es correcta?",
+      "exp": "El uréter transporta orina desde pelvis renal hasta vejiga por contracciones peristálticas.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "El uréter transporta orina desde pelvis renal hasta vejiga por contracciones peristálticas.",
+        "La arteriola eferente lleva sangre hacia el glomérulo.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "El uréter conduce orina desde la vejiga hacia los cálices."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_028",
+      "q": "En relación con vejiga, ¿cuál afirmación es correcta?",
+      "exp": "La vejiga almacena orina hasta que ocurre la micción.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "La vejiga almacena orina hasta que ocurre la micción.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_029",
+      "q": "En relación con flujo renal, ¿cuál afirmación es correcta?",
+      "exp": "El flujo sanguíneo renal total es cerca de 22% del gasto cardíaco.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El flujo sanguíneo renal total es cerca de 22% del gasto cardíaco.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "La orina se forma principalmente dentro de la vejiga."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_030",
+      "q": "En relación con arterias renales, ¿cuál afirmación es correcta?",
+      "exp": "La arteria renal se ramifica hacia arterias interlobulares, arciformes e interlobulillares.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "La arteria renal se ramifica hacia arterias interlobulares, arciformes e interlobulillares.",
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_031",
+      "q": "En relación con arteriola aferente, ¿cuál afirmación es correcta?",
+      "exp": "La arteriola aferente conduce sangre hacia los capilares glomerulares.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La arteriola aferente conduce sangre hacia los capilares glomerulares.",
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "La arteriola eferente lleva sangre hacia el glomérulo.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_032",
+      "q": "En relación con capilares glomerulares, ¿cuál afirmación es correcta?",
+      "exp": "Los capilares glomerulares filtran grandes cantidades de líquido y solutos pequeños.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "Los capilares glomerulares filtran grandes cantidades de líquido y solutos pequeños.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "La renina degrada angiotensina II y baja siempre la presión."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_033",
+      "q": "En relación con arteriola eferente, ¿cuál afirmación es correcta?",
+      "exp": "La arteriola eferente separa capilares glomerulares de capilares peritubulares.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "La arteriola eferente separa capilares glomerulares de capilares peritubulares."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap26_034",
+      "q": "En relación con capilares peritubulares, ¿cuál afirmación es correcta?",
+      "exp": "Los capilares peritubulares rodean los túbulos y favorecen reabsorción.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La arteriola eferente lleva sangre hacia el glomérulo.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "Los capilares peritubulares rodean los túbulos y favorecen reabsorción.",
+        "La orina se forma principalmente dentro de la vejiga."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap26_035",
+      "q": "En relación con presión glomerular, ¿cuál afirmación es correcta?",
+      "exp": "La alta presión hidrostática glomerular favorece filtración rápida.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La alta presión hidrostática glomerular favorece filtración rápida.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "Las nefronas se regeneran masivamente después de los 40 años."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_036",
+      "q": "En relación con presión peritubular, ¿cuál afirmación es correcta?",
+      "exp": "La baja presión hidrostática peritubular favorece reabsorción hacia sangre.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "La orina se forma principalmente dentro de la vejiga.",
+        "La baja presión hidrostática peritubular favorece reabsorción hacia sangre.",
+        "La pelvis renal produce calcitriol y no conduce orina."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap26_037",
+      "q": "En relación con resistencia arteriolar, ¿cuál afirmación es correcta?",
+      "exp": "Cambios en resistencia aferente y eferente regulan filtración y reabsorción.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "La orina se forma principalmente dentro de la vejiga.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "Cambios en resistencia aferente y eferente regulan filtración y reabsorción."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap26_038",
+      "q": "En relación con nefrona unidad, ¿cuál afirmación es correcta?",
+      "exp": "La nefrona es la unidad funcional del riñón.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "La orina se forma principalmente dentro de la vejiga.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "La nefrona es la unidad funcional del riñón."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap26_039",
+      "q": "En relación con número nefronas, ¿cuál afirmación es correcta?",
+      "exp": "Cada riñón tiene aproximadamente 800.000 a 1.000.000 nefronas.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "Cada riñón tiene aproximadamente 800.000 a 1.000.000 nefronas.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "Las nefronas se regeneran masivamente después de los 40 años."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_040",
+      "q": "En relación con no regeneración, ¿cuál afirmación es correcta?",
+      "exp": "El riñón no regenera nefronas nuevas de forma significativa.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "El riñón no regenera nefronas nuevas de forma significativa.",
+        "La orina se forma principalmente dentro de la vejiga.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_041",
+      "q": "En relación con envejecimiento, ¿cuál afirmación es correcta?",
+      "exp": "Después de los 40 años se pierde gradualmente una fracción de nefronas funcionantes.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La orina se forma principalmente dentro de la vejiga.",
+        "La arteriola eferente lleva sangre hacia el glomérulo.",
+        "Después de los 40 años se pierde gradualmente una fracción de nefronas funcionantes.",
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_042",
+      "q": "En relación con glomérulo, ¿cuál afirmación es correcta?",
+      "exp": "El glomérulo es un penacho de capilares de alta presión cubierto por cápsula de Bowman.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El glomérulo es un penacho de capilares de alta presión cubierto por cápsula de Bowman.",
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_043",
+      "q": "En relación con cápsula bowman, ¿cuál afirmación es correcta?",
+      "exp": "El filtrado glomerular entra primero en la cápsula de Bowman.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Los capilares peritubulares tienen presión alta para favorecer filtración.",
+        "El filtrado glomerular entra primero en la cápsula de Bowman.",
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "La orina se forma principalmente dentro de la vejiga."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_044",
+      "q": "En relación con túbulo proximal, ¿cuál afirmación es correcta?",
+      "exp": "Desde la cápsula de Bowman, el filtrado pasa al túbulo proximal.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "Desde la cápsula de Bowman, el filtrado pasa al túbulo proximal.",
+        "La pelvis renal produce calcitriol y no conduce orina.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "La renina degrada angiotensina II y baja siempre la presión."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_045",
+      "q": "En relación con asa de henle, ¿cuál afirmación es correcta?",
+      "exp": "El asa de Henle desciende a la médula y retorna hacia la corteza.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "El asa de Henle desciende a la médula y retorna hacia la corteza.",
+        "La orina se forma principalmente dentro de la vejiga.",
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "La médula renal está formada por alvéolos llenos de aire."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_046",
+      "q": "En relación con rama ascendente gruesa, ¿cuál afirmación es correcta?",
+      "exp": "La rama ascendente gruesa retorna a la corteza y precede al túbulo distal.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "La arteriola eferente lleva sangre hacia el glomérulo.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "La rama ascendente gruesa retorna a la corteza y precede al túbulo distal."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap26_047",
+      "q": "En relación con mácula densa, ¿cuál afirmación es correcta?",
+      "exp": "La mácula densa es una placa especializada al final de la rama ascendente gruesa.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "La eritropoyetina renal inhibe la producción de eritrocitos.",
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "La mácula densa es una placa especializada al final de la rama ascendente gruesa.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "La pelvis renal produce calcitriol y no conduce orina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_048",
+      "q": "En relación con túbulo distal, ¿cuál afirmación es correcta?",
+      "exp": "Tras la mácula densa, el líquido entra al túbulo distal cortical.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Las nefronas se regeneran masivamente después de los 40 años.",
+        "La orina se forma principalmente dentro de la vejiga.",
+        "Tras la mácula densa, el líquido entra al túbulo distal cortical.",
+        "Los riñones eliminan desechos sin participar en agua ni electrolitos.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_049",
+      "q": "En relación con colector, ¿cuál afirmación es correcta?",
+      "exp": "Varios túbulos colectores corticales se unen y forman conductos colectores medulares.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "Varios túbulos colectores corticales se unen y forman conductos colectores medulares.",
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman.",
+        "La médula renal está formada por alvéolos llenos de aire.",
+        "La eritropoyetina renal inhibe la producción de eritrocitos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_050",
+      "q": "En relación con nefronas corticales, ¿cuál afirmación es correcta?",
+      "exp": "Las nefronas corticales tienen glomérulos externos y asas de Henle cortas.",
+      "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
+      "options": [
+        "El uréter conduce orina desde la vejiga hacia los cálices.",
+        "Las nefronas corticales tienen glomérulos externos y asas de Henle cortas.",
+        "Las nefronas corticales tienen asas largas profundas como rasgo principal.",
+        "La renina degrada angiotensina II y baja siempre la presión.",
+        "El túbulo distal antecede directamente a la cápsula de Bowman. Capítulo 27 - Filtración glomerular y flujo renal"
+      ],
+      "answer": 1
+    }
+  ]
+}

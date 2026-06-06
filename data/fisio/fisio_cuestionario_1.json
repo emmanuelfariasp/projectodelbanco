@@ -1,0 +1,1408 @@
+{
+  "key": "fisio_cuestionario_1",
+  "title": "Cuestionário 1",
+  "subtitle": "Cuestionario mixto de Endocrinología - Guyton",
+  "level": "100 preguntas",
+  "questions": [
+    {
+      "id": "fisio_cuestionario_1_001",
+      "q": "La hormona inhibidora de la prolactina corresponde principalmente a:",
+      "exp": "dopamina. Guyton identifica la hormona inhibidora de la prolactina (PIH) como dopamina, que inhibe la síntesis y secreción de prolactina en lactótropas.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "dopamina.",
+        "somatoliberina.",
+        "tiroliberina.",
+        "gonadoliberina.",
+        "corticoliberina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_002",
+      "q": "Las neurofisinas sirven principalmente para:",
+      "exp": "transportar ADH y oxitocina desde el hipotálamo hasta la neurohipófisis. ADH y oxitocina viajan asociadas a proteínas transportadoras llamadas neurofisinas a lo largo de los axones. Al liberarse, la unión es laxa y la hormona se separa rápido.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "unir T4 en el plasma durante semanas.",
+        "transportar ADH y oxitocina desde el hipotálamo hasta la neurohipófisis.",
+        "inhibir la prolactina en lactótropas.",
+        "formar MIT y DIT en el coloide.",
+        "activar la bomba sodio-yoduro."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_003",
+      "q": "El radioinmunoanálisis se basa principalmente en:",
+      "exp": "competencia entre hormona natural y hormona marcada por un anticuerpo específico. En el radioinmunoanálisis, la hormona del paciente compite con una hormona marcada radiactivamente por lugares de unión en un anticuerpo específico; la radiactividad unida permite estimar la concentración.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "competencia entre hormona natural y hormona marcada por un anticuerpo específico.",
+        "medición directa de glucógeno muscular.",
+        "conversión de T4 en T3 dentro del tubo de ensayo.",
+        "unión irreversible de calcio a calmodulina.",
+        "liberación de hormonas por exocitosis."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_004",
+      "q": "La tiroxina tiene inicio lento y acción prolongada porque:",
+      "exp": "se une a proteínas plasmáticas e intracelulares y se libera lentamente. Después de una dosis alta de T4, el efecto metabólico tarda días en aparecer y puede persistir semanas, en parte por su unión a proteínas y por su mecanismo génico.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "se une a proteínas plasmáticas e intracelulares y se libera lentamente.",
+        "se degrada en segundos.",
+        "no entra a las células.",
+        "actúa solo por canales iónicos.",
+        "no necesita receptores."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_005",
+      "q": "El aumento de hormona tiroidea libre en líquidos corporales produce:",
+      "exp": "disminución de la secreción adenohipofisaria de TSH por retroalimentación negativa. La concentración elevada de T3/T4 reduce la secreción de TSH, principalmente por efecto directo sobre la adenohipófisis, manteniendo estable la hormona tiroidea libre.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "aumento ilimitado de TSH.",
+        "bloqueo de receptores nucleares de T3.",
+        "disminución de la secreción adenohipofisaria de TSH por retroalimentación negativa.",
+        "aumento de TRH sin cambios hipofisarios.",
+        "secreción de ADH por células foliculares."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_006",
+      "q": "Las hormonas liberadoras e inhibidoras hipotalámicas llegan a la adenohipófisis mediante:",
+      "exp": "los vasos porta hipotalámico-hipofisarios. Estas hormonas se secretan en la eminencia media, entran al sistema porta hipotalámico-hipofisario y alcanzan los senos capilares adenohipofisarios.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "los vasos porta hipotalámico-hipofisarios.",
+        "el conducto pancreático.",
+        "el coloide folicular.",
+        "los túbulos colectores renales.",
+        "la circulación linfática intestinal solamente."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_007",
+      "q": "Las células corticótropas secretan principalmente:",
+      "exp": "corticotropina, también llamada ACTH. Las corticótropas producen ACTH, que estimula la corteza suprarrenal para generar glucocorticoides y andrógenos, además de mantener zonas corticales.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "corticotropina, también llamada ACTH.",
+        "hormona del crecimiento.",
+        "tirotropina.",
+        "dopamina.",
+        "oxitocina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_008",
+      "q": "En condiciones normales, la hormona finalmente usada por los tejidos es sobre todo:",
+      "exp": "T3, porque gran parte de T4 se convierte en T3. Aunque la tiroides libera más T4, en los tejidos una parte importante se desyoda a T3, que tiene mayor afinidad por el receptor y mayor potencia.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "T4 intacta sin conversión alguna.",
+        "RT3 como principal forma activa.",
+        "T3, porque gran parte de T4 se convierte en T3.",
+        "tiroglobulina entera.",
+        "calcitonina convertida en TSH."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_009",
+      "q": "El simportador sodio-yoduro (NIS) realiza:",
+      "exp": "cotransporte de un yoduro con dos sodios por la membrana basolateral hacia la célula folicular. El NIS usa el gradiente de sodio, mantenido por Na+-K+-ATPasa, para introducir yoduro desde el plasma hacia la célula folicular tiroidea.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "contratransporte de cloruro y yoduro por la membrana apical hacia sangre.",
+        "cotransporte de un yoduro con dos sodios por la membrana basolateral hacia la célula folicular.",
+        "proteólisis de tiroglobulina en lisosomas.",
+        "unión de T3 al receptor nuclear.",
+        "liberación de TSH desde la neurohipófisis."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_010",
+      "q": "¿Cuál de las siguientes hormonas utiliza con frecuencia el sistema adenilato ciclasa-AMPc según Guyton?",
+      "exp": "TSH. La TSH es una de las hormonas listadas por Guyton que utiliza el sistema adenilato ciclasa-AMPc para estimular su tejido efector, especialmente la célula tiroidea.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "TSH.",
+        "Aldosterona en receptor nuclear.",
+        "Tiroxina en receptor nuclear.",
+        "Cortisol en receptor citoplasmático.",
+        "Estradiol en receptor intracelular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_011",
+      "q": "La peroxidasa tiroidea participa principalmente en:",
+      "exp": "oxidación del yoduro y yodación de la tirosina. El sistema peroxidasa con peróxido de hidrógeno oxida el yoduro a una forma activa y permite la yodación de tirosinas en la tiroglobulina.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "transporte de ADH por neurofisina.",
+        "inserción de acuaporinas renales.",
+        "secreción hepática de IGF-I.",
+        "oxidación del yoduro y yodación de la tirosina.",
+        "liberación de prolactina por dopamina."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_012",
+      "q": "El mecanismo celular de la ADH en células de túbulos y conductos colectores implica:",
+      "exp": "receptores de membrana, AMPc e inserción de acuaporinas en membrana apical. La ADH activa adenilato ciclasa y AMPc, fosforila elementos de vesículas con acuaporinas y promueve su inserción en la membrana apical, aumentando permeabilidad al agua.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "receptor nuclear esteroideo y síntesis de tiroglobulina.",
+        "destrucción permanente de acuaporinas.",
+        "bloqueo de adenilato ciclasa y pérdida de agua.",
+        "activación de TSH en la tiroides.",
+        "receptores de membrana, AMPc e inserción de acuaporinas en membrana apical."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_013",
+      "q": "Si un receptor hormonal se acopla a proteína Gi, el efecto esperado sobre la adenilato ciclasa es:",
+      "exp": "inhibición de la adenilato ciclasa y menor AMPc. Guyton diferencia proteínas G estimuladoras (Gs) e inhibidoras (Gi). Las Gi reducen la actividad de adenilato ciclasa, disminuyendo AMPc y cambiando la respuesta celular.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "activación obligatoria de la fosfolipasa C.",
+        "aumento irreversible de AMPc.",
+        "formación directa de T3.",
+        "liberación de tiroglobulina al coloide.",
+        "inhibición de la adenilato ciclasa y menor AMPc."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_014",
+      "q": "Cuando una concentración hormonal elevada disminuye el número o actividad de receptores activos, ocurre:",
+      "exp": "regulación a la baja con menor sensibilidad celular. La regulación a la baja puede ocurrir por inactivación, secuestro, destrucción lisosomal o menor producción de receptores. El resultado es menor respuesta de la célula diana.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "organificación de receptores.",
+        "aumento permanente de la respuesta celular.",
+        "regulación a la baja con menor sensibilidad celular.",
+        "yodación de proteínas de membrana.",
+        "secreción de neurofisinas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_015",
+      "q": "La tiroglobulina se sintetiza principalmente en:",
+      "exp": "retículo endoplásmico y aparato de Golgi de las células tiroideas. Las células foliculares son secretoras de proteínas; producen tiroglobulina en RER y Golgi, luego la secretan al folículo donde servirá de sustrato para la yodación.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "núcleos supraóptico y paraventricular.",
+        "médula suprarrenal.",
+        "células somatótropas.",
+        "retículo endoplásmico y aparato de Golgi de las células tiroideas.",
+        "conductos colectores renales."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_016",
+      "q": "Una enzima que aumenta por acción de hormona tiroidea y contribuye a la producción de calor es:",
+      "exp": "Na+-K+-ATPasa. La hormona tiroidea aumenta la actividad de Na+-K+-ATPasa, incrementando transporte activo de sodio y potasio, gasto de energía y producción de calor.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "desyodasa de MIT exclusivamente.",
+        "neurofisina.",
+        "aromatasa.",
+        "Na+-K+-ATPasa.",
+        "miosina cinasa ligera solamente."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_017",
+      "q": "La importancia de una cascada enzimática intracelular es que:",
+      "exp": "una pequeña cantidad de hormona puede producir una respuesta celular grande. La activación secuencial de enzimas amplifica la señal: pocas moléculas activadas pueden activar muchas más en pasos sucesivos, generando una respuesta potente.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "impide cualquier amplificación hormonal.",
+        "una pequeña cantidad de hormona puede producir una respuesta celular grande.",
+        "obliga a que todas las hormonas sean esteroideas.",
+        "elimina la necesidad de receptores específicos.",
+        "bloquea la formación de segundos mensajeros."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_018",
+      "q": "La GH favorece el depósito de proteínas por todos los mecanismos siguientes, excepto:",
+      "exp": "aumento del catabolismo de proteínas y aminoácidos. Según Guyton, GH aumenta captación de aminoácidos, traducción y transcripción, y reduce degradación proteica; por eso actúa como hormona anabólica proteica.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "facilitación del transporte de aminoácidos a la célula.",
+        "aumento de la traducción de ARN.",
+        "aumento de transcripción nuclear de ADN.",
+        "disminución de la degradación proteica.",
+        "aumento del catabolismo de proteínas y aminoácidos."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_019",
+      "q": "El atrapamiento de yoduro por la tiroides depende sobre todo de:",
+      "exp": "la concentración de TSH. La TSH estimula la bomba de yoduro y aumenta la capacidad de la glándula para concentrar yoduro dentro de las células tiroideas.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "la concentración de oxitocina.",
+        "la secreción de prolactina.",
+        "la neurofisina.",
+        "la concentración de TSH.",
+        "el ácido acetoacético."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_020",
+      "q": "Las hormonas neurohipofisarias se sintetizan principalmente en:",
+      "exp": "cuerpos neuronales de los núcleos supraóptico y paraventricular. ADH y oxitocina se sintetizan en neuronas magnocelulares hipotalámicas y luego se transportan por axones hasta las terminaciones de la neurohipófisis.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "células epiteliales de la adenohipófisis.",
+        "células C tiroideas.",
+        "cuerpos neuronales de los núcleos supraóptico y paraventricular.",
+        "células de Leydig.",
+        "células foliculares del tiroides."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_021",
+      "q": "¿Cuál combinación resume mejor los efectos metabólicos de la GH?",
+      "exp": "Aumenta síntesis proteica, moviliza grasas y reduce utilización de glucosa. La GH favorece depósito de proteínas, uso de lípidos como energía y conservación de carbohidratos mediante reducción de la utilización de glucosa.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "Aumenta síntesis proteica, moviliza grasas y reduce utilización de glucosa.",
+        "Disminuye síntesis proteica, almacena grasa y aumenta captación de glucosa.",
+        "Solo aumenta la excreción renal de agua.",
+        "Convierte T4 en T3 en los tejidos.",
+        "Estimula exclusivamente la yodación de tirosina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_022",
+      "q": "El mecanismo de acción típico de las hormonas esteroideas consiste en:",
+      "exp": "unirse a receptores intracelulares y regular la transcripción génica. Las hormonas esteroideas atraviesan la membrana, se unen a receptores citoplasmáticos o nucleares y el complejo regula elementos de respuesta hormonal en el ADN.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "unirse siempre a canales iónicos postsinápticos.",
+        "ser liberadas por exocitosis desde vesículas abundantes.",
+        "convertirse en AMPc antes de entrar en la célula.",
+        "unirse a receptores intracelulares y regular la transcripción génica.",
+        "actuar exclusivamente sobre receptores V2 renales."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_023",
+      "q": "El receptor de leptina es un ejemplo de receptor que señaliza principalmente mediante:",
+      "exp": "JAK2, STAT y otras vías como MAPK o PI3K. Guyton describe el receptor de leptina como receptor de citocinas asociado a JAK2. La activación fosforila STAT y activa transcripción génica, además de vías enzimáticas rápidas.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "JAK2, STAT y otras vías como MAPK o PI3K.",
+        "tiroglobulina y pendrina.",
+        "neurofisina y acuaporina.",
+        "MIT, DIT y coloide.",
+        "colesterol y bilis."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_024",
+      "q": "Los receptores principales de muchas hormonas esteroideas se encuentran sobre todo en:",
+      "exp": "el citoplasma o el núcleo de las células diana. Las hormonas esteroideas son liposolubles y atraviesan la membrana celular. Luego se unen a receptores intracelulares que regulan la transcripción génica.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "el lumen de los folículos tiroideos.",
+        "el citoplasma o el núcleo de las células diana.",
+        "la superficie externa de eritrocitos.",
+        "las vesículas de neurofisina.",
+        "el sistema porta hipotalámico."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_025",
+      "q": "El mixedema del hipotiroidismo extremo se explica por:",
+      "exp": "acúmulo de gel tisular con ácido hialurónico y sulfato de condroitina, causando edema sin fóvea. Guyton describe que en el mixedema se acumulan mucopolisacáridos unidos a proteínas en el intersticio; el líquido queda en forma de gel poco móvil, generando edema sin fóvea.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "retención exclusiva de aire en los tejidos.",
+        "aumento de TSI en órbitas.",
+        "exceso de catecolaminas en piel.",
+        "secreción de oxitocina por tiroides.",
+        "acúmulo de gel tisular con ácido hialurónico y sulfato de condroitina, causando edema sin fóvea."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_026",
+      "q": "La glándula tiroides secreta principalmente:",
+      "exp": "tiroxina, triyodotironina y calcitonina. Guyton describe que la tiroides secreta T4 y T3, hormonas metabólicas, y también calcitonina, relacionada con el metabolismo del calcio.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "GH, ACTH y prolactina.",
+        "ADH y oxitocina.",
+        "tiroxina, triyodotironina y calcitonina.",
+        "cortisol, aldosterona y adrenalina.",
+        "insulina, glucagón y somatostatina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_027",
+      "q": "La neurohipófisis está compuesta principalmente por pituicitos, que:",
+      "exp": "son células de sostén para fibras nerviosas y no secretan las hormonas principales. Los pituicitos se parecen a células gliales y sirven de soporte a fibras y terminaciones nerviosas procedentes de núcleos hipotalámicos.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "son células foliculares que producen T4.",
+        "secretan ACTH y TSH.",
+        "producen somatomedina C.",
+        "son células de sostén para fibras nerviosas y no secretan las hormonas principales.",
+        "forman el sistema porta hipotalámico."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_028",
+      "q": "¿Cuál grupo de hormonas se sintetiza inicialmente en el retículo endoplásmico rugoso como preprohormonas?",
+      "exp": "Hormonas proteicas y peptídicas. Las hormonas proteicas y peptídicas se sintetizan como proteínas grandes sin actividad biológica, llamadas preprohormonas, en el retículo endoplásmico rugoso; luego se procesan a prohormonas y hormonas activas.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "Hormonas esteroideas.",
+        "Hormonas proteicas y peptídicas.",
+        "Hormonas tiroideas ya unidas a tiroglobulina.",
+        "Yoduros inorgánicos.",
+        "Ácidos nucleicos hormonales."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_029",
+      "q": "El tiocianato inhibe la función tiroidea principalmente porque:",
+      "exp": "compite con el yoduro por el mecanismo de atrapamiento. Tiocianato, perclorato y nitrato pueden competir con yoduro por la bomba activa de entrada a la célula tiroidea, reduciendo disponibilidad de yoduro para formar hormona.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "bloquea directamente el receptor nuclear de T3.",
+        "destruye selectivamente la neurohipófisis.",
+        "compite con el yoduro por el mecanismo de atrapamiento.",
+        "aumenta la yodación de tirosina.",
+        "estimula anticuerpos TSI."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_030",
+      "q": "El cretinismo se debe a hipotiroidismo extremo durante:",
+      "exp": "vida fetal, lactancia o infancia temprana. La falta de hormona tiroidea en etapas tempranas impide crecimiento normal y maduración del sistema nervioso central; el tratamiento debe iniciarse pronto para evitar retraso mental permanente.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "edad adulta después de cierre epifisario solamente.",
+        "vida fetal, lactancia o infancia temprana.",
+        "periodo de ejercicio intenso.",
+        "exceso de GH antes de pubertad.",
+        "estimulación autoinmunitaria del receptor de TSH."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_031",
+      "q": "La activación de la fosfolipasa C sobre PIP2 genera principalmente:",
+      "exp": "IP3 y DAG. La fosfolipasa C degrada PIP2 para formar IP3 y DAG. El IP3 moviliza calcio intracelular y el DAG activa proteína cinasa C.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "IP3 y DAG.",
+        "T3 y T4.",
+        "ATP y ADP.",
+        "MIT y DIT.",
+        "ADH y oxitocina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_032",
+      "q": "Estimulan la secreción de GH:",
+      "exp": "hipoglucemia, ejercicio, sueño profundo, estrés, ayuno y grelina. Guyton enumera como estímulos de GH el descenso de glucemia, descenso de ácidos grasos libres, aumento de aminoácidos, ayuno, estrés, ejercicio, sueño profundo, GHRH y grelina.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "hiperglucemia, obesidad y envejecimiento.",
+        "somatostatina, GH exógena e IGF.",
+        "aumento de ácidos grasos libres exclusivamente.",
+        "hipoglucemia, ejercicio, sueño profundo, estrés, ayuno y grelina.",
+        "yoduro elevado y propiltiouracilo."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_033",
+      "q": "La TSH aumenta la secreción tiroidea por varios efectos, excepto:",
+      "exp": "disminuir la proteólisis de tiroglobulina almacenada. Guyton indica que la TSH eleva, no disminuye, la proteólisis de tiroglobulina, liberando T3 y T4. También aumenta atrapamiento de yoduro, yodación y crecimiento glandular.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "disminuir la proteólisis de tiroglobulina almacenada.",
+        "aumentar la actividad de la bomba de yoduro.",
+        "intensificar la yodación de tirosina.",
+        "aumentar tamaño y actividad secretora celular.",
+        "incrementar número de células tiroideas."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_034",
+      "q": "La primera etapa de la formación de hormonas tiroideas es:",
+      "exp": "transporte de yoduro desde la sangre hacia las células tiroideas y folículos. Guyton describe como primer paso el atrapamiento de yoduro por las células tiroideas, necesario antes de oxidación, organificación y acoplamiento.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "proteólisis de T4 en el plasma.",
+        "unión de TSH al receptor nuclear.",
+        "transporte de yoduro desde la sangre hacia las células tiroideas y folículos.",
+        "expulsión de calcitonina al coloide.",
+        "conversión de T3 en tiroglobulina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_035",
+      "q": "Las células somatótropas de la adenohipófisis secretan:",
+      "exp": "hormona del crecimiento. Guyton relaciona cada tipo celular adenohipofisario con su hormona: somatótropas con GH, corticótropas con ACTH, tirótropas con TSH, gonadótropas con FSH/LH y lactótropas con PRL.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "ACTH.",
+        "TSH.",
+        "hormona del crecimiento.",
+        "prolactina.",
+        "FSH y LH."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_036",
+      "q": "¿Cuál es una vía de eliminación o aclaramiento de hormonas desde el plasma?",
+      "exp": "Destrucción metabólica por tejidos, excreción hepática o excreción renal. Guyton enumera varias formas de eliminación hormonal: destrucción metabólica por los tejidos, unión a tejidos, excreción hepática por bilis y excreción renal por orina.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "Conversión obligatoria en tiroglobulina.",
+        "Destrucción metabólica por tejidos, excreción hepática o excreción renal.",
+        "Almacenamiento irreversible en eritrocitos.",
+        "Unión permanente a receptores sin reciclaje.",
+        "Transformación de todas en glucógeno."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_037",
+      "q": "Parte de la tiroglobulina entra a la célula folicular por endocitosis al unirse a megalina localizada en la membrana:",
+      "exp": "luminal. Guyton menciona que la megalina se sitúa en la membrana luminal de las células tiroideas y permite endocitosis de parte de la tiroglobulina del coloide.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "luminal.",
+        "basal externa.",
+        "nuclear.",
+        "mitocondrial.",
+        "eritrocitaria."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_038",
+      "q": "Los efectos diabetógenos de la GH se explican por:",
+      "exp": "resistencia a la insulina, menor captación de glucosa y mayor producción hepática de glucosa. GH disminuye la captación de glucosa en músculo y tejido adiposo, aumenta la producción hepática de glucosa y eleva la secreción compensadora de insulina.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "estimulación directa de acuaporinas renales.",
+        "aumento de yodación de tiroglobulina.",
+        "inhibición completa de la secreción de insulina.",
+        "resistencia a la insulina, menor captación de glucosa y mayor producción hepática de glucosa.",
+        "destrucción inmediata de todos los adipocitos."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_039",
+      "q": "Comparada con T4, la T3 es:",
+      "exp": "más potente, de acción más rápida y de menor duración. Guyton explica que T3 es unas cuatro veces más potente que T4, aunque se encuentra en menor cantidad y tiene duración más breve.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "menos potente y de acción más lenta.",
+        "idéntica en potencia y duración.",
+        "más potente, de acción más rápida y de menor duración.",
+        "una proteína plasmática sin acción.",
+        "una forma sin importancia funcional."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_040",
+      "q": "La GH estimula el crecimiento longitudinal de huesos largos principalmente en:",
+      "exp": "los cartílagos epifisarios antes de su cierre. Antes de la fusión epifisaria, GH favorece depósito de cartílago nuevo y su conversión en hueso, lo que alarga la diáfisis. Tras el cierre, ya no aumenta la longitud.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "los cartílagos epifisarios antes de su cierre.",
+        "la médula ósea después de destruir epífisis.",
+        "el coloide tiroideo.",
+        "la membrana basal renal.",
+        "la zona glomerular suprarrenal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_041",
+      "q": "Una característica especial de la tiroides es que:",
+      "exp": "puede almacenar hormona suficiente para 2 o 3 meses en el coloide. La tiroides es la única glándula endocrina con gran capacidad de almacenamiento hormonal. Las hormonas quedan dentro de la tiroglobulina en el coloide folicular.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "puede almacenar hormona suficiente para 2 o 3 meses en el coloide.",
+        "no almacena ninguna hormona.",
+        "almacena solo adrenalina en vesículas.",
+        "guarda GH durante años.",
+        "almacena TSH en células C."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_042",
+      "q": "Una ventaja del ELISA frente a métodos radiactivos es que:",
+      "exp": "no utiliza isótopos radiactivos y puede automatizarse en placas. Guyton señala que el ELISA combina especificidad de anticuerpos con detección enzimática, evita radioisótopos y puede automatizarse, por ejemplo, en placas de 96 pocillos.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "solo mide hormonas esteroideas.",
+        "no utiliza isótopos radiactivos y puede automatizarse en placas.",
+        "requiere siempre cirugía de la glándula.",
+        "no usa anticuerpos.",
+        "mide únicamente AMPc intracelular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_043",
+      "q": "La secreción hormonal puede variar por ritmos cíclicos. Un ejemplo correcto es:",
+      "exp": "la hormona del crecimiento aumenta durante las primeras horas de sueño profundo. Guyton señala que varias hormonas muestran variaciones periódicas relacionadas con el sueño, el ciclo diurno, el desarrollo o el envejecimiento. La GH se eleva especialmente al inicio del sueño profundo.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "la tiroxina se libera solo durante la ovulación.",
+        "la adrenalina tarda meses en iniciar su acción.",
+        "la prolactina no recibe control hipotalámico.",
+        "la hormona del crecimiento aumenta durante las primeras horas de sueño profundo.",
+        "la TSH no varía ante estímulos nerviosos."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_044",
+      "q": "Una hormona autocrina se caracteriza principalmente porque:",
+      "exp": "actúa sobre la misma célula que la produjo o sobre células del mismo tipo cercanas. En la señalización autocrina, la sustancia secretada pasa al líquido extracelular y ejerce su acción sobre la propia célula productora; esto la diferencia de la acción endocrina, que viaja por sangre.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "solo se libera por axones terminales en una sinapsis.",
+        "se almacena obligatoriamente en el coloide tiroideo.",
+        "necesita circular unida a globulina fijadora de tiroxina.",
+        "se produce exclusivamente en la neurohipófisis.",
+        "actúa sobre la misma célula que la produjo o sobre células del mismo tipo cercanas."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_045",
+      "q": "En el sistema calcio-calmodulina, el calcio intracelular se une a calmodulina y puede:",
+      "exp": "activar o inhibir proteínas cinasas dependientes de calmodulina. Al unirse tres o cuatro iones calcio, la calmodulina cambia de forma y activa diversos procesos, como proteínas cinasas dependientes de calmodulina.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "formar tiroglobulina en el coloide.",
+        "transformarse directamente en colesterol.",
+        "bloquear la síntesis de todas las proteínas.",
+        "activar o inhibir proteínas cinasas dependientes de calmodulina.",
+        "convertirse en hormona peptídica."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_046",
+      "q": "La acción de una hormona comienza, en términos generales, cuando:",
+      "exp": "se une a un receptor específico de la célula efectora. Una célula solo responde a una hormona si posee receptores específicos. La unión hormona-receptor inicia las cascadas de señalización o los cambios de transcripción.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "se degrada por enzimas hepáticas.",
+        "se une a un receptor específico de la célula efectora.",
+        "se almacena en el núcleo de cualquier célula.",
+        "se transforma en ácido nucleico.",
+        "entra siempre por un canal de sodio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_047",
+      "q": "En el músculo liso, una función específica de la calmodulina es activar:",
+      "exp": "la cinasa de cadena ligera de miosina. Guyton menciona que la calmodulina activa la miosina cinasa de cadena ligera, que actúa sobre la miosina y favorece la contracción del músculo liso.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "la tiroperoxidasa folicular.",
+        "la globulina fijadora de tiroxina.",
+        "la neurofisina II.",
+        "la cinasa de cadena ligera de miosina.",
+        "el receptor retinoide X."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_048",
+      "q": "Para liberar T3 y T4 desde la tiroglobulina, la célula folicular realiza principalmente:",
+      "exp": "pinocitosis del coloide, fusión con lisosomas y proteólisis. La superficie apical forma vesículas de pinocitosis con coloide. Estas se fusionan con lisosomas; las proteasas digieren tiroglobulina y liberan T3 y T4.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "secreción directa de toda la tiroglobulina a la sangre.",
+        "unión de TSH a receptores nucleares.",
+        "pinocitosis del coloide, fusión con lisosomas y proteólisis.",
+        "activación de pituicitos.",
+        "excreción renal de coloide."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_049",
+      "q": "Son hormonas principales secretadas por la adenohipófisis, excepto:",
+      "exp": "oxitocina. La oxitocina se sintetiza en neuronas hipotalámicas y se libera por la neurohipófisis. La adenohipófisis secreta GH, ACTH, TSH, PRL, FSH y LH.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "hormona del crecimiento.",
+        "oxitocina.",
+        "corticotropina.",
+        "tirotropina.",
+        "prolactina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_050",
+      "q": "El efecto general de las hormonas tiroideas sobre el organismo es:",
+      "exp": "aumentar la actividad metabólica de casi todos los tejidos. Las hormonas tiroideas aumentan la transcripción de muchos genes, incrementan enzimas, proteínas transportadoras y actividad celular, elevando el metabolismo basal.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "disminuir siempre el metabolismo basal.",
+        "bloquear la síntesis de enzimas.",
+        "aumentar la actividad metabólica de casi todos los tejidos.",
+        "impedir la utilización de oxígeno.",
+        "reducir el número de mitocondrias."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_051",
+      "q": "La pendrina es importante porque:",
+      "exp": "transporta yoduro a través de la membrana apical hacia el folículo. Después de entrar por la membrana basolateral, el yoduro sale hacia el lumen folicular por la membrana apical mediante pendrina, un contratransportador cloruro-yoduro.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "transporta ADH hasta la neurohipófisis.",
+        "convierte T4 en T3 dentro del núcleo.",
+        "secretada por células C reduce calcio.",
+        "une T4 en el plasma.",
+        "transporta yoduro a través de la membrana apical hacia el folículo."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_052",
+      "q": "El principal órgano que forma somatomedinas/IGF en respuesta a GH es:",
+      "exp": "el hígado. Guyton explica que GH actúa sobre el hígado, y en menor grado otros tejidos, para formar somatomedinas como IGF-I, mediadoras importantes del crecimiento óseo.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "el bazo.",
+        "el hígado.",
+        "la neurohipófisis.",
+        "el tiroides.",
+        "la médula suprarrenal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_053",
+      "q": "Alrededor del 93% de las hormonas con actividad metabólica secretadas por la tiroides corresponde a:",
+      "exp": "tiroxina, o T4. La tiroides libera principalmente T4 y una menor proporción de T3. Sin embargo, gran parte de T4 se convierte después en T3 en los tejidos.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "tiroxina, o T4.",
+        "triyodotironina, o T3.",
+        "T3 inversa.",
+        "calcitonina.",
+        "tiroglobulina libre."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_054",
+      "q": "Respecto al transporte en sangre, circulan principalmente unidas a proteínas plasmáticas:",
+      "exp": "las hormonas esteroideas y tiroideas. Las hormonas esteroideas y tiroideas son liposolubles; por eso viajan unidas a proteínas plasmáticas. La fracción libre es la que difunde hacia los tejidos y ejerce actividad biológica.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "las hormonas peptídicas y la mayoría de catecolaminas.",
+        "solo las hormonas neurohipofisarias.",
+        "las hormonas esteroideas y tiroideas.",
+        "todas las hormonas hidrosolubles.",
+        "solamente los neurotransmisores."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_055",
+      "q": "La oxitocina tiene como función fisiológica importante:",
+      "exp": "contracción del útero gestante y expulsión de leche. Guyton describe dos acciones importantes: estimula contracciones uterinas, especialmente al final de gestación, y contrae células mioepiteliales mamarias para expulsar leche.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "aumento directo de la glucemia por el hígado.",
+        "yodación de tirosina en tiroglobulina.",
+        "reabsorción renal de calcio.",
+        "contracción del útero gestante y expulsión de leche.",
+        "producción de somatomedina C hepática."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_056",
+      "q": "La acromegalia se caracteriza por exceso de GH:",
+      "exp": "después del cierre epifisario, con engrosamiento de huesos y tejidos blandos. Tras la adolescencia, los huesos largos no crecen en longitud, pero huesos membranosos y tejidos blandos pueden aumentar de grosor: mandíbula, cráneo, manos, pies y órganos.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "durante la lactancia por exceso de oxitocina.",
+        "por destrucción completa de somatótropas en la infancia.",
+        "con disminución de mandíbula, manos y pies.",
+        "después del cierre epifisario, con engrosamiento de huesos y tejidos blandos.",
+        "por déficit de receptores de TSH."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_057",
+      "q": "La neurohipófisis tiene origen en:",
+      "exp": "una evaginación de tejido nervioso del hipotálamo. La neurohipófisis proviene de tejido nervioso hipotalámico; por eso contiene fibras nerviosas terminales y células de sostén tipo glial llamadas pituicitos.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "la bolsa de Rathke.",
+        "el epitelio faríngeo.",
+        "la médula suprarrenal.",
+        "las células foliculares tiroideas.",
+        "una evaginación de tejido nervioso del hipotálamo."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_058",
+      "q": "La oxitocina se forma sobre todo en el núcleo:",
+      "exp": "paraventricular. La oxitocina se sintetiza sobre todo en el núcleo paraventricular y se transporta por el haz hipotalámico-hipofisario hacia la neurohipófisis.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "supraóptico exclusivamente.",
+        "dorsomedial.",
+        "paraventricular.",
+        "arcuato solamente.",
+        "lateral anterior."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_059",
+      "q": "La organificación de la tiroglobulina significa:",
+      "exp": "unión del yodo oxidado a residuos de tirosina de la tiroglobulina. Guyton define la organificación como la unión de yodo a la tiroglobulina, específicamente a los residuos de tirosina, formando MIT y DIT.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "liberación de TSH por la hipófisis posterior.",
+        "unión del yodo oxidado a residuos de tirosina de la tiroglobulina.",
+        "formación de vesículas con acuaporinas.",
+        "unión de GH a IGF-I.",
+        "secreción de calcitonina por adenohipófisis."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_060",
+      "q": "La tiroxina (T4) se forma principalmente por acoplamiento de:",
+      "exp": "DIT + DIT. El principal producto del acoplamiento es T4, formada por dos residuos DIT. La T3 se forma cuando se acopla MIT con DIT.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "DIT + DIT.",
+        "MIT + DIT.",
+        "MIT + MIT.",
+        "T3 + TSH.",
+        "yoduro + sodio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_061",
+      "q": "La GH estimula el crecimiento corporal porque favorece principalmente:",
+      "exp": "aumento del tamaño celular, mitosis y diferenciación celular. Guyton describe que GH aumenta el tamaño de las células, estimula mitosis y favorece diferenciación, especialmente en células relacionadas con crecimiento óseo y muscular.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "destrucción de cartílago epifisario desde la infancia.",
+        "aumento del tamaño celular, mitosis y diferenciación celular.",
+        "bloqueo de síntesis proteica.",
+        "disminución del transporte de aminoácidos.",
+        "secreción de ADH por los riñones."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_062",
+      "q": "La hormona tiroidea tiende a disminuir colesterol plasmático porque:",
+      "exp": "aumenta receptores hepáticos de LDL y secreción de colesterol hacia la bilis. T3/T4 favorecen eliminación hepática de LDL y secreción de colesterol por bilis; por eso el hipotiroidismo prolongado puede elevar colesterol y favorecer arterioesclerosis.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "aumenta receptores hepáticos de LDL y secreción de colesterol hacia la bilis.",
+        "bloquea toda secreción biliar.",
+        "impide la movilización de lípidos del tejido adiposo.",
+        "convierte colesterol en TSH.",
+        "disminuye el metabolismo hepático."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_063",
+      "q": "La adenohipófisis deriva embriológicamente de:",
+      "exp": "la bolsa de Rathke, una invaginación del epitelio faríngeo. La adenohipófisis tiene origen epitelial a partir de la bolsa de Rathke, lo que explica la naturaleza epitelial de sus células secretoras.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "una evaginación directa del hipotálamo.",
+        "el mesodermo de la corteza suprarrenal.",
+        "el epitelio folicular tiroideo.",
+        "la bolsa de Rathke, una invaginación del epitelio faríngeo.",
+        "los islotes pancreáticos."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_064",
+      "q": "Una acción importante del IP3 en el sistema de fosfolípidos de membrana es:",
+      "exp": "movilizar calcio desde depósitos intracelulares. El IP3 libera calcio desde estructuras intracelulares como el retículo endoplásmico. El calcio actúa como otro segundo mensajero en secreción, contracción y otras funciones celulares.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "convertir colesterol en cortisol.",
+        "bloquear todos los canales de agua.",
+        "transportar yoduro desde la sangre.",
+        "destruir la adenilato ciclasa.",
+        "movilizar calcio desde depósitos intracelulares."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_065",
+      "q": "El aumento de la osmolalidad del líquido extracelular:",
+      "exp": "estimula osmorreceptores y aumenta la secreción de ADH. Cuando el líquido extracelular está concentrado, los osmorreceptores pierden agua, disminuyen de tamaño y desencadenan señales para aumentar la liberación de ADH.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "estimula osmorreceptores y aumenta la secreción de ADH.",
+        "inhibe completamente la secreción de ADH.",
+        "destruye el núcleo supraóptico.",
+        "estimula prolactina por dopamina.",
+        "bloquea la reabsorción de agua."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_066",
+      "q": "La GHRH estimula las células somatótropas mediante:",
+      "exp": "receptor de membrana, adenilato ciclasa, AMPc, entrada de calcio y exocitosis de GH. La GHRH activa receptores de membrana en somatótropas, aumenta AMPc, produce efectos rápidos por calcio y liberación de vesículas, y efectos largos por mayor transcripción de GH.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "receptor nuclear esteroideo y síntesis de colesterol.",
+        "unión a tiroglobulina y proteólisis del coloide.",
+        "bloqueo de AMPc y cierre de vesículas.",
+        "activación directa de acuaporinas renales.",
+        "receptor de membrana, adenilato ciclasa, AMPc, entrada de calcio y exocitosis de GH."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_067",
+      "q": "La enfermedad de Graves se debe típicamente a:",
+      "exp": "inmunoglobulinas tiroestimulantes contra el receptor de TSH. En Graves, los anticuerpos TSI se unen al receptor de TSH y activan de forma prolongada el sistema AMPc de las células tiroideas, produciendo hipertiroidismo con TSH baja.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "inmunoglobulinas tiroestimulantes contra el receptor de TSH.",
+        "déficit absoluto de yodo sin anticuerpos.",
+        "destrucción hipofisaria total.",
+        "falta congénita de neurofisina.",
+        "exceso de somatomedina C."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_068",
+      "q": "Una característica de las hormonas tiroideas en el núcleo celular es que:",
+      "exp": "pueden seguir ejerciendo funciones de control durante días o semanas. Guyton destaca que las hormonas tiroideas se unen a receptores intranucleares y activan mecanismos genéticos; su acción es prolongada y puede persistir días o semanas.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "actúan solamente durante segundos.",
+        "no modifican transcripción de genes.",
+        "pueden seguir ejerciendo funciones de control durante días o semanas.",
+        "se unen a receptores de membrana tipo canal de sodio.",
+        "se degradan antes de entrar a la célula."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_069",
+      "q": "La mayoría de los efectos de la TSH sobre la célula tiroidea se median por:",
+      "exp": "activación de adenilato ciclasa, aumento de AMPc y activación de proteína cinasa. TSH se une a receptores en la membrana basal de la célula tiroidea, activa adenilato ciclasa, aumenta AMPc y genera fosforilaciones que elevan secreción y crecimiento.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "un receptor citosólico esteroideo.",
+        "neurofisina y axones hipotalámicos.",
+        "bloqueo de AMPc.",
+        "destrucción del receptor de TSH por TSI.",
+        "activación de adenilato ciclasa, aumento de AMPc y activación de proteína cinasa."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_070",
+      "q": "Los receptores de membrana son especialmente característicos de:",
+      "exp": "hormonas proteicas, peptídicas y catecolaminas. Las hormonas hidrosolubles, como péptidos y catecolaminas, no atraviesan fácilmente la bicapa lipídica; por eso suelen actuar mediante receptores ubicados en la membrana celular.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "hormonas esteroideas gonadales solamente.",
+        "tiroxina y triyodotironina exclusivamente.",
+        "vitamina D y retinoides solamente.",
+        "hormonas proteicas, peptídicas y catecolaminas.",
+        "todas las hormonas liposolubles."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_071",
+      "q": "El gigantismo ocurre cuando el exceso de GH aparece:",
+      "exp": "antes de la fusión de las epífisis de los huesos largos. Si el tumor acidófilo secretor de GH aparece antes del cierre epifisario, los huesos largos aún pueden crecer en longitud y la persona puede alcanzar talla gigante.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "después de la adolescencia con epífisis cerradas.",
+        "antes de la fusión de las epífisis de los huesos largos.",
+        "solo en ausencia de somatomedina C.",
+        "por falta total de GH en la infancia.",
+        "por déficit de yodo alimentario."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_072",
+      "q": "El mecanismo más frecuente que evita la actividad excesiva de los sistemas hormonales es:",
+      "exp": "la retroalimentación negativa. Cuando una hormona produce su efecto, el propio resultado tiende a disminuir la secreción adicional. Así se evita hiperactividad del tejido efector y secreción excesiva.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "la retroalimentación positiva permanente.",
+        "la difusión simple.",
+        "la retroalimentación negativa.",
+        "la pinocitosis del coloide.",
+        "la secreción sin control del hipotálamo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_073",
+      "q": "La insuficiencia panhipofisaria del adulto puede causar:",
+      "exp": "hipotiroidismo, menor producción de glucocorticoides y pérdida de función sexual. Al disminuir las hormonas adenohipofisarias, caen la estimulación tiroidea, suprarrenal y gonadal. El paciente puede volverse letárgico, ganar grasa y perder funciones sexuales.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "hipertiroidismo con exoftalmos obligatorio.",
+        "exceso de oxitocina y lactancia permanente.",
+        "hipotiroidismo, menor producción de glucocorticoides y pérdida de función sexual.",
+        "aumento de todas las hormonas adenohipofisarias.",
+        "gigantismo antes de la adolescencia."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_074",
+      "q": "Desde el punto de vista fisiológico, la hipófisis se divide principalmente en:",
+      "exp": "adenohipófisis y neurohipófisis. Guyton separa la hipófisis en lóbulo anterior o adenohipófisis y lóbulo posterior o neurohipófisis; entre ambas existe una parte intermedia poco desarrollada en humanos.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "corteza y médula.",
+        "zona glomerular y zona reticular.",
+        "folículo y coloide.",
+        "células alfa y beta.",
+        "adenohipófisis y neurohipófisis."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_075",
+      "q": "La GnRH estimula en la adenohipófisis la secreción de:",
+      "exp": "FSH y LH. La hormona liberadora de gonadotropinas, GnRH, actúa sobre células gonadótropas y promueve la liberación de hormona foliculoestimulante y luteinizante.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "ADH y oxitocina.",
+        "FSH y LH.",
+        "TSH solamente.",
+        "GH solamente.",
+        "prolactina y dopamina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_076",
+      "q": "La ADH se forma principalmente en el núcleo:",
+      "exp": "supraóptico. Guyton señala que ADH o vasopresina se forma principalmente en el núcleo supraóptico, aunque cada núcleo puede producir una pequeña fracción de la otra hormona.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "paraventricular exclusivamente.",
+        "supraquiasmático.",
+        "supraóptico.",
+        "ventromedial exclusivamente.",
+        "mamilar."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_077",
+      "q": "Las hormonas tiroideas y las catecolaminas tienen en común que:",
+      "exp": "derivan del aminoácido tirosina. Guyton clasifica como derivados de tirosina a las hormonas tiroideas, producidas por la glándula tiroides, y a la adrenalina y noradrenalina, producidas por la médula suprarrenal.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "son todas esteroideas.",
+        "se sintetizan únicamente en el aparato de Golgi.",
+        "derivan del aminoácido tirosina.",
+        "actúan siempre por receptores nucleares.",
+        "circulan siempre unidas a neurofisinas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_078",
+      "q": "Una característica fisiológica del hipotiroidismo es:",
+      "exp": "fatiga, somnolencia, bradicardia, estreñimiento y lentitud mental. Los efectos del hipotiroidismo son opuestos a los del hipertiroidismo: metabolismo lento, cansancio, sueño prolongado, menor frecuencia y gasto cardíaco, estreñimiento y lentitud mental.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "temblor fino rápido con intolerancia al calor.",
+        "diarrea por aumento de motilidad.",
+        "TSH siempre indetectable por TSI.",
+        "gasto cardíaco aumentado 60%.",
+        "fatiga, somnolencia, bradicardia, estreñimiento y lentitud mental."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_079",
+      "q": "La TRH estimula a las células secretoras de TSH mediante:",
+      "exp": "receptores de membrana y sistema fosfolipasa C con calcio y DAG. La TRH del hipotálamo llega por vasos porta a la adenohipófisis y activa receptores que estimulan fosfolipasa C, generando señales como calcio y DAG para liberar TSH.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "receptor nuclear de T3 en la célula folicular.",
+        "unión a globulina fijadora de tiroxina.",
+        "NIS y pendrina en el folículo.",
+        "neurofisinas en la neurohipófisis.",
+        "receptores de membrana y sistema fosfolipasa C con calcio y DAG."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_080",
+      "q": "En ausencia de ADH, los túbulos y conductos colectores renales se vuelven:",
+      "exp": "prácticamente impermeables al agua, produciendo orina muy diluida. Sin ADH no se insertan suficientes acuaporinas en la membrana apical, por lo que se reabsorbe poca agua y se elimina gran volumen de orina diluida.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "prácticamente impermeables al agua, produciendo orina muy diluida.",
+        "altamente permeables al agua por aumento de acuaporinas.",
+        "incapaces de filtrar sodio.",
+        "productores de tiroglobulina.",
+        "secretadores de oxitocina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_081",
+      "q": "Sobre las hormonas esteroideas, marque lo correcto.",
+      "exp": "Derivan principalmente del colesterol y suelen difundirse a través de la membrana tras sintetizarse. Las células secretoras de esteroides almacenan poco producto final. Como los esteroides derivan del colesterol y son liposolubles, tras el estímulo se sintetizan y difunden hacia el intersticio y la sangre.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "Se almacenan en grandes vesículas secretoras hasta meses.",
+        "Derivan principalmente del colesterol y suelen difundirse a través de la membrana tras sintetizarse.",
+        "Son hidrosolubles y circulan siempre libres en plasma.",
+        "Se sintetizan como preprohormonas en el RER.",
+        "No atraviesan la membrana celular por ser liposolubles."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_082",
+      "q": "La acción de aldosterona en túbulos renales se caracteriza por:",
+      "exp": "síntesis de proteínas que favorecen reabsorción de sodio y secreción de potasio. Como hormona esteroidea, la aldosterona actúa por receptor mineralocorticoide y regulación génica. Tras un tiempo de latencia aparecen proteínas que aumentan reabsorción de Na+ y secreción de K+.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "liberación inmediata de TSH por la adenohipófisis.",
+        "síntesis de proteínas que favorecen reabsorción de sodio y secreción de potasio.",
+        "apertura directa de canales sin cambiar proteínas.",
+        "inhibición de todo transporte renal.",
+        "formación de tiroglobulina en folículos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_083",
+      "q": "En el sistema cardiovascular, el exceso moderado de hormona tiroidea tiende a producir:",
+      "exp": "aumento de frecuencia cardíaca, gasto cardíaco y fuerza de contracción. El aumento metabólico eleva uso de oxígeno y vasodilatación tisular, aumentando flujo sanguíneo y gasto cardíaco. Además, T3/T4 incrementan la excitabilidad cardíaca y la frecuencia.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "bradicardia intensa y bajo gasto siempre.",
+        "cierre completo de vasos cutáneos.",
+        "aumento de frecuencia cardíaca, gasto cardíaco y fuerza de contracción.",
+        "disminución de utilización de oxígeno.",
+        "ausencia de cambios circulatorios."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_084",
+      "q": "El orden más adecuado en la síntesis y secreción de hormonas peptídicas es:",
+      "exp": "preprohormona en RER - prohormona - Golgi - vesícula secretora - exocitosis. Guyton explica que las hormonas peptídicas se fabrican en el RER, se procesan, se empaquetan en el aparato de Golgi, se almacenan en vesículas y se liberan por exocitosis ante el estímulo.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "colesterol - mitocondria - difusión directa - proteína plasmática.",
+        "tirosina - coloide - proteólisis - receptor nuclear.",
+        "AMPc - adenilato ciclasa - receptor - vesícula - núcleo.",
+        "lisosoma - receptor nuclear - prohormona - sangre.",
+        "preprohormona en RER - prohormona - Golgi - vesícula secretora - exocitosis."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_085",
+      "q": "Un ejemplo clásico de retroalimentación positiva mencionado en Guyton es:",
+      "exp": "el aumento de LH estimulado por estrógenos antes de la ovulación. Antes de la ovulación, los estrógenos estimulan la adenohipófisis para liberar más LH; esa LH favorece más producción ovárica de estrógenos, generando un bucle positivo transitorio.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "la inhibición de TSH por exceso de hormonas tiroideas.",
+        "la disminución de GH por somatomedina C.",
+        "la inhibición de prolactina por dopamina.",
+        "el aumento de LH estimulado por estrógenos antes de la ovulación.",
+        "la reducción de ACTH por cortisol."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_086",
+      "q": "En la sangre, más del 99% de T3 y T4 circula:",
+      "exp": "unido a proteínas plasmáticas como globulina fijadora de tiroxina, prealbúmina y albúmina. Las hormonas tiroideas se unen fuertemente a proteínas plasmáticas sintetizadas por el hígado, lo que crea un reservorio y permite liberación lenta hacia tejidos.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "libre y filtrado inmediatamente por riñón.",
+        "dentro de eritrocitos como hemoglobina.",
+        "unido a neurofisina.",
+        "almacenado en vesículas de plaquetas.",
+        "unido a proteínas plasmáticas como globulina fijadora de tiroxina, prealbúmina y albúmina."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_087",
+      "q": "En el sistema adenilato ciclasa-AMPc, el AMPc se considera segundo mensajero porque:",
+      "exp": "transmite dentro de la célula el efecto iniciado por la hormona en el receptor. La hormona actúa primero sobre su receptor de membrana. Luego el AMPc se forma dentro de la célula y activa proteínas cinasas que fosforilan proteínas responsables de la respuesta.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "transmite dentro de la célula el efecto iniciado por la hormona en el receptor.",
+        "es la hormona que circula en mayor cantidad en sangre.",
+        "se une a la globulina fijadora de tiroxina.",
+        "se almacena en el coloide tiroideo.",
+        "siempre inhibe toda secreción celular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_1_088",
+      "q": "Respecto a los tipos de mensajeros químicos, señale la afirmación correcta.",
+      "exp": "Las hormonas endocrinas se secretan a la sangre y actúan sobre células diana distantes. Guyton describe a las hormonas endocrinas como productos de glándulas o células especializadas que pasan a la sangre circulante y modifican la función de células diana localizadas en otros lugares del organismo.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "Los neurotransmisores viajan siempre por la sangre hasta órganos distantes.",
+        "Las hormonas paracrinas actúan principalmente sobre la misma célula que las produce.",
+        "Las hormonas autocrinas solo pueden ser liberadas por neuronas hipotalámicas.",
+        "Las hormonas endocrinas se secretan a la sangre y actúan sobre células diana distantes.",
+        "Las citocinas no pueden actuar como mensajeros endocrinos."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_089",
+      "q": "En el enanismo por panhipopituitarismo infantil, lo más típico es:",
+      "exp": "crecimiento corporal proporcionado, pero muy lento. Guyton describe que todas las partes del cuerpo se desarrollan de modo proporcionado, aunque con velocidad reducida; si faltan gonadotropinas, puede no alcanzarse la pubertad.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "aumento desproporcionado de mandíbula y manos.",
+        "cierre epifisario acelerado por exceso de GH.",
+        "secreción elevada de TSH por TSI.",
+        "crecimiento corporal proporcionado, pero muy lento.",
+        "hiperplasia tiroidea tóxica."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_090",
+      "q": "A diferencia de varias hormonas adenohipofisarias, la hormona del crecimiento:",
+      "exp": "actúa directamente sobre muchos tejidos y no solo por una glándula efectora específica. GH no depende de una única glándula periférica; ejerce acciones directas y mediadas por somatomedinas en casi todos los tejidos que conservan capacidad de crecimiento.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "solo estimula la glándula tiroides.",
+        "se sintetiza en la neurohipófisis.",
+        "se libera por el núcleo supraóptico.",
+        "es una hormona esteroidea.",
+        "actúa directamente sobre muchos tejidos y no solo por una glándula efectora específica."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_091",
+      "q": "La calmodulina se parece funcional y estructuralmente a:",
+      "exp": "la troponina C del músculo esquelético. Ambas proteínas se relacionan con la unión de calcio. En músculo esquelético, la troponina C participa en la contracción; en muchas células, la calmodulina media acciones del calcio.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "la tiroglobulina del coloide.",
+        "la troponina C del músculo esquelético.",
+        "la albúmina plasmática.",
+        "la hormona liberadora de tirotropina.",
+        "la somatomedina C."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_092",
+      "q": "Las células lactótropas de la adenohipófisis se relacionan con:",
+      "exp": "prolactina y producción de leche. La prolactina estimula el desarrollo mamario y la producción de leche. La expulsión de la leche, en cambio, depende de oxitocina.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "vasopresina y concentración urinaria.",
+        "prolactina y producción de leche.",
+        "FSH y liberación de agua.",
+        "TSH y contracción uterina.",
+        "ACTH y expulsión de leche."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_093",
+      "q": "El propiltiouracilo reduce la formación de hormona tiroidea porque:",
+      "exp": "bloquea la peroxidasa y el acoplamiento de tirosinas yodadas. Guyton indica que propiltiouracilo y compuestos similares bloquean la enzima peroxidasa necesaria para yodación y también impiden el acoplamiento que forma T3/T4.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "estimula la bomba de yoduro.",
+        "aumenta la proteólisis de tiroglobulina.",
+        "se une a neurofisinas.",
+        "estimula secreción de TSH por acción directa.",
+        "bloquea la peroxidasa y el acoplamiento de tirosinas yodadas."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_094",
+      "q": "La triyodotironina (T3) se forma principalmente por acoplamiento de:",
+      "exp": "MIT + DIT. Una molécula de monoyodotirosina se une con una de diyodotirosina para formar T3. En cambio, DIT + DIT forma T4.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "DIT + DIT.",
+        "MIT + MIT.",
+        "T4 + calcitonina.",
+        "yoduro + cloruro.",
+        "MIT + DIT."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_095",
+      "q": "En un receptor acoplado a proteína G, la activación clásica implica que la subunidad alfa:",
+      "exp": "intercambia GDP por GTP y puede activar enzimas o canales. Al unirse la hormona al receptor, la proteína G cambia GDP por GTP en la subunidad alfa. Esta se separa y modifica enzimas como adenilato ciclasa o fosfolipasa C, o canales iónicos.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "se convierte en tiroglobulina.",
+        "se une irreversiblemente al ADN nuclear.",
+        "degrada todas las proteínas de la célula.",
+        "intercambia GDP por GTP y puede activar enzimas o canales.",
+        "se transforma en una hormona esteroidea."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_1_096",
+      "q": "Casi toda la secreción hipofisaria está controlada por:",
+      "exp": "señales hormonales o nerviosas procedentes del hipotálamo. El hipotálamo es una central integradora que recibe información nerviosa y humoral, y controla la adenohipófisis por hormonas liberadoras/inhibidoras y la neurohipófisis por señales nerviosas.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "la médula suprarrenal exclusivamente.",
+        "la concentración de colesterol hepático.",
+        "señales hormonales o nerviosas procedentes del hipotálamo.",
+        "la tiroglobulina del coloide.",
+        "la filtración glomerular únicamente."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_1_097",
+      "q": "Las hormonas peptídicas y las catecolaminas suelen permanecer poco tiempo en sangre porque:",
+      "exp": "son hidrosolubles, circulan libres y se degradan o excretan con rapidez. Al circular libres en plasma, muchas hormonas peptídicas y catecolaminas son degradadas por enzimas y eliminadas rápidamente por hígado y riñones.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "se almacenan meses unidas a tiroglobulina.",
+        "son hidrosolubles, circulan libres y se degradan o excretan con rapidez.",
+        "se unen más del 99% a proteínas plasmáticas.",
+        "nunca son filtradas por riñón.",
+        "solo actúan en el núcleo durante semanas."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_1_098",
+      "q": "La unión de una hormona a proteínas plasmáticas produce, en general:",
+      "exp": "un reservorio circulante y eliminación más lenta. Las hormonas unidas a proteínas no difunden fácilmente a capilares, pero constituyen una reserva que repone la fracción libre. Esta unión retrasa su aclaramiento del plasma.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "aumento inmediato de la filtración renal.",
+        "pérdida completa de su capacidad de disociarse.",
+        "destrucción rápida por enzimas plasmáticas.",
+        "excreción directa por el sudor.",
+        "un reservorio circulante y eliminación más lenta."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_099",
+      "q": "Son síntomas esperados de hipertiroidismo, excepto:",
+      "exp": "somnolencia extrema de 12 a 14 h diarias. La somnolencia extrema es más propia del hipotiroidismo. En hipertiroidismo predominan excitabilidad, calor, sudoración, pérdida de peso, diarrea, debilidad, nerviosismo, insomnio y temblor.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "intolerancia al calor.",
+        "aumento de sudoración.",
+        "adelgazamiento.",
+        "nerviosismo y temblor.",
+        "somnolencia extrema de 12 a 14 h diarias."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_1_100",
+      "q": "La GH favorece el uso de grasas porque:",
+      "exp": "libera ácidos grasos del tejido adiposo y aumenta su uso como energía. La GH moviliza ácidos grasos, aumenta su concentración en líquidos corporales y favorece su conversión a acetil-CoA para obtención de energía.",
+      "topic": "Cuestionário 1",
+      "options": [
+        "impide la conversión de ácidos grasos en acetil-CoA.",
+        "bloquea toda lipólisis.",
+        "convierte grasa en glucógeno muscular.",
+        "libera ácidos grasos del tejido adiposo y aumenta su uso como energía.",
+        "estimula únicamente síntesis de colesterol tiroideo."
+      ],
+      "answer": 3
+    }
+  ]
+}

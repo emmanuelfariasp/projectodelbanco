@@ -1,0 +1,333 @@
+{
+  "key": "clase3",
+  "title": "Clase 3",
+  "subtitle": "Médula espinal 2da parte: vías ascendentes, descendentes y reflejos",
+  "level": "25 preguntas",
+  "questions": [
+    {
+      "q": "La sustancia blanca medular está constituida principalmente por:",
+      "exp": "La sustancia blanca se define por haces de fibras, en especial mielínicas.",
+      "topic": "Sustancia blanca",
+      "options": [
+        "Plexos coroideos, epéndimo ventricular y LCR.",
+        "Fibras nerviosas mielínicas, neuroglia y vasos sanguíneos.",
+        "Solo fibras amielínicas sensitivas sin glía.",
+        "Cuerpos neuronales, comisura gris y canal ependimario."
+      ],
+      "answer": 1,
+      "id": "clase3_01"
+    },
+    {
+      "q": "En las vías sensitivas somáticas, los somas de las neuronas de primer orden se ubican en:",
+      "exp": "La secuencia general es: 1er orden en ganglio sensitivo, 2do en SNC, 3ro en tálamo.",
+      "topic": "Vías sensitivas",
+      "options": [
+        "Ganglios sensitivos de los nervios espinales.",
+        "Asta anterior medular.",
+        "Tálamo contralateral.",
+        "Corteza somatosensitiva primaria."
+      ],
+      "answer": 0,
+      "id": "clase3_02"
+    },
+    {
+      "q": "La vía del cordón posterior–lemnisco medial transmite principalmente:",
+      "exp": "La trampa es la vía espinotalámica, que lleva dolor, temperatura y tacto grueso.",
+      "topic": "Cordón posterior",
+      "options": [
+        "Tacto fino y vibración consciente.",
+        "Dolor, temperatura y tacto grueso.",
+        "Equilibrio vestibular y tono extensor.",
+        "Motricidad voluntaria corticoespinal."
+      ],
+      "answer": 0,
+      "id": "clase3_03"
+    },
+    {
+      "q": "El fascículo grácil recibe información de:",
+      "exp": "Grácil se relaciona con miembro inferior; cuneiforme con miembro superior.",
+      "topic": "Cordón posterior",
+      "options": [
+        "Miembros superiores y hemicuerpo superior.",
+        "Lengua anterior y glándula parótida.",
+        "Cara y cavidad oral.",
+        "Miembros inferiores y hemicuerpo inferior."
+      ],
+      "answer": 3,
+      "id": "clase3_04"
+    },
+    {
+      "q": "El fascículo cuneiforme asciende hasta:",
+      "exp": "Los fascículos posteriores terminan en núcleos grácil y cuneiforme del bulbo.",
+      "topic": "Cordón posterior",
+      "options": [
+        "Núcleo cuneiforme en el bulbo raquídeo.",
+        "Núcleo rojo del mesencéfalo.",
+        "Núcleo caudado del telencéfalo.",
+        "Plexo mientérico del intestino."
+      ],
+      "answer": 0,
+      "id": "clase3_05"
+    },
+    {
+      "q": "La vía espinotalámica transmite principalmente sensibilidad:",
+      "exp": "Dolor y temperatura son típicos del sistema anterolateral/espinotalámico.",
+      "topic": "Espinotalámica",
+      "options": [
+        "Propioceptiva inconsciente exclusiva al cerebelo.",
+        "Motora voluntaria hacia músculos flexores.",
+        "Protopática: dolor, temperatura y tacto grueso.",
+        "Epicrítica: vibración y discriminación de dos puntos."
+      ],
+      "answer": 2,
+      "id": "clase3_06"
+    },
+    {
+      "q": "La vía espinotalámica asciende hacia el tálamo:",
+      "exp": "El segundo orden cruza la línea media y asciende contralateralmente.",
+      "topic": "Espinotalámica",
+      "options": [
+        "Ipsilateral durante todo su trayecto.",
+        "Contralateral al lado de ingreso de la primera neurona.",
+        "Sin cruzarse nunca en la médula.",
+        "Solo después de pasar por el cerebelo."
+      ],
+      "answer": 1,
+      "id": "clase3_07"
+    },
+    {
+      "q": "La vía espinocerebelosa posterior se caracteriza por:",
+      "exp": "La posterior va al cerebelo y no llega a la corteza cerebral; no es vía consciente.",
+      "topic": "Espinocerebelosa",
+      "options": [
+        "Cruza en médula; dolor y temperatura.",
+        "Cruza en bulbo; tacto fino consciente.",
+        "Desciende desde corteza; movimiento voluntario.",
+        "No cruza; propiocepción inconsciente."
+      ],
+      "answer": 3,
+      "id": "clase3_08"
+    },
+    {
+      "q": "La vía espinocerebelosa anterior:",
+      "exp": "La comparación clave: posterior no cruza; anterior tiene fibras cruzadas y no cruzadas.",
+      "topic": "Espinocerebelosa",
+      "options": [
+        "Desciende por el cordón anterior.",
+        "Fibras cruzadas y no cruzadas.",
+        "Nunca cruza, igual que la posterior.",
+        "Cruza solo en el quiasma óptico."
+      ],
+      "answer": 1,
+      "id": "clase3_09"
+    },
+    {
+      "q": "El tracto corticoespinal nace principalmente en:",
+      "exp": "El tracto corticoespinal es descendente motor voluntario de origen cortical.",
+      "topic": "Vías descendentes",
+      "options": [
+        "Núcleos vestibulares del puente y bulbo.",
+        "Plexo coroideo y granulaciones aracnoideas.",
+        "Lóbulos floculonodulares del cerebelo.",
+        "Cortezas motoras primaria/secundaria y corteza parietal."
+      ],
+      "answer": 3,
+      "id": "clase3_10"
+    },
+    {
+      "q": "En el bulbo, la mayoría de fibras corticoespinales:",
+      "exp": "La decusación piramidal origina principalmente el fascículo corticoespinal lateral.",
+      "topic": "Corticoespinal",
+      "options": [
+        "Entrarán al cerebelo por el pedúnculo medio.",
+        "No cruzan y forman exclusivamente el fascículo anterior.",
+        "Se cruzan y descienden como fascículo corticoespinal lateral.",
+        "Terminan en el núcleo geniculado lateral."
+      ],
+      "answer": 2,
+      "id": "clase3_11"
+    },
+    {
+      "q": "El tracto rubroespinal se asocia con:",
+      "exp": "La trampa es el vestíbuloespinal, que facilita extensores e inhibe flexores.",
+      "topic": "Rubroespinal",
+      "options": [
+        "Drenar LCR hacia senos venosos.",
+        "Transmitir audición consciente al lóbulo temporal.",
+        "Facilitar músculos flexores e inhibir extensores antigravitatorios.",
+        "Facilitar extensores e inhibir flexores para equilibrio."
+      ],
+      "answer": 2,
+      "id": "clase3_12"
+    },
+    {
+      "q": "El tracto vestíbuloespinal:",
+      "exp": "Los núcleos vestibulares reciben aferencias del oído y cerebelo y participan en equilibrio/postura.",
+      "topic": "Vestíbuloespinal",
+      "options": [
+        "Cruza; inhibe extensores antigravitatorios.",
+        "Extensores para equilibrio.",
+        "Cruza; facilita flexores distales.",
+        "No cruza; transmite tacto fino."
+      ],
+      "answer": 1,
+      "id": "clase3_13"
+    },
+    {
+      "q": "El fascículo tectoespinal se relaciona sobre todo con:",
+      "exp": "Tecto = techo mesencefálico/colículos; se relaciona con reflejos visuales posturales.",
+      "topic": "Tectoespinal",
+      "options": [
+        "Producción de dopamina en núcleo accumbens.",
+        "Sensibilidad protopática de miembros inferiores.",
+        "Movimientos posturales reflejos asociados a estímulos visuales.",
+        "Deglución y reflejo nauseoso."
+      ],
+      "answer": 2,
+      "id": "clase3_14"
+    },
+    {
+      "q": "Un reflejo espinal se define mejor como:",
+      "exp": "La clave es la respuesta involuntaria, muchas veces antes de la percepción consciente completa.",
+      "topic": "Arco reflejo",
+      "options": [
+        "Respuesta involuntaria por arco reflejo.",
+        "Percepción consciente en tálamo.",
+        "Movimiento voluntario de corteza motora.",
+        "Descarga dopaminérgica de recompensa."
+      ],
+      "answer": 0,
+      "id": "clase3_15"
+    },
+    {
+      "q": "La sensibilidad exteroceptiva consciente incluye principalmente:",
+      "exp": "La exterocepción consciente procede del mundo externo y permite percibir tacto, presión y temperatura.",
+      "topic": "Sensibilidad",
+      "options": [
+        "Tacto, presión, frío y calor provenientes del medio externo.",
+        "Hambre, sed y latido cardíaco sin percepción cortical.",
+        "Solo tono muscular antigravitatorio inconsciente.",
+        "Gusto posterior y secreción de glándula parótida."
+      ],
+      "answer": 0,
+      "id": "clase3_16"
+    },
+    {
+      "q": "La interocepción se refiere mejor a:",
+      "exp": "La interocepción informa sobre el estado interno corporal, muchas veces sin atención consciente.",
+      "topic": "Sensibilidad",
+      "options": [
+        "Percepción de estados internos como hambre, sed o necesidad de respirar.",
+        "Análisis visual de formas por el lóbulo occipital.",
+        "Conducción auditiva por el cuerpo geniculado medial.",
+        "Movimiento voluntario fino por tracto piramidal."
+      ],
+      "answer": 0,
+      "id": "clase3_17"
+    },
+    {
+      "q": "En la vía cordón posterior–lemnisco medial, la segunda neurona está en:",
+      "exp": "La primera neurona asciende al bulbo; allí sinapsa en núcleos grácil/cuneiforme.",
+      "topic": "Cordón posterior",
+      "options": [
+        "Núcleos grácil y cuneiforme del bulbo.",
+        "Asta anterior de todos los segmentos sacros.",
+        "Corteza visual primaria de la fisura calcarina.",
+        "Ganglio sensitivo espinal ipsilateral."
+      ],
+      "answer": 0,
+      "id": "clase3_18"
+    },
+    {
+      "q": "La tercera neurona de la sensibilidad corporal fina se ubica principalmente en:",
+      "exp": "Para sensibilidad corporal, la tercera neurona talámica se asocia al VPL.",
+      "topic": "Tálamo",
+      "options": [
+        "Núcleo ventral posterolateral del tálamo.",
+        "Núcleo dentado del cerebelo.",
+        "Núcleo coclear ventral.",
+        "Colículo superior mesencefálico."
+      ],
+      "answer": 0,
+      "id": "clase3_19"
+    },
+    {
+      "q": "La columna de Clarke se relaciona especialmente con:",
+      "exp": "La columna de Clarke, en lámina VII, participa en la vía espinocerebelosa posterior.",
+      "topic": "Espinocerebelosa",
+      "options": [
+        "Propiocepción inconsciente de la vía espinocerebelosa posterior.",
+        "Gusto de los dos tercios anteriores de la lengua.",
+        "Producción de LCR por los plexos coroideos.",
+        "Desviación de la úvula hacia el lado sano."
+      ],
+      "answer": 0,
+      "id": "clase3_20"
+    },
+    {
+      "q": "La vía espinocerebelosa posterior entra al cerebelo por:",
+      "exp": "La vía posterior asciende ipsilateral y entra por el pedúnculo cerebeloso inferior.",
+      "topic": "Espinocerebelosa",
+      "options": [
+        "Pedúnculo cerebeloso inferior.",
+        "Pedúnculo cerebral anterior.",
+        "Cuerpo geniculado lateral.",
+        "Foramen de Monro."
+      ],
+      "answer": 0,
+      "id": "clase3_21"
+    },
+    {
+      "q": "El tracto reticuloespinal se vincula mejor con:",
+      "exp": "El reticuloespinal modula actividad motora, tono y postura desde la formación reticular.",
+      "topic": "Vías descendentes",
+      "options": [
+        "Modulación del tono muscular y movimientos posturales.",
+        "Discriminación táctil fina consciente.",
+        "Gusto específico del tercio posterior lingual.",
+        "Drenaje del LCR hacia senos venosos."
+      ],
+      "answer": 0,
+      "id": "clase3_22"
+    },
+    {
+      "q": "El reflejo rotuliano es un ejemplo clásico de reflejo:",
+      "exp": "El reflejo rotuliano implica una sinapsis directa sensitiva-motora del reflejo miotático.",
+      "topic": "Reflejos",
+      "options": [
+        "Monosináptico de estiramiento.",
+        "Vestibular auditivo cortical.",
+        "Fotomotor consensual puro.",
+        "Neuroglandular parasimpático."
+      ],
+      "answer": 0,
+      "id": "clase3_23"
+    },
+    {
+      "q": "El reflejo de retirada al tocar algo caliente suele ser:",
+      "exp": "La retirada requiere interneuronas y coordinación flexora/extensora, por eso es polisináptica.",
+      "topic": "Reflejos",
+      "options": [
+        "Polisináptico, con participación de interneuronas.",
+        "Monosináptico, sin centro integrador medular.",
+        "Exclusivamente cortical y siempre voluntario.",
+        "Vestibular, mediado por el VIII par."
+      ],
+      "answer": 0,
+      "id": "clase3_24"
+    },
+    {
+      "q": "La arteria espinal anterior irriga principalmente:",
+      "exp": "La arteria espinal anterior desciende por la fisura media anterior e irriga 2/3 anteriores.",
+      "topic": "Vascularización",
+      "options": [
+        "Los dos tercios anteriores de la médula espinal.",
+        "El tercio posterior exclusivo de la médula.",
+        "La corteza visual occipital solamente.",
+        "Los ventrículos laterales y plexos coroideos."
+      ],
+      "answer": 0,
+      "id": "clase3_25"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "version": "4.15.0",
+  "description": "V4.15: limpia la redacción de preguntas de la Unidad V renal y verifica consistencia de los bloques 25 a 31.",
+  "subjects": {
+    "neuro": {
+      "key": "neuro",
+      "label": "Neurociencias",
+      "subtitle": "Sistema nervioso, médula, tronco cerebral, cerebelo, pares craneales, sinapsis, HTEC, hidrocefalia, absceso y empiema.",
+      "pdf": "Cuestionario_Neurociencia_Final.pdf",
+      "pdfLabel": "Descargar PDF Neurociencias",
+      "sections": [
+        {
+          "key": "clase1",
+          "file": "data/neuro/clase1.json"
+        },
+        {
+          "key": "clase2",
+          "file": "data/neuro/clase2.json"
+        },
+        {
+          "key": "clase3",
+          "file": "data/neuro/clase3.json"
+        },
+        {
+          "key": "clase4",
+          "file": "data/neuro/clase4.json"
+        },
+        {
+          "key": "clase5",
+          "file": "data/neuro/clase5.json"
+        },
+        {
+          "key": "clase6",
+          "file": "data/neuro/clase6.json"
+        },
+        {
+          "key": "clase7",
+          "file": "data/neuro/clase7.json"
+        },
+        {
+          "key": "clase8",
+          "file": "data/neuro/clase8.json"
+        },
+        {
+          "key": "clase9",
+          "file": "data/neuro/clase9.json"
+        },
+        {
+          "key": "clase10",
+          "file": "data/neuro/clase10.json"
+        },
+        {
+          "key": "clase11",
+          "file": "data/neuro/clase11.json"
+        },
+        {
+          "key": "clase12",
+          "file": "data/neuro/clase12.json"
+        },
+        {
+          "key": "clase13_final_ordinario",
+          "file": "data/neuro/clase13_final_ordinario.json"
+        },
+        {
+          "key": "general_medio",
+          "file": "data/neuro/general_medio.json"
+        },
+        {
+          "key": "general_dificil",
+          "file": "data/neuro/general_dificil.json"
+        }
+      ]
+    },
+    "fisio_endocrino": {
+      "key": "fisio_endocrino",
+      "label": "Fisiología - Unidad XIV",
+      "subtitle": "Unidad XIV - Endocrinología y reproducción: capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.",
+      "pdf": "pdf_fisiologia_banco_completo_747_preguntas_2_columnas_emmanuel.pdf",
+      "pdfLabel": "Descargar PDF Fisiología - 2 columnas",
+      "sections": [
+        {
+          "key": "fisio_cap75_aleatorio",
+          "file": "data/fisio/fisio_cap75_aleatorio.json"
+        },
+        {
+          "key": "fisio_cap76_aleatorio",
+          "file": "data/fisio/fisio_cap76_aleatorio.json"
+        },
+        {
+          "key": "fisio_cap77_aleatorio",
+          "file": "data/fisio/fisio_cap77_aleatorio.json"
+        },
+        {
+          "key": "fisio_cap78_aleatorio",
+          "file": "data/fisio/fisio_cap78_aleatorio.json"
+        },
+        {
+          "key": "fisio_cap79_aleatorio",
+          "file": "data/fisio/fisio_cap79_aleatorio.json"
+        },
+        {
+          "key": "fisio_cap80_aleatorio",
+          "file": "data/fisio/fisio_cap80_aleatorio.json"
+        },
+        {
+          "key": "fisio_cap81_aleatorio",
+          "file": "data/fisio/fisio_cap81_aleatorio.json"
+        },
+        {
+          "key": "fisio_cap82_aleatorio",
+          "file": "data/fisio/fisio_cap82_aleatorio.json"
+        },
+        {
+          "key": "fisio_cuestionario_1",
+          "file": "data/fisio/fisio_cuestionario_1.json"
+        },
+        {
+          "key": "fisio_cuestionario_2",
+          "file": "data/fisio/fisio_cuestionario_2.json"
+        },
+        {
+          "key": "fisio_cuestionario_dificiles",
+          "file": "data/fisio/fisio_cuestionario_dificiles.json"
+        }
+      ],
+      "unit": "Unidad XIV - Endocrinología y reproducción"
+    },
+    "fisio_renal": {
+      "key": "fisio_renal",
+      "label": "Fisiología - Unidad V",
+      "subtitle": "Unidad V: Los líquidos corporales y los riñones. Capítulos 25 a 31 con 50 preguntas por capítulo.",
+      "unit": "Unidad V: Los líquidos corporales y los riñones",
+      "pdf": "cuestionario_fisiologia_renal_capitulos_25_31.pdf",
+      "pdfLabel": "Descargar PDF Unidad V - Renal",
+      "sections": [
+        {
+          "key": "fisio_renal_cap25",
+          "file": "data/fisio/unidad_v/cap25.json"
+        },
+        {
+          "key": "fisio_renal_cap26",
+          "file": "data/fisio/unidad_v/cap26.json"
+        },
+        {
+          "key": "fisio_renal_cap27",
+          "file": "data/fisio/unidad_v/cap27.json"
+        },
+        {
+          "key": "fisio_renal_cap28",
+          "file": "data/fisio/unidad_v/cap28.json"
+        },
+        {
+          "key": "fisio_renal_cap29",
+          "file": "data/fisio/unidad_v/cap29.json"
+        },
+        {
+          "key": "fisio_renal_cap30",
+          "file": "data/fisio/unidad_v/cap30.json"
+        },
+        {
+          "key": "fisio_renal_cap31",
+          "file": "data/fisio/unidad_v/cap31.json"
+        }
+      ]
+    }
+  }
+}

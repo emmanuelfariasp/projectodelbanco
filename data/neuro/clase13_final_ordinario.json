@@ -1,0 +1,2608 @@
+{
+  "key": "clase13_final_ordinario",
+  "title": "Especial para examen final ordinário",
+  "subtitle": "Simulador unificado de Neurociencia · examen final ordinario",
+  "level": "200 preguntas",
+  "questions": [
+    {
+      "id": "final_ordinario_001",
+      "q": "¿Cómo se llama el surco que delimita el giro frontal superior y el giro frontal medio?",
+      "exp": "La respuesta correcta es: Surco frontal superior.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Surco precentral",
+        "Surco frontal superior",
+        "Surco frontal inferior",
+        "Cisura de Silvio"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_002",
+      "q": "¿Qué prueba clínica utiliza diapasones y se apoya en el hueso mastoideo?",
+      "exp": "La respuesta correcta es: Prueba de Schwabach (y Rinne).",
+      "topic": "Pares craneales",
+      "options": [
+        "Prueba de Schwabach (y Rinne)",
+        "Prueba de Weber",
+        "Prueba de Romberg",
+        "Prueba de Tándem"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_003",
+      "q": "¿Qué nervio permite elevar el párpado superior?",
+      "exp": "La respuesta correcta es: Oculomotor (III).",
+      "topic": "Pares craneales",
+      "options": [
+        "Trigémino (V)",
+        "Oculomotor (III)",
+        "Facial (VII)",
+        "Óptico (II)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_004",
+      "q": "En relación al tema 'Generalidades del SNC', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El sistema nervioso entérico regula autónomamente el tracto gastrointestinal y posee una vasta red neuronal.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El sistema nervioso entérico carece de autonomía y depende obligatoriamente de la voluntad cortical.",
+        "El cerebro humano está conformado de manera exclusiva por el tronco encefálico y el cerebelo.",
+        "El sistema nervioso entérico regula autónomamente el tracto gastrointestinal y posee una vasta red neuronal.",
+        "El diencéfalo es una división del tronco encefálico encargada del equilibrio subconsciente."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_005",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El filum terminal interno es una prolongación de la piamadre que se extiende hasta S2.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El tracto espinotalámico anterior desciende desde la corteza para controlar el movimiento fino distal.",
+        "El surco medio posterior es anatómicamente el surco más profundo de la configuración externa medular.",
+        "La intumescencia cervical de la médula espinal abarca desde C1 hasta C4 exclusivamente.",
+        "El filum terminal interno es una prolongación de la piamadre que se extiende hasta S2."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_006",
+      "q": "¿Qué tracto facilita la musculatura extensora para mantener el equilibrio?",
+      "exp": "La respuesta correcta es: Vestibuloespinal.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Grácil y Cuneiforme",
+        "Rubroespinal",
+        "Corticoespinal",
+        "Vestibuloespinal"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_007",
+      "q": "¿Qué nervio se afecta si hay pérdida del gusto en los 2/3 anteriores de la lengua?",
+      "exp": "La respuesta correcta es: Facial (VII).",
+      "topic": "Pares craneales",
+      "options": [
+        "Glosofaríngeo (IX)",
+        "Hipogloso (XII)",
+        "Vago (X)",
+        "Facial (VII)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_008",
+      "q": "Respecto a 'Configuración del Cerebro y Patologías', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'La diseminación por contigüidad de un absceso cerebral es imposible tras un cuadro de sinusitis.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "La diseminación por contigüidad de un absceso cerebral es imposible tras un cuadro de sinusitis.",
+        "El giro frontal inferior presenta anatómicamente tres porciones: orbitaria, triangular y opercular.",
+        "La cara externa del cerebro exhibe los lóbulos frontal, parietal, temporal y occipital clásicos.",
+        "La cisura de Rolando separa anatómica y funcionalmente el lóbulo frontal del lóbulo parietal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_009",
+      "q": "¿Qué célula glial contiene gránulos de glucógeno y asiste en la barrera hematoencefálica?",
+      "exp": "La respuesta correcta es: Astrocito.",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "Astrocito",
+        "Célula ependimaria",
+        "Oligodendrocito",
+        "Microglía"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_010",
+      "q": "En relación al tema 'Configuración del Cerebro y Patologías', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La cara externa del cerebro exhibe los lóbulos frontal, parietal, temporal y occipital clásicos.'.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "El putamen es el principal centro de relevo de las vías olfatorias conscientes hacia la corteza temporal.",
+        "La cara externa del cerebro exhibe los lóbulos frontal, parietal, temporal y occipital clásicos.",
+        "El lóbulo frontal se extiende posteriormente hasta la cisura calcarina, invadiendo la zona occipital.",
+        "El globo pálido almacena patrones sensitivos auditivos y carece de función en el control motor voluntario."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_011",
+      "q": "En relación al tema 'Generalidades del SNC', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El sistema nervioso central está formado por el encéfalo y la médula espinal.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El sistema nervioso periférico no contiene plexos entéricos ni receptores sensoriales.",
+        "El cerebro humano está conformado de manera exclusiva por el tronco encefálico y el cerebelo.",
+        "El sistema nervioso central está formado por el encéfalo y la médula espinal.",
+        "El sistema nervioso entérico carece de autonomía y depende obligatoriamente de la voluntad cortical."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_012",
+      "q": "¿Qué ganglio basal está implicado funcionalmente en enfermedades como la esquizofrenia y epilepsia?",
+      "exp": "La respuesta correcta es: El claustro (claustrum).",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "El claustro (claustrum)",
+        "Sustancia negra",
+        "Núcleo rojo",
+        "Oliva inferior"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_013",
+      "q": "¿A qué nivel medular se ubican las astas laterales (autónomas)?",
+      "exp": "La respuesta correcta es: T1 a L2.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "C1 a C7",
+        "Toda la médula",
+        "T1 a L2",
+        "L3 a S5"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_014",
+      "q": "Respecto a 'Generalidades del SNC', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'Las meninges en orden desde la profundidad a la superficie son la duramadre, piamadre y aracnoides.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "Doce pares craneales emergen del encéfalo y treinta y un pares emergen de la médula espinal.",
+        "El sistema nervioso central está formado por el encéfalo y la médula espinal.",
+        "Las meninges en orden desde la profundidad a la superficie son la duramadre, piamadre y aracnoides.",
+        "La neuroglia supera en cantidad a las neuronas en una proporción aproximada de 5 a 1 en el SNC."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_015",
+      "q": "¿Cuántos pares de nervios espinales cervicales existen?",
+      "exp": "La respuesta correcta es: 8.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "8",
+        "5",
+        "12",
+        "7"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_016",
+      "q": "En relación al tema 'Generalidades del SNC', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'Los ganglios son pequeñas masas de tejido nervioso que contienen cuerpos celulares fuera del SNC.'.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "El cerebro humano está conformado de manera exclusiva por el tronco encefálico y el cerebelo.",
+        "Los ganglios son pequeñas masas de tejido nervioso que contienen cuerpos celulares fuera del SNC.",
+        "El sistema nervioso periférico no contiene plexos entéricos ni receptores sensoriales.",
+        "El diencéfalo es una división del tronco encefálico encargada del equilibrio subconsciente."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_017",
+      "q": "¿Cómo se denomina la acumulación de pus en el espacio subdural?",
+      "exp": "La respuesta correcta es: Empiema subdural.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Meningitis viral",
+        "Hidrocefalia comunicante",
+        "Empiema subdural",
+        "Absceso cerebral intraparenquimatoso"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_018",
+      "q": "En relación al tema 'Configuración del Cerebro y Patologías', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El globo pálido interviene inhibiendo respuestas motoras para suprimir movimientos involuntarios no deseados.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "La diseminación por contigüidad de un absceso cerebral es imposible tras un cuadro de sinusitis.",
+        "La hidrocefalia comunicante es invariablemente producida por la estenosis congénita del acueducto de Silvio.",
+        "El globo pálido interviene inhibiendo respuestas motoras para suprimir movimientos involuntarios no deseados.",
+        "El claustro coordina directamente los reflejos parasimpáticos vagales a nivel del tronco encefálico."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_019",
+      "q": "¿Dónde finalizan las neuronas olfatorias (I par) luego de cruzar el hueso etmoides?",
+      "exp": "La respuesta correcta es: Bulbo olfatorio.",
+      "topic": "Pares craneales",
+      "options": [
+        "Mesencéfalo",
+        "Bulbo olfatorio",
+        "Tálamo",
+        "Núcleo vestibular"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_020",
+      "q": "En relación al tema 'Configuración del Cerebro y Patologías', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'Los abscesos cerebrales por diseminación hemática suelen presentarse de manera múltiple en el parénquima.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "El lóbulo frontal se extiende posteriormente hasta la cisura calcarina, invadiendo la zona occipital.",
+        "La porción opercular es una subdivisión clásica y exclusiva del giro temporal superior auditivo.",
+        "Los abscesos cerebrales en pacientes adultos se generan mayoritariamente en la glándula pineal.",
+        "Los abscesos cerebrales por diseminación hemática suelen presentarse de manera múltiple en el parénquima."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_021",
+      "q": "¿Cómo se llama la cisura que delimita al lóbulo occipital en la cara interna?",
+      "exp": "La respuesta correcta es: Cisura parietooccipital.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Cisura parietooccipital",
+        "Cisura calcarina",
+        "Cisura de Silvio",
+        "Cisura de Rolando"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_022",
+      "q": "¿Qué vía sensitiva requiere tres neuronas para llegar a la corteza cerebral consciente?",
+      "exp": "La respuesta correcta es: Vía exteroceptiva y propioceptiva consciente.",
+      "topic": "Neurociencias final",
+      "options": [
+        "Vía motora extrapiramidal",
+        "Vía autónoma eferente",
+        "Vía espinocerebelosa",
+        "Vía exteroceptiva y propioceptiva consciente"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_023",
+      "q": "¿Qué vía descendente NO cruza sus fibras y desciende directamente de los núcleos del bulbo?",
+      "exp": "La respuesta correcta es: Tracto vestíbuloespinal.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Tracto vestíbuloespinal",
+        "Fascículo grácil",
+        "Tracto rubroespinal",
+        "Tracto corticoespinal lateral"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_024",
+      "q": "¿Qué meninge es vascularizada y se adhiere íntimamente a la superficie cerebral?",
+      "exp": "La respuesta correcta es: Piamadre.",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "Aracnoides",
+        "Piamadre",
+        "Duramadre",
+        "Epéndimo"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_025",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La vía del cordón posterior-lemnisco medial transmite tacto epicrítico y propiocepción consciente.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El fascículo cuneiforme transporta propiocepción consciente exclusivamente de los miembros inferiores.",
+        "La intumescencia cervical de la médula espinal abarca desde C1 hasta C4 exclusivamente.",
+        "La vía del cordón posterior-lemnisco medial transmite tacto epicrítico y propiocepción consciente.",
+        "El filum terminal externo está constituido exclusivamente por vasos sanguíneos y tejido aracnoideo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_026",
+      "q": "¿Cómo se denomina la unión entre las astas anteriores y posteriores de la médula?",
+      "exp": "La respuesta correcta es: Comisura gris.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Cordón blanco lateral",
+        "Comisura gris",
+        "Núcleo propio",
+        "Sustancia gelatinosa"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_027",
+      "q": "¿Qué músculo extraocular es inervado por el nervio abducens?",
+      "exp": "La respuesta correcta es: Recto externo.",
+      "topic": "Pares craneales",
+      "options": [
+        "Elevador del párpado",
+        "Recto interno",
+        "Recto externo",
+        "Oblicuo superior"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_028",
+      "q": "Respecto a 'Configuración del Cerebro y Patologías', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El globo pálido almacena patrones sensitivos auditivos y carece de función en el control motor voluntario.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "El putamen asiste en la ejecución de secuencias motoras aprendidas y repetitivas, como teclear.",
+        "Las infecciones del oído medio y celdillas mastoideas predisponen a abscesos en el lóbulo temporal.",
+        "El núcleo accumbens forma parte del circuito de recompensa y media la liberación dopaminérgica.",
+        "El globo pálido almacena patrones sensitivos auditivos y carece de función en el control motor voluntario."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_029",
+      "q": "¿Qué nervio se evalúa pidiendo al paciente que infle las mejillas?",
+      "exp": "La respuesta correcta es: Facial (VII).",
+      "topic": "Pares craneales",
+      "options": [
+        "Trigémino (V)",
+        "Vago (X)",
+        "Facial (VII)",
+        "Glosofaríngeo (IX)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_030",
+      "q": "¿Qué láminas de Rexed (I a IV) reciben predominantemente sensibilidad exteroceptiva?",
+      "exp": "La respuesta correcta es: Láminas superficiales del asta dorsal.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Asta anterior",
+        "Láminas superficiales del asta dorsal",
+        "Comisura gris",
+        "Asta lateral"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_031",
+      "q": "¿Cuál es el vector de propagación más frecuente en un absceso cerebral?",
+      "exp": "La respuesta correcta es: Diseminación hemática.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Infección por contigüidad",
+        "Traumatismo penetrante",
+        "Diseminación hemática",
+        "Iatrogenia"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_032",
+      "q": "En relación al tema 'Generalidades del SNC', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La neuroglia supera en cantidad a las neuronas en una proporción aproximada de 5 a 1 en el SNC.'.",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "La neuroglia supera en cantidad a las neuronas en una proporción aproximada de 5 a 1 en el SNC.",
+        "La microglía se encarga de producir mielina exclusivamente en el sistema nervioso somático.",
+        "Los astrocitos carecen de reservas energéticas como el glucógeno y dependen de las neuronas.",
+        "El cerebro humano está conformado de manera exclusiva por el tronco encefálico y el cerebelo."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_033",
+      "q": "¿Qué par craneal inerva el músculo recto externo del ojo?",
+      "exp": "La respuesta correcta es: Abducens (VI).",
+      "topic": "Pares craneales",
+      "options": [
+        "Troclear (IV)",
+        "Oculomotor (III)",
+        "Facial (VII)",
+        "Abducens (VI)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_034",
+      "q": "En relación al tema 'Configuración del Cerebro y Patologías', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El núcleo caudado coordina decisiones cognitivas con la respuesta motora adecuada de manera rápida.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "La diseminación por contigüidad de un absceso cerebral es imposible tras un cuadro de sinusitis.",
+        "El globo pálido almacena patrones sensitivos auditivos y carece de función en el control motor voluntario.",
+        "El putamen es el principal centro de relevo de las vías olfatorias conscientes hacia la corteza temporal.",
+        "El núcleo caudado coordina decisiones cognitivas con la respuesta motora adecuada de manera rápida."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_035",
+      "q": "Respecto a 'Configuración del Cerebro y Patologías', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El lóbulo frontal se extiende posteriormente hasta la cisura calcarina, invadiendo la zona occipital.'.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "El putamen asiste en la ejecución de secuencias motoras aprendidas y repetitivas, como teclear.",
+        "El núcleo caudado coordina decisiones cognitivas con la respuesta motora adecuada de manera rápida.",
+        "El giro frontal inferior presenta anatómicamente tres porciones: orbitaria, triangular y opercular.",
+        "El lóbulo frontal se extiende posteriormente hasta la cisura calcarina, invadiendo la zona occipital."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_036",
+      "q": "¿Qué lóbulo cerebral está oculto en la profundidad de la cisura de Silvio?",
+      "exp": "La respuesta correcta es: Ínsula.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Lóbulo límbico",
+        "Lóbulo parietal",
+        "Ínsula",
+        "Lóbulo temporal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_037",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El par craneal VIII (Vestibulococlear) se evalúa mediante pruebas como Romberg, Tándem y diapasones.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El par craneal III inerva al músculo oblicuo superior ocular provocando la elevación del ojo.",
+        "El par craneal VIII (Vestibulococlear) se evalúa mediante pruebas como Romberg, Tándem y diapasones.",
+        "La prueba de Schwabach evalúa la agudeza visual comparativa utilizando las cartillas de Jaeger a 30 cm.",
+        "El nervio facial carece de funciones vegetativas secretomotoras para las glándulas lagrimales y salivales."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_038",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El reflejo corneal normal requiere la integridad aferente del trigémino (V) y la eferente del facial (VII).'.",
+      "topic": "Pares craneales",
+      "options": [
+        "La lesión aguda del nervio abducens genera una parálisis del esfínter pupilar autonómico ipsilateral.",
+        "El tracto olfatorio finaliza directamente en el lóbulo occipital posterior para su integración somática.",
+        "El reflejo corneal normal requiere la integridad aferente del trigémino (V) y la eferente del facial (VII).",
+        "El nervio troclear emerge por la cara anterior del puente e inerva al músculo recto interno exclusivamente."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_039",
+      "q": "¿Qué nervio evalúa la tabla de Snellen?",
+      "exp": "La respuesta correcta es: Nervio Óptico (II).",
+      "topic": "Pares craneales",
+      "options": [
+        "Nervio Abducens (VI)",
+        "Nervio Óptico (II)",
+        "Nervio Oculomotor (III)",
+        "Nervio Olfatorio (I)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_040",
+      "q": "En relación al tema 'Generalidades del SNC', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'Doce pares craneales emergen del encéfalo y treinta y un pares emergen de la médula espinal.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El diencéfalo es una división del tronco encefálico encargada del equilibrio subconsciente.",
+        "Las meninges en orden desde la profundidad a la superficie son la duramadre, piamadre y aracnoides.",
+        "Doce pares craneales emergen del encéfalo y treinta y un pares emergen de la médula espinal.",
+        "La médula espinal contiene muchas más neuronas que el encéfalo humano adulto."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_041",
+      "q": "Respecto a 'Pares Craneales', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'La prueba de Schwabach evalúa la agudeza visual comparativa utilizando las cartillas de Jaeger a 30 cm.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "Una lesión del III par craneal genera frecuentemente ptosis palpebral severa y midriasis reactiva nula.",
+        "La pérdida del reflejo nauseoso puede indicar una disfunción de los nervios glosofaríngeo (IX) o vago (X).",
+        "La prueba de Schwabach evalúa la agudeza visual comparativa utilizando las cartillas de Jaeger a 30 cm.",
+        "El nervio abducens (VI) tiene la función motora de abducir el globo ocular inervando el recto externo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_042",
+      "q": "¿Qué prueba evalúa el equilibrio pidiendo caminar en línea recta (pie a pie)?",
+      "exp": "La respuesta correcta es: Prueba de tándem.",
+      "topic": "Pares craneales",
+      "options": [
+        "Prueba de Romberg",
+        "Prueba de tándem",
+        "Prueba de Weber",
+        "Prueba de Schwabach"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_043",
+      "q": "Respecto a 'Pares Craneales', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'En las parálisis faciales centrales o supranucleares, se paraliza por completo la frente de manera bilateral.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El reflejo corneal normal requiere la integridad aferente del trigémino (V) y la eferente del facial (VII).",
+        "El nervio oculomotor (III) inerva al esfínter pupilar, elevador del párpado y varios músculos extraoculares.",
+        "En las parálisis faciales centrales o supranucleares, se paraliza por completo la frente de manera bilateral.",
+        "La desviación de la lengua hacia un lado al protruirla puede indicar lesión ipsilateral del hipogloso (XII)."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_044",
+      "q": "¿Cómo se denomina a la vía de la sensibilidad exteroceptiva (dolor, tacto)?",
+      "exp": "La respuesta correcta es: Vía aferente o sensitiva.",
+      "topic": "Neurociencias final",
+      "options": [
+        "Vía eferente o motora",
+        "Vía extrapiramidal",
+        "Vía piramidal",
+        "Vía aferente o sensitiva"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_045",
+      "q": "¿Cuál de estos NO es un componente del telencéfalo?",
+      "exp": "La respuesta correcta es: Hipotálamo.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Sistema límbico",
+        "Corteza cerebral",
+        "Hipotálamo",
+        "Ganglios basales"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_046",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La desviación de la lengua hacia un lado al protruirla puede indicar lesión ipsilateral del hipogloso (XII).'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El nervio troclear emerge por la cara anterior del puente e inerva al músculo recto interno exclusivamente.",
+        "El gusto de la raíz posterior de la lengua es percibido por las ramas aferentes del nervio hipogloso (XII).",
+        "El par craneal III inerva al músculo oblicuo superior ocular provocando la elevación del ojo.",
+        "La desviación de la lengua hacia un lado al protruirla puede indicar lesión ipsilateral del hipogloso (XII)."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_047",
+      "q": "Respecto a 'Médula Espinal', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'La médula espinal finaliza a nivel de la quinta vértebra sacra en un individuo adulto normal.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "La sustancia gris presenta astas anteriores, posteriores y laterales (en segmentos toracolumbares).",
+        "La médula espinal se extiende en el adulto desde el foramen magno hasta L1 o L2.",
+        "El conducto ependimario se sitúa en la comisura gris central y es vestigio del tubo neural primitivo.",
+        "La médula espinal finaliza a nivel de la quinta vértebra sacra en un individuo adulto normal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_048",
+      "q": "¿Qué estructura suprime movimientos involuntarios en los ganglios basales?",
+      "exp": "La respuesta correcta es: Globo pálido.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Putamen",
+        "Globo pálido",
+        "Núcleo Caudado",
+        "Amígdala"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_049",
+      "q": "¿Qué porción del encéfalo humano contiene el hipotálamo, clave para el control autónomo?",
+      "exp": "La respuesta correcta es: Diencéfalo.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Telencéfalo",
+        "Diencéfalo",
+        "Ganglios basales",
+        "Corteza cerebral"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_050",
+      "q": "¿Qué vía cruza en las pirámides bulbares?",
+      "exp": "La respuesta correcta es: Tracto corticoespinal.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Fascículo grácil",
+        "Tracto rubroespinal",
+        "Espinotalámico lateral",
+        "Tracto corticoespinal"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_051",
+      "q": "¿Qué nervio craneal es el I par?",
+      "exp": "La respuesta correcta es: Olfatorio.",
+      "topic": "Pares craneales",
+      "options": [
+        "Óptico",
+        "Oculomotor",
+        "Olfatorio",
+        "Troclear"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_052",
+      "q": "Respecto a 'Pares Craneales', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El tracto olfatorio finaliza directamente en el lóbulo occipital posterior para su integración somática.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El nervio espinal o accesorio (XI) otorga motricidad al músculo esternocleidomastoideo y al trapecio superior.",
+        "La desviación de la lengua hacia un lado al protruirla puede indicar lesión ipsilateral del hipogloso (XII).",
+        "La inervación sensitiva especial del gusto de los dos tercios anteriores linguales depende del nervio facial.",
+        "El tracto olfatorio finaliza directamente en el lóbulo occipital posterior para su integración somática."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_053",
+      "q": "¿Qué nervio se afecta si hay una pérdida de la sensibilidad de la córnea?",
+      "exp": "La respuesta correcta es: Trigémino (V) (rama aferente).",
+      "topic": "Pares craneales",
+      "options": [
+        "Facial (VII) (rama eferente)",
+        "Trigémino (V) (rama aferente)",
+        "Oculomotor (III)",
+        "Óptico (II)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_054",
+      "q": "En relación al tema 'Configuración del Cerebro y Patologías', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El putamen asiste en la ejecución de secuencias motoras aprendidas y repetitivas, como teclear.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "La diseminación por contigüidad de un absceso cerebral es imposible tras un cuadro de sinusitis.",
+        "El putamen asiste en la ejecución de secuencias motoras aprendidas y repetitivas, como teclear.",
+        "El putamen es el principal centro de relevo de las vías olfatorias conscientes hacia la corteza temporal.",
+        "El lóbulo frontal se extiende posteriormente hasta la cisura calcarina, invadiendo la zona occipital."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_055",
+      "q": "¿Cuál es la proporción hombres a mujeres en la incidencia de absceso cerebral?",
+      "exp": "La respuesta correcta es: 3 a 1.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "1 a 1",
+        "1 a 3",
+        "5 a 1",
+        "3 a 1"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_056",
+      "q": "¿Qué cartilla se usa para evaluar la visión de cerca (30 cm)?",
+      "exp": "La respuesta correcta es: Cartilla de Jaeger.",
+      "topic": "Pares craneales",
+      "options": [
+        "Tabla de Amsler",
+        "Test de Ishihara",
+        "Cartilla de Jaeger",
+        "Cartilla de Snellen"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_057",
+      "q": "¿Qué tipo de células recubren la superficie interna de los cuatro ventrículos cerebrales?",
+      "exp": "La respuesta correcta es: Células ependimarias.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Astrocitos fibrilares",
+        "Microglía",
+        "Oligodendrocitos",
+        "Células ependimarias"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_058",
+      "q": "Respecto a 'Médula Espinal', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El fascículo cuneiforme transporta propiocepción consciente exclusivamente de los miembros inferiores.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "La médula espinal se extiende en el adulto desde el foramen magno hasta L1 o L2.",
+        "La vía espinocerebelosa posterior asciende ipsilateralmente sin cruzarse en la médula espinal.",
+        "La sustancia gris presenta astas anteriores, posteriores y laterales (en segmentos toracolumbares).",
+        "El fascículo cuneiforme transporta propiocepción consciente exclusivamente de los miembros inferiores."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_059",
+      "q": "Respecto a 'Pares Craneales', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El nervio facial carece de funciones vegetativas secretomotoras para las glándulas lagrimales y salivales.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El nervio facial carece de funciones vegetativas secretomotoras para las glándulas lagrimales y salivales.",
+        "El par craneal VIII (Vestibulococlear) se evalúa mediante pruebas como Romberg, Tándem y diapasones.",
+        "La desviación de la lengua hacia un lado al protruirla puede indicar lesión ipsilateral del hipogloso (XII).",
+        "El nervio oculomotor (III) inerva al esfínter pupilar, elevador del párpado y varios músculos extraoculares."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_060",
+      "q": "¿Qué síntoma clásico se observa en la parálisis del nervio oculomotor (III)?",
+      "exp": "La respuesta correcta es: Ptosis palpebral.",
+      "topic": "Pares craneales",
+      "options": [
+        "Neuralgia facial",
+        "Pérdida de la audición",
+        "Ptosis palpebral",
+        "Fasciculaciones linguales"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_061",
+      "q": "¿Qué par craneal se encarga principalmente del equilibrio y la audición?",
+      "exp": "La respuesta correcta es: Vestibulococlear (VIII).",
+      "topic": "Pares craneales",
+      "options": [
+        "Trigémino (V)",
+        "Facial (VII)",
+        "Glosofaríngeo (IX)",
+        "Vestibulococlear (VIII)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_062",
+      "q": "Respecto a 'Generalidades del SNC', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El sistema nervioso entérico carece de autonomía y depende obligatoriamente de la voluntad cortical.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Los astrocitos contienen filamentos intermedios, reciclan glutamato y contactan la piamadre.",
+        "El sistema nervioso central está formado por el encéfalo y la médula espinal.",
+        "El sistema nervioso entérico carece de autonomía y depende obligatoriamente de la voluntad cortical.",
+        "El diencéfalo incluye al tálamo, el hipotálamo, el epitálamo y el subtálamo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_063",
+      "q": "¿Qué par craneal emerge de la cara dorsal del tronco encefálico (mesencéfalo)?",
+      "exp": "La respuesta correcta es: Troclear (IV).",
+      "topic": "Pares craneales",
+      "options": [
+        "Abducens (VI)",
+        "Trigémino (V)",
+        "Troclear (IV)",
+        "Oculomotor (III)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_064",
+      "q": "¿Dónde reside el núcleo caudado anatómicamente respecto a los ventrículos?",
+      "exp": "La respuesta correcta es: En la pared lateral de los ventrículos laterales.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "En la pared lateral de los ventrículos laterales",
+        "En el interior del cerebelo",
+        "En el techo del cuarto ventrículo",
+        "En el conducto ependimario"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_065",
+      "q": "En relación al tema 'Generalidades del SNC', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'Los astrocitos contienen filamentos intermedios, reciclan glutamato y contactan la piamadre.'.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Los astrocitos contienen filamentos intermedios, reciclan glutamato y contactan la piamadre.",
+        "Los oligodendrocitos tienen como función primordial la fagocitosis de desechos dentro del encéfalo.",
+        "El diencéfalo es una división del tronco encefálico encargada del equilibrio subconsciente.",
+        "El cerebro humano está conformado de manera exclusiva por el tronco encefálico y el cerebelo."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_066",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El ligamento coccígeo es una proyección de la duramadre que se ancla en el hueso cóccix.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El surco medio posterior es anatómicamente el surco más profundo de la configuración externa medular.",
+        "Las raíces ventrales de los nervios espinales transportan predominantemente información termoalgésica aferente.",
+        "Las vías ascendentes espinocerebelosas requieren obligatoriamente de tres neuronas y relevo en el tálamo.",
+        "El ligamento coccígeo es una proyección de la duramadre que se ancla en el hueso cóccix."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_067",
+      "q": "¿Qué síntoma ocurre tras una lesión del nervio hipogloso al protruir la lengua?",
+      "exp": "La respuesta correcta es: Desviación hacia el lado de la lesión.",
+      "topic": "Pares craneales",
+      "options": [
+        "Desviación hacia el lado de la lesión",
+        "Temblor en reposo",
+        "Pérdida del gusto",
+        "Desviación hacia el lado opuesto a la lesión"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_068",
+      "q": "En relación al tema 'Configuración del Cerebro y Patologías', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La estenosis del acueducto de Silvio genera una hidrocefalia de tipo obstructiva o no comunicante.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "El lóbulo frontal se extiende posteriormente hasta la cisura calcarina, invadiendo la zona occipital.",
+        "La hidrocefalia comunicante es invariablemente producida por la estenosis congénita del acueducto de Silvio.",
+        "La porción opercular es una subdivisión clásica y exclusiva del giro temporal superior auditivo.",
+        "La estenosis del acueducto de Silvio genera una hidrocefalia de tipo obstructiva o no comunicante."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_069",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El conducto ependimario se sitúa en la comisura gris central y es vestigio del tubo neural primitivo.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Las raíces ventrales de los nervios espinales transportan predominantemente información termoalgésica aferente.",
+        "La médula espinal finaliza a nivel de la quinta vértebra sacra en un individuo adulto normal.",
+        "La intumescencia cervical de la médula espinal abarca desde C1 hasta C4 exclusivamente.",
+        "El conducto ependimario se sitúa en la comisura gris central y es vestigio del tubo neural primitivo."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_070",
+      "q": "¿Qué par craneal (VII) inerva las glándulas lagrimales?",
+      "exp": "La respuesta correcta es: Facial.",
+      "topic": "Pares craneales",
+      "options": [
+        "Glosofaríngeo",
+        "Oculomotor",
+        "Trigémino",
+        "Facial"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_071",
+      "q": "¿En qué estructura se decusan la mayoría de las fibras de la vía piramidal (corticoespinal)?",
+      "exp": "La respuesta correcta es: Bulbo raquídeo (Pirámides).",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Mesencéfalo",
+        "Bulbo raquídeo (Pirámides)",
+        "Médula espinal (comisura)",
+        "Puente (Protuberancia)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_072",
+      "q": "Respecto a 'Configuración del Cerebro y Patologías', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'Los abscesos cerebrales en pacientes adultos se generan mayoritariamente en la glándula pineal.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "El núcleo accumbens forma parte del circuito de recompensa y media la liberación dopaminérgica.",
+        "El putamen asiste en la ejecución de secuencias motoras aprendidas y repetitivas, como teclear.",
+        "La estenosis del acueducto de Silvio genera una hidrocefalia de tipo obstructiva o no comunicante.",
+        "Los abscesos cerebrales en pacientes adultos se generan mayoritariamente en la glándula pineal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_073",
+      "q": "Respecto a 'Pares Craneales', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El nervio troclear emerge por la cara anterior del puente e inerva al músculo recto interno exclusivamente.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "La desviación de la lengua hacia un lado al protruirla puede indicar lesión ipsilateral del hipogloso (XII).",
+        "Una lesión del III par craneal genera frecuentemente ptosis palpebral severa y midriasis reactiva nula.",
+        "El nervio oculomotor (III) inerva al esfínter pupilar, elevador del párpado y varios músculos extraoculares.",
+        "El nervio troclear emerge por la cara anterior del puente e inerva al músculo recto interno exclusivamente."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_074",
+      "q": "¿Qué patógeno está asociado con la gliosis del acueducto de Silvio en niños?",
+      "exp": "La respuesta correcta es: Toxoplasmosis.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Escherichia coli",
+        "Toxoplasmosis",
+        "Virus Zika",
+        "Streptococcus"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_075",
+      "q": "En relación al tema 'Configuración del Cerebro y Patologías', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El núcleo accumbens forma parte del circuito de recompensa y media la liberación dopaminérgica.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "El globo pálido almacena patrones sensitivos auditivos y carece de función en el control motor voluntario.",
+        "El lóbulo frontal se extiende posteriormente hasta la cisura calcarina, invadiendo la zona occipital.",
+        "La diseminación por contigüidad de un absceso cerebral es imposible tras un cuadro de sinusitis.",
+        "El núcleo accumbens forma parte del circuito de recompensa y media la liberación dopaminérgica."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_076",
+      "q": "¿Qué patología previa predispone a abscesos en el lóbulo temporal?",
+      "exp": "La respuesta correcta es: Infecciones del oído medio (otitis).",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Amigdalitis aguda",
+        "Infecciones del oído medio (otitis)",
+        "Conjuntivitis",
+        "Caries dental leve"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_077",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'Las láminas superficiales del asta dorsal (I a IV) reciben modalidades sensitivas exteroceptivas.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El tracto espinotalámico anterior desciende desde la corteza para controlar el movimiento fino distal.",
+        "El tracto rubroespinal estimula tónicamente a la musculatura extensora antigravitatoria e inhibe flexores.",
+        "Las láminas superficiales del asta dorsal (I a IV) reciben modalidades sensitivas exteroceptivas.",
+        "El surco medio posterior es anatómicamente el surco más profundo de la configuración externa medular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_078",
+      "q": "¿Cuál es el principal neurotransmisor reciclado por los astrocitos junto al GABA?",
+      "exp": "La respuesta correcta es: Glutamato.",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "Glutamato",
+        "Serotonina",
+        "Dopamina",
+        "Acetilcolina"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_079",
+      "q": "¿Qué núcleo basal coordina respuestas motoras con decisiones rápidas?",
+      "exp": "La respuesta correcta es: Núcleo Caudado.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Putamen",
+        "Núcleo Caudado",
+        "Globo pálido",
+        "Sustancia negra"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_080",
+      "q": "¿Qué arteria cerebral irriga principalmente la cara occipital e inferior del cerebro?",
+      "exp": "La respuesta correcta es: Cerebral posterior.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Cerebral media",
+        "Cerebral anterior",
+        "Carótida interna",
+        "Cerebral posterior"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_081",
+      "q": "Respecto a 'Generalidades del SNC', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'La médula espinal contiene muchas más neuronas que el encéfalo humano adulto.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "La médula espinal contiene muchas más neuronas que el encéfalo humano adulto.",
+        "El encéfalo humano contiene aproximadamente 100 mil millones de neuronas.",
+        "Los ganglios son pequeñas masas de tejido nervioso que contienen cuerpos celulares fuera del SNC.",
+        "El sistema nervioso periférico consta de nervios, ganglios, plexos entéricos y receptores."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_082",
+      "q": "¿Qué fascículo lleva sensibilidad de los miembros superiores?",
+      "exp": "La respuesta correcta es: Fascículo Cuneiforme.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Tracto espinotalámico anterior",
+        "Tracto corticoespinal",
+        "Fascículo Cuneiforme",
+        "Fascículo Grácil"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_083",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La sustancia gris presenta astas anteriores, posteriores y laterales (en segmentos toracolumbares).'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El filum terminal externo está constituido exclusivamente por vasos sanguíneos y tejido aracnoideo.",
+        "La médula espinal finaliza a nivel de la quinta vértebra sacra en un individuo adulto normal.",
+        "La sustancia gris presenta astas anteriores, posteriores y laterales (en segmentos toracolumbares).",
+        "El surco medio posterior es anatómicamente el surco más profundo de la configuración externa medular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_084",
+      "q": "En relación al tema 'Generalidades del SNC', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El diencéfalo incluye al tálamo, el hipotálamo, el epitálamo y el subtálamo.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El diencéfalo incluye al tálamo, el hipotálamo, el epitálamo y el subtálamo.",
+        "Los oligodendrocitos tienen como función primordial la fagocitosis de desechos dentro del encéfalo.",
+        "La médula espinal contiene muchas más neuronas que el encéfalo humano adulto.",
+        "Los astrocitos carecen de reservas energéticas como el glucógeno y dependen de las neuronas."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_085",
+      "q": "¿Cuál es un factor de riesgo para el desarrollo de un absceso cerebral?",
+      "exp": "La respuesta correcta es: Endocarditis bacteriana.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Hipertensión arterial pura",
+        "Hipotiroidismo",
+        "Endocarditis bacteriana",
+        "Migraña crónica"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_086",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La inervación sensitiva especial del gusto de los dos tercios anteriores linguales depende del nervio facial.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "La lesión aguda del nervio abducens genera una parálisis del esfínter pupilar autonómico ipsilateral.",
+        "La inervación sensitiva especial del gusto de los dos tercios anteriores linguales depende del nervio facial.",
+        "El par craneal III inerva al músculo oblicuo superior ocular provocando la elevación del ojo.",
+        "El nervio troclear emerge por la cara anterior del puente e inerva al músculo recto interno exclusivamente."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_087",
+      "q": "Respecto a 'Médula Espinal', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El surco medio posterior es anatómicamente el surco más profundo de la configuración externa medular.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "La vía del cordón posterior-lemnisco medial transmite tacto epicrítico y propiocepción consciente.",
+        "La sustancia gris presenta astas anteriores, posteriores y laterales (en segmentos toracolumbares).",
+        "El surco medio posterior es anatómicamente el surco más profundo de la configuración externa medular.",
+        "El filum terminal interno es una prolongación de la piamadre que se extiende hasta S2."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_088",
+      "q": "¿Qué surco de la médula espinal sirve como salida para las raíces ventrales motoras?",
+      "exp": "La respuesta correcta es: Surco anterolateral.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Surco medio posterior",
+        "Fisura media anterior",
+        "Surco posterolateral",
+        "Surco anterolateral"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_089",
+      "q": "¿Qué par craneal produce miosis (constricción pupilar) al estimularse?",
+      "exp": "La respuesta correcta es: Oculomotor (III).",
+      "topic": "Pares craneales",
+      "options": [
+        "Óptico (II)",
+        "Abducens (VI)",
+        "Oculomotor (III)",
+        "Troclear (IV)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_090",
+      "q": "¿Qué nombre reciben los grupos de somas neuronales en el Sistema Nervioso Periférico?",
+      "exp": "La respuesta correcta es: Ganglios.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Tractos",
+        "Núcleos",
+        "Ganglios",
+        "Columnas"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_091",
+      "q": "Respecto a 'Configuración del Cerebro y Patologías', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'La porción opercular es una subdivisión clásica y exclusiva del giro temporal superior auditivo.'.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "La cara externa del cerebro exhibe los lóbulos frontal, parietal, temporal y occipital clásicos.",
+        "El giro frontal inferior presenta anatómicamente tres porciones: orbitaria, triangular y opercular.",
+        "La porción opercular es una subdivisión clásica y exclusiva del giro temporal superior auditivo.",
+        "El putamen asiste en la ejecución de secuencias motoras aprendidas y repetitivas, como teclear."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_092",
+      "q": "¿Qué técnica de imagen revela abscesos cerebrales en anillo como complicación de sinusitis?",
+      "exp": "La respuesta correcta es: Resonancia Magnética o Tomografía (Neuroimagen).",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Ecografía craneal",
+        "Electroencefalograma",
+        "Resonancia Magnética o Tomografía (Neuroimagen)",
+        "Electromiografía"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_093",
+      "q": "¿Qué nervio percibe los sabores dulce, salado, ácido y amargo de los 2/3 anteriores linguales?",
+      "exp": "La respuesta correcta es: Facial (VII).",
+      "topic": "Pares craneales",
+      "options": [
+        "Facial (VII)",
+        "Hipogloso (XII)",
+        "Glosofaríngeo (IX)",
+        "Vago (X)"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_094",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El nervio abducens (VI) tiene la función motora de abducir el globo ocular inervando el recto externo.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El nervio abducens (VI) tiene la función motora de abducir el globo ocular inervando el recto externo.",
+        "El nervio facial carece de funciones vegetativas secretomotoras para las glándulas lagrimales y salivales.",
+        "La prueba de Schwabach evalúa la agudeza visual comparativa utilizando las cartillas de Jaeger a 30 cm.",
+        "En las parálisis faciales centrales o supranucleares, se paraliza por completo la frente de manera bilateral."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_095",
+      "q": "Respecto a 'Médula Espinal', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El tracto espinotalámico anterior desciende desde la corteza para controlar el movimiento fino distal.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "La sustancia gris presenta astas anteriores, posteriores y laterales (en segmentos toracolumbares).",
+        "El tracto espinotalámico anterior desciende desde la corteza para controlar el movimiento fino distal.",
+        "Los surcos posterolaterales indican el sitio de entrada de las raíces dorsales (sensitivas).",
+        "El tracto espinotalámico lateral decusa en la médula y asciende transmitiendo la sensibilidad termoalgésica."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_096",
+      "q": "¿Qué lóbulo contiene los giros orbitario, triangular y opercular?",
+      "exp": "La respuesta correcta es: Lóbulo Frontal.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Lóbulo Frontal",
+        "Lóbulo Parietal",
+        "Lóbulo Occipital",
+        "Lóbulo Temporal"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_097",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La vía espinocerebelosa posterior asciende ipsilateralmente sin cruzarse en la médula espinal.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Las raíces ventrales de los nervios espinales transportan predominantemente información termoalgésica aferente.",
+        "La vía espinocerebelosa posterior asciende ipsilateralmente sin cruzarse en la médula espinal.",
+        "El tracto rubroespinal estimula tónicamente a la musculatura extensora antigravitatoria e inhibe flexores.",
+        "El fascículo cuneiforme transporta propiocepción consciente exclusivamente de los miembros inferiores."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_098",
+      "q": "¿Qué parte de la corteza cerebral se localiza por debajo de los lóbulos frontal, parietal y temporal?",
+      "exp": "La respuesta correcta es: Ínsula.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Cuerpo calloso",
+        "Hipotálamo",
+        "Circunvolución del cíngulo",
+        "Ínsula"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_099",
+      "q": "¿Qué vía motora descendente controla voluntariamente el movimiento fino de las extremidades?",
+      "exp": "La respuesta correcta es: Tracto corticoespinal (lateral).",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Tracto corticoespinal (lateral)",
+        "Fascículo grácil",
+        "Tracto espinocerebeloso",
+        "Tracto espinotalámico"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_100",
+      "q": "¿Qué núcleo procesa estímulos placenteros y libera dopamina?",
+      "exp": "La respuesta correcta es: Núcleo Accumbens.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Núcleo Accumbens",
+        "Núcleo Rojo",
+        "Oliva bulbar",
+        "Claustro"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_101",
+      "q": "Respecto a 'Pares Craneales', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'La lesión aguda del nervio abducens genera una parálisis del esfínter pupilar autonómico ipsilateral.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "Una lesión del III par craneal genera frecuentemente ptosis palpebral severa y midriasis reactiva nula.",
+        "La desviación de la lengua hacia un lado al protruirla puede indicar lesión ipsilateral del hipogloso (XII).",
+        "El reflejo corneal normal requiere la integridad aferente del trigémino (V) y la eferente del facial (VII).",
+        "La lesión aguda del nervio abducens genera una parálisis del esfínter pupilar autonómico ipsilateral."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_102",
+      "q": "Respecto a 'Generalidades del SNC', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El diencéfalo es una división del tronco encefálico encargada del equilibrio subconsciente.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El sistema nervioso entérico regula autónomamente el tracto gastrointestinal y posee una vasta red neuronal.",
+        "El diencéfalo incluye al tálamo, el hipotálamo, el epitálamo y el subtálamo.",
+        "El telencéfalo abarca la corteza cerebral, los ganglios basales y el sistema límbico.",
+        "El diencéfalo es una división del tronco encefálico encargada del equilibrio subconsciente."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_103",
+      "q": "¿A qué nivel de la columna finaliza el saco dural y el espacio subaracnoideo?",
+      "exp": "La respuesta correcta es: S2.",
+      "topic": "Neurociencias final",
+      "options": [
+        "L1",
+        "S2",
+        "Foramen magno",
+        "L3"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_104",
+      "q": "¿Qué par craneal inerva el músculo esternocleidomastoideo?",
+      "exp": "La respuesta correcta es: Accesorio (XI).",
+      "topic": "Pares craneales",
+      "options": [
+        "Vago (X)",
+        "Hipogloso (XII)",
+        "Glosofaríngeo (IX)",
+        "Accesorio (XI)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_105",
+      "q": "¿Qué nervio se explora pidiendo al paciente que sonría y enseñe los dientes?",
+      "exp": "La respuesta correcta es: Facial (VII).",
+      "topic": "Pares craneales",
+      "options": [
+        "Facial (VII)",
+        "Trigémino (V)",
+        "Accesorio (XI)",
+        "Hipogloso (XII)"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_106",
+      "q": "¿Qué capa de tejido conectivo recubre externamente al encéfalo?",
+      "exp": "La respuesta correcta es: Duramadre.",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "Duramadre",
+        "Endoneuro",
+        "Aracnoides",
+        "Piamadre"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_107",
+      "q": "¿Qué tipo de información transmite la vía del lemnisco medial?",
+      "exp": "La respuesta correcta es: Sensibilidad propioceptiva consciente y vibratoria.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Sensibilidad propioceptiva consciente y vibratoria",
+        "Dolor y temperatura",
+        "Sensibilidad interoceptiva autonómica",
+        "Motricidad involuntaria"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_108",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'Los surcos posterolaterales indican el sitio de entrada de las raíces dorsales (sensitivas).'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "La intumescencia cervical de la médula espinal abarca desde C1 hasta C4 exclusivamente.",
+        "Las vías ascendentes espinocerebelosas requieren obligatoriamente de tres neuronas y relevo en el tálamo.",
+        "Las raíces ventrales de los nervios espinales transportan predominantemente información termoalgésica aferente.",
+        "Los surcos posterolaterales indican el sitio de entrada de las raíces dorsales (sensitivas)."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_109",
+      "q": "¿Cuál es el par craneal XII?",
+      "exp": "La respuesta correcta es: Hipogloso.",
+      "topic": "Pares craneales",
+      "options": [
+        "Vago",
+        "Hipogloso",
+        "Glosofaríngeo",
+        "Accesorio"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_110",
+      "q": "¿Dónde se localizan las neuronas de primer orden (vías aferentes) habitualmente?",
+      "exp": "La respuesta correcta es: Ganglio de la raíz dorsal.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Tálamo",
+        "Asta anterior",
+        "Ganglio de la raíz dorsal",
+        "Corteza cerebral"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_111",
+      "q": "¿Cuántos pares craneales emergen del cerebro/tronco?",
+      "exp": "La respuesta correcta es: 12.",
+      "topic": "Pares craneales",
+      "options": [
+        "31",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_112",
+      "q": "¿Cuál es la longitud promedio de la médula espinal en hombres?",
+      "exp": "La respuesta correcta es: 45 cm.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "45 cm",
+        "35 cm",
+        "50 cm",
+        "42 cm"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_113",
+      "q": "¿Cuál es el par craneal que inerva los músculos de la masticación?",
+      "exp": "La respuesta correcta es: Trigémino (V).",
+      "topic": "Pares craneales",
+      "options": [
+        "Glosofaríngeo (IX)",
+        "Trigémino (V)",
+        "Facial (VII)",
+        "Accesorio (XI)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_114",
+      "q": "¿Qué información transporta la raíz ventral de la médula espinal?",
+      "exp": "La respuesta correcta es: Motora.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Autonómica aferente",
+        "Sensitiva",
+        "Propioceptiva",
+        "Motora"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_115",
+      "q": "En relación al tema 'Generalidades del SNC', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El telencéfalo abarca la corteza cerebral, los ganglios basales y el sistema límbico.'.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Los astrocitos carecen de reservas energéticas como el glucógeno y dependen de las neuronas.",
+        "El telencéfalo abarca la corteza cerebral, los ganglios basales y el sistema límbico.",
+        "El diencéfalo es una división del tronco encefálico encargada del equilibrio subconsciente.",
+        "El cerebro humano está conformado de manera exclusiva por el tronco encefálico y el cerebelo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_116",
+      "q": "¿Qué nervio evalúa la prueba del reflejo nauseoso?",
+      "exp": "La respuesta correcta es: Glosofaríngeo (IX) y Vago (X).",
+      "topic": "Pares craneales",
+      "options": [
+        "Glosofaríngeo (IX) y Vago (X)",
+        "Trigémino (V)",
+        "Facial (VII)",
+        "Hipogloso (XII)"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_117",
+      "q": "¿Cuál es la proporción aproximada entre neuroglía y neuronas en el encéfalo?",
+      "exp": "La respuesta correcta es: 5 a 1.",
+      "topic": "Neurociencias final",
+      "options": [
+        "5 a 1",
+        "1 a 1",
+        "1 a 5",
+        "100 a 1"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_118",
+      "q": "Respecto a 'Configuración del Cerebro y Patologías', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El claustro coordina directamente los reflejos parasimpáticos vagales a nivel del tronco encefálico.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "El núcleo accumbens forma parte del circuito de recompensa y media la liberación dopaminérgica.",
+        "La estenosis del acueducto de Silvio genera una hidrocefalia de tipo obstructiva o no comunicante.",
+        "El claustro coordina directamente los reflejos parasimpáticos vagales a nivel del tronco encefálico.",
+        "El giro frontal inferior presenta anatómicamente tres porciones: orbitaria, triangular y opercular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_119",
+      "q": "¿Qué lámina de Rexed se corresponde con la comisura gris que rodea el canal ependimario?",
+      "exp": "La respuesta correcta es: Lámina X.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Lámina VII",
+        "Lámina X",
+        "Lámina VIII",
+        "Láminas I a IV"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_120",
+      "q": "Respecto a 'Generalidades del SNC', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El sistema nervioso periférico no contiene plexos entéricos ni receptores sensoriales.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Los ganglios son pequeñas masas de tejido nervioso que contienen cuerpos celulares fuera del SNC.",
+        "El sistema nervioso central está formado por el encéfalo y la médula espinal.",
+        "El sistema nervioso periférico no contiene plexos entéricos ni receptores sensoriales.",
+        "El telencéfalo abarca la corteza cerebral, los ganglios basales y el sistema límbico."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_121",
+      "q": "En relación al tema 'Configuración del Cerebro y Patologías', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La cisura de Rolando separa anatómica y funcionalmente el lóbulo frontal del lóbulo parietal.'.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "La porción opercular es una subdivisión clásica y exclusiva del giro temporal superior auditivo.",
+        "El putamen es el principal centro de relevo de las vías olfatorias conscientes hacia la corteza temporal.",
+        "La cisura de Rolando separa anatómica y funcionalmente el lóbulo frontal del lóbulo parietal.",
+        "El claustro coordina directamente los reflejos parasimpáticos vagales a nivel del tronco encefálico."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_122",
+      "q": "¿Cuál es el par craneal (VIII) encargado de los reflejos vestíbulo-oculares?",
+      "exp": "La respuesta correcta es: Vestibulococlear.",
+      "topic": "Pares craneales",
+      "options": [
+        "Abducens",
+        "Oculomotor",
+        "Óptico",
+        "Vestibulococlear"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_123",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El nervio espinal o accesorio (XI) otorga motricidad al músculo esternocleidomastoideo y al trapecio superior.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El nervio espinal o accesorio (XI) otorga motricidad al músculo esternocleidomastoideo y al trapecio superior.",
+        "El par craneal III inerva al músculo oblicuo superior ocular provocando la elevación del ojo.",
+        "El nervio vago (X) proporciona inervación motora somática a los músculos extrínsecos de la lengua.",
+        "El nervio troclear emerge por la cara anterior del puente e inerva al músculo recto interno exclusivamente."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_124",
+      "q": "¿Cuál es la función principal de los ventrículos laterales?",
+      "exp": "La respuesta correcta es: Albergar líquido cefalorraquídeo.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Filtrar la sangre arterial",
+        "Producir mielina",
+        "Albergar líquido cefalorraquídeo",
+        "Sintetizar dopamina"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_125",
+      "q": "¿Qué tipo de hidrocefalia se asocia a la estenosis del acueducto de Silvio?",
+      "exp": "La respuesta correcta es: Obstructiva (no comunicante).",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Obstructiva (no comunicante)",
+        "Ex vacuo",
+        "Normotensiva",
+        "Comunicante"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_126",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'Una lesión del III par craneal genera frecuentemente ptosis palpebral severa y midriasis reactiva nula.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El gusto de la raíz posterior de la lengua es percibido por las ramas aferentes del nervio hipogloso (XII).",
+        "El nervio facial carece de funciones vegetativas secretomotoras para las glándulas lagrimales y salivales.",
+        "Una lesión del III par craneal genera frecuentemente ptosis palpebral severa y midriasis reactiva nula.",
+        "En las parálisis faciales centrales o supranucleares, se paraliza por completo la frente de manera bilateral."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_127",
+      "q": "¿Cuál es la segunda neurona (de 2do orden) en la vía espinotalámica lateral?",
+      "exp": "La respuesta correcta es: Neurona del asta dorsal (Sustancia gelatinosa/Núcleo propio).",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Neurona del asta dorsal (Sustancia gelatinosa/Núcleo propio)",
+        "Neurona de la corteza cerebral",
+        "Neurona talámica",
+        "Ganglio de la raíz dorsal"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_128",
+      "q": "¿Qué célula glial actúa como macrófago en el SNC?",
+      "exp": "La respuesta correcta es: Microglía.",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "Astrocito",
+        "Oligodendrocito",
+        "Epéndimo",
+        "Microglía"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_129",
+      "q": "¿Qué vía sensitiva asciende homolateralmente sin cruzarse?",
+      "exp": "La respuesta correcta es: Espinocerebelosa posterior.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Espinotalámica lateral",
+        "Cordón posterior",
+        "Espinocerebelosa posterior",
+        "Espinotalámica anterior"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_130",
+      "q": "¿Qué arteria irriga la cara medial de los hemisferios cerebrales (frontal/parietal)?",
+      "exp": "La respuesta correcta es: Cerebral anterior.",
+      "topic": "Neurociencias final",
+      "options": [
+        "Basilar",
+        "Cerebral posterior",
+        "Cerebral anterior",
+        "Cerebral media"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_131",
+      "q": "¿Qué tracto origina desde el núcleo rojo del mesencéfalo?",
+      "exp": "La respuesta correcta es: Rubroespinal.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Espinotalámico",
+        "Rubroespinal",
+        "Corticoespinal",
+        "Vestibuloespinal"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_132",
+      "q": "Respecto a 'Médula Espinal', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'Las raíces ventrales de los nervios espinales transportan predominantemente información termoalgésica aferente.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Los surcos anterolaterales marcan el origen topográfico y la salida de las raíces ventrales motoras.",
+        "El tracto espinotalámico lateral decusa en la médula y asciende transmitiendo la sensibilidad termoalgésica.",
+        "El conducto ependimario se sitúa en la comisura gris central y es vestigio del tubo neural primitivo.",
+        "Las raíces ventrales de los nervios espinales transportan predominantemente información termoalgésica aferente."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_133",
+      "q": "En relación al tema 'Generalidades del SNC', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El encéfalo humano contiene aproximadamente 100 mil millones de neuronas.'.",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "El sistema nervioso periférico no contiene plexos entéricos ni receptores sensoriales.",
+        "El cerebro humano está conformado de manera exclusiva por el tronco encefálico y el cerebelo.",
+        "El sistema nervioso entérico carece de autonomía y depende obligatoriamente de la voluntad cortical.",
+        "El encéfalo humano contiene aproximadamente 100 mil millones de neuronas."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_134",
+      "q": "¿Qué prolongación de piamadre ancla la médula hasta S2?",
+      "exp": "La respuesta correcta es: Filum terminal interno.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Cola de caballo",
+        "Ligamento coccígeo",
+        "Filum terminal interno",
+        "Cono medular"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_135",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La pérdida del reflejo nauseoso puede indicar una disfunción de los nervios glosofaríngeo (IX) o vago (X).'.",
+      "topic": "Pares craneales",
+      "options": [
+        "La pérdida del reflejo nauseoso puede indicar una disfunción de los nervios glosofaríngeo (IX) o vago (X).",
+        "El tracto olfatorio finaliza directamente en el lóbulo occipital posterior para su integración somática.",
+        "El gusto de la raíz posterior de la lengua es percibido por las ramas aferentes del nervio hipogloso (XII).",
+        "La prueba de Schwabach evalúa la agudeza visual comparativa utilizando las cartillas de Jaeger a 30 cm."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_136",
+      "q": "¿Qué estructura cerebral se estudia dividida en porción orbitaria, triangular y opercular?",
+      "exp": "La respuesta correcta es: Giro frontal inferior.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Giro temporal superior",
+        "Circunvolución del cíngulo",
+        "Cuerpo calloso",
+        "Giro frontal inferior"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_137",
+      "q": "Respecto a 'Configuración del Cerebro y Patologías', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El putamen es el principal centro de relevo de las vías olfatorias conscientes hacia la corteza temporal.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "La cara externa del cerebro exhibe los lóbulos frontal, parietal, temporal y occipital clásicos.",
+        "El globo pálido interviene inhibiendo respuestas motoras para suprimir movimientos involuntarios no deseados.",
+        "La estenosis del acueducto de Silvio genera una hidrocefalia de tipo obstructiva o no comunicante.",
+        "El putamen es el principal centro de relevo de las vías olfatorias conscientes hacia la corteza temporal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_138",
+      "q": "¿Cómo se llama la cisura que separa el lóbulo frontal del parietal?",
+      "exp": "La respuesta correcta es: Cisura de Rolando (Central).",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Cisura de Silvio",
+        "Cisura de Rolando (Central)",
+        "Cisura Calcarina",
+        "Surco parietooccipital"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_139",
+      "q": "Respecto a 'Médula Espinal', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'Las vías ascendentes espinocerebelosas requieren obligatoriamente de tres neuronas y relevo en el tálamo.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Los surcos anterolaterales marcan el origen topográfico y la salida de las raíces ventrales motoras.",
+        "La vía del cordón posterior-lemnisco medial transmite tacto epicrítico y propiocepción consciente.",
+        "Las vías ascendentes espinocerebelosas requieren obligatoriamente de tres neuronas y relevo en el tálamo.",
+        "El filum terminal interno es una prolongación de la piamadre que se extiende hasta S2."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_140",
+      "q": "Respecto a 'Configuración del Cerebro y Patologías', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'La hidrocefalia comunicante es invariablemente producida por la estenosis congénita del acueducto de Silvio.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "La hidrocefalia comunicante es invariablemente producida por la estenosis congénita del acueducto de Silvio.",
+        "El núcleo accumbens forma parte del circuito de recompensa y media la liberación dopaminérgica.",
+        "La cara externa del cerebro exhibe los lóbulos frontal, parietal, temporal y occipital clásicos.",
+        "La cisura de Rolando separa anatómica y funcionalmente el lóbulo frontal del lóbulo parietal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_141",
+      "q": "¿Qué porción del músculo trapecio NO está inervada por el nervio espinal (XI)?",
+      "exp": "La respuesta correcta es: Porción inferior.",
+      "topic": "Pares craneales",
+      "options": [
+        "Porción inferior",
+        "Porción media",
+        "Ninguna de las anteriores",
+        "Porción superior"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_142",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El nervio oculomotor (III) inerva al esfínter pupilar, elevador del párpado y varios músculos extraoculares.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El nervio troclear emerge por la cara anterior del puente e inerva al músculo recto interno exclusivamente.",
+        "La lesión aguda del nervio abducens genera una parálisis del esfínter pupilar autonómico ipsilateral.",
+        "El nervio vago (X) proporciona inervación motora somática a los músculos extrínsecos de la lengua.",
+        "El nervio oculomotor (III) inerva al esfínter pupilar, elevador del párpado y varios músculos extraoculares."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_143",
+      "q": "¿Cuántos pares de nervios espinales lumbares existen?",
+      "exp": "La respuesta correcta es: 5.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "7",
+        "5",
+        "12",
+        "8"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_144",
+      "q": "¿Qué estructura reviste los ventrículos cerebrales?",
+      "exp": "La respuesta correcta es: Epéndimo.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Duramadre",
+        "Epéndimo",
+        "Aracnoides",
+        "Piamadre"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_145",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'La médula espinal se extiende en el adulto desde el foramen magno hasta L1 o L2.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Las raíces ventrales de los nervios espinales transportan predominantemente información termoalgésica aferente.",
+        "La médula espinal se extiende en el adulto desde el foramen magno hasta L1 o L2.",
+        "El filum terminal externo está constituido exclusivamente por vasos sanguíneos y tejido aracnoideo.",
+        "La médula espinal finaliza a nivel de la quinta vértebra sacra en un individuo adulto normal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_146",
+      "q": "¿Cuál es la función del tracto rubroespinal?",
+      "exp": "La respuesta correcta es: Facilita músculos flexores e inhibe extensores.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Conduce sensibilidad táctil",
+        "Facilita músculos extensores e inhibe flexores",
+        "Facilita músculos flexores e inhibe extensores",
+        "Controla el movimiento ocular"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_147",
+      "q": "¿Cuánto pesa en promedio la médula espinal?",
+      "exp": "La respuesta correcta es: 30 gramos.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "30 gramos",
+        "300 gramos",
+        "10 gramos",
+        "150 gramos"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_148",
+      "q": "¿Qué célula glial produce mielina en el Sistema Nervioso Central?",
+      "exp": "La respuesta correcta es: Oligodendrocito.",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "Astrocito",
+        "Microglía",
+        "Célula de Schwann",
+        "Oligodendrocito"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_149",
+      "q": "¿Qué par craneal es puramente motor y mueve la lengua?",
+      "exp": "La respuesta correcta es: Hipogloso (XII).",
+      "topic": "Pares craneales",
+      "options": [
+        "Accesorio (XI)",
+        "Hipogloso (XII)",
+        "Vago (X)",
+        "Glosofaríngeo (IX)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_150",
+      "q": "¿En qué lóbulo se encuentra el área motora primaria?",
+      "exp": "La respuesta correcta es: Frontal.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Parietal",
+        "Occipital",
+        "Temporal",
+        "Frontal"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_151",
+      "q": "¿Qué surco medular es el lugar por donde ingresan las raíces sensitivas de los nervios espinales?",
+      "exp": "La respuesta correcta es: Surco posterolateral.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Surco posterolateral",
+        "Fisura media anterior",
+        "Surco medio posterior",
+        "Surco anterolateral"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_152",
+      "q": "¿Cuántos pares de nervios espinales sacros emergen de la médula?",
+      "exp": "La respuesta correcta es: 5.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "4",
+        "1",
+        "5",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_153",
+      "q": "En relación al tema 'Generalidades del SNC', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El sistema nervioso periférico consta de nervios, ganglios, plexos entéricos y receptores.'.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "El sistema nervioso periférico no contiene plexos entéricos ni receptores sensoriales.",
+        "El diencéfalo es una división del tronco encefálico encargada del equilibrio subconsciente.",
+        "El sistema nervioso entérico carece de autonomía y depende obligatoriamente de la voluntad cortical.",
+        "El sistema nervioso periférico consta de nervios, ganglios, plexos entéricos y receptores."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_154",
+      "q": "¿Qué estructura forma parte del diencéfalo?",
+      "exp": "La respuesta correcta es: Tálamo.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Núcleo caudado",
+        "Corteza cerebral",
+        "Putamen",
+        "Tálamo"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_155",
+      "q": "¿Qué función principal tiene el tracto espinotalámico lateral?",
+      "exp": "La respuesta correcta es: Dolor y temperatura.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Propiocepción inconsciente",
+        "Tacto fino",
+        "Motricidad voluntaria",
+        "Dolor y temperatura"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_156",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El nervio troclear (IV) ejerce el control motor del oblicuo superior del ojo de forma exclusiva.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El nervio troclear (IV) ejerce el control motor del oblicuo superior del ojo de forma exclusiva.",
+        "La prueba de Schwabach evalúa la agudeza visual comparativa utilizando las cartillas de Jaeger a 30 cm.",
+        "El nervio facial carece de funciones vegetativas secretomotoras para las glándulas lagrimales y salivales.",
+        "El par craneal III inerva al músculo oblicuo superior ocular provocando la elevación del ojo."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_157",
+      "q": "¿Qué estructura atraviesan los axones del nervio olfatorio?",
+      "exp": "La respuesta correcta es: Lámina cribosa del etmoides.",
+      "topic": "Pares craneales",
+      "options": [
+        "Lámina cribosa del etmoides",
+        "Hendidura esfenoidal",
+        "Foramen magno",
+        "Conducto auditivo interno"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_158",
+      "q": "¿El síncope neurocardiogénico es mediado principalmente por un reflejo de qué par craneal?",
+      "exp": "La respuesta correcta es: Vago (X).",
+      "topic": "Pares craneales",
+      "options": [
+        "Vago (X)",
+        "Glosofaríngeo (IX)",
+        "Accesorio (XI)",
+        "Trigémino (V)"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_159",
+      "q": "Respecto a 'Médula Espinal', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El filum terminal externo está constituido exclusivamente por vasos sanguíneos y tejido aracnoideo.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El filum terminal externo está constituido exclusivamente por vasos sanguíneos y tejido aracnoideo.",
+        "La médula espinal se extiende en el adulto desde el foramen magno hasta L1 o L2.",
+        "El conducto ependimario se sitúa en la comisura gris central y es vestigio del tubo neural primitivo.",
+        "El filum terminal interno es una prolongación de la piamadre que se extiende hasta S2."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_160",
+      "q": "Respecto a 'Pares Craneales', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El par craneal III inerva al músculo oblicuo superior ocular provocando la elevación del ojo.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El par craneal III inerva al músculo oblicuo superior ocular provocando la elevación del ojo.",
+        "El nervio espinal o accesorio (XI) otorga motricidad al músculo esternocleidomastoideo y al trapecio superior.",
+        "La desviación de la lengua hacia un lado al protruirla puede indicar lesión ipsilateral del hipogloso (XII).",
+        "La inervación sensitiva especial del gusto de los dos tercios anteriores linguales depende del nervio facial."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_161",
+      "q": "¿Qué fascículo lleva sensibilidad propioceptiva de los miembros inferiores?",
+      "exp": "La respuesta correcta es: Fascículo Grácil.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Fascículo Cuneiforme",
+        "Fascículo Grácil",
+        "Lemnisco lateral",
+        "Tracto rubroespinal"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_162",
+      "q": "¿Qué par craneal evalúa el reflejo corneal como vía eferente (motora)?",
+      "exp": "La respuesta correcta es: Facial (VII).",
+      "topic": "Pares craneales",
+      "options": [
+        "Óptico (II)",
+        "Oculomotor (III)",
+        "Facial (VII)",
+        "Trigémino (V)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_163",
+      "q": "¿Qué nervio craneal inerva el músculo oblicuo superior?",
+      "exp": "La respuesta correcta es: Troclear (IV).",
+      "topic": "Pares craneales",
+      "options": [
+        "Trigémino (V)",
+        "Oculomotor (III)",
+        "Abducens (VI)",
+        "Troclear (IV)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_164",
+      "q": "En relación al tema 'Configuración del Cerebro y Patologías', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El giro frontal inferior presenta anatómicamente tres porciones: orbitaria, triangular y opercular.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "El giro frontal inferior presenta anatómicamente tres porciones: orbitaria, triangular y opercular.",
+        "El claustro coordina directamente los reflejos parasimpáticos vagales a nivel del tronco encefálico.",
+        "Los abscesos cerebrales en pacientes adultos se generan mayoritariamente en la glándula pineal.",
+        "El lóbulo frontal se extiende posteriormente hasta la cisura calcarina, invadiendo la zona occipital."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_165",
+      "q": "Respecto a 'Generalidades del SNC', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'Los astrocitos carecen de reservas energéticas como el glucógeno y dependen de las neuronas.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "La neuroglia supera en cantidad a las neuronas en una proporción aproximada de 5 a 1 en el SNC.",
+        "Doce pares craneales emergen del encéfalo y treinta y un pares emergen de la médula espinal.",
+        "El sistema nervioso entérico regula autónomamente el tracto gastrointestinal y posee una vasta red neuronal.",
+        "Los astrocitos carecen de reservas energéticas como el glucógeno y dependen de las neuronas."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_166",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El tracto espinotalámico lateral decusa en la médula y asciende transmitiendo la sensibilidad termoalgésica.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El fascículo cuneiforme transporta propiocepción consciente exclusivamente de los miembros inferiores.",
+        "El filum terminal externo está constituido exclusivamente por vasos sanguíneos y tejido aracnoideo.",
+        "El tracto espinotalámico lateral decusa en la médula y asciende transmitiendo la sensibilidad termoalgésica.",
+        "El surco medio posterior es anatómicamente el surco más profundo de la configuración externa medular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_167",
+      "q": "¿Qué vía lleva la sensibilidad inconsciente hasta el cerebelo desde la médula?",
+      "exp": "La respuesta correcta es: Vía espinocerebelosa (anterior y posterior).",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Vía espinocerebelosa (anterior y posterior)",
+        "Fascículo cuneiforme",
+        "Lemnisco medial",
+        "Vía piramidal"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_168",
+      "q": "¿Qué sistema es considerado como un 'segundo cerebro' por su red neuronal autónoma?",
+      "exp": "La respuesta correcta es: Sistema Nervioso Entérico.",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "Sistema Límbico",
+        "Cerebelo",
+        "Sistema Nervioso Entérico",
+        "Sistema Nervioso Somático"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_169",
+      "q": "¿Dónde reside el centro de los reflejos espinales?",
+      "exp": "La respuesta correcta es: Médula Espinal.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Sistema Periférico",
+        "Ganglios basales",
+        "Médula Espinal",
+        "Cerebro"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_170",
+      "q": "¿Qué espacio separa a la aracnoides de la piamadre y contiene el LCR?",
+      "exp": "La respuesta correcta es: Espacio subaracnoideo.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Ventrículo lateral",
+        "Espacio subaracnoideo",
+        "Espacio subdural",
+        "Espacio epidural"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_171",
+      "q": "Respecto a 'Pares Craneales', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El nervio vago (X) proporciona inervación motora somática a los músculos extrínsecos de la lengua.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El nervio vago (X) proporciona inervación motora somática a los músculos extrínsecos de la lengua.",
+        "Una lesión del III par craneal genera frecuentemente ptosis palpebral severa y midriasis reactiva nula.",
+        "La inervación sensitiva especial del gusto de los dos tercios anteriores linguales depende del nervio facial.",
+        "La desviación de la lengua hacia un lado al protruirla puede indicar lesión ipsilateral del hipogloso (XII)."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_172",
+      "q": "Respecto a 'Médula Espinal', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El tracto rubroespinal estimula tónicamente a la musculatura extensora antigravitatoria e inhibe flexores.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El tracto espinotalámico lateral decusa en la médula y asciende transmitiendo la sensibilidad termoalgésica.",
+        "El tracto rubroespinal estimula tónicamente a la musculatura extensora antigravitatoria e inhibe flexores.",
+        "El filum terminal interno es una prolongación de la piamadre que se extiende hasta S2.",
+        "Los surcos anterolaterales marcan el origen topográfico y la salida de las raíces ventrales motoras."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_173",
+      "q": "¿En qué estructura se originan las fibras del tracto vestíbuloespinal?",
+      "exp": "La respuesta correcta es: Núcleos vestibulares (bulbo y puente).",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Corteza motora primaria",
+        "Núcleos vestibulares (bulbo y puente)",
+        "Núcleo rojo",
+        "Ganglio de la raíz dorsal"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_174",
+      "q": "En relación al tema 'Pares Craneales', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'El nervio olfatorio (I) no realiza un relevo sináptico inicial en el tálamo antes de alcanzar su corteza.'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El tracto olfatorio finaliza directamente en el lóbulo occipital posterior para su integración somática.",
+        "El nervio facial carece de funciones vegetativas secretomotoras para las glándulas lagrimales y salivales.",
+        "El nervio olfatorio (I) no realiza un relevo sináptico inicial en el tálamo antes de alcanzar su corteza.",
+        "El nervio vago (X) proporciona inervación motora somática a los músculos extrínsecos de la lengua."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_175",
+      "q": "¿Cuál es la meninge más externa y resistente?",
+      "exp": "La respuesta correcta es: Duramadre.",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "Aracnoides",
+        "Piamadre",
+        "Duramadre",
+        "SLYM"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_176",
+      "q": "¿De qué capa embrionaria derivan las neuronas y la neuroglia macroscópica?",
+      "exp": "La respuesta correcta es: Ectodermo (tubo neural).",
+      "topic": "Generalidades del SNC",
+      "options": [
+        "Cresta neural (solo glía)",
+        "Mesodermo",
+        "Endodermo",
+        "Ectodermo (tubo neural)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_177",
+      "q": "¿Dónde finalizan la mayoría de los axones del tracto olfatorio?",
+      "exp": "La respuesta correcta es: Bulbo olfatorio y áreas corticales sin pasar por tálamo.",
+      "topic": "Pares craneales",
+      "options": [
+        "Tronco encefálico",
+        "Tálamo",
+        "Cerebelo",
+        "Bulbo olfatorio y áreas corticales sin pasar por tálamo"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_178",
+      "q": "Respecto a 'Generalidades del SNC', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'Los oligodendrocitos tienen como función primordial la fagocitosis de desechos dentro del encéfalo.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El sistema nervioso central está formado por el encéfalo y la médula espinal.",
+        "Los oligodendrocitos tienen como función primordial la fagocitosis de desechos dentro del encéfalo.",
+        "El sistema nervioso entérico regula autónomamente el tracto gastrointestinal y posee una vasta red neuronal.",
+        "El diencéfalo incluye al tálamo, el hipotálamo, el epitálamo y el subtálamo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_179",
+      "q": "¿Qué par craneal tiene tres ramas: oftálmica, maxilar y mandibular?",
+      "exp": "La respuesta correcta es: Trigémino (V).",
+      "topic": "Pares craneales",
+      "options": [
+        "Glosofaríngeo (IX)",
+        "Facial (VII)",
+        "Vago (X)",
+        "Trigémino (V)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_180",
+      "q": "¿Qué ligamento es una prolongación de la duramadre hasta el cóccix?",
+      "exp": "La respuesta correcta es: Ligamento coccígeo.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Filum terminal interno",
+        "Aracnoides espinal",
+        "Ligamento coccígeo",
+        "Ligamento dentado"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_181",
+      "q": "En relación al tema 'Configuración del Cerebro y Patologías', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'Las infecciones del oído medio y celdillas mastoideas predisponen a abscesos en el lóbulo temporal.'.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "El putamen es el principal centro de relevo de las vías olfatorias conscientes hacia la corteza temporal.",
+        "Las infecciones del oído medio y celdillas mastoideas predisponen a abscesos en el lóbulo temporal.",
+        "La porción opercular es una subdivisión clásica y exclusiva del giro temporal superior auditivo.",
+        "El globo pálido almacena patrones sensitivos auditivos y carece de función en el control motor voluntario."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_182",
+      "q": "Respecto a 'Generalidades del SNC', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El cerebro humano está conformado de manera exclusiva por el tronco encefálico y el cerebelo.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El sistema nervioso entérico regula autónomamente el tracto gastrointestinal y posee una vasta red neuronal.",
+        "El diencéfalo incluye al tálamo, el hipotálamo, el epitálamo y el subtálamo.",
+        "El encéfalo humano contiene aproximadamente 100 mil millones de neuronas.",
+        "El cerebro humano está conformado de manera exclusiva por el tronco encefálico y el cerebelo."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_183",
+      "q": "Respecto a 'Pares Craneales', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'El gusto de la raíz posterior de la lengua es percibido por las ramas aferentes del nervio hipogloso (XII).'.",
+      "topic": "Pares craneales",
+      "options": [
+        "El nervio abducens (VI) tiene la función motora de abducir el globo ocular inervando el recto externo.",
+        "El nervio oculomotor (III) inerva al esfínter pupilar, elevador del párpado y varios músculos extraoculares.",
+        "El gusto de la raíz posterior de la lengua es percibido por las ramas aferentes del nervio hipogloso (XII).",
+        "El nervio troclear (IV) ejerce el control motor del oblicuo superior del ojo de forma exclusiva."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_184",
+      "q": "¿Qué componente del VIII par evalúa la prueba de Romberg con ojos cerrados?",
+      "exp": "La respuesta correcta es: Porción vestibular.",
+      "topic": "Pares craneales",
+      "options": [
+        "Porción vestibular",
+        "Porción coclear",
+        "Ramas maxilares",
+        "Nervio facial accesorio"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_185",
+      "q": "¿Cuál es el síntoma de una lesión completa del nervio accesorio?",
+      "exp": "La respuesta correcta es: Debilidad del trapecio superior.",
+      "topic": "Pares craneales",
+      "options": [
+        "Pérdida del reflejo nauseoso",
+        "Debilidad del trapecio superior",
+        "Desviación de la lengua",
+        "Parálisis facial"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_186",
+      "q": "¿Quién irriga predominantemente la cara lateral de los hemisferios cerebrales?",
+      "exp": "La respuesta correcta es: Arteria cerebral media.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Arteria cerebral posterior",
+        "Arteria coroidea anterior",
+        "Arteria cerebral media",
+        "Arteria cerebral anterior"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_187",
+      "q": "¿En qué hueso craneal descansa la fosa craneal anterior, donde asienta el bulbo olfatorio?",
+      "exp": "La respuesta correcta es: Hueso etmoides (Lámina cribosa).",
+      "topic": "Pares craneales",
+      "options": [
+        "Hueso occipital",
+        "Hueso parietal",
+        "Hueso etmoides (Lámina cribosa)",
+        "Hueso temporal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_188",
+      "q": "¿Qué tipo de fibras nerviosas predominan en los cordones laterales de la médula blanca?",
+      "exp": "La respuesta correcta es: Fibras mielínicas (ascendentes y descendentes).",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Fibras mielínicas (ascendentes y descendentes)",
+        "Cuerpos neuronales",
+        "Astrocitos protoplasmáticos",
+        "Células de Schwann"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_189",
+      "q": "¿El síndrome vasovagal es provocado por una respuesta exagerada de qué nervio?",
+      "exp": "La respuesta correcta es: Nervio Vago (X).",
+      "topic": "Pares craneales",
+      "options": [
+        "Nervio Vago (X)",
+        "Nervio Accesorio (XI)",
+        "Nervio Facial (VII)",
+        "Nervio Trigémino (V)"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_190",
+      "q": "¿Qué vía ascendente transmite tacto leve y presión?",
+      "exp": "La respuesta correcta es: Espinotalámico anterior.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Espinotalámico anterior",
+        "Cordón posterior",
+        "Espinocerebeloso",
+        "Espinotalámico lateral"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_191",
+      "q": "Respecto a 'Médula Espinal', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'La intumescencia cervical de la médula espinal abarca desde C1 hasta C4 exclusivamente.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "La intumescencia cervical de la médula espinal abarca desde C1 hasta C4 exclusivamente.",
+        "La médula espinal se extiende en el adulto desde el foramen magno hasta L1 o L2.",
+        "El conducto ependimario se sitúa en la comisura gris central y es vestigio del tubo neural primitivo.",
+        "La sustancia gris presenta astas anteriores, posteriores y laterales (en segmentos toracolumbares)."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "final_ordinario_192",
+      "q": "¿Qué lóbulo cerebral procesa principalmente la visión?",
+      "exp": "La respuesta correcta es: Occipital.",
+      "topic": "Configuración del cerebro",
+      "options": [
+        "Temporal",
+        "Occipital",
+        "Parietal",
+        "Frontal"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_193",
+      "q": "¿Dónde termina la médula espinal en un adulto promedio?",
+      "exp": "La respuesta correcta es: L1 - L2.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "S1 - S2",
+        "C7 - T1",
+        "L1 - L2",
+        "T11 - T12"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_194",
+      "q": "Respecto a 'Generalidades del SNC', señale la afirmación FALSA (excepción):",
+      "exp": "La afirmación falsa seleccionada es: 'La microglía se encarga de producir mielina exclusivamente en el sistema nervioso somático.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El sistema nervioso central está formado por el encéfalo y la médula espinal.",
+        "El diencéfalo incluye al tálamo, el hipotálamo, el epitálamo y el subtálamo.",
+        "La microglía se encarga de producir mielina exclusivamente en el sistema nervioso somático.",
+        "La neuroglia supera en cantidad a las neuronas en una proporción aproximada de 5 a 1 en el SNC."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_195",
+      "q": "¿La parálisis de la mitad de la frente indica una lesión del nervio facial de qué tipo?",
+      "exp": "La respuesta correcta es: Lesión periférica.",
+      "topic": "Pares craneales",
+      "options": [
+        "Lesión central o supranuclear",
+        "Lesión del núcleo rojo",
+        "Lesión del nervio trigémino",
+        "Lesión periférica"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_196",
+      "q": "¿En la prueba de Weber, qué indica si el sonido se escucha igual en ambos oídos?",
+      "exp": "La respuesta correcta es: Audición simétrica.",
+      "topic": "Pares craneales",
+      "options": [
+        "Sordera total",
+        "Hipoacusia neurosensorial",
+        "Audición simétrica",
+        "Asimetría conductiva"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "final_ordinario_197",
+      "q": "¿En qué ventrículo se expande el conducto ependimario a nivel del bulbo?",
+      "exp": "La respuesta correcta es: Cuarto ventrículo.",
+      "topic": "Patologías neuroquirúrgicas",
+      "options": [
+        "Acueducto de Silvio",
+        "Ventrículos laterales",
+        "Tercer ventrículo",
+        "Cuarto ventrículo"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_198",
+      "q": "En relación al tema 'Médula Espinal', ¿cuál de las siguientes afirmaciones es VERDADERA?",
+      "exp": "La afirmación correcta es: 'Los surcos anterolaterales marcan el origen topográfico y la salida de las raíces ventrales motoras.'.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "El filum terminal externo está constituido exclusivamente por vasos sanguíneos y tejido aracnoideo.",
+        "Las vías ascendentes espinocerebelosas requieren obligatoriamente de tres neuronas y relevo en el tálamo.",
+        "El surco medio posterior es anatómicamente el surco más profundo de la configuración externa medular.",
+        "Los surcos anterolaterales marcan el origen topográfico y la salida de las raíces ventrales motoras."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "final_ordinario_199",
+      "q": "¿Qué nombre reciben las neuronas motoras grandes ubicadas en el asta anterior de la médula?",
+      "exp": "La respuesta correcta es: Motoneuronas alfa y gamma.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Células piramidales",
+        "Motoneuronas alfa y gamma",
+        "Neuronas de Purkinje",
+        "Interneuronas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "final_ordinario_200",
+      "q": "¿Qué surco divide la médula espinal por su cara anterior profundamente?",
+      "exp": "La respuesta correcta es: Fisura media anterior.",
+      "topic": "Médula espinal y vías",
+      "options": [
+        "Surco posterolateral",
+        "Surco anterolateral",
+        "Surco medio posterior",
+        "Fisura media anterior"
+      ],
+      "answer": 3
+    }
+  ]
+}

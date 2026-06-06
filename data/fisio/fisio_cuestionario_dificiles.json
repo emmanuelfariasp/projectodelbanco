@@ -1,0 +1,1408 @@
+{
+  "key": "fisio_cuestionario_dificiles",
+  "title": "Cuestionario difícil",
+  "subtitle": "Cuestionario difícil de Endocrinología - Guyton",
+  "level": "100 preguntas",
+  "questions": [
+    {
+      "id": "fisio_cuestionario_dificiles_001",
+      "q": "En una célula endocrina peptídica, un estímulo aumenta el calcio citosólico y provoca exocitosis. ¿Qué secuencia explica mejor el origen y destino inmediato de esa hormona?",
+      "exp": "preprohormona en RER, procesamiento en Golgi, vesícula y liberación por exocitosis. Cap. 75: las hormonas peptídicas se sintetizan como preprohormonas en el RER, se procesan en Golgi, se almacenan en vesículas y se liberan por exocitosis ante señales como calcio o AMPc.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "colesterol en mitocondria, difusión directa, unión a albúmina y acción nuclear",
+        "tirosina en coloide, acoplamiento con yodo, proteólisis y transporte por TBG",
+        "preprohormona en RER, procesamiento en Golgi, vesícula y liberación por exocitosis",
+        "ácido graso en citosol, unión a receptor de membrana, AMPc y degradación renal",
+        "ARNm en lisosoma, empaquetamiento nuclear, secreción biliar y receptor citosólico"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_002",
+      "q": "Una hormona liposoluble produce efecto lento porque modifica la síntesis de proteínas. ¿Cuál paso distingue mejor este mecanismo de una señal por AMPc?",
+      "exp": "el complejo hormona-receptor se une a elementos de respuesta en el ADN. Cap. 75: esteroides, hormonas tiroideas, vitamina D y retinoides atraviesan la membrana, se unen a receptores intracelulares y regulan transcripción génica mediante elementos de respuesta hormonal.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "la hormona activa canales de calcio sin cambiar la transcripción",
+        "la hormona queda retenida en vesículas hasta una nueva exocitosis",
+        "el receptor convierte la hormona en proteína G estimuladora",
+        "la hormona reduce el calcio para impedir fosforilación enzimática",
+        "el complejo hormona-receptor se une a elementos de respuesta en el ADN"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_003",
+      "q": "En regulación hormonal, dos tejidos tienen el mismo receptor nuclear, pero responden distinto a la misma hormona. ¿Cuál explicación es más compatible con Guyton?",
+      "exp": "cada tejido expresa combinaciones distintas de proteínas reguladoras de genes. Cap. 75: un mismo receptor intracelular puede regular genes distintos según las proteínas reguladoras expresadas por cada tejido; por eso la respuesta depende del receptor y del contexto genético celular.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "el receptor nuclear cambia de hormona según la concentración plasmática",
+        "cada tejido expresa combinaciones distintas de proteínas reguladoras de genes",
+        "la hormona se vuelve peptídica al atravesar una membrana específica",
+        "los receptores idénticos generan siempre proteínas idénticas en todos los tejidos",
+        "la unión a proteína plasmática impide cualquier diferencia tisular"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_004",
+      "q": "Un fármaco disminuye la actividad de adenilato ciclasa tras unirse a un receptor hormonal. ¿Qué componente de señalización fue activado con mayor probabilidad?",
+      "exp": "proteína Gi con menor formación intracelular de AMPc. Cap. 75: las proteínas G pueden estimular o inhibir enzimas. Gi inhibe la adenilato ciclasa y reduce AMPc; Gs produce el efecto contrario.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "proteína Gi con menor formación intracelular de AMPc",
+        "proteína Gs con mayor formación intracelular de AMPc",
+        "receptor nuclear con unión directa al elemento de respuesta",
+        "tirosina cinasa con fosforilación del receptor de insulina",
+        "fosfolipasa C con producción simultánea de IP3 y DAG"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_005",
+      "q": "Una célula diana expuesta por mucho tiempo a altas concentraciones hormonales pierde sensibilidad. ¿Cuál fenómeno explica mejor este resultado?",
+      "exp": "regulación a la baja por pérdida funcional de receptores activos. Cap. 75: concentraciones hormonales altas pueden inactivar, secuestrar, degradar o reducir la síntesis de receptores, causando regulación a la baja y menor respuesta celular.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "regulación a la alta por síntesis excesiva de receptores nuevos",
+        "retroalimentación positiva por amplificación permanente de la señal",
+        "organificación hormonal por incorporación de yodo a proteínas",
+        "regulación a la baja por pérdida funcional de receptores activos",
+        "transcitosis hormonal por transporte del receptor hacia la sangre"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_006",
+      "q": "¿Cuál afirmación diferencia mejor una hormona neuroendocrina de un neurotransmisor clásico?",
+      "exp": "la neuroendocrina se libera a sangre y actúa sobre células diana distantes. Cap. 75: las hormonas neuroendocrinas son secretadas por neuronas hacia la sangre y actúan a distancia, mientras los neurotransmisores actúan localmente en sinapsis.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "la neuroendocrina actúa solo en la hendidura sináptica local",
+        "la neuroendocrina se libera a sangre y actúa sobre células diana distantes",
+        "el neurotransmisor se almacena siempre unido a proteínas plasmáticas",
+        "la neuroendocrina se sintetiza solo en células foliculares tiroideas",
+        "el neurotransmisor atraviesa la sangre para actuar en glándulas lejanas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_007",
+      "q": "La unión de varias hormonas a proteínas plasmáticas tiene una consecuencia fisiológica importante. ¿Cuál opción resume mejor esa consecuencia?",
+      "exp": "crea un reservorio que amortigua cambios rápidos de hormona libre. Cap. 75: las hormonas unidas a proteínas forman un reservorio circulante, reducen fluctuaciones rápidas de la fracción libre y suelen tener eliminación más lenta.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "convierte hormonas peptídicas en hormonas esteroideas activas",
+        "bloquea para siempre la disociación hacia los tejidos diana",
+        "impide que la hormona tenga cualquier semivida plasmática",
+        "hace que toda hormona actúe solo por receptores de membrana",
+        "crea un reservorio que amortigua cambios rápidos de hormona libre"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_008",
+      "q": "En una cascada hormonal con proteína cinasa, una molécula de hormona puede producir gran respuesta celular. ¿Cuál es la razón principal?",
+      "exp": "cada paso enzimático puede activar muchas moléculas del siguiente paso. Cap. 75: las cascadas enzimáticas amplifican la señal porque cada enzima activada puede activar muchas moléculas en el siguiente nivel de la vía.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "cada receptor destruye todas las moléculas de hormona circulante",
+        "cada proteína plasmática libera calcio directamente en el núcleo",
+        "cada paso enzimático puede activar muchas moléculas del siguiente paso",
+        "cada hormona cambia su estructura química a hormona tiroidea",
+        "cada vesícula secretora impide la unión hormona-receptor"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_009",
+      "q": "¿Cuál opción contiene solamente hormonas o mediadores que Guyton clasifica como derivados de tirosina?",
+      "exp": "tiroxina, triyodotironina, adrenalina y noradrenalina. Cap. 75: los derivados de tirosina incluyen hormonas tiroideas y catecolaminas. Los esteroides derivan del colesterol y muchas otras hormonas son péptidos/proteínas.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "tiroxina, triyodotironina, adrenalina y noradrenalina",
+        "cortisol, aldosterona, estradiol y progesterona",
+        "insulina, glucagón, prolactina y paratohormona",
+        "ADH, oxitocina, somatostatina y gonadoliberina",
+        "leptina, secretina, gastrina y colecistocinina"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_010",
+      "q": "Una hormona usa fosfolipasa C como vía principal. ¿Cuál combinación de segundos mensajeros se espera después de activar PIP2?",
+      "exp": "IP3 moviliza calcio y DAG activa proteína cinasa C. Cap. 75: la fosfolipasa C degrada PIP2 para formar IP3 y DAG. El IP3 libera calcio de depósitos intracelulares y el DAG activa proteína cinasa C.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "AMPc moviliza colesterol y GMPc activa tiroglobulina",
+        "TBG libera calcio y albúmina activa proteína cinasa A",
+        "MIT libera sodio y DIT activa receptores nucleares",
+        "IP3 moviliza calcio y DAG activa proteína cinasa C",
+        "POMC moviliza yodo y ACTH activa pendrina apical"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_011",
+      "q": "En la hipófisis, un tumor acidófilo produce exceso de una hormona que actúa en muchos tejidos. ¿Qué combinación es más probable?",
+      "exp": "somatótropas, hormona del crecimiento y crecimiento tisular general. Cap. 76: las somatótropas son acidófilas, secretan GH y representan el grupo celular más abundante; los tumores acidófilos pueden secretar grandes cantidades de GH.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "corticótropas, prolactina y eyección láctea inmediata",
+        "gonadótropas, oxitocina y contracción uterina directa",
+        "lactótropas, tirotropina y yodación folicular primaria",
+        "tirótropas, vasopresina y concentración urinaria renal",
+        "somatótropas, hormona del crecimiento y crecimiento tisular general"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_012",
+      "q": "Después de seccionar el tallo hipofisario, la secreción de varias hormonas adenohipofisarias cae, pero la prolactina puede aumentar. ¿Por qué?",
+      "exp": "se pierde la llegada hipotalámica de dopamina inhibitoria a lactótropas. Cap. 76: el control hipotalámico de prolactina es predominantemente inhibitorio por dopamina. Al interrumpir el tallo, disminuye esa inhibición y puede aumentar la secreción de prolactina.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "se pierde la llegada hipotalámica de dopamina inhibitoria a lactótropas",
+        "se activa el transporte axonal de prolactina desde el núcleo supraóptico",
+        "la prolactina se convierte en oxitocina dentro de la neurohipófisis",
+        "la adenohipófisis deja de depender de vasos porta para todas sus hormonas",
+        "la dopamina estimula directamente la secreción de prolactina en lactótropas"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_013",
+      "q": "En un paciente con déficit de GH, la administración de GH produce crecimiento solo si conserva cartílago epifisario funcional. ¿Cuál inferencia es correcta?",
+      "exp": "la GH alarga huesos largos mientras la epífisis no esté fusionada. Cap. 76: la GH aumenta el crecimiento lineal en huesos largos antes del cierre epifisario; después predominan engrosamiento de tejidos y huesos membranosos.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "la GH solo actúa después de la fusión completa de las epífisis",
+        "la GH transforma directamente tejido adiposo en cartílago articular",
+        "la GH inhibe IGF-I para permitir crecimiento lineal continuo",
+        "la GH alarga huesos largos mientras la epífisis no esté fusionada",
+        "la GH depende de calcitonina para cerrar la placa epifisaria"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_014",
+      "q": "¿Qué hallazgo integraría mejor panhipopituitarismo del adulto por reducción de hormonas tróficas adenohipofisarias?",
+      "exp": "baja función tiroidea, menor cortisol y disminución de función sexual. Cap. 76: la pérdida de hormonas adenohipofisarias reduce TSH, ACTH y gonadotropinas, ocasionando hipotiroidismo secundario, déficit corticosuprarrenal y pérdida de función sexual.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "hipersecreción tiroidea, exceso de cortisol y pubertad precoz",
+        "baja función tiroidea, menor cortisol y disminución de función sexual",
+        "acromegalia activa, Graves intenso y cuerpo lúteo persistente",
+        "aumento aislado de oxitocina, aldosterona y calcitonina",
+        "hiperinsulinismo primario, hipercalcemia y azoospermia obstructiva"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_015",
+      "q": "La ADH y la oxitocina aparecen en la neurohipófisis, pero no se sintetizan allí. ¿Qué afirmación describe mejor su origen?",
+      "exp": "se forman en neuronas magnocelulares hipotalámicas y viajan por axones. Cap. 76: ADH y oxitocina se sintetizan en cuerpos neuronales de los núcleos supraóptico y paraventricular y se transportan por axones hacia la neurohipófisis.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "se forman en células foliculares y se almacenan en el coloide",
+        "se forman en lactótropas y llegan por capilares porta",
+        "se forman en neuronas magnocelulares hipotalámicas y viajan por axones",
+        "se forman en pituicitos y difunden hacia la adenohipófisis",
+        "se forman en células de Leydig y circulan unidas a TBG"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_016",
+      "q": "Una lesión selectiva impide el transporte porta hipotalámico-hipofisario, pero conserva axones neurohipofisarios. ¿Cuál alteración sería más esperable?",
+      "exp": "menor respuesta adenohipofisaria a hormonas liberadoras hipotalámicas. Cap. 76: la adenohipófisis depende de hormonas liberadoras/inhibidoras que viajan por vasos porta. La neurohipófisis depende sobre todo de transporte axonal.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "menor respuesta adenohipofisaria a hormonas liberadoras hipotalámicas",
+        "ausencia absoluta de síntesis hipotalámica de ADH y oxitocina",
+        "aumento obligado de T3 por activación directa de células C",
+        "bloqueo de toda secreción pancreática endocrina y exocrina",
+        "desaparición inmediata de receptores nucleares esteroideos"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_017",
+      "q": "Un niño con déficit aislado de GH, pero con secreción gonadotropa conservada, crece lentamente. ¿Qué patrón físico es más coherente?",
+      "exp": "proporciones corporales relativamente normales con talla muy reducida. Cap. 76: en enanismo por déficit de GH, el crecimiento es lento pero proporcionado; si las gonadotropinas se conservan, puede ocurrir pubertad.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "crecimiento excesivo de mandíbula y manos desde la infancia",
+        "virilización marcada por exceso primario de andrógenos",
+        "bocio tóxico con exoftalmos por anticuerpos TSI",
+        "proporciones corporales relativamente normales con talla muy reducida",
+        "tetania por caída inmediata del calcio iónico plasmático"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_018",
+      "q": "La GH provoca resistencia relativa a la insulina. ¿Qué combinación metabólica se ajusta mejor a ese efecto?",
+      "exp": "menor captación periférica de glucosa y mayor producción hepática de glucosa. Cap. 76: la GH reduce la utilización de glucosa en muchos tejidos, aumenta la producción hepática de glucosa y puede inducir un efecto diabetógeno.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "mayor captación neuronal de glucosa y menor lipólisis adiposa",
+        "bloqueo de IGF-I hepático y aumento de yodación tiroidea",
+        "cierre de canales K-ATP beta y secreción de glucagón nula",
+        "aumento de excreción de agua y caída de osmolalidad plasmática",
+        "menor captación periférica de glucosa y mayor producción hepática de glucosa"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_019",
+      "q": "¿Qué diferencia funcional entre oxitocina y prolactina evita confundir producción con eyección de leche?",
+      "exp": "prolactina sintetiza leche y oxitocina contrae células mioepiteliales. Cap. 76: la prolactina estimula producción de leche; la oxitocina facilita la expulsión al contraer células mioepiteliales de los conductos mamarios.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "prolactina contrae útero y oxitocina activa folículos tiroideos",
+        "prolactina sintetiza leche y oxitocina contrae células mioepiteliales",
+        "prolactina concentra orina y oxitocina forma péptido C",
+        "prolactina inhibe GnRH y oxitocina aumenta captación de yoduro",
+        "prolactina libera cortisol y oxitocina cierra canales K-ATP"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_020",
+      "q": "En el control de GH, ¿cuál combinación representa un freno fisiológico más que un estímulo?",
+      "exp": "somatostatina, IGF-I elevado y aumento de ácidos grasos libres. Cap. 76: la GH es estimulada por hipoglucemia, ayuno, ejercicio, estrés, sueño profundo y grelina; es inhibida por somatostatina, IGF-I/GH elevados y aumento de ácidos grasos.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "hipoglucemia, ayuno y sueño profundo de ondas lentas",
+        "ejercicio, estrés y aumento de aminoácidos plasmáticos",
+        "somatostatina, IGF-I elevado y aumento de ácidos grasos libres",
+        "grelina, GHRH y descenso de ácidos grasos libres",
+        "traumatismo, inanición y disminución de glucosa sanguínea"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_021",
+      "q": "En la célula folicular tiroidea, el yoduro entra por una cara y sale hacia el coloide por otra. ¿Cuál combinación es correcta?",
+      "exp": "NIS basolateral introduce yoduro; pendrina apical lo dirige al folículo. Cap. 77: el NIS en la membrana basolateral cotransporta yoduro con sodio hacia la célula; la pendrina en la membrana apical transporta yoduro hacia el folículo.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "NIS apical introduce yoduro; megalina basal lo libera al plasma",
+        "TBG luminal introduce yoduro; pendrina nuclear lo acopla a MIT",
+        "TSH citosólica introduce yoduro; DIT basolateral lo oxida",
+        "NIS basolateral introduce yoduro; pendrina apical lo dirige al folículo",
+        "TPO basal introduce yoduro; neurofisina apical lo une a T4"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_022",
+      "q": "Un inhibidor de peroxidasa tiroidea disminuye T3 y T4. ¿Cuál proceso queda afectado de manera más directa?",
+      "exp": "oxidación del yoduro, organificación y acoplamiento de yodotirosinas. Cap. 77: la peroxidasa tiroidea oxida el yoduro, facilita la yodación de tirosinas en tiroglobulina y participa en el acoplamiento que forma T3/T4.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "transporte de T4 por albúmina y transcortina plasmática",
+        "oxidación del yoduro, organificación y acoplamiento de yodotirosinas",
+        "síntesis de TSH en pituicitos de la neurohipófisis",
+        "conversión de péptido C en insulina activa madura",
+        "activación de osteoclastos por calcitonina en hueso"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_023",
+      "q": "Si falla la desyodasa intratiroidea que recicla MIT y DIT, ¿cuál consecuencia local es más directa?",
+      "exp": "pérdida de yodo reutilizable desde yodotirosinas no secretadas. Cap. 77: MIT y DIT liberadas durante la proteólisis no se secretan como hormonas; se desyodan para reciclar yodo. Si falla la desyodasa, se pierde yodo.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "pérdida de yodo reutilizable desde yodotirosinas no secretadas",
+        "secreción masiva de TSH desde células foliculares tiroideas",
+        "bloqueo de toda unión de T3 y T4 a proteínas plasmáticas",
+        "conversión completa de tiroglobulina en calcitonina activa",
+        "aumento inmediato de la síntesis de neurofisina hipotalámica"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_024",
+      "q": "Un paciente recibe TSH exógena. ¿Cuál efecto temprano es más esperado antes de cambios de crecimiento glandular?",
+      "exp": "proteólisis de tiroglobulina con liberación rápida de T3 y T4. Cap. 77: el efecto precoz más importante de TSH es aumentar la proteólisis de tiroglobulina almacenada, liberando hormonas tiroideas en cerca de 30 minutos.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "cierre de NIS y disminución inmediata del yoduro intracelular",
+        "inhibición completa de la yodación y del acoplamiento",
+        "transformación de células cúbicas en planas inactivas",
+        "destrucción de receptores nucleares de hormona tiroidea",
+        "proteólisis de tiroglobulina con liberación rápida de T3 y T4"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_025",
+      "q": "En hipotiroidismo primario por destrucción tiroidea, ¿qué patrón hormonal se espera por retroalimentación?",
+      "exp": "T3/T4 bajas con TSH elevada por falta de freno hipofisario. Cap. 77: cuando la glándula tiroidea falla, disminuyen T3/T4 y se pierde retroalimentación negativa sobre hipófisis e hipotálamo, elevando TSH.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "T3/T4 altas con TSH elevada por estimulación tiroidea directa",
+        "T3/T4 bajas con TSH baja por lesión de célula beta pancreática",
+        "T3/T4 bajas con TSH elevada por falta de freno hipofisario",
+        "T3/T4 normales con TSH abolida por exceso de cortisol",
+        "T3/T4 altas con TSH baja por déficit absoluto de receptores TSH"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_026",
+      "q": "Un aumento de TBG plasmática eleva la hormona tiroidea total, pero el paciente permanece eutiroideo. ¿Cuál explicación es mejor?",
+      "exp": "la fracción libre se reajusta por retroalimentación y mantiene la acción tisular. Cap. 77: T3/T4 circulan casi totalmente unidas a proteínas, pero la fracción libre determina la acción y regula TSH. Cambios en unión pueden modificar hormona total sin cambiar función.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "la fracción libre se reajusta por retroalimentación y mantiene la acción tisular",
+        "la TBG convierte T4 en TSH activa dentro de la sangre",
+        "la fracción unida atraviesa membranas y activa receptores nucleares",
+        "la TBG destruye el receptor de T3 para evitar hiperfunción",
+        "la fracción total determina sola la actividad metabólica tisular"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_027",
+      "q": "¿Qué combinación explica mejor la acción lenta y prolongada de T4 frente a T3?",
+      "exp": "mayor unión a proteínas y conversión tisular gradual en hormona activa. Cap. 77: T4 se une fuertemente a proteínas plasmáticas e intracelulares, se libera lentamente y se convierte gradualmente en T3; por eso su acción inicia más tarde y dura más.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "ausencia de entrada celular y eliminación renal inmediata",
+        "acción exclusiva sobre receptores de membrana y AMPc",
+        "mayor unión a proteínas y conversión tisular gradual en hormona activa",
+        "almacenamiento pancreático con secreción pulsátil rápida",
+        "conversión obligatoria en calcitonina dentro del hueso"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_028",
+      "q": "En enfermedad de Graves, la TSH plasmática puede estar baja a pesar de hipertiroidismo. ¿Cuál mecanismo lo justifica?",
+      "exp": "anticuerpos activan el receptor de TSH y T3/T4 inhiben la hipófisis. Cap. 77: en Graves, inmunoglobulinas estimulantes activan receptores de TSH en tiroides. Las hormonas elevadas ejercen retroalimentación negativa y reducen TSH hipofisaria.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "anticuerpos bloquean TPO y provocan caída directa de T3/T4",
+        "TSH se almacena en el coloide y deja de circular en sangre",
+        "calcitonina aumenta AMPc y reemplaza toda acción de TSH",
+        "TRH destruye receptores de T3 y genera mixedema sin tiroxina",
+        "anticuerpos activan el receptor de TSH y T3/T4 inhiben la hipófisis"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_029",
+      "q": "¿Cuál opción integra mejor el efecto cardiovascular de exceso de hormona tiroidea?",
+      "exp": "mayor metabolismo tisular, vasodilatación, gasto cardíaco y frecuencia. Cap. 77: las hormonas tiroideas elevan metabolismo y uso de oxígeno; esto aumenta flujo sanguíneo, gasto cardíaco y también frecuencia y fuerza cardíaca.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "menor consumo de oxígeno, vasoconstricción, bradicardia y bajo gasto",
+        "mayor metabolismo tisular, vasodilatación, gasto cardíaco y frecuencia",
+        "bloqueo de receptores beta, hipovolemia severa y asistolia temprana",
+        "pérdida de eritrocitos, cierre capilar y caída absoluta de temperatura",
+        "inhibición de enzimas celulares, edema con fóvea y pulso lento"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_030",
+      "q": "¿Cuál afirmación sobre bocio por deficiencia de yodo es más precisa?",
+      "exp": "T3/T4 bajas elevan TSH, que hipertrofia la glándula sin corregir el sustrato. Cap. 77: la falta de yodo reduce síntesis hormonal, aumenta TSH por retroalimentación y causa crecimiento tiroideo; sin yodo suficiente, la glándula no normaliza T3/T4.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "T3/T4 altas suprimen TSH, pero la glándula crece por exceso de TBG",
+        "TSH baja impide todo crecimiento tiroideo y elimina el coloide",
+        "calcitonina alta estimula NIS y produce hipertiroidismo inmediato",
+        "T3/T4 bajas elevan TSH, que hipertrofia la glándula sin corregir el sustrato",
+        "TPO baja eleva yodo plasmático y reduce tamaño folicular"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_031",
+      "q": "La zona glomerular responde a angiotensina II y potasio más que a ACTH sostenida. ¿Qué producto se asocia a esa zona?",
+      "exp": "aldosterona por presencia funcional de aldosterona sintasa. Cap. 78: la zona glomerular contiene aldosterona sintasa y secreta aldosterona; está regulada principalmente por angiotensina II y potasio.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "cortisol por predominio completo de 17-alfa-hidroxilasa",
+        "adrenalina por cromafines distribuidas en la corteza",
+        "aldosterona por presencia funcional de aldosterona sintasa",
+        "DHEA por activación exclusiva del sistema porta",
+        "calcitonina por estimulación de células parafoliculares"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_032",
+      "q": "ACTH aumenta la síntesis suprarrenal de esteroides. ¿Cuál paso inicial limita la velocidad de esa síntesis?",
+      "exp": "conversión mitocondrial de colesterol en pregnenolona por desmolasa. Cap. 78: el colesterol entra a mitocondrias y se convierte en pregnenolona por colesterol desmolasa; este paso limita la síntesis de esteroides suprarrenales.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "conversión mitocondrial de colesterol en pregnenolona por desmolasa",
+        "unión de cortisol a transcortina dentro del espacio vascular",
+        "conjugación hepática de aldosterona con ácido glucurónico",
+        "secreción renal de hidrógeno por células intercaladas",
+        "aromatización periférica de andrógenos en tejido adiposo"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_033",
+      "q": "Un exceso crónico de aldosterona no suele causar edema masivo persistente. ¿Cuál mecanismo lo explica mejor?",
+      "exp": "escape de aldosterona por presión arterial elevada y natriuresis renal. Cap. 78: la retención inicial de sodio y agua eleva volumen y presión; luego la presión elevada aumenta la excreción renal de sodio y agua, limitando el edema: escape de aldosterona.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "bloqueo total de ENaC por incremento de angiotensina II",
+        "conversión obligatoria de aldosterona en cortisol plasmático",
+        "inhibición de toda filtración glomerular por potasio elevado",
+        "secreción de TSH que reduce reabsorción distal de sodio",
+        "escape de aldosterona por presión arterial elevada y natriuresis renal"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_034",
+      "q": "En insuficiencia suprarrenal primaria, la hiperpigmentación se relaciona con una molécula precursora común. ¿Cuál es la mejor explicación?",
+      "exp": "aumento de ACTH/POMC con péptidos relacionados a MSH. Cap. 78: ACTH deriva de POMC, precursor que también origina péptidos con actividad melanocitoestimulante; en Addison primario ACTH aumenta por falta de cortisol.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "exceso de aldosterona con activación directa de melanocitos",
+        "aumento de cortisol que estimula síntesis de melanina dérmica",
+        "déficit de CRH que activa células C de la piel",
+        "aumento de ACTH/POMC con péptidos relacionados a MSH",
+        "exceso de adrenalina cortical convertida en pigmento"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_035",
+      "q": "¿Cuál conjunto de efectos corresponde mejor al cortisol sobre el metabolismo?",
+      "exp": "aumenta gluconeogénesis, moviliza aminoácidos y favorece lipólisis. Cap. 78: el cortisol aumenta gluconeogénesis hepática, reduce proteínas extrahepáticas por movilización de aminoácidos y favorece movilización de ácidos grasos.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "inhibe gluconeogénesis, almacena proteínas y bloquea lipólisis",
+        "aumenta gluconeogénesis, moviliza aminoácidos y favorece lipólisis",
+        "aumenta yodación, libera T3 y estimula pendrina apical",
+        "cierra canales K-ATP, libera insulina y reduce glucagón",
+        "activa osteoblastos, reduce calcio y aumenta calcitonina"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_036",
+      "q": "La acción antiinflamatoria del cortisol incluye varios mecanismos. ¿Cuál opción es una excepción?",
+      "exp": "aumentar permeabilidad capilar y migración leucocitaria al foco inflamatorio. Cap. 78: el cortisol reduce inflamación al estabilizar lisosomas, disminuir permeabilidad capilar, reducir migración leucocitaria y bloquear mediadores como prostaglandinas.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "estabilizar membranas lisosómicas y reducir enzimas tisulares",
+        "disminuir formación de prostaglandinas y leucotrienos",
+        "reducir salida de plasma por menor permeabilidad capilar",
+        "suprimir fiebre al disminuir liberación de interleucina-1",
+        "aumentar permeabilidad capilar y migración leucocitaria al foco inflamatorio"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_037",
+      "q": "¿Qué patrón de transporte plasmático diferencia mejor cortisol y aldosterona?",
+      "exp": "cortisol se une más a transcortina y tiene semivida más larga. Cap. 78: 90-95% del cortisol se une a transcortina/albúmina y tiene semivida de 60-90 min; la aldosterona se une menos y su semivida es menor.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "aldosterona se une casi por completo a TBG y dura semanas",
+        "cortisol se une más a transcortina y tiene semivida más larga",
+        "cortisol circula libre casi totalmente y se elimina en segundos",
+        "ambas hormonas circulan en vesículas secretoras intactas",
+        "aldosterona se almacena en tiroglobulina y no llega libre al riñón"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_038",
+      "q": "Si una enzima de la vía suprarrenal se altera, puede aumentar la producción de andrógenos. ¿Cuál principio explica eso?",
+      "exp": "las vías esteroideas comparten precursores y dependen de enzimas específicas. Cap. 78: las etapas de síntesis esteroidea comparten precursores en mitocondria y retículo; cambios en una enzima redirigen la producción hacia otros esteroides, incluidos andrógenos.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "los péptidos hipofisarios se convierten directamente en testosterona",
+        "la médula suprarrenal transforma catecolaminas en aldosterona",
+        "las vías esteroideas comparten precursores y dependen de enzimas específicas",
+        "el colesterol plasmático solo puede formar un esteroide final",
+        "la zona glomerular secreta todos los andrógenos por angiotensina"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_039",
+      "q": "En estrés prolongado, cortisol puede mantenerse elevado a pesar de retroalimentación negativa. ¿Qué concepto lo explica?",
+      "exp": "señales de estrés aumentan CRH/ACTH y superan el freno del cortisol. Cap. 78: la secreción de cortisol sigue un eje CRH-ACTH-cortisol con retroalimentación negativa, pero estímulos estresantes pueden prevalecer y aumentar ACTH/cortisol.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "señales de estrés aumentan CRH/ACTH y superan el freno del cortisol",
+        "el cortisol deja de unirse a receptores intracelulares durante el estrés",
+        "la aldosterona bloquea toda secreción de ACTH por retroalimentación",
+        "la PTH sustituye a CRH en el eje hipotalámico-hipofisario",
+        "la TSH activa la zona fascicular y suprime angiotensina II"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_040",
+      "q": "¿Cuál alteración se espera con exceso importante de mineralocorticoides?",
+      "exp": "hipopotasemia, alcalosis metabólica y aumento de presión arterial. Cap. 78: la aldosterona aumenta reabsorción de sodio y secreción de potasio e hidrógeno, lo que favorece expansión de volumen, hipertensión, hipopotasemia y alcalosis.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "hiperpotasemia, acidosis metabólica y caída del volumen extracelular",
+        "hipocalcemia, tetania y aumento de fosfato plasmático",
+        "hipoglucemia, cetosis severa y ausencia de sodio urinario",
+        "hipopotasemia, alcalosis metabólica y aumento de presión arterial",
+        "hipotiroidismo, mixedema y bradicardia por déficit de TSH"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_041",
+      "q": "En la célula beta pancreática, la glucosa estimula insulina mediante cambios eléctricos. ¿Cuál secuencia es correcta?",
+      "exp": "glucosa aumenta ATP, cierra K-ATP, despolariza y abre canales de calcio. Cap. 79: el metabolismo de glucosa eleva ATP en células beta, cierra canales K sensibles a ATP, despolariza la membrana, abre canales de calcio y desencadena exocitosis de insulina.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "glucosa reduce ATP, abre K-ATP, hiperpolariza y bloquea calcio",
+        "glucosa aumenta ATP, cierra K-ATP, despolariza y abre canales de calcio",
+        "glucosa activa TPO, forma MIT, acopla DIT y libera T4",
+        "glucosa activa POMC, libera ACTH y fusiona lisosomas beta",
+        "glucosa entra por TBG, activa receptores nucleares y secreta glucagón"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_042",
+      "q": "La insulina tiene efectos rápidos y lentos. ¿Cuál opción corresponde a un efecto de segundos o pocos minutos?",
+      "exp": "translocación de transportadores GLUT-4 hacia la membrana celular. Cap. 79: pocos segundos después de activar su receptor, la insulina aumenta la captación de glucosa por translocación de vesículas con transportadores como GLUT-4 en músculo y tejido adiposo.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "aumento tardío de transcripción de genes por días",
+        "síntesis lenta de proteínas nuevas por traducción sostenida",
+        "crecimiento estructural de islotes por hiperplasia prolongada",
+        "translocación de transportadores GLUT-4 hacia la membrana celular",
+        "formación de colágeno óseo por activación de osteoblastos"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_043",
+      "q": "En hígado, la insulina favorece almacenamiento de glucosa. ¿Cuál combinación enzimática es más adecuada?",
+      "exp": "activa glucocinasa y glucógeno sintasa; inhibe fosforilasa hepática. Cap. 79: la insulina aumenta captación hepática de glucosa por glucocinasa, favorece glucógeno sintasa e inhibe fosforilasa hepática, promoviendo depósito de glucógeno.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "activa glucocinasa y glucógeno sintasa; inhibe fosforilasa hepática",
+        "inhibe glucocinasa y glucógeno sintasa; activa fosforilasa hepática",
+        "activa lipasa sensible a hormonas y glucagón; inhibe acetil-CoA",
+        "estimula TPO y pendrina; inhibe megalina y proteólisis",
+        "activa PTH y calcitriol; inhibe reabsorción renal de calcio"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_044",
+      "q": "Un diabético tipo 1 sin tratamiento desarrolla acidosis metabólica. ¿Cuál mecanismo es central?",
+      "exp": "lipólisis aumentada y producción hepática excesiva de cuerpos cetónicos. Cap. 79: sin insulina aumenta la lipólisis, llegan ácidos grasos al hígado y se forman cuerpos cetónicos en exceso, especialmente ácido acetoacético y beta-hidroxibutírico, causando acidosis metabólica.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "retención de bicarbonato y reducción de cuerpos cetónicos hepáticos",
+        "hipersecreción de calcitonina y precipitación de fosfato cálcico",
+        "lipólisis aumentada y producción hepática excesiva de cuerpos cetónicos",
+        "aumento de TBG y bloqueo periférico de receptores nucleares",
+        "secreción excesiva de péptido C con inhibición de glucagón"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_045",
+      "q": "¿Por qué el encéfalo no depende tanto de insulina para captar glucosa como músculo y adipocitos?",
+      "exp": "sus neuronas son bastante permeables a glucosa incluso con poca insulina. Cap. 79: la mayoría de neuronas encefálicas son permeables a glucosa y no requieren insulina para captarla, por eso dependen de mantener una glucemia adecuada.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "sus neuronas usan exclusivamente ácidos grasos en estado posprandial",
+        "su membrana expresa solo GLUT-4 regulado por insulina",
+        "su glucosa entra por canales de calcio dependientes de ADH",
+        "su metabolismo se activa únicamente por glucagón y cortisol",
+        "sus neuronas son bastante permeables a glucosa incluso con poca insulina"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_046",
+      "q": "Una sulfonilurea aumenta secreción de insulina. ¿Cuál acción inicial explica mejor este efecto?",
+      "exp": "bloquea canales K-ATP de células beta y favorece despolarización. Cap. 79: las sulfonilureas se unen a canales de potasio sensibles a ATP en células beta, los bloquean, provocan despolarización y aumentan entrada de calcio y exocitosis de insulina.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "activa receptores nucleares beta y aumenta TBG plasmática",
+        "inhibe peroxidasa pancreática y reduce yodación celular",
+        "estimula somatostatina delta y bloquea el calcio intracelular",
+        "bloquea canales K-ATP de células beta y favorece despolarización",
+        "abre canales K-ATP y produce hiperpolarización sostenida"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_047",
+      "q": "El péptido C se usa para valorar producción endógena de insulina. ¿Cuál razón lo hace útil?",
+      "exp": "se secreta equimolarmente con insulina al escindirse la proinsulina. Cap. 79: la proinsulina se escinde en insulina y péptido C, que se empaquetan y secretan en cantidades equimolares; por eso refleja secreción beta endógena.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "se administra junto con insulina exógena en todos los preparados",
+        "se forma solo cuando el glucagón se degrada en el hígado",
+        "se secreta equimolarmente con insulina al escindirse la proinsulina",
+        "se une a TBG y aumenta la semivida de la insulina",
+        "se produce exclusivamente en células alfa durante hipoglucemia"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_048",
+      "q": "En el ayuno prolongado, el glucagón contribuye a mantener la glucemia. ¿Cuál efecto hepático es más importante?",
+      "exp": "aumenta glucogenólisis y gluconeogénesis hepáticas. Cap. 79: el glucagón actúa sobre el hígado para aumentar glucogenólisis y gluconeogénesis, elevando la glucemia especialmente durante el ayuno.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "aumenta glucogenólisis y gluconeogénesis hepáticas",
+        "estimula captación muscular de glucosa por GLUT-4",
+        "inhibe toda formación de glucosa desde aminoácidos",
+        "aumenta depósito de triglicéridos por alfa-glicerofosfato",
+        "bloquea fosforilasa hepática y activa glucógeno sintasa"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_049",
+      "q": "En diabetes tipo 2 inicial, la glucemia puede elevarse con insulina plasmática normal o alta. ¿Qué concepto lo explica mejor?",
+      "exp": "resistencia periférica a insulina con respuesta beta compensadora. Cap. 79: la diabetes tipo 2 se asocia a resistencia a la insulina, con frecuencia por obesidad; al inicio puede haber hiperinsulinemia compensadora antes del agotamiento beta.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "destrucción autoinmunitaria completa de células beta desde el inicio",
+        "defecto primario de TPO con descenso de hormonas tiroideas",
+        "falta de receptores de glucagón que reduce producción hepática",
+        "bloqueo de cortisol que aumenta sensibilidad muscular absoluta",
+        "resistencia periférica a insulina con respuesta beta compensadora"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_050",
+      "q": "La somatostatina pancreática local disminuye actividad metabólica del islote y del tubo digestivo. ¿Cuál combinación es correcta?",
+      "exp": "inhibe insulina, inhibe glucagón y reduce motilidad gastrointestinal. Cap. 79: la somatostatina de células delta inhibe la secreción de insulina y glucagón, además de reducir motilidad y secreción gastrointestinal.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "estimula insulina, estimula glucagón y aumenta vaciamiento gástrico",
+        "inhibe insulina, inhibe glucagón y reduce motilidad gastrointestinal",
+        "inhibe calcitonina, activa TSH y aumenta secreción folicular",
+        "estimula ACTH, aumenta cortisol y moviliza calcio óseo",
+        "activa LH, aumenta testosterona y acelera espermatogenia"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_051",
+      "q": "La hipocalcemia produce tetania por alterar la excitabilidad neuronal. ¿Cuál mecanismo es más correcto?",
+      "exp": "aumenta permeabilidad neuronal al sodio y facilita potenciales de acción. Cap. 80: la disminución de calcio extracelular aumenta la permeabilidad neuronal al sodio, facilita descargas espontáneas y causa tetania.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "aumenta permeabilidad neuronal al sodio y facilita potenciales de acción",
+        "cierra canales de sodio y aumenta el umbral de excitación",
+        "convierte calcio plasmático en fosfato unido a proteínas",
+        "bloquea liberación de acetilcolina en todas las placas motoras",
+        "estimula calcitonina hasta producir contracción muscular sostenida"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_052",
+      "q": "En hipercalcemia marcada, ¿cuál cambio cardíaco descrito por Guyton es más característico?",
+      "exp": "disminución del intervalo QT por exceso de calcio iónico. Cap. 80: la hipercalcemia deprime sistema nervioso y músculo, disminuye el intervalo QT y puede causar estreñimiento y pérdida de apetito.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "aumento constante del intervalo QT por hiperexcitabilidad neuronal",
+        "bloqueo completo de conducción por caída de calcio ionizado",
+        "onda T invertida por reducción de fosfato extracelular",
+        "prolongación del PR por déficit de vitamina D activa",
+        "disminución del intervalo QT por exceso de calcio iónico"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_053",
+      "q": "La PTH aumenta calcio plasmático, pero también incrementa excreción renal de fosfato. ¿Cuál consecuencia evita?",
+      "exp": "precipitación excesiva de fosfato cálcico en líquidos corporales. Cap. 80: la PTH eleva calcio y reduce fosfato plasmático al disminuir reabsorción tubular de fosfato, ayudando a evitar precipitación de sales de fosfato cálcico.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "entrada absoluta de calcio a células beta pancreáticas",
+        "bloqueo de calcitriol por ausencia de 1-alfa-hidroxilasa",
+        "conversión del fosfato en hormona tiroidea activa",
+        "precipitación excesiva de fosfato cálcico en líquidos corporales",
+        "aumento de transcortina por exceso de fosfato plasmático"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_054",
+      "q": "La vitamina D debe activarse antes de ejercer su efecto más potente. ¿Cuál secuencia es correcta?",
+      "exp": "colecalciferol, 25-OH hepático y 1,25-(OH)2 renal activo. Cap. 80: la vitamina D se convierte primero en 25-hidroxicolecalciferol en hígado y luego en 1,25-dihidroxicolecalciferol en riñón, regulado por PTH y calcio/fosfato.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "calcitonina, tiroglobulina hepática y T3 renal activa",
+        "colesterol, pregnenolona renal y cortisol intestinal",
+        "colecalciferol, 25-OH hepático y 1,25-(OH)2 renal activo",
+        "PTH, osteocalcina hepática y aldosterona renal",
+        "ergocalciferol, insulina pancreática y glucagón intestinal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_055",
+      "q": "¿Cuál efecto intestinal del 1,25-dihidroxicolecalciferol explica mejor el aumento de absorción de calcio?",
+      "exp": "induce proteínas transportadoras como calbindina en células intestinales. Cap. 80: el calcitriol aumenta absorción intestinal de calcio, en parte al inducir proteínas fijadoras/transportadoras de calcio como calbindina.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "bloquea proteínas de calcio para reducir difusión capilar",
+        "induce proteínas transportadoras como calbindina en células intestinales",
+        "estimula directamente secreción de TSH desde la hipófisis",
+        "destruye osteoclastos para liberar fosfato intestinal",
+        "inhibe formación de todos los canales epiteliales apicales"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_056",
+      "q": "En un paciente con insuficiencia renal avanzada, puede aparecer hipocalcemia por déficit de vitamina D activa. ¿Cuál paso está comprometido?",
+      "exp": "hidroxilación renal final a 1,25-dihidroxicolecalciferol. Cap. 80: el riñón realiza la 1-alfa-hidroxilación que forma calcitriol; falla renal reduce vitamina D activa y compromete absorción de calcio.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "conversión tiroidea de T4 en triyodotironina",
+        "secreción hepática de aldosterona sintasa activa",
+        "hidroxilación renal final a 1,25-dihidroxicolecalciferol",
+        "proteólisis de tiroglobulina en células foliculares",
+        "formación pancreática de péptido C equimolar"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_057",
+      "q": "El hueso resiste tensión y compresión por componentes diferentes. ¿Cuál relación es correcta?",
+      "exp": "colágeno resiste tensión y sales de calcio resisten compresión. Cap. 80: la matriz colágena aporta resistencia a la tensión, mientras las sales de calcio/hidroxiapatita aportan resistencia a la compresión.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "hidroxiapatita resiste tensión y colágeno resiste compresión",
+        "proteoglucanos resisten todo el peso y calcio solo une agua",
+        "osteoclastos resisten tensión y osteoblastos resisten compresión",
+        "fosfato extracelular resiste tensión y calcitonina resiste compresión",
+        "colágeno resiste tensión y sales de calcio resisten compresión"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_058",
+      "q": "La PTH actúa sobre hueso en fases. ¿Cuál opción distingue mejor el efecto rápido del tardío?",
+      "exp": "primero osteólisis osteocítica; luego activación osteoclástica prolongada. Cap. 80: PTH moviliza calcio rápidamente por osteólisis osteocítica y, si persiste, aumenta formación/actividad de osteoclastos, intensificando resorción ósea.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "primero osteólisis osteocítica; luego activación osteoclástica prolongada",
+        "primero depósito de matriz; luego inhibición completa de osteoclastos",
+        "primero calcitonina osteoblástica; luego cierre de túbulos renales",
+        "primero formación de T3; luego proteólisis de tiroglobulina",
+        "primero secreción de insulina; luego depósito de glucógeno óseo"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_059",
+      "q": "¿Cuál patrón es más compatible con hiperparatiroidismo primario prolongado?",
+      "exp": "hipercalcemia, hipofosfatemia relativa y resorción ósea aumentada. Cap. 80: exceso de PTH aumenta calcio plasmático, favorece excreción renal de fosfato y aumenta resorción ósea, pudiendo desmineralizar hueso.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "hipocalcemia, hiperfosfatemia y tetania por baja PTH",
+        "hipoglucemia, cetosis y destrucción de células beta",
+        "hipotiroidismo, TSH baja y mixedema sin fóvea",
+        "hipercalcemia, hipofosfatemia relativa y resorción ósea aumentada",
+        "hipopotasemia, alcalosis y caída absoluta de aldosterona"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_060",
+      "q": "La calcitonina reduce calcio plasmático, pero su importancia en adultos suele ser limitada. ¿Cuál acción es directa?",
+      "exp": "inhibe actividad osteoclástica y reduce resorción ósea. Cap. 80: la calcitonina, secretada por células C tiroideas, inhibe osteoclastos y reduce resorción ósea, aunque su papel regulador en adultos es menor que el de PTH/vitamina D.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "estimula PTH y aumenta reabsorción tubular de calcio",
+        "inhibe actividad osteoclástica y reduce resorción ósea",
+        "activa osteoclastos y eleva liberación ósea de calcio",
+        "convierte 25-OH vitamina D en calcitriol renal",
+        "aumenta secreción de aldosterona por zona glomerular"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_061",
+      "q": "En espermatogenia, la FSH actúa principalmente sobre Sertoli. ¿Cuál efecto es más coherente con su papel?",
+      "exp": "favorece conversión de espermátides en espermatozoides y soporte germinal. Cap. 81: la FSH estimula células de Sertoli y es necesaria para completar la espermatogenia, especialmente la transformación de espermátides en espermatozoides.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "estimula células de Leydig para secretar toda la testosterona plasmática",
+        "provoca emisión seminal por contracción del conducto deferente",
+        "convierte directamente testosterona en aldosterona testicular",
+        "bloquea la división meiótica y mantiene espermatogonias fetales",
+        "favorece conversión de espermátides en espermatozoides y soporte germinal"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_062",
+      "q": "La LH sostiene la producción de testosterona. ¿Cuál célula efectora y localización corresponden?",
+      "exp": "células de Leydig situadas en el intersticio entre túbulos seminíferos. Cap. 81: la LH estimula células intersticiales de Leydig, ubicadas entre túbulos seminíferos, para secretar testosterona.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "células de Sertoli situadas en la luz del epidídimo distal",
+        "espermatogonias ubicadas en la cápsula prostática externa",
+        "células de Leydig situadas en el intersticio entre túbulos seminíferos",
+        "células bulbouretrales localizadas dentro del túbulo seminífero",
+        "pituicitos situados entre conducto deferente y próstata"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_063",
+      "q": "Un varón con calor testicular crónico puede perder espermatogenia pero conservar testosterona. ¿Qué dato lo explica?",
+      "exp": "el epitelio germinal es más vulnerable que las células de Leydig. Cap. 81: el epitelio germinativo puede dañarse por calor o radiación, mientras las células de Leydig son más resistentes y pueden seguir secretando testosterona.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "las células de Leydig solo existen durante la niñez temprana",
+        "el epitelio germinal es más vulnerable que las células de Leydig",
+        "la testosterona se produce exclusivamente en el epidídimo",
+        "la FSH reemplaza a LH y produce testosterona libre",
+        "el calor aumenta meiosis y destruye solo la próstata"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_064",
+      "q": "En el epidídimo, los espermatozoides recién salidos de túbulos seminíferos cambian funcionalmente. ¿Qué adquieren allí?",
+      "exp": "capacidad de motilidad y mayor aptitud fecundante tras maduración. Cap. 81: los espermatozoides inmaduros que entran al epidídimo son poco móviles; tras permanecer allí adquieren motilidad y capacidad fecundante.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "duplicación cromosómica completa para restaurar 46 cromosomas",
+        "secreción principal de fructosa y prostaglandinas seminales",
+        "formación de acrosoma inicial desde células de Leydig",
+        "capacidad de motilidad y mayor aptitud fecundante tras maduración",
+        "conversión de cromosoma X en Y por acción de testosterona"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_065",
+      "q": "¿Qué componente del semen se relaciona mejor con vesículas seminales?",
+      "exp": "líquido rico en fructosa, prostaglandinas y fibrinógeno. Cap. 81: las vesículas seminales secretan un líquido mucoide con fructosa, ácido cítrico, prostaglandinas y fibrinógeno, importante para nutrición y función espermática.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "líquido rico en fructosa, prostaglandinas y fibrinógeno",
+        "líquido lechoso con citrato, calcio y enzima de coagulación",
+        "moco uretral exclusivo sin nutrientes para espermatozoides",
+        "secreción de testosterona ligada a ABP intratubular",
+        "plasma rico en TBG y tiroglobulina para motilidad"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_066",
+      "q": "La reacción acrosómica ocurre al contactar la zona pelúcida. ¿Cuál función cumplen las enzimas acrosómicas?",
+      "exp": "degradan matriz y proteínas que dificultan la penetración del ovocito. Cap. 81: el acrosoma contiene hialuronidasa y enzimas proteolíticas que ayudan a atravesar células de la granulosa/zona pelúcida y penetrar el ovocito.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "forman el coágulo de fibrina que inmoviliza el semen",
+        "degradan matriz y proteínas que dificultan la penetración del ovocito",
+        "convierten testosterona en dihidrotestosterona prostática",
+        "inducen secreción de FSH por células de Sertoli",
+        "bloquean el calcio ovocitario para permitir polispermia"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_067",
+      "q": "¿Qué evento impide la polispermia después de que entra un espermatozoide?",
+      "exp": "liberación de gránulos corticales que modifican la zona pelúcida. Cap. 81: tras la entrada de un espermatozoide, los gránulos corticales del ovocito modifican la zona pelúcida y dificultan la penetración de otros espermatozoides.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "secreción prostática de fibrinolisina hacia el citoplasma ovular",
+        "aumento de LH que destruye todos los espermatozoides vecinos",
+        "conversión de progesterona en testosterona dentro del ovocito",
+        "liberación de gránulos corticales que modifican la zona pelúcida",
+        "cierre del conducto deferente por contracción parasimpática"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_068",
+      "q": "En el acto sexual masculino, emisión y eyaculación dependen de vías diferentes. ¿Cuál combinación es más precisa?",
+      "exp": "emisión es simpática; expulsión final incluye reflejos motores rítmicos. Cap. 81: la emisión se relaciona con estímulos simpáticos que desplazan semen a uretra; la eyaculación implica reflejos y contracciones rítmicas de estructuras reproductoras y músculos.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "emisión es parasimpática; erección final depende solo de somatostatina",
+        "emisión depende de LH; eyaculación depende de FSH intratesticular",
+        "emisión es simpática; expulsión final incluye reflejos motores rítmicos",
+        "emisión es tiroidea; expulsión final depende de calcitonina",
+        "emisión es ovárica; eyaculación depende de cuerpo lúteo"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_069",
+      "q": "La testosterona actúa en muchos tejidos tras convertirse en una forma más activa. ¿Cuál conversión es relevante?",
+      "exp": "testosterona a dihidrotestosterona en algunos órganos diana. Cap. 81: parte de la testosterona se convierte en dihidrotestosterona en tejidos efectores; esta tiene mayor actividad androgénica en varias funciones.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "testosterona a tiroxina en células foliculares",
+        "testosterona a péptido C en células beta",
+        "testosterona a calcitriol en hepatocitos",
+        "testosterona a neurofisina en axones hipotalámicos",
+        "testosterona a dihidrotestosterona en algunos órganos diana"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_070",
+      "q": "Un tumor de Leydig antes de la pubertad produce virilización. ¿Qué eje hormonal se salta parcialmente?",
+      "exp": "testosterona alta aun sin gonadotropinas puberales normales. Cap. 81: las células de Leydig secretan testosterona; un tumor puede producir grandes cantidades de andrógenos independientemente del patrón puberal normal.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "testosterona alta aun sin gonadotropinas puberales normales",
+        "T3 alta por estimulación directa de pendrina apical",
+        "cortisol bajo por destrucción selectiva de zona fascicular",
+        "PTH alta por hipocalcemia secundaria al tumor",
+        "insulina baja por cierre permanente de K-ATP beta"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_071",
+      "q": "En ovogenia, ¿qué evento ocurre solo si hay fecundación?",
+      "exp": "el ovocito secundario completa la segunda división meiótica. Cap. 82: el ovocito secundario queda detenido en meiosis II y completa la división final solo si ocurre fecundación, liberando el segundo cuerpo polar.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "las ovogonias inician mitosis después de cada ovulación",
+        "todos los folículos primordiales completan meiosis antes del nacimiento",
+        "el ovocito secundario completa la segunda división meiótica",
+        "el cuerpo lúteo se forma antes de cualquier pico de LH",
+        "las células de granulosa desaparecen antes de la pubertad"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_072",
+      "q": "Durante la fase folicular, solo un folículo suele dominar. ¿Cuál mecanismo contribuye a la atresia de los demás?",
+      "exp": "estrógeno del folículo dominante reduce FSH y limita otros folículos. Cap. 82: el folículo dominante produce estrógenos que, junto con inhibina, reducen FSH; los folículos menos desarrollados pierden soporte y se vuelven atrésicos.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "estrógeno del folículo dominante reduce FSH y limita otros folículos",
+        "progesterona lútea temprana aumenta FSH para todos los folículos",
+        "inhibina desaparece y activa por igual todos los folículos antrales",
+        "LH se vuelve nula y causa ovulación simultánea múltiple",
+        "GnRH deja de pulsar y bloquea toda secreción ovárica"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_073",
+      "q": "El pico preovulatorio de LH ocurre pese a que los estrógenos suelen inhibir gonadotropinas. ¿Qué cambio lo explica?",
+      "exp": "retroalimentación positiva estrogénica durante la parte final de la fase folicular. Cap. 82: durante la fase final folicular, estrógenos elevados por un tiempo crítico pueden producir retroalimentación positiva y desencadenar el pico de LH que causa ovulación.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "retroalimentación negativa intensa durante toda la fase lútea",
+        "secreción de PTH por el folículo dominante maduro",
+        "activación de células C ováricas por TSH baja",
+        "bloqueo de progesterona sobre la adenohipófisis desde la menstruación",
+        "retroalimentación positiva estrogénica durante la parte final de la fase folicular"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_074",
+      "q": "¿Cuál secuencia local participa en la ruptura folicular durante la ovulación?",
+      "exp": "LH, progesterona folicular, enzimas proteolíticas y estigma debilitado. Cap. 82: la LH aumenta antes de la ovulación, favorece cambios hormonales y enzimáticos; enzimas proteolíticas debilitan la pared y el estigma permite liberación del ovocito.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "FSH, calcitonina folicular, cierre vascular y pared reforzada",
+        "LH, progesterona folicular, enzimas proteolíticas y estigma debilitado",
+        "PTH, colágeno nuevo, fosfato cálcico y antro contraído",
+        "ADH, acuaporinas, moco cervical y cuerpo albicans activo",
+        "TSH, tiroglobulina, pendrina y salida de ovocito por endometrio"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_075",
+      "q": "Tras ovulación, el cuerpo lúteo secreta progesterona y estrógenos. ¿Cuál efecto endometrial predomina?",
+      "exp": "transformación secretora que prepara el endometrio para implantación. Cap. 82: la progesterona del cuerpo lúteo convierte el endometrio proliferativo en secretor, con glándulas y nutrientes adecuados para implantación.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "descamación menstrual inmediata por vasodilatación sostenida",
+        "atrofia completa del endometrio por ausencia de glándulas",
+        "queratinización vaginal como único cambio uterino relevante",
+        "transformación secretora que prepara el endometrio para implantación",
+        "bloqueo de vasos espirales por ausencia de hormonas ováricas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_076",
+      "q": "Si no hay fecundación, ¿qué evento desencadena la menstruación?",
+      "exp": "involución del cuerpo lúteo y caída de estrógenos y progesterona. Cap. 82: sin fecundación no hay señal luteotrópica; el cuerpo lúteo involuciona, caen progesterona y estrógenos, se producen cambios vasculares/endometriales y aparece menstruación.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "persistencia de hCG y aumento mantenido de progesterona",
+        "activación de LH que mantiene cuerpo lúteo por meses",
+        "aumento de calcitonina que contrae vasos endometriales",
+        "secreción continua de inhibina que eleva FSH y LH",
+        "involución del cuerpo lúteo y caída de estrógenos y progesterona"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_077",
+      "q": "¿Cuál efecto de estrógenos sobre hueso explica cierre epifisario más temprano en niñas?",
+      "exp": "estimulan crecimiento óseo inicial y aceleran fusión epifisaria. Cap. 82: los estrógenos promueven crecimiento óseo y aceleran el cierre de epífisis; también inhiben actividad osteoclástica y ayudan a conservar masa ósea.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "inhiben toda actividad osteoblástica desde la pubertad",
+        "estimulan crecimiento óseo inicial y aceleran fusión epifisaria",
+        "bloquean mineralización ósea al elevar PTH permanentemente",
+        "impiden depósito de calcio y mantienen placas abiertas",
+        "destruyen colágeno óseo y causan crecimiento ilimitado"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_078",
+      "q": "Progesterona y estrógeno actúan diferente en la mama. ¿Cuál relación es más adecuada?",
+      "exp": "estrógeno desarrolla conductos; progesterona favorece desarrollo lobulillo-alveolar. Cap. 82: los estrógenos estimulan estroma y conductos mamarios; la progesterona favorece el desarrollo lobulillo-alveolar y aparato secretor.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "estrógeno produce leche; progesterona expulsa leche por mioepitelio",
+        "estrógeno inhibe grasa mamaria; progesterona destruye conductos",
+        "estrógeno activa Sertoli; progesterona activa células de Leydig",
+        "estrógeno desarrolla conductos; progesterona favorece desarrollo lobulillo-alveolar",
+        "estrógeno cierra alveolos; progesterona bloquea desarrollo secretor"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_079",
+      "q": "En menopausia, FSH y LH aumentan. ¿Cuál explicación integra mejor el cambio?",
+      "exp": "agotamiento folicular reduce estrógenos e inhibina y libera gonadotropinas. Cap. 82: al agotarse folículos, disminuyen estrógenos e inhibina; se pierde retroalimentación negativa y aumentan gonadotropinas, especialmente FSH.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "agotamiento folicular reduce estrógenos e inhibina y libera gonadotropinas",
+        "cuerpo lúteo persistente aumenta progesterona y suprime GnRH",
+        "tiroides hiperactiva bloquea retroalimentación ovárica normal",
+        "PTH elevada destruye receptores de FSH en el ovario",
+        "ADH baja aumenta osmolalidad y estimula estrógenos"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_080",
+      "q": "¿Qué característica del moco cervical favorece más la entrada de espermatozoides cerca de la ovulación?",
+      "exp": "moco más delgado y filante bajo predominio estrogénico. Cap. 82: alrededor de la ovulación, el predominio estrogénico vuelve el moco cervical más fino y favorable al paso espermático; la progesterona lo vuelve más espeso.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "moco espeso e impenetrable bajo predominio progestacional",
+        "moco ausente por destrucción de glándulas cervicales",
+        "moco más delgado y filante bajo predominio estrogénico",
+        "moco ácido y coagulado por inhibina folicular",
+        "moco calcificado por exceso de PTH ovárica"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_081",
+      "q": "Un receptor hormonal asociado a tirosina cinasa se activa por autofosforilación. ¿Qué hormona del bloque estudiado usa este patrón de forma clásica?",
+      "exp": "insulina en sus tejidos efectores principales. Caps. 75 y 79: el receptor de insulina tiene subunidades alfa y beta; la unión de insulina induce autofosforilación beta y actividad tirosina cinasa.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "aldosterona en túbulos colectores",
+        "tiroxina en receptores nucleares",
+        "ADH en receptor V2 renal",
+        "insulina en sus tejidos efectores principales",
+        "LH en células ováricas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_082",
+      "q": "¿Cuál combinación muestra una integración correcta entre hormona, receptor y velocidad de efecto?",
+      "exp": "aldosterona, receptor intracelular y efecto tardío por proteínas inducidas. Caps. 75 y 78: la aldosterona es esteroidea, atraviesa membrana, se une a receptor intracelular y modifica expresión de proteínas que regulan transporte tubular.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "insulina, receptor nuclear y efecto exclusivo después de semanas",
+        "ADH, receptor citosólico y síntesis obligatoria de ADN",
+        "aldosterona, receptor intracelular y efecto tardío por proteínas inducidas",
+        "T3, receptor de membrana y acción completa en segundos",
+        "glucagón, receptor de tiroglobulina y almacenamiento en coloide"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_083",
+      "q": "Hipercalcemia, poliuria y deshidratación en hiperparatiroidismo avanzado se explican mejor por:",
+      "exp": "calcio alto que reduce capacidad renal de concentrar orina. Cap. 80: la hipercalcemia puede alterar la función renal y favorecer pérdida de agua; además, PTH y exceso de calcio alteran el manejo renal de minerales.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "calcio alto que reduce capacidad renal de concentrar orina",
+        "sodio bajo que estimula secreción absoluta de insulina",
+        "T3 baja que aumenta acuaporinas independientemente de ADH",
+        "progesterona alta que destruye túbulos colectores",
+        "inhibina alta que bloquea reabsorción proximal de calcio"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_084",
+      "q": "¿Cuál situación diferencia mejor diabetes mellitus tipo 1 de diabetes insípida por déficit de ADH?",
+      "exp": "la primera cursa con glucosuria hiperglucémica; la segunda con orina diluida sin glucosa. Caps. 76 y 79: la diabetes mellitus se debe a alteración de insulina/glucosa y puede causar glucosuria; la diabetes insípida por déficit de ADH produce gran volumen de orina diluida.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "la primera cursa con TSH alta; la segunda con T3 elevada",
+        "la primera depende de PTH; la segunda depende de cortisol",
+        "la primera causa ovulación; la segunda causa pico de LH",
+        "la primera aumenta calcitonina; la segunda aumenta péptido C",
+        "la primera cursa con glucosuria hiperglucémica; la segunda con orina diluida sin glucosa"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_085",
+      "q": "Cortisol y hormona del crecimiento elevadas pueden aumentar glucemia, pero por mecanismos distintos. ¿Cuál relación es correcta?",
+      "exp": "cortisol aumenta gluconeogénesis; GH reduce utilización de glucosa. Caps. 76 y 78: cortisol aumenta gluconeogénesis y moviliza sustratos; GH reduce utilización periférica de glucosa y puede aumentar producción hepática.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "cortisol bloquea gluconeogénesis; GH aumenta uso muscular de glucosa",
+        "cortisol aumenta gluconeogénesis; GH reduce utilización de glucosa",
+        "cortisol forma tiroglobulina; GH libera yoduro desde el coloide",
+        "cortisol cierra K-ATP beta; GH secreta insulina directamente",
+        "cortisol reduce ácidos grasos; GH inhibe lipólisis adiposa"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_086",
+      "q": "En una mujer con hipotiroidismo severo e hiperprolactinemia leve, ¿qué eje puede vincular ambos hallazgos?",
+      "exp": "TRH aumentada puede estimular TSH y también prolactina. Caps. 76 y 77: TRH estimula TSH y puede favorecer prolactina; en hipotiroidismo primario, TRH elevada puede asociarse a hiperprolactinemia.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "TRH aumentada puede estimular TSH y también prolactina",
+        "PTH aumentada puede estimular oxitocina y también insulina",
+        "aldosterona baja puede estimular FSH y también glucagón",
+        "calcitonina alta puede estimular LH y también cortisol",
+        "testosterona alta puede estimular TBG y también ADH"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_087",
+      "q": "En un paciente con exoftalmos y T3/T4 altas, ¿cuál dato ayuda a diferenciar Graves de bocio por falta de yodo?",
+      "exp": "inmunoglobulinas estimulantes del receptor de TSH con TSH baja. Cap. 77: Graves se debe a anticuerpos estimulantes del receptor de TSH, con hipertiroidismo y supresión de TSH; el bocio por falta de yodo cursa con TSH elevada.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "déficit de yodo con TSH baja y ausencia de anticuerpos",
+        "destrucción hipofisaria con TSH alta y T4 baja",
+        "exceso de calcitonina con TSH normal y calcio alto",
+        "fallo de pendrina con TSH abolida y T4 normal",
+        "inmunoglobulinas estimulantes del receptor de TSH con TSH baja"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_088",
+      "q": "¿Cuál comparación entre PTH y aldosterona es más adecuada en riñón?",
+      "exp": "PTH regula calcio/fosfato; aldosterona regula sodio/potasio/hidrógeno. Caps. 78 y 80: PTH aumenta reabsorción renal de calcio y excreción de fosfato; aldosterona aumenta reabsorción de sodio y secreción de potasio e hidrógeno.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "PTH regula yoduro; aldosterona regula MIT y DIT",
+        "PTH regula calcio/fosfato; aldosterona regula sodio/potasio/hidrógeno",
+        "PTH regula glucógeno; aldosterona regula GLUT-4",
+        "PTH regula espermatogénesis; aldosterona regula LH",
+        "PTH regula prolactina; aldosterona regula TSH"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_089",
+      "q": "¿Qué par de hormonas comparte naturaleza esteroidea y receptor intracelular, aunque pertenezca a sistemas distintos?",
+      "exp": "cortisol y progesterona. Caps. 75, 78 y 82: cortisol y progesterona son esteroides derivados del colesterol; actúan principalmente mediante receptores intracelulares y regulación génica.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "insulina y glucagón",
+        "ADH y oxitocina",
+        "cortisol y progesterona",
+        "TSH y FSH",
+        "calcitonina y prolactina"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_090",
+      "q": "En ayuno, varias hormonas se coordinan para mantener combustible. ¿Cuál patrón es más fisiológico?",
+      "exp": "glucagón y cortisol favorecen producción hepática de glucosa. Caps. 78 y 79: en ayuno, glucagón estimula producción hepática de glucosa; cortisol aporta sustratos y aumenta gluconeogénesis. La insulina baja facilita movilización energética.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "insulina alta inhibe glucogenólisis y aumenta lipogénesis posprandial",
+        "calcitonina alta moviliza ácidos grasos para el encéfalo",
+        "estrógeno alto activa glucogenólisis hepática inmediata",
+        "glucagón y cortisol favorecen producción hepática de glucosa",
+        "oxitocina alta convierte proteínas musculares en glucosa"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_091",
+      "q": "Un fármaco que bloquea receptores beta-adrenérgicos puede disminuir algunos síntomas del hipertiroidismo. ¿Cuál síntoma se afectaría más?",
+      "exp": "taquicardia y temblor por hiperactividad simpática funcional. Cap. 77: muchos síntomas de hipertiroidismo se parecen a hiperactividad adrenérgica; beta-bloqueo ayuda sobre todo en taquicardia, temblor y nerviosismo, sin corregir síntesis hormonal.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "déficit de yodación por bloqueo directo de peroxidasa",
+        "taquicardia y temblor por hiperactividad simpática funcional",
+        "aumento de TSH por estimulación de adenohipófisis",
+        "acumulación de mucopolisacáridos por mixedema",
+        "fallo de conversión ovocitaria por falta de LH"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_092",
+      "q": "Una célula diana tiene receptores para una hormona, pero no responde tras mutación de proteínas reguladoras génicas. ¿Qué principio se ilustra?",
+      "exp": "el receptor por sí solo no determina toda la respuesta tisular final. Cap. 75: la respuesta a hormonas con receptores intracelulares depende también de proteínas reguladoras específicas de cada tejido, no solo de la presencia del receptor.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "las hormonas liposolubles nunca necesitan receptores celulares",
+        "todas las células con receptor expresan siempre el mismo gen",
+        "la unión a proteínas plasmáticas produce respuesta intracelular",
+        "el receptor por sí solo no determina toda la respuesta tisular final",
+        "los segundos mensajeros reemplazan al ADN en hormonas esteroideas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_093",
+      "q": "En anticoncepción hormonal combinada, el principio fisiológico central es suprimir gonadotropinas. ¿Qué mecanismo se aprovecha?",
+      "exp": "retroalimentación negativa de estrógeno/progestágeno sobre FSH y LH. Cap. 82: estrógenos y progesterona ejercen retroalimentación negativa sobre el eje hipotalámico-hipofisario, reduciendo FSH/LH y dificultando desarrollo folicular y ovulación.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "retroalimentación positiva sostenida que aumenta el pico de LH",
+        "estimulación de PTH que bloquea el folículo dominante",
+        "retroalimentación negativa de estrógeno/progestágeno sobre FSH y LH",
+        "activación de ADH que impide la fecundación tubárica",
+        "aumento de TSH que destruye el cuerpo lúteo cada ciclo"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_094",
+      "q": "El hipercortisolismo prolongado causa debilidad muscular y piel fina. ¿Cuál mecanismo contribuye?",
+      "exp": "catabolismo proteico extrahepático y menor síntesis tisular periférica. Cap. 78: el cortisol moviliza aminoácidos desde tejidos extrahepáticos y reduce proteínas tisulares, lo que contribuye a debilidad muscular, piel fina y mala cicatrización.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "catabolismo proteico extrahepático y menor síntesis tisular periférica",
+        "exceso de depósito proteico muscular por acción anabólica directa",
+        "aumento de colágeno dérmico por activación de fibroblastos",
+        "inhibición de gluconeogénesis con ahorro completo de aminoácidos",
+        "acúmulo de tiroglobulina en músculo y piel por TSH elevada"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_095",
+      "q": "En ausencia de insulina, el hígado sigue liberando glucosa pese a hiperglucemia. ¿Qué acciones faltan?",
+      "exp": "inhibición de gluconeogénesis y estímulo de almacenamiento de glucógeno. Cap. 79: la insulina normalmente inhibe gluconeogénesis y favorece almacenamiento hepático de glucosa como glucógeno; sin insulina, predomina producción/liberación hepática de glucosa.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "estímulo de peroxidasa y transporte apical de yoduro",
+        "inhibición de PTH y aumento de calcitonina osteoclástica",
+        "estimulación de progesterona y maduración del cuerpo lúteo",
+        "activación de neurofisina y reabsorción renal de agua",
+        "inhibición de gluconeogénesis y estímulo de almacenamiento de glucógeno"
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_096",
+      "q": "¿Cuál alteración explica mejor infertilidad masculina con recuento normal pero baja fecundidad?",
+      "exp": "motilidad o morfología espermática anormal pese a cantidad suficiente. Cap. 81: no basta el número de espermatozoides; alteraciones de motilidad o morfología pueden causar infertilidad aunque el recuento sea aparentemente adecuado.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "aumento de fructosa seminal con acrosomas totalmente funcionales",
+        "testosterona normal con espermatozoides móviles y morfología normal",
+        "motilidad o morfología espermática anormal pese a cantidad suficiente",
+        "capacitación completa con reacción acrosómica eficiente",
+        "pH seminal alcalino con recuento y motilidad preservados"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_097",
+      "q": "Si una mujer tiene ciclos anovulatorios, ¿qué cambio hormonal o estructural faltaría de forma crítica?",
+      "exp": "pico preovulatorio adecuado de LH y formación normal de cuerpo lúteo. Cap. 82: sin pico preovulatorio de LH no ocurre ovulación; sin ovulación no se forma un cuerpo lúteo funcional con secreción lútea normal de progesterona.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "pico preovulatorio adecuado de LH y formación normal de cuerpo lúteo",
+        "aumento de calcitonina y cierre epifisario ovárico",
+        "elevación de ADH y secreción de moco cervical espeso",
+        "aumento de insulina y conversión de glucosa en grasa",
+        "secreción de aldosterona y retención uterina de sodio"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_098",
+      "q": "En una prueba de laboratorio, la hormona total está alta, pero la libre y TSH son normales. ¿Qué situación es más probable?",
+      "exp": "aumento de proteína transportadora sin exceso funcional de hormona activa. Caps. 75 y 77: muchas hormonas liposolubles circulan unidas a proteínas; cambios de proteína transportadora pueden alterar hormona total sin modificar la fracción libre ni el estado funcional.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "hipersecreción autónoma con receptor activado de manera permanente",
+        "destrucción hipofisaria con falta absoluta de retroalimentación",
+        "deficiencia de proteína transportadora y exceso de hormona libre",
+        "aumento de proteína transportadora sin exceso funcional de hormona activa",
+        "bloqueo completo de receptores nucleares con hipotiroidismo clínico"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_099",
+      "q": "¿Qué combinación de capítulos integra correctamente glándula, hormona y efecto principal?",
+      "exp": "paratiroides, PTH, aumento de calcio plasmático por hueso, riñón y vitamina D. Cap. 80: la PTH de paratiroides aumenta calcio plasmático actuando en hueso, riñón y estimulando vitamina D activa, lo que mejora absorción intestinal de calcio.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "célula beta, glucagón, reducción de glucosa por GLUT-4 muscular",
+        "paratiroides, PTH, aumento de calcio plasmático por hueso, riñón y vitamina D",
+        "zona reticular, aldosterona, reabsorción de yoduro folicular",
+        "célula de Sertoli, LH, secreción principal de testosterona",
+        "célula folicular, calcitonina, formación de MIT y DIT"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_cuestionario_dificiles_100",
+      "q": "¿Cuál escenario representa mejor una hormona con acción rápida por membrana y otra lenta por regulación génica?",
+      "exp": "glucagón vía AMPc hepático y cortisol vía receptor intracelular. Caps. 75, 78 y 79: glucagón es peptídico y actúa por receptores de membrana/AMPc en hígado; cortisol es esteroideo, entra a la célula y regula genes mediante receptor intracelular.",
+      "topic": "Cuestionário dificiles",
+      "options": [
+        "cortisol vía canal de sodio y glucagón vía elemento de respuesta nuclear",
+        "T4 vía exocitosis vesicular y insulina vía tiroglobulina",
+        "progesterona vía pendrina y ADH vía receptor de estrógeno",
+        "aldosterona vía acrosoma y FSH vía transcortina plasmática",
+        "glucagón vía AMPc hepático y cortisol vía receptor intracelular"
+      ],
+      "answer": 4
+    }
+  ]
+}

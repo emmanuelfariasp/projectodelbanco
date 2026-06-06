@@ -1,0 +1,788 @@
+{
+  "key": "fisio_cap80_aleatorio",
+  "title": "Capítulo 80",
+  "subtitle": "PTH, calcitonina, vitamina D, calcio y fosfato",
+  "level": "60 preguntas",
+  "questions": [
+    {
+      "id": "fisio_aleatorio_80_01",
+      "q": "La concentración normal aproximada de calcio plasmático total es:",
+      "exp": "El calcio extracelular se regula cerca de 9,4 mg/dl.",
+      "topic": "Capítulo 80",
+      "options": [
+        "17 mg/dl.",
+        "35 mg/dl.",
+        "4,0 mg/dl.",
+        "9,4 mg/dl."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_02",
+      "q": "La forma biológicamente más importante del calcio plasmático es:",
+      "exp": "El calcio ionizado es la fracción activa para nervios, músculo y corazón.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Calcio unido a albúmina.",
+        "Calcio ionizado libre.",
+        "Calcio unido a citrato.",
+        "Calcio precipitado en orina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_03",
+      "q": "En plasma, aproximadamente 50% del calcio está:",
+      "exp": "Aproximadamente la mitad del calcio plasmático está ionizada.",
+      "topic": "Capítulo 80",
+      "options": [
+        "En complejo no ionizado.",
+        "Dentro de eritrocitos.",
+        "Unido a proteínas.",
+        "Ionizado y difusible."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_04",
+      "q": "La hipocalcemia aumenta la excitabilidad nerviosa porque:",
+      "exp": "La reducción de calcio extracelular facilita la apertura de canales de sodio y la descarga neuronal.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Aumenta la permeabilidad neuronal al sodio.",
+        "Aumenta TSH y tiroglobulina.",
+        "Disminuye la entrada de sodio en neuronas.",
+        "Bloquea todos los potenciales de acción."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_05",
+      "q": "La tetania hipocalcémica suele aparecer cerca de:",
+      "exp": "La tetania aparece alrededor de 6 mg/dl; valores de 4 mg/dl suelen ser mortales.",
+      "topic": "Capítulo 80",
+      "options": [
+        "17 mg/dl de calcio sanguíneo.",
+        "12 mg/dl de calcio sanguíneo.",
+        "9,4 mg/dl de calcio sanguíneo.",
+        "6 mg/dl de calcio sanguíneo."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_06",
+      "q": "La hipercalcemia tiende a producir:",
+      "exp": "El aumento del calcio reduce la actividad nerviosa y muscular.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Tetania intensa por hiperexcitabilidad neuronal.",
+        "Aumento marcado del intervalo QT.",
+        "Depresión neuromuscular y reflejos lentos.",
+        "Convulsiones por entrada de sodio facilitada."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_07",
+      "q": "En el corazón, la hipercalcemia se asocia con:",
+      "exp": "El calcio elevado acorta el intervalo QT.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Aumento marcado del intervalo QT.",
+        "Disminución del intervalo QT.",
+        "Bloqueo obligatorio de toda conducción.",
+        "Ausencia de cambios eléctricos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_08",
+      "q": "Las variaciones agudas de fosfato extracelular suelen tener:",
+      "exp": "El fosfato no produce efectos inmediatos tan manifiestos como el calcio iónico.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Más tetania inmediata que la hipocalcemia intensa.",
+        "Menos efectos inmediatos que las variaciones de calcio.",
+        "Un efecto directo de bloqueo de toda coagulación.",
+        "El mismo efecto nervioso que el sodio extracelular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_09",
+      "q": "La vitamina D favorece principalmente:",
+      "exp": "La vitamina D facilita la absorción intestinal de calcio.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Yodación de tiroglobulina.",
+        "Capacitación espermática.",
+        "Secreción de insulina beta.",
+        "Absorción intestinal de calcio."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_10",
+      "q": "En condiciones normales, se absorbe aproximadamente qué fracción del calcio ingerido:",
+      "exp": "Con vitamina D normal se absorbe alrededor de 35% del calcio ingerido.",
+      "topic": "Capítulo 80",
+      "options": [
+        "5%.",
+        "100%.",
+        "90%.",
+        "35%."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_11",
+      "q": "La mayor parte del calcio ingerido se elimina normalmente por:",
+      "exp": "Alrededor de 900 mg/día pueden eliminarse por heces en un consumo de 1000 mg/día.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Pulmón.",
+        "Sudor.",
+        "Heces.",
+        "Saliva."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_12",
+      "q": "En el riñón, la PTH aumenta principalmente la reabsorción de calcio en:",
+      "exp": "La PTH controla la reabsorción selectiva de calcio en segmentos distales.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Túbulo distal final y colector inicial.",
+        "Uréter y vejiga urinaria.",
+        "Conducto colector medular externo solamente.",
+        "Glomérulo y cápsula de Bowman."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_13",
+      "q": "La excreción renal de fosfato funciona en gran parte por:",
+      "exp": "Por debajo de un umbral se reabsorbe; por encima aumenta la pérdida urinaria.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Mecanismo de rebosamiento dependiente de concentración plasmática.",
+        "Secreción obligatoria total aunque el fosfato esté bajo.",
+        "Transporte por TBG y transcortina.",
+        "Reabsorción fija del 50% sin control hormonal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_14",
+      "q": "La PTH sobre fosfato renal produce:",
+      "exp": "La PTH disminuye reabsorción tubular de fosfato y aumenta fosfaturia.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Aumento de reabsorción absoluta de fosfato.",
+        "Aumento de excreción de fosfato.",
+        "Ausencia total de efecto renal.",
+        "Conversión de fosfato en calcio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_15",
+      "q": "El hueso compacto promedio está compuesto aproximadamente por:",
+      "exp": "El hueso compacto tiene una matriz orgánica reforzada por sales minerales.",
+      "topic": "Capítulo 80",
+      "options": [
+        "70% matriz orgánica y 30% agua.",
+        "90% fosfato libre y 10% calcio libre.",
+        "30% matriz orgánica y 70% sales.",
+        "50% células beta y 50% colágeno."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_16",
+      "q": "La matriz orgánica ósea contiene sobre todo:",
+      "exp": "El 90-95% de la matriz orgánica ósea son fibras de colágeno.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Insulina y péptido C.",
+        "Tiroglobulina y MIT.",
+        "Fibras de colágeno.",
+        "Transcortina y albúmina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_17",
+      "q": "La principal sal cristalina del hueso es:",
+      "exp": "Las sales óseas contienen cristales de hidroxiapatita.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Hidroxiapatita.",
+        "Glucógeno muscular.",
+        "Fibrina seminal.",
+        "Tiroglobulina yodada."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_18",
+      "q": "El colágeno óseo aporta principalmente resistencia a:",
+      "exp": "Las fibras colágenas resisten tensión; las sales de calcio resisten compresión.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Yodación.",
+        "Diuresis.",
+        "Tensión.",
+        "Compresión pura."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_19",
+      "q": "La activación final de vitamina D a calcitriol ocurre principalmente en:",
+      "exp": "El riñón produce 1,25-dihidroxicolecalciferol, la forma activa de vitamina D.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Células medulares suprarrenales.",
+        "Células tubulares renales.",
+        "Células foliculares tiroideas.",
+        "Células epididimarias."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_20",
+      "q": "La PTH estimula en el riñón:",
+      "exp": "La PTH favorece la activación renal de vitamina D.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Aromatasa y síntesis de estradiol.",
+        "Peroxidasa tiroidea y formación de T4.",
+        "Insulinasa y degradación de glucagón.",
+        "1 alfa-hidroxilasa y formación de calcitriol."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_21",
+      "q": "El efecto global de la PTH sobre calcio plasmático es:",
+      "exp": "La PTH aumenta calcio plasmático mediante hueso, riñón y vitamina D.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Aumentarlo.",
+        "Disminuirlo.",
+        "Convertirlo en fosfato.",
+        "No modificarlo."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_22",
+      "q": "El efecto global de la PTH sobre fosfato plasmático tiende a ser:",
+      "exp": "Aunque puede liberar fosfato del hueso, la PTH aumenta mucho su excreción renal.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Aumentarlo por reabsorción tubular completa.",
+        "Disminuirlo por aumento de excreción renal.",
+        "Mantenerlo fijo sin participación renal.",
+        "Convertirlo en calcio iónico libre."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_23",
+      "q": "La calcitonina es secretada por:",
+      "exp": "Las células C o parafoliculares secretan calcitonina.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Células de Leydig.",
+        "Células C de la tiroides.",
+        "Células principales de paratiroides.",
+        "Células beta pancreáticas."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_24",
+      "q": "La calcitonina tiende a:",
+      "exp": "La calcitonina reduce resorción ósea y tiende a bajar el calcio.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Disminuir calcio plasmático al inhibir actividad osteoclástica.",
+        "Aumentar calcio plasmático al estimular resorción ósea.",
+        "Aumentar TSH y síntesis de T3/T4.",
+        "Inhibir secreción de insulina en hiperglucemia."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_25",
+      "q": "La deficiencia crónica de vitamina D causa principalmente:",
+      "exp": "La falta de vitamina D reduce absorción de calcio y mineralización ósea.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Hipersecreción de aldosterona.",
+        "Exceso de mineralización inmediata.",
+        "Deficiente mineralización ósea.",
+        "Aumento directo de T4 libre."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_26",
+      "q": "¿Qué efecto tiene el estrógeno sobre el tejido óseo según el mecanismo OPG-RANKL?",
+      "exp": "Los estrógenos estimulan OPG; la OPG se une a RANKL e impide la diferenciación de preosteoclastos en osteoclastos maduros, reduciendo la resorción ósea.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Reduce la producción de osteoprotegerina.",
+        "Estimula la producción de osteoprotegerina (OPG).",
+        "Estimula la formación de RANKL.",
+        "Activa directamente a los osteoclastos maduros."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_27",
+      "q": "En el plasma sanguíneo, ¿cuál es el porcentaje aproximado de calcio que se encuentra en forma ionizada y es biológicamente activo?",
+      "exp": "Aproximadamente la mitad del calcio plasmático está ionizado; el resto está unido a proteínas o formando complejos con aniones.",
+      "topic": "Capítulo 80",
+      "options": [
+        "41%.",
+        "50%.",
+        "85%.",
+        "9%."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_28",
+      "q": "¿Cómo afecta un estado de alcalosis en el líquido extracelular la distribución de las formas de fosfato inorgánico?",
+      "exp": "En medio alcalino disminuyen los hidrogeniones, por eso el equilibrio se desplaza hacia la forma menos protonada: HPO4 2-.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Aumenta el HPO4 2- y disminuye el H2PO4 -.",
+        "Aumenta el H2PO4 - y disminuye el HPO4 2-.",
+        "Se produce una precipitación inmediata de fosfato de calcio.",
+        "Ambas formas aumentan proporcionalmente para amortiguar el pH."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_29",
+      "q": "¿Cuál es el mecanismo fisiopatológico por el cual la hipocalcemia provoca tetania muscular?",
+      "exp": "Cuando baja el calcio extracelular, las fibras nerviosas se vuelven más excitables porque aumenta la permeabilidad al sodio, facilitando descargas espontáneas y tetania.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Bloquea la liberación de acetilcolina en la unión neuromuscular.",
+        "Deprime directamente los centros motores del sistema nervioso central.",
+        "Aumenta la permeabilidad de la membrana neuronal a los iones Na+.",
+        "Aumenta la permeabilidad al K+ provocando hiperpolarización."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_30",
+      "q": "¿A partir de qué nivel de calcio plasmático suelen aparecer los efectos depresores sobre el sistema nervioso central, como la lentitud de los reflejos?",
+      "exp": "La hipercalcemia empieza a producir efectos depresores evidentes cuando el calcio sanguíneo supera aproximadamente 12 mg/dL.",
+      "topic": "Capítulo 80",
+      "options": [
+        "6 mg/dL.",
+        "9,4 mg/dL.",
+        "> 17 mg/dL.",
+        "> 12 mg/dL."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_31",
+      "q": "¿Qué porcentaje del calcio filtrado por los riñones se reabsorbe típicamente en los túbulos proximales, las asas de Henle y la porción inicial de los túbulos distales?",
+      "exp": "La mayor parte del calcio filtrado se reabsorbe antes del túbulo distal final; el 10% restante queda bajo regulación fina, especialmente por PTH.",
+      "topic": "Capítulo 80",
+      "options": [
+        "10%.",
+        "65%.",
+        "90%.",
+        "35%."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_32",
+      "q": "¿Cuál es el componente principal de la matriz orgánica del hueso que proporciona resistencia a la tensión?",
+      "exp": "El colágeno representa la mayor parte de la matriz orgánica ósea y proporciona resistencia a la tensión; las sales cálcicas aportan resistencia a la compresión.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Cristales de hidroxiapatita.",
+        "Ácido hialurónico.",
+        "Sulfato de condroitina.",
+        "Fibras de colágeno."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_33",
+      "q": "¿Qué molécula secretada por los osteoblastos neutraliza el pirofosfato y permite la calcificación del osteoide?",
+      "exp": "La fosfatasa alcalina disminuye el efecto inhibidor del pirofosfato y favorece la precipitación de calcio y fosfato en la matriz osteoide.",
+      "topic": "Capítulo 80",
+      "options": [
+        "NPP1.",
+        "Fosfatasa alcalina de los osteoblastos.",
+        "ANK.",
+        "Osteoprotegerina (OPG)."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_34",
+      "q": "¿En qué órgano ocurre la conversión de colecalciferol en 25-hidroxicolecalciferol?",
+      "exp": "La piel forma colecalciferol; el hígado realiza la primera hidroxilación a 25-hidroxicolecalciferol; el riñón produce la forma activa 1,25-dihidroxicolecalciferol.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Piel.",
+        "Intestino delgado.",
+        "Riñón.",
+        "Hígado."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_35",
+      "q": "¿Cuál es el estímulo hormonal necesario para que los riñones produzcan 1,25-dihidroxicolecalciferol?",
+      "exp": "La PTH estimula la conversión renal de 25-hidroxicolecalciferol en 1,25-dihidroxicolecalciferol, la forma más activa de la vitamina D.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Insulina.",
+        "Calcitonina.",
+        "Hormona paratiroidea (PTH).",
+        "Hormona del crecimiento."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_36",
+      "q": "¿Cuál es la función principal de la calbindina en las células epiteliales intestinales?",
+      "exp": "La vitamina D aumenta la formación de calbindina, una proteína fijadora de calcio que facilita el transporte intracelular del calcio absorbido.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Inhibir la absorción de oxalatos para prevenir cálculos.",
+        "Facilitar el transporte de calcio desde el borde en cepillo hacia el citoplasma.",
+        "Degradar el fosfato para facilitar su absorción.",
+        "Actuar como una bomba de Ca2+-ATPasa en la membrana basolateral."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_37",
+      "q": "En el contexto de la acción de la PTH, ¿qué es la osteólisis?",
+      "exp": "La osteólisis es una fase rápida de movilización de calcio desde el hueso, mediada por osteocitos y osteoblastos, sin digestión extensa de la matriz.",
+      "topic": "Capítulo 80",
+      "options": [
+        "La destrucción total de la matriz orgánica por osteoclastos.",
+        "La liberación rápida de sales de calcio del líquido óseo por el sistema de membranas osteocíticas.",
+        "La formación de quistes óseos llenos de líquido.",
+        "La precipitación de sales de fosfato en vasos sanguíneos óseos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_38",
+      "q": "¿Cuál es el efecto de la PTH sobre el manejo renal del fosfato?",
+      "exp": "La PTH reduce el transporte tubular proximal de fosfato; por eso aumenta la fosfaturia y puede disminuir el fosfato plasmático.",
+      "topic": "Capítulo 80",
+      "options": [
+        "No tiene efecto sobre el fosfato renal, solo sobre el calcio.",
+        "Disminuye la reabsorción en los túbulos proximales, aumentando su excreción.",
+        "Aumenta la reabsorción en los túbulos distales.",
+        "Promueve la formación de cristales de fosfato en los conductos colectores."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_39",
+      "q": "¿Qué segundo mensajero utiliza la PTH para ejercer la mayoría de sus efectos en las células diana?",
+      "exp": "Una parte importante de la acción de la PTH se transmite por AMPc, que participa en la resorción ósea y en la activación renal de la vitamina D.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Guanosina monofosfato cíclico (GMPc).",
+        "Diacilglicerol (DAG).",
+        "Inositol trifosfato (IP3).",
+        "Monofosfato de adenosina cíclico (AMPc)."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_40",
+      "q": "¿Cómo detectan las células de la glándula paratiroides los cambios en la concentración de calcio extracelular?",
+      "exp": "El CaSR de la membrana paratiroidea detecta el calcio extracelular; cuando el calcio sube, se inhibe la secreción de PTH.",
+      "topic": "Capítulo 80",
+      "options": [
+        "A través de un receptor sensor de calcio (CaSR) acoplado a proteína G.",
+        "Mediante entrada directa de calcio por canales activados por voltaje.",
+        "Por cambios en el potencial de membrana inducidos por fosfato.",
+        "Mediante receptores intracelulares unidos al complejo calcio-calmodulina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_41",
+      "q": "¿Cuál es el efecto principal de la calcitonina sobre la actividad ósea?",
+      "exp": "La calcitonina tiende a reducir el calcio plasmático al disminuir la actividad osteoclástica y favorecer el depósito de calcio en el hueso.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Inducir la apoptosis de los osteoblastos.",
+        "Estimular la maduración de los osteoclastos.",
+        "Reducir la actividad absortiva de los osteoclastos.",
+        "Aumentar la permeabilidad de la membrana osteocítica al calcio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_42",
+      "q": "¿Por qué el efecto de la calcitonina es menos importante en adultos humanos que en niños?",
+      "exp": "En niños el recambio óseo es rápido, por lo que inhibir la resorción tiene un efecto mayor. En adultos, la remodelación es más lenta y el papel cuantitativo es menor.",
+      "topic": "Capítulo 80",
+      "options": [
+        "La PTH en adultos es insensible a la acción de la calcitonina.",
+        "Los adultos no tienen células C en la tiroides.",
+        "El riñón adulto secreta inhibidores de la calcitonina.",
+        "La tasa de remodelación ósea es mucho menor en adultos."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_43",
+      "q": "¿Cuál es la causa habitual de muerte en pacientes con hipoparatiroidismo agudo no tratado?",
+      "exp": "La hipocalcemia severa aumenta la excitabilidad neuromuscular y puede causar tetania laríngea, con obstrucción de la vía aérea.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Obstrucción respiratoria por espasmo laríngeo.",
+        "Falla renal por hiperfosfaturia.",
+        "Fracturas óseas múltiples espontáneas.",
+        "Arritmias cardíacas por hipercalcemia."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_44",
+      "q": "¿Cuál es el rango normal de la concentración de calcio en el líquido extracelular?",
+      "exp": "El valor medio normal del calcio en el líquido extracelular es cercano a 9,4 mg/dL, equivalente a 2,4 mmol/L de calcio total.",
+      "topic": "Capítulo 80",
+      "options": [
+        "4 mg/dL.",
+        "12 mg/dL.",
+        "9,4 mg/dL.",
+        "1,2 mg/dL."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_45",
+      "q": "¿Qué ocurre con la excreción renal de fosfato cuando la concentración plasmática cae por debajo de 1 mmol/L?",
+      "exp": "Por debajo del umbral del mecanismo de rebosamiento, los túbulos pueden reabsorber prácticamente todo el fosfato filtrado.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Se reabsorbe todo el fosfato filtrado y no hay pérdida urinaria.",
+        "La excreción aumenta para estimular la liberación ósea.",
+        "Se detiene la filtración glomerular de fosfatos.",
+        "Se excreta el 50% del fosfato filtrado."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_46",
+      "q": "¿Qué porcentaje del fosfato corporal total se encuentra típicamente en los huesos?",
+      "exp": "La mayor parte del fosfato del organismo está almacenada en el esqueleto; una fracción menor es intracelular y menos del 1% está en el líquido extracelular.",
+      "topic": "Capítulo 80",
+      "options": [
+        "1%.",
+        "50%.",
+        "14-15%.",
+        "85%."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_47",
+      "q": "¿Cuál es el principal síntoma clínico inicial de la hipocalcemia que afecta las manos?",
+      "exp": "La tetania hipocalcémica suele manifestarse temprano en la mano como espasmo carpopedio.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Pérdida de sensibilidad térmica.",
+        "Espasmo carpopedio.",
+        "Hipertrofia muscular rápida.",
+        "Parálisis flácida."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_48",
+      "q": "En el hueso, ¿cómo se denomina el canal central de una osteona por donde circulan los vasos sanguíneos?",
+      "exp": "El conducto de Havers es el canal central de la osteona que contiene vasos sanguíneos y nervios.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Trabécula ósea.",
+        "Canalículo óseo.",
+        "Conducto de Havers.",
+        "Laguna ósea."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_49",
+      "q": "En el hiperparatiroidismo primario, ¿por qué los niveles de fosfatos plasmáticos suelen estar bajos?",
+      "exp": "Aunque la PTH libera fosfato desde el hueso, su efecto renal fosfatúrico es tan fuerte que suele predominar la pérdida urinaria de fosfato.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Debido al aumento excesivo de la excreción renal de fosfatos inducido por la PTH.",
+        "Por una precipitación masiva de fosfatos en los músculos esqueléticos.",
+        "Porque se consume todo el fosfato en la formación de hueso nuevo.",
+        "Porque el intestino deja de absorber fosfatos en presencia de calcio alto."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_50",
+      "q": "¿Qué hallazgo bioquímico es un indicador diagnóstico clave de la alta actividad osteoblástica en el hiperparatiroidismo?",
+      "exp": "Los osteoblastos liberan fosfatasa alcalina durante la formación de hueso nuevo, que aumenta como respuesta a la resorción ósea intensa.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Niveles bajos de vitamina D.",
+        "Disminución de la excreción de AMPc urinario.",
+        "Presencia de calbindina en el torrente sanguíneo.",
+        "Concentración elevada de fosfatasa alcalina en plasma."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_51",
+      "q": "¿Cuál es la causa fisiológica del raquitismo renal?",
+      "exp": "Sin tejido renal funcional, disminuye la activación de vitamina D; por eso baja la absorción intestinal de calcio y se altera la mineralización ósea.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Pérdida masiva de calcio por glomérulos dañados.",
+        "Secreción excesiva de calcitonina por la nefrona.",
+        "Precipitación de cristales de oxalato en la pelvis renal.",
+        "Incapacidad de los riñones dañados para formar 1,25-dihidroxicolecalciferol."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_52",
+      "q": "¿En qué se diferencia la osteomalacia de la osteoporosis?",
+      "exp": "En la osteomalacia/raquitismo el problema principal es la mineralización; en la osteoporosis disminuye la cantidad total de matriz ósea.",
+      "topic": "Capítulo 80",
+      "options": [
+        "La osteomalacia es exceso de matriz orgánica; la osteoporosis es falta de sales.",
+        "No hay diferencia: ambas describen la pérdida de densidad ósea por falta de calcio.",
+        "La osteomalacia se debe a falla de calcificación del osteoide; la osteoporosis a disminución de la matriz ósea total.",
+        "La osteomalacia solo ocurre en niños; la osteoporosis solo en adultos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_53",
+      "q": "¿Por qué el síndrome de Cushing produce osteoporosis?",
+      "exp": "El exceso de glucocorticoides favorece el catabolismo proteico e inhibe la formación de nueva matriz ósea, debilitando el hueso.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Los niveles altos de glucocorticoides reducen el depósito de proteínas y deprimen la actividad osteoblástica.",
+        "Aumentan la excreción renal de fosfato hasta agotar las reservas óseas.",
+        "Aumentan la absorción intestinal de calcio de forma tóxica.",
+        "Provocan una secreción descontrolada de calcitonina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_54",
+      "q": "¿Qué efecto tiene la sobrecarga física continua sobre los huesos?",
+      "exp": "El hueso es dinámico: la carga mecánica estimula la actividad osteoblástica y aumenta la resistencia del hueso.",
+      "topic": "Capítulo 80",
+      "options": [
+        "No tiene efecto; el grosor óseo está determinado genéticamente.",
+        "Aumenta la actividad osteoclástica para reciclar el hueso.",
+        "Estimula el depósito por los osteoblastos y la calcificación.",
+        "Provoca una descalcificación del 30% por fatiga."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_80_55",
+      "q": "¿Cuál es la función del callo en una fractura ósea?",
+      "exp": "El callo se forma por actividad osteoblástica y células osteoprogenitoras; une los extremos fracturados y sirve como base para el hueso nuevo.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Es una protuberancia de tejido osteoblástico y matriz nueva que estabiliza la fractura.",
+        "Es un tejido cicatricial fibroso que impide el crecimiento de hueso nuevo.",
+        "Actúa secretando ácidos para eliminar fragmentos de hueso muerto.",
+        "Es un depósito de grasa que protege los vasos sanguíneos dañados."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_56",
+      "q": "¿Qué ocurre con la formación de 1,25-dihidroxicolecalciferol si se extirpan ambos riñones?",
+      "exp": "La conversión final a 1,25-dihidroxicolecalciferol ocurre en los riñones; sin ellos, casi no se forma la hormona activa.",
+      "topic": "Capítulo 80",
+      "options": [
+        "El hígado compensa la producción aumentando su tasa de hidroxilación.",
+        "Se mantiene la producción gracias a la acción de la PTH sobre el intestino.",
+        "La piel comienza a producir directamente la forma activa.",
+        "La vitamina D pierde casi toda su eficacia en el organismo."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_80_57",
+      "q": "¿Cuál es la cantidad aproximada de calcio intercambiable en el interior de las células y sus orgánulos, especialmente mitocondrias?",
+      "exp": "Aunque la mayor parte del calcio corporal está en el hueso, existe una fracción intracelular intercambiable importante, especialmente en mitocondrias de tejidos como hígado e intestino.",
+      "topic": "Capítulo 80",
+      "options": [
+        "100 mg.",
+        "10 g.",
+        "1000 g.",
+        "1 g."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_58",
+      "q": "En el hiperparatiroidismo secundario, ¿qué condición suele causar hipertrofia de las glándulas paratiroides?",
+      "exp": "La disminución crónica del calcio, por deficiencia de vitamina D o enfermedad renal, estimula de forma sostenida la secreción de PTH y causa hipertrofia glandular.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Aumento de la actividad de las células oxífilas.",
+        "Hipocalcemia crónica compensatoria.",
+        "Exceso de ingesta de calcio en la dieta.",
+        "Un adenoma benigno secretor de hormona."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_80_59",
+      "q": "¿Qué caracteriza a la osteítis fibrosa quística en el hiperparatiroidismo grave?",
+      "exp": "En el hiperparatiroidismo grave, la resorción ósea masiva puede generar cavidades con osteoclastos multinucleados, debilitando el hueso.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Áreas quísticas en los huesos llenas de osteoclastos de células gigantes.",
+        "Depósito excesivo de colágeno en las articulaciones.",
+        "Huesos extremadamente densos y petrificados.",
+        "Inflamación bacteriana crónica de la matriz ósea."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_80_60",
+      "q": "¿Cuál es el tratamiento principal para el raquitismo común?",
+      "exp": "El objetivo es corregir la deficiencia mineral y vitamínica, aumentar la absorción intestinal y permitir la calcificación del osteoide acumulado.",
+      "topic": "Capítulo 80",
+      "options": [
+        "Administración de grandes cantidades de vitamina D, calcio y fosfato.",
+        "Cirugía para extirpar las paratiroides hipertróficas.",
+        "Dietas bajas en fósforo para evitar la precipitación.",
+        "Inyecciones diarias de calcitonina."
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJ8R32V3');</script>
+<!-- End Google Tag Manager -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Banco de cuestiones 4º semestre</title>
+<link rel="stylesheet" href="css/style-v4.css?v=4.15.0" />
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJ8R32V3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="wrap">
+  <section class="hero">
+    <h1>Banco de cuestiones 4º semestre</h1>
+    <p id="heroLead">Antes de comenzar, escribe tu nombre para personalizar tu experiencia.</p>
+    <div class="creatorNote" id="heroCreatorNote">Sitio creado por Emmanuel Farias. Espero que pueda ayudar en tus estudios.</div>
+  </section>
+
+  <section id="login" class="panel loginPanel">
+    <h2>Identificación del estudiante</h2>
+    <p>Escribe tu nombre para entrar al banco de cuestiones. El aplicativo va a saludarte y guardar tu progreso en este dispositivo.</p>
+    <form class="nameForm" onsubmit="submitName(event)">
+      <input id="nameInput" class="nameInput" type="text" placeholder="Tu nombre" autocomplete="name" required maxlength="40" />
+      <button class="btn" type="submit">Entrar</button>
+    </form>
+    <p class="analyticsNote">Tu nombre queda guardado solo en este navegador para mantener tu progreso personalizado.</p>
+  </section>
+
+  <section id="subjectSelect" class="panel hidden">
+    <div class="subjectTop">
+      <div>
+        <h2>¿Qué quieres estudiar hoy?</h2>
+        <p>Después de escribir tu nombre, elige el área que quieres practicar. Puedes volver y cambiar de área cuando quieras.</p>
+      </div>
+      <button class="btn secondary" onclick="changeVisitorName()">Cambiar nombre</button>
+    </div>
+    <div id="subjectGreeting" class="greetingBox"></div>
+    <div class="subjectGrid">
+      <div class="subjectCard" onclick="chooseSubject('neuro')">
+        <div><div class="subjectIcon">🧠</div><h3>Neurociencias</h3><p>Continúa con el aplicativo de neurociencias de la misma manera: clases, simulados, progreso, explicación y revisión.</p></div>
+        <div class="subjectStats"><span>15 bloques</span><span>600 preguntas</span><span>PDF disponible</span></div>
+      </div>
+      <div class="subjectCard" onclick="chooseSubject('fisio')">
+        <div><div class="subjectIcon">🧬</div><h3>Fisiología</h3><p>Elige primero la unidad: Unidad XIV - Endocrinología y reproducción o Unidad V - Los líquidos corporales y los riñones.</p></div>
+        <div class="subjectStats"><span>2 unidades</span><span>1097 preguntas</span><span>PDFs disponibles</span></div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <section id="unitSelect" class="panel hidden">
+    <div class="subjectTop">
+      <div>
+        <h2>Fisiología: elige la unidad</h2>
+        <p>Primero selecciona la unidad que quieres estudiar. Después podrás elegir el capítulo, hacer simulado o revisar tus errores.</p>
+      </div>
+      <div class="menuActions">
+        <button class="btn secondary" onclick="showSubjectSelection()">Volver a áreas</button>
+        <button class="btn secondary" onclick="changeVisitorName()">Cambiar nombre</button>
+      </div>
+    </div>
+    <div id="unitGreeting" class="greetingBox"></div>
+    <div class="subjectGrid unitGrid">
+      <div class="subjectCard" onclick="chooseFisioUnit('fisio_endocrino')">
+        <div><div class="subjectIcon">🧪</div><h3>Unidad XIV</h3><p><b>Endocrinología y reproducción.</b><br>Capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.</p></div>
+        <div class="subjectStats"><span>11 bloques</span><span>747 preguntas</span><span>PDF disponible</span></div>
+      </div>
+      <div class="subjectCard" onclick="chooseFisioUnit('fisio_renal')">
+        <div><div class="subjectIcon">🩺</div><h3>Unidad V</h3><p><b>Los líquidos corporales y los riñones.</b><br>Capítulos 25 al 31, con 50 preguntas por capítulo.</p></div>
+        <div class="subjectStats"><span>7 bloques</span><span>350 preguntas</span><span>PDF disponible</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="menu" class="panel hidden">
+    <div class="menuTitle">
+      <div>
+        <span id="subjectMenuBadge" class="menuBadge">Área actual</span>
+        <h2 id="menuHeading" style="margin-top:10px">Banco</h2>
+        <p id="menuSubtitle">Selecciona un bloque y decide si quieres aprender con feedback o entrenar como prueba.</p>
+      </div>
+      <div class="menuActions">
+        <a id="pdfDownloadBtn" class="btn secondary" href="#" download onclick="trackAnalyticsEvent('download_pdf')">Descargar PDF</a>
+        <button class="btn secondary" onclick="changeSubject()">Cambiar área</button>
+        <button class="btn secondary" onclick="changeVisitorName()">Cambiar nombre</button>
+        <button class="btn secondary" onclick="clearHistory()">Borrar historial</button>
+      </div>
+    </div>
+    <div id="greetingBox" class="greetingBox"></div>
+    <div id="dashboardPanel" class="dashboardPanel"></div>
+    <div class="modeHelp"><b>Modo Estudio:</b> muestra la respuesta y explicación inmediatamente. <b>Modo Simulado:</b> no muestra la corrección hasta el final.<div class="themeNote">El tema claro u oscuro se ajusta automáticamente según tu dispositivo.</div></div>
+    <h3 id="groupTitleClasses" class="groupTitle">Bloques</h3>
+    <p id="groupHintClasses" class="groupHint">Elige un bloque para empezar.</p>
+    <div id="classCards" class="grid"></div>
+    <div id="generalBlock">
+      <h3 class="groupTitle">Simulados generales</h3>
+      <p class="groupHint">Practica todo el contenido mezclado.</p>
+      <div id="generalCards" class="grid generalGrid"></div>
+    </div>
+  </section>
+
+  <section id="quiz" class="panel hidden">
+    <div class="topline">
+      <div>
+        <span id="quizPill" class="pill"></span><span id="modePill" class="modeTag"></span>
+        <div id="quizSub" class="small" style="margin-top:8px"></div>
+      </div>
+      <button class="btn secondary" onclick="backToMenu()">Volver al menú</button>
+    </div>
+    <div class="progressPanel"><div id="progressText"></div><div class="progressbar"><div id="bar"></div></div></div>
+    <div id="question" class="question"></div>
+    <div id="options" class="options"></div>
+    <div id="feedback" class="feedback"></div>
+    <div id="questionList" class="questionList hidden"></div>
+    <div class="actions">
+      <button id="nextBtn" class="btn" onclick="nextQuestion()" disabled>Siguiente</button>
+      <button id="listBtn" class="btn secondary" onclick="toggleQuestionList()">Ver todas las preguntas</button>
+      <button class="btn warn" onclick="restartCurrent()">Reiniciar este bloque</button>
+    </div>
+  </section>
+
+  <section id="result" class="panel hidden">
+    <div class="topline"><div><span id="resultPill" class="pill"></span><span id="resultMode" class="modeTag"></span><p class="small" id="resultSub"></p></div><button class="btn secondary" onclick="backToMenu()">Volver al menú</button></div>
+    <h2 id="resultTitle" style="margin:8px 0 0"></h2>
+    <div class="stats"><div class="stat"><h3 id="scorePct"></h3><p>Porcentaje</p></div><div class="stat"><h3 id="scoreNum"></h3><p>Aciertos</p></div><div class="stat"><h3 id="scoreMsg"></h3><p>Diagnóstico</p></div></div>
+    <div id="topicResults" style="margin-top:16px"></div>
+    <div class="actions"><button class="btn" onclick="restartCurrent()">Intentar de nuevo</button><button class="btn secondary" onclick="backToMenu()">Elegir otro bloque</button></div>
+    <div id="review" class="review"></div>
+  </section>
+  <div class="footerNote">Sitio creado por Emmanuel Farias. Banco de cuestiones 4º semestre.</div>
+</div>
+<script src="js/data-loader.js?v=4.15.0"></script>
+<script src="js/storage.js?v=4.15.0"></script>
+<script src="js/simulado.js?v=4.15.0"></script>
+<script src="js/app.js?v=4.15.0"></script>
+</body>
+</html>

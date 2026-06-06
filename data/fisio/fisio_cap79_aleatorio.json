@@ -1,0 +1,827 @@
+{
+  "key": "fisio_cap79_aleatorio",
+  "title": "Capítulo 79",
+  "subtitle": "Insulina, glucagón y diabetes mellitus",
+  "level": "63 preguntas",
+  "questions": [
+    {
+      "id": "fisio_aleatorio_79_01",
+      "q": "El páncreas endocrino está representado principalmente por:",
+      "exp": "Los islotes secretan insulina, glucagón y otras hormonas directamente a la sangre.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Islotes de Langerhans que secretan hormonas a capilares.",
+        "Acinos que secretan enzimas solo al torrente sanguíneo.",
+        "Folículos con coloide que almacenan tiroglobulina.",
+        "Túbulos seminíferos que forman espermatozoides."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_02",
+      "q": "Las células beta de los islotes secretan:",
+      "exp": "Las células beta secretan insulina y amilina.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Glucagón y adrenalina.",
+        "Insulina y amilina.",
+        "Somatostatina y cortisol.",
+        "Polipéptido pancreático y PTH."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_03",
+      "q": "Las células alfa de los islotes producen principalmente:",
+      "exp": "Las células alfa secretan glucagón.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Insulina.",
+        "Somatostatina.",
+        "Amilina.",
+        "Glucagón."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_04",
+      "q": "La insulina se asocia fisiológicamente con:",
+      "exp": "La insulina aumenta después de comidas y favorece almacenamiento de energía.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Abundancia energética y almacenamiento de nutrientes.",
+        "Hipocalcemia y excitabilidad neuromuscular.",
+        "Ayuno prolongado y liberación hepática de glucosa.",
+        "Estimulación simpática de la médula suprarrenal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_05",
+      "q": "La insulina humana madura está compuesta por:",
+      "exp": "La insulina activa tiene cadenas A y B conectadas por puentes disulfuro.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Cadenas A y B unidas por enlaces disulfuro.",
+        "Tres cadenas MIT, DIT y T4 dentro de tiroglobulina.",
+        "Una cadena C aislada con máxima actividad insulínica.",
+        "Cadenas alfa y beta unidas a una subunidad nuclear."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_06",
+      "q": "La preproinsulina se procesa a proinsulina principalmente en:",
+      "exp": "La preproinsulina se transforma en proinsulina dentro del retículo endoplásmico.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Coloide de células foliculares tiroideas.",
+        "Mitocondria de células de Leydig.",
+        "Retículo endoplásmico de células beta.",
+        "Lisosomas de células parietales gástricas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_07",
+      "q": "En el aparato de Golgi, la proinsulina se escinde para formar:",
+      "exp": "La proinsulina origina insulina y péptido C en gránulos secretores.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Insulina y glucagón.",
+        "Glucagón y péptido C.",
+        "Insulina y péptido C.",
+        "Somatostatina y amilina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_08",
+      "q": "El péptido C es útil clínicamente porque indica:",
+      "exp": "El péptido C refleja secreción propia de insulina, incluso con insulina exógena.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Unión de T4 a proteínas plasmáticas.",
+        "Secreción de cortisol por la zona fascicular.",
+        "Actividad osteoclástica por PTH.",
+        "Producción endógena de insulina."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_09",
+      "q": "La insulina circulante se degrada principalmente por:",
+      "exp": "La insulinasa degrada insulina principalmente en hígado, riñón y músculo.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Aldosterona sintasa en zona glomerular.",
+        "Peroxidasa tiroidea dentro del coloide.",
+        "Insulinasa, sobre todo en hígado y riñones.",
+        "Aromatasa en células de la granulosa."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_10",
+      "q": "El receptor de insulina posee:",
+      "exp": "El receptor tiene subunidades alfa extracelulares y beta transmembrana con tirosina cinasa.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Un receptor nuclear idéntico al receptor de T3.",
+        "Una proteína G que solo activa fosfolipasa C.",
+        "Dos subunidades alfa y dos beta con actividad tirosina cinasa.",
+        "Un canal de sodio activado por voltaje neuronal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_11",
+      "q": "La unión de insulina a su receptor produce inicialmente:",
+      "exp": "La activación del receptor induce autofosforilación y señalización por IRS.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Conversión de colesterol en pregnenolona mitocondrial.",
+        "Entrada de calcio por canales de la zona pelúcida.",
+        "Yodación de tirosinas y acoplamiento de MIT con DIT.",
+        "Autofosforilación de subunidades beta y fosforilación de IRS."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_12",
+      "q": "En músculo y tejido adiposo, la insulina aumenta la glucosa por:",
+      "exp": "La insulina moviliza vesículas con GLUT-4 hacia la membrana.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Translocación de GLUT-4 a la membrana celular.",
+        "Entrada de glucosa por NIS basolateral.",
+        "Destrucción de GLUT-4 dentro de lisosomas.",
+        "Conversión de glucosa en TBG plasmática."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_13",
+      "q": "Durante ejercicio moderado-intenso, el músculo capta glucosa porque:",
+      "exp": "La contracción muscular facilita la translocación de GLUT-4 incluso con poca insulina.",
+      "topic": "Capítulo 79",
+      "options": [
+        "La TSH reemplaza la acción de GLUT-4 muscular.",
+        "El glucagón entra al miocito y fosforila glucosa.",
+        "La insulina siempre cae a cero y bloquea GLUT-4.",
+        "La contracción también favorece translocación de GLUT-4."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_14",
+      "q": "En el hígado, la insulina favorece el depósito de glucógeno al:",
+      "exp": "La insulina atrapa glucosa en hepatocitos y promueve síntesis de glucógeno.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Activar glucocinasa y glucógeno sintasa e inhibir fosforilasa.",
+        "Convertir glucógeno en cuerpos cetónicos circulantes.",
+        "Inhibir glucocinasa y activar fosforilasa hepática.",
+        "Bloquear entrada de glucosa y estimular gluconeogénesis."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_15",
+      "q": "Cuando hay exceso de glucosa más allá del glucógeno, la insulina favorece:",
+      "exp": "La insulina promueve lipogénesis cuando se excede la capacidad de almacenar glucógeno.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Conversión directa en yoduro y tiroglobulina.",
+        "Conversión hepática a ácidos grasos y triglicéridos.",
+        "Transformación de glucosa en glucagón alfa.",
+        "Eliminación urinaria como única vía metabólica."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_16",
+      "q": "La insulina inhibe la liberación de ácidos grasos del adipocito al:",
+      "exp": "La insulina inhibe la lipasa sensible a hormonas y reduce lipólisis.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Inhibir la lipasa sensible a hormonas.",
+        "Activar la proteasa lisosomal tiroidea.",
+        "Bloquear toda entrada de glucosa al adipocito.",
+        "Estimular la fosforilasa hepática."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_17",
+      "q": "El alfa-glicerol fosfato en adipocitos es importante porque:",
+      "exp": "La glucosa aporta glicerol fosfato necesario para almacenar triglicéridos.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Permite esterificar ácidos grasos y formar triglicéridos.",
+        "Transporta yoduro hacia el coloide tiroideo.",
+        "Estimula secreción de aldosterona suprarrenal.",
+        "Activa el receptor nuclear de hormonas tiroideas."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_18",
+      "q": "En proteínas, la insulina tiende a:",
+      "exp": "La insulina favorece transporte de aminoácidos y síntesis de proteínas.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Aumentar degradación proteica lisosomal en músculo.",
+        "Bloquear traducción de ARN mensajero.",
+        "Aumentar entrada de aminoácidos y síntesis proteica.",
+        "Convertir aminoácidos en fosfato renal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_19",
+      "q": "El estímulo más importante para secreción de insulina es:",
+      "exp": "La hiperglucemia es el principal estímulo para la secreción de insulina.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Disminución intensa de calcio iónico.",
+        "Descenso de estrógenos ováricos.",
+        "Aumento de angiotensina II.",
+        "Aumento de glucosa sanguínea."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_20",
+      "q": "En la célula beta, la glucosa favorece secreción de insulina porque:",
+      "exp": "El metabolismo de glucosa aumenta ATP, despolariza la célula beta y abre canales de Ca2+.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Activa NIS y secreta yoduro junto con insulina.",
+        "Reduce ATP, abre canales K+ y bloquea entrada de Ca2+.",
+        "Aumenta ATP, cierra canales K+ y permite entrada de Ca2+.",
+        "Estimula ACTH y cortisol dentro del mismo islote."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_21",
+      "q": "El glucagón se libera sobre todo cuando:",
+      "exp": "La hipoglucemia estimula secreción de glucagón por células alfa.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Disminuye la osmolaridad plasmática.",
+        "Disminuye la glucosa sanguínea.",
+        "Aumenta el calcio plasmático por encima de 15 mg/dl.",
+        "Aumenta mucho la insulina posprandial."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_22",
+      "q": "El glucagón actúa principalmente en hígado para:",
+      "exp": "El glucagón moviliza glucosa hepática por glucogenólisis y gluconeogénesis.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Inhibir toda producción hepática de glucosa.",
+        "Aumentar glucogenólisis y gluconeogénesis.",
+        "Formar tiroglobulina a partir de tirosina.",
+        "Aumentar captación muscular de glucosa por GLUT-4."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_23",
+      "q": "La somatostatina pancreática tiende a:",
+      "exp": "La somatostatina de células delta inhibe insulina y glucagón.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Estimular ambas hormonas de forma sostenida.",
+        "Activar la lipasa sensible a hormonas.",
+        "Convertirse en péptido C dentro del Golgi.",
+        "Inhibir secreción de insulina y glucagón."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_24",
+      "q": "En deficiencia grave de insulina, se produce cetosis porque:",
+      "exp": "Sin insulina aumenta la lipólisis y el hígado forma cuerpos cetónicos.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Disminuye toda movilización de grasas desde el tejido adiposo.",
+        "Aumenta lipólisis y oxidación hepática de ácidos grasos.",
+        "El glucagón queda totalmente inhibido por somatostatina.",
+        "La glucosa entra excesivamente al adipocito por GLUT-4."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_25",
+      "q": "La insulina reduce la concentración extracelular de potasio porque:",
+      "exp": "La insulina estimula captación celular de K+, reduciendo K+ extracelular.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Bloquea todos los receptores beta.",
+        "Favorece entrada de K+ a las células.",
+        "Inhibe la bomba Na+/K+-ATPasa.",
+        "Aumenta salida de K+ desde músculo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_26",
+      "q": "En el tratamiento de la diabetes mellitus tipo 2, ¿cuál es el mecanismo de acción de fármacos como la metformina?",
+      "exp": "La metformina se describe como un fármaco útil en diabetes tipo 2 porque suprime o reduce la producción de glucosa en el hígado. No actúa como una sulfonilurea estimulando directamente la secreción pancreática de insulina.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Aumenta la captación cerebral de glucosa por acción directa.",
+        "Estimula la liberación inmediata de insulina por las células beta.",
+        "Disminuye la producción hepática de glucosa.",
+        "Inhibe la acción periférica del glucagón sobre el músculo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_27",
+      "q": "¿Qué hallazgo clínico ayuda a diferenciar un coma diabético por acidosis de un coma hipoglucémico por exceso de insulina?",
+      "exp": "El coma diabético acidótico puede presentar aliento con olor a acetona y respiración rápida y profunda. En el shock hipoglucémico estos signos no aparecen, aunque puede haber pérdida de conciencia y convulsiones.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Olor a acetona en el aliento con respiración rápida y profunda.",
+        "Pérdida de conciencia con posible aparición de convulsiones.",
+        "Sudoración, temblores y nerviosismo intenso del paciente.",
+        "Deshidratación aislada de las mucosas sin alteración respiratoria."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_28",
+      "q": "¿Cuál es la semivida plasmática aproximada de la somatostatina y qué efecto paracrino ejerce en los islotes de Langerhans?",
+      "exp": "La somatostatina de las células delta tiene una semivida muy corta, cercana a 3 minutos, e inhibe localmente la secreción de insulina y glucagón.",
+      "topic": "Capítulo 79",
+      "options": [
+        "20 min; convierte el glucagón circulante en insulina activa.",
+        "15 min; activa la lipoproteína lipasa en el tejido adiposo.",
+        "6 min; estimula la liberación simultánea de insulina y amilina.",
+        "3 min; inhibe la secreción tanto de insulina como de glucagón."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_29",
+      "q": "¿Cómo contribuye la insulina a la síntesis de grasas a partir del exceso de carbohidratos en el hígado?",
+      "exp": "Cuando la glucosa excede la capacidad de almacenamiento como glucógeno, la insulina favorece la conversión a ácidos grasos. La vía lipogénica incluye la activación de la acetil-CoA carboxilasa y la formación de malonil-CoA.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Reduce la entrada de glucosa y obliga al hepatocito a usar acetato.",
+        "Favorece la formación de malonil-CoA al activar la acetil-CoA carboxilasa.",
+        "Activa la carnitina palmitoiltransferasa para beta-oxidación.",
+        "Bloquea el ciclo del ácido cítrico para acumular lactato."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_30",
+      "q": "En el encéfalo, ¿por qué es vital mantener la glucemia por encima de un umbral crítico?",
+      "exp": "La insulina tiene poco efecto sobre la captación de glucosa por el encéfalo; sus células son permeables a la glucosa y dependen mucho de ella para obtener energía. Por eso la hipoglucemia puede causar shock hipoglucémico.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Porque la mayoría de las neuronas utiliza glucosa sin depender de la insulina.",
+        "Porque el encéfalo almacena los mayores depósitos de glucógeno corporal.",
+        "Porque las neuronas cambian rápidamente al uso exclusivo de ácidos grasos.",
+        "Porque la insulina protege la barrera hematoencefálica de la glucosa."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_31",
+      "q": "¿Cuál es la consecuencia de la falta de insulina sobre el metabolismo de las proteínas?",
+      "exp": "Sin insulina se interrumpe el depósito de proteínas, aumenta su catabolismo y se liberan aminoácidos al plasma, que pueden usarse para energía o gluconeogenia.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Disminución de la urea urinaria por falta de sustratos nitrogenados.",
+        "Aumento sostenido de la traducción de ARNm en los ribosomas.",
+        "Aumento del catabolismo proteico y liberación de aminoácidos al plasma.",
+        "Estimulación de la síntesis proteica mediante mayor gluconeogenia."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_32",
+      "q": "Las incretinas, como GLP-1 y GIP, tienen como función principal:",
+      "exp": "GLP-1 y GIP son hormonas gastrointestinales liberadas tras la comida; aumentan de forma anticipatoria la secreción de insulina y también inhiben la secreción de glucagón.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Bloquear la absorción intestinal de carbohidratos complejos.",
+        "Estimular la secreción de amilina y acelerar el vaciamiento gástrico.",
+        "Actuar como antagonistas de los receptores de insulina en el músculo.",
+        "Inducir un aumento anticipatorio de la secreción de insulina tras la ingesta."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_33",
+      "q": "¿Qué ocurre en la segunda fase del aumento de la secreción de insulina, a partir de unos 15 minutos?",
+      "exp": "La primera fase libera insulina preformada; la segunda fase se sostiene por liberación adicional de insulina preformada y síntesis de nueva insulina.",
+      "topic": "Capítulo 79",
+      "options": [
+        "El glucagón inhibe a las células beta por retroalimentación negativa.",
+        "Se secreta nueva insulina sintetizada junto con más insulina preformada.",
+        "Se liberan exclusivamente cadenas C sin actividad biológica directa.",
+        "Se agotan los gránulos y la secreción cae de inmediato a nivel basal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_34",
+      "q": "¿Cuál es la función fisiológica de que los islotes de Langerhans estén organizados alrededor de capilares?",
+      "exp": "Los islotes son la porción endocrina del páncreas; se organizan alrededor de capilares hacia los que vierten insulina, glucagón y otras hormonas.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Verter sus hormonas directamente a la sangre para una acción endocrina rápida.",
+        "Filtrar la glucosa de la sangre para almacenarla dentro del páncreas.",
+        "Destruir el exceso de insulina mediante insulinasa capilar local.",
+        "Secretar jugos digestivos al duodeno por vía retrógrada."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_35",
+      "q": "En la secreción de insulina por la célula beta, ¿qué evento ocurre inmediatamente después del cierre de los canales de potasio sensibles a ATP (KATP)?",
+      "exp": "El aumento de ATP cierra los canales KATP, se reduce la salida de potasio, la membrana se despolariza y se abren canales de calcio dependientes de voltaje. El calcio desencadena la exocitosis de insulina.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Fosforilación inicial de la glucosa por la glucocinasa.",
+        "Activación de adenilato ciclasa para formar AMPc.",
+        "Despolarización de membrana y apertura de canales de calcio dependientes de voltaje.",
+        "Exocitosis inmediata de gránulos sin entrada previa de calcio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_36",
+      "q": "Sobre el receptor de insulina, ¿qué función específica desempeñan las subunidades beta tras la unión de la hormona a las subunidades alfa?",
+      "exp": "La insulina se une a las subunidades alfa; las porciones intracelulares de las subunidades beta se autofosforilan y activan tirosina cinasa, iniciando la cascada de señalización.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Se separan del receptor para activar de forma directa la síntesis de ADN.",
+        "Se autofosforilan y activan una tirosina cinasa local.",
+        "Actúan como transportadores pasivos de glucosa tipo GLUT-4.",
+        "Hidrolizan ATP para bombear potasio fuera de la célula."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_37",
+      "q": "¿Cuál es el efecto principal de la insulina sobre la fosforilasa hepática y cuál es su consecuencia metabólica?",
+      "exp": "La insulina inactiva la fosforilasa hepática, enzima encargada de degradar glucógeno; así favorece que el hígado almacene glucosa como glucógeno.",
+      "topic": "Capítulo 79",
+      "options": [
+        "La convierte en glucocinasa para atrapar glucosa en el hepatocito.",
+        "Induce su translocación para facilitar el transporte de aminoácidos.",
+        "La activa para liberar glucosa-1-fosfato desde el glucógeno.",
+        "La inactiva e impide la degradación del glucógeno almacenado."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_38",
+      "q": "En ausencia de insulina, ¿qué proceso metabólico en el tejido adiposo explica el aumento masivo de ácidos grasos libres en plasma?",
+      "exp": "La insulina normalmente inhibe la lipasa sensible a hormonas. Cuando falta insulina, esta lipasa se activa, aumenta la lipólisis y se liberan ácidos grasos libres.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Activación de la lipasa sensible a hormonas.",
+        "Síntesis excesiva de alfa-glicerol fosfato.",
+        "Aumento de la actividad de la lipoproteína lipasa capilar.",
+        "Conversión de cuerpos cetónicos en triglicéridos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_39",
+      "q": "¿Por qué el ejercicio intenso aumenta la captación de glucosa por el músculo incluso si los niveles de insulina son bajos?",
+      "exp": "La contracción muscular puede aumentar la translocación de GLUT-4 hacia la membrana, facilitando la entrada de glucosa sin necesitar grandes cantidades de insulina.",
+      "topic": "Capítulo 79",
+      "options": [
+        "La glucocinasa muscular se inactiva y permite difusión simple.",
+        "La contracción muscular aumenta la translocación de GLUT-4 de forma independiente.",
+        "El músculo libera insulina propia almacenada dentro de los sarcómeros.",
+        "La adrenalina bloquea los ácidos grasos y obliga al uso de glucosa."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_40",
+      "q": "Durante la síntesis de insulina, ¿en qué compartimento celular la proinsulina se escinde en insulina y péptido C?",
+      "exp": "La preproinsulina se procesa en el retículo endoplásmico a proinsulina; la proinsulina se escinde principalmente en el aparato de Golgi y gránulos secretores para formar insulina y péptido C.",
+      "topic": "Capítulo 79",
+      "options": [
+        "En el líquido extracelular después de la secreción.",
+        "En los ribosomas unidos al retículo endoplásmico.",
+        "En el aparato de Golgi y en los gránulos secretores.",
+        "En el citoplasma por acción de la insulinasa."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_41",
+      "q": "¿Cuál es la utilidad clínica del péptido C en pacientes con diabetes?",
+      "exp": "La insulina natural y el péptido C se secretan en cantidades equimolares. Por eso, medir péptido C permite estimar cuánta insulina propia produce el páncreas, incluso si el paciente recibe insulina exógena.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Inhibir la degradación de la insulina por la insulinasa.",
+        "Actuar como hipoglucemiante potente de acción prolongada.",
+        "Regenerar las células alfa de los islotes pancreáticos.",
+        "Evaluar la producción endógena de insulina en quienes reciben insulina exógena."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_42",
+      "q": "¿Qué par de aminoácidos es un estimulador potente de la secreción de insulina, especialmente en presencia de hiperglucemia?",
+      "exp": "Los aminoácidos aumentan la secreción de insulina, y Guyton destaca especialmente la arginina y la lisina como estimuladores importantes, sobre todo junto con hiperglucemia.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Alanina y glutamina.",
+        "Arginina y lisina.",
+        "Tirosina y fenilalanina.",
+        "Valina y leucina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_43",
+      "q": "¿Cuál es el mecanismo de amplificación que utiliza el glucagón para elevar la glucemia en pocos minutos?",
+      "exp": "El glucagón activa adenilato ciclasa, aumenta AMPc, activa proteína cinasa y luego fosforilasa b cinasa. Esta cascada amplifica mucho la señal hormonal.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Una cascada enzimática mediada por AMPc y proteína cinasa.",
+        "Estimulación parasimpática directa de los ácinos pancreáticos.",
+        "Inhibición de la glucosa-6-fosfatasa en el hepatocito.",
+        "Apertura directa de canales de glucosa en la membrana plasmática."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_44",
+      "q": "En la diabetes mellitus tipo 1 no controlada, ¿cuál es la causa principal de la acidosis metabólica grave?",
+      "exp": "La falta de insulina aumenta la utilización de grasas, con producción excesiva de cetoácidos como ácido acetoacético y beta-hidroxibutírico, responsables de la acidosis metabólica.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Aumento de la presión osmótica por hiperglucemia aislada.",
+        "Pérdida de bicarbonato por diuresis osmótica primaria.",
+        "Acumulación de ácido láctico por ejercicio intenso.",
+        "Producción excesiva de cuerpos cetónicos como ácido acetoacético."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_45",
+      "q": "Según Guyton, ¿qué valor de glucemia en ayunas se considera el límite superior de la normalidad, por encima del cual se sugiere diabetes o resistencia marcada a la insulina?",
+      "exp": "En el capítulo, la glucosa plasmática normal en ayunas se ubica alrededor de 80-90 mg/100 ml, y el límite superior se considera 110 mg/100 ml.",
+      "topic": "Capítulo 79",
+      "options": [
+        "60 mg/100 ml.",
+        "180 mg/100 ml.",
+        "110 mg/100 ml.",
+        "140 mg/100 ml."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_46",
+      "q": "En la prueba de tolerancia a la glucosa, ¿qué caracteriza la curva de un paciente diabético?",
+      "exp": "En la persona diabética, la glucemia se eleva más y desciende lentamente, demorando 4-6 horas o sin caer por debajo del valor basal. Esto indica secreción insuficiente de insulina o menor sensibilidad a ella.",
+      "topic": "Capítulo 79",
+      "options": [
+        "La glucemia vuelve a valores basales en menos de una hora.",
+        "La glucemia tarda 4-6 horas en normalizarse o no baja del valor basal.",
+        "Se produce una hipoglucemia marcada a las dos horas.",
+        "El pico máximo nunca supera los 110 mg/100 ml."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_47",
+      "q": "¿Qué efecto tiene la estimulación simpática por adrenalina sobre la utilización de sustratos energéticos durante el estrés?",
+      "exp": "La adrenalina aumenta la glucosa plasmática y, con gran intensidad, la concentración de ácidos grasos libres al activar la lipasa sensible a hormonas en el tejido adiposo.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Promueve el uso de lípidos al activar la lipasa sensible a hormonas.",
+        "Bloquea la liberación hepática de glucosa para reservarla al encéfalo.",
+        "Inhibe la acción del glucagón para evitar la hiperglucemia.",
+        "Obliga al músculo a usar exclusivamente aminoácidos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_48",
+      "q": "En la cascada del glucagón, ¿qué enzima convierte la fosforilasa b en fosforilasa a?",
+      "exp": "El glucagón activa proteína cinasa, esta activa la fosforilasa b cinasa, y la fosforilasa b cinasa convierte la fosforilasa b en fosforilasa a, que degrada glucógeno.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Glucosa fosfatasa.",
+        "Proteína reguladora de la fosfatasa.",
+        "Fosforilasa b cinasa.",
+        "Adenilato ciclasa."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_49",
+      "q": "¿Qué ocurre con el líquido extracelular cuando la glucemia aumenta a niveles extremos en un diabético no tratado?",
+      "exp": "La glucosa elevada en el líquido extracelular aumenta la presión osmótica; como consecuencia, el agua sale de las células, produciendo deshidratación celular.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Se vuelve hipotónico y causa hinchazón celular.",
+        "Neutraliza los cetoácidos y normaliza el pH sanguíneo.",
+        "Aumenta la reabsorción renal de líquido para compensar.",
+        "Aumenta su presión osmótica y extrae agua de las células."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_50",
+      "q": "Sobre las células delta del páncreas, ¿qué estímulo provoca la secreción de somatostatina?",
+      "exp": "La somatostatina pancreática aumenta tras la ingesta, estimulada por mayor glucosa, aminoácidos, ácidos grasos y hormonas gastrointestinales.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Estados de ayuno prolongado superiores a 24 horas.",
+        "Aumento de glucosa, aminoácidos y ácidos grasos tras la ingesta.",
+        "Descenso brusco del pH sanguíneo por acidosis metabólica.",
+        "Elevación aislada de adrenalina durante el estrés."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_51",
+      "q": "¿Por qué se dice que la insulina y la hormona del crecimiento actúan de forma sinérgica?",
+      "exp": "La combinación de insulina y hormona del crecimiento promueve el crecimiento mucho más que cada una aislada. Parte de la explicación es que ambas favorecen la entrada de aminoácidos, aunque no necesariamente los mismos.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Porque ambas favorecen el depósito proteico y la entrada celular de aminoácidos necesarios para el crecimiento.",
+        "Porque la insulina transforma directamente la hormona del crecimiento en IGF-1.",
+        "Porque la hormona del crecimiento aumenta siempre la sensibilidad a la insulina.",
+        "Porque ambas estimulan la secreción de glucagón durante el ejercicio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_52",
+      "q": "¿Qué enzima en los capilares del tejido adiposo es activada por la insulina para permitir el almacenamiento de grasa?",
+      "exp": "La insulina activa la lipoproteína lipasa en los capilares del tejido adiposo. Esta enzima hidroliza triglicéridos de lipoproteínas para que los ácidos grasos entren al adipocito.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Adenilato ciclasa capilar.",
+        "Insulinasa endotelial.",
+        "Lipoproteína lipasa.",
+        "Lipasa sensible a hormonas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_53",
+      "q": "En el síndrome metabólico, ¿qué tipo de anomalía lipídica es característica?",
+      "exp": "El síndrome metabólico se asocia con obesidad abdominal, resistencia a la insulina, hiperglucemia, hipertensión y dislipidemia con triglicéridos altos y HDL bajo.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Ausencia total de fosfolípidos circulantes.",
+        "Aumento masivo del HDL con triglicéridos bajos.",
+        "Conversión de todos los lípidos en glucosa hepática.",
+        "Aumento de triglicéridos y disminución del colesterol HDL."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_54",
+      "q": "¿Qué efecto tiene el glucagón sobre la gluconeogenia hepática cuando se han agotado las reservas de glucógeno?",
+      "exp": "El glucagón aumenta la gluconeogenia hepática al activar enzimas que convierten piruvato en fosfoenolpiruvato, permitiendo producir glucosa desde aminoácidos y otros precursores.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Bloquea la entrada de aminoácidos al hepatocito para conservar proteínas.",
+        "Activa el sistema enzimático que convierte el piruvato en fosfoenolpiruvato.",
+        "Inactiva la piruvato deshidrogenasa para acumular lactato.",
+        "Transforma la amilina pancreática en glucosa-6-fosfato."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_55",
+      "q": "En un paciente con insulinoma, ¿qué requerimiento nutricional inusual podría presentarse?",
+      "exp": "En algunos insulinomas con secreción exagerada de insulina, se han requerido más de 1.000 g de glucosa en 24 horas para evitar la hipoglucemia.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Necesidad de ingerir más de 1.000 g de glucosa al día para evitar hipoglucemia.",
+        "Dieta exclusiva en grasas para impedir la activación del tumor.",
+        "Restricción total de líquidos por riesgo de edema cerebral.",
+        "Suplementación masiva de glucagón en cada comida."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_56",
+      "q": "La diabetes mellitus tipo 2 es responsable de aproximadamente qué porcentaje de los casos totales de diabetes mellitus?",
+      "exp": "La diabetes tipo 1 representa una minoría de los casos; la tipo 2 constituye aproximadamente el 90% de los casos de diabetes mellitus.",
+      "topic": "Capítulo 79",
+      "options": [
+        "10%.",
+        "50%.",
+        "90%.",
+        "5%."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_57",
+      "q": "¿Qué porcentaje aproximado de las células del islote de Langerhans son células alfa y qué hormona secretan?",
+      "exp": "Las células alfa constituyen alrededor del 25% de las células del islote y secretan glucagón; las beta son cerca del 60% y secretan insulina y amilina.",
+      "topic": "Capítulo 79",
+      "options": [
+        "60%; insulina.",
+        "25%; glucagón.",
+        "10%; somatostatina.",
+        "5%; polipéptido pancreático."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_58",
+      "q": "La resistencia a la insulina en la diabetes mellitus tipo 2 se debe principalmente a:",
+      "exp": "Aunque puede haber reducción de receptores, el defecto más importante en la resistencia a la insulina suele estar en la señalización intracelular posterior a la activación del receptor.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Una mutación del péptido C que bloquea la unión de insulina.",
+        "Destrucción total autoinmune de células beta pancreáticas.",
+        "Exceso de glucocinasa que agota el ATP celular.",
+        "Anomalías en las vías de señalización intracelular tras activar el receptor."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_79_59",
+      "q": "¿Cuál es el papel del hígado como sistema amortiguador de la glucemia?",
+      "exp": "Después de comer, el hígado capta y almacena glucosa como glucógeno; entre comidas, libera glucosa para evitar descensos excesivos de la glucemia.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Almacena el exceso de glucosa posprandial como glucógeno y la libera entre comidas.",
+        "Produce insulina local para regular la glucemia de los hepatocitos.",
+        "Elimina el exceso de glucosa por la bilis hacia el intestino.",
+        "Convierte toda la glucosa en proteínas para evitar hiperglucemia."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_60",
+      "q": "¿Qué efecto tiene el glucagón sobre el metabolismo de las grasas a concentraciones elevadas?",
+      "exp": "A concentraciones elevadas, el glucagón activa la lipasa en adipocitos y reduce el depósito de triglicéridos en el hígado, aumentando la disponibilidad de ácidos grasos.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Estimula la síntesis de colesterol a partir de acetil-CoA.",
+        "Activa lipasa en adipocitos e inhibe el depósito hepático de triglicéridos.",
+        "Convierte los ácidos grasos en glucógeno muscular.",
+        "Bloquea la beta-oxidación para ahorrar ácidos grasos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_79_61",
+      "q": "¿Qué sucede con la secreción de insulina cuando la glucemia retorna a niveles de ayuno?",
+      "exp": "Al volver la glucemia a valores de ayuno, la secreción de insulina se reduce rápidamente, en pocos minutos, ayudando a evitar hipoglucemia reactiva.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Se mantiene elevada durante varias horas por inercia enzimática.",
+        "Se almacena en el hígado para liberarse en la próxima comida.",
+        "Disminuye rápidamente en un plazo aproximado de 3-5 minutos.",
+        "Se convierte en glucagón para equilibrar el sistema."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_79_62",
+      "q": "En el tratamiento de la diabetes mellitus tipo 1, ¿por qué se utiliza preferentemente insulina humana recombinante?",
+      "exp": "La insulina humana recombinante reemplazó a la insulina de origen animal porque algunos pacientes desarrollaban reacciones inmunitarias o alérgicas que limitaban su eficacia.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Para evitar reacciones inmunitarias y alérgicas asociadas a la insulina animal.",
+        "Porque es la única insulina que puede administrarse por vía oral.",
+        "Porque contiene péptido C activo que regenera los islotes.",
+        "Porque su peso molecular es diez veces menor que la insulina animal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_79_63",
+      "q": "¿Cuál es el principal factor de riesgo para el desarrollo de diabetes mellitus tipo 2?",
+      "exp": "La diabetes tipo 2 se asocia fuertemente con obesidad, sobre todo visceral, que favorece resistencia a la insulina y alteraciones de la señalización metabólica.",
+      "topic": "Capítulo 79",
+      "options": [
+        "Infecciones virales durante la infancia.",
+        "Deficiencia de vitamina D durante el embarazo.",
+        "Consumo excesivo de sal en la dieta diaria.",
+        "Obesidad, especialmente acumulación de grasa abdominal o visceral."
+      ],
+      "answer": 3
+    }
+  ]
+}

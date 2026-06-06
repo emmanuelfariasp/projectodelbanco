@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap31",
+  "title": "Capítulo 31",
+  "subtitle": "Regulación acidobásica",
+  "questions": [
+    {
+      "id": "fisio_renal_cap31_001",
+      "q": "En relación con precisión del H+, ¿cuál afirmación es correcta?",
+      "exp": "La concentración de H+ debe regularse con precisión porque altera sistemas enzimáticos.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La diarrea causa alcalosis metabólica por pérdida de HCl.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "La concentración de H+ debe regularse con precisión porque altera sistemas enzimáticos.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_002",
+      "q": "En relación con concentración normal de H+, ¿cuál afirmación es correcta?",
+      "exp": "La concentración normal de H+ en LEC es cerca de 40 nEq/l.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La concentración normal de H+ en LEC es cerca de 40 nEq/l.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "Un pH bajo corresponde a baja concentración de H+."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_003",
+      "q": "En relación con significado del pH, ¿cuál afirmación es correcta?",
+      "exp": "El pH es inversamente proporcional a la concentración de H+.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "El pH es inversamente proporcional a la concentración de H+."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap31_004",
+      "q": "En relación con pH arterial, ¿cuál afirmación es correcta?",
+      "exp": "El pH arterial normal es aproximadamente 7,4.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "El pH arterial normal es aproximadamente 7,4.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "La acidosis crónica disminuye la producción renal de amonio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_005",
+      "q": "En relación con pH venoso, ¿cuál afirmación es correcta?",
+      "exp": "El pH venoso es algo menor por mayor CO2 procedente de tejidos.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "Los pulmones regulan principalmente HCO3- y no CO2.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "El pH venoso es algo menor por mayor CO2 procedente de tejidos."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap31_006",
+      "q": "En relación con acidosis, ¿cuál afirmación es correcta?",
+      "exp": "Acidosis significa pH arterial menor de 7,4.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "Acidosis significa pH arterial menor de 7,4.",
+        "Un pH bajo corresponde a baja concentración de H+."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap31_007",
+      "q": "En relación con alcalosis, ¿cuál afirmación es correcta?",
+      "exp": "Alcalosis significa pH arterial mayor de 7,4.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "Alcalosis significa pH arterial mayor de 7,4.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_008",
+      "q": "En relación con limite pH, ¿cuál afirmación es correcta?",
+      "exp": "La vida pocas horas es compatible aproximadamente entre pH 6,8 y 8.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La vida pocas horas es compatible aproximadamente entre pH 6,8 y 8.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "Los pulmones regulan principalmente HCO3- y no CO2."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_009",
+      "q": "En relación con HCl gástrico, ¿cuál afirmación es correcta?",
+      "exp": "El HCl gástrico tiene concentración de H+ millones de veces mayor que la sangre.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "El HCl gástrico tiene concentración de H+ millones de veces mayor que la sangre.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "La acidosis crónica disminuye la producción renal de amonio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_010",
+      "q": "En relación con defensas acidobásicas, ¿cuál afirmación es correcta?",
+      "exp": "Las defensas acidobásicas principales son tampones, pulmones y riñones.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "Las defensas acidobásicas principales son tampones, pulmones y riñones.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl.",
+        "Disminuir HCO3- causa alcalosis metabólica."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_011",
+      "q": "En relación con tampón rapido, ¿cuál afirmación es correcta?",
+      "exp": "Los tampones químicos actúan en segundos al captar o liberar H+.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "Los tampones químicos actúan en segundos al captar o liberar H+.",
+        "Aumentar PCO2 eleva pH y causa alcalosis."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap31_012",
+      "q": "En relación con pulmones, ¿cuál afirmación es correcta?",
+      "exp": "Los pulmones regulan H+ al modificar la eliminación de CO2.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "Los pulmones regulan principalmente HCO3- y no CO2.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "Los pulmones regulan H+ al modificar la eliminación de CO2."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap31_013",
+      "q": "En relación con riñones y equilibrio ácido-base, ¿cuál afirmación es correcta?",
+      "exp": "Los riñones son la defensa más potente pero más lenta del equilibrio acidobásico.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "Los riñones son la defensa más potente pero más lenta del equilibrio acidobásico.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_014",
+      "q": "En relación con amortiguador, ¿cuál afirmación es correcta?",
+      "exp": "Un amortiguador se une reversiblemente a H+.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Un amortiguador se une reversiblemente a H+.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "Aumentar PCO2 eleva pH y causa alcalosis."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_015",
+      "q": "En relación con sistema bicarbonato, ¿cuál afirmación es correcta?",
+      "exp": "El sistema bicarbonato está formado por H2CO3 y HCO3-.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "El sistema bicarbonato está formado por H2CO3 y HCO3-.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_016",
+      "q": "En relación con anhidrasa carbónica, ¿cuál afirmación es correcta?",
+      "exp": "La anhidrasa carbónica cataliza la reacción CO2 + H2O reversible a H2CO3.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "La anhidrasa carbónica cataliza la reacción CO2 + H2O reversible a H2CO3.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_017",
+      "q": "En relación con anhidrasa carbónica en pulmón y riñón, ¿cuál afirmación es correcta?",
+      "exp": "Anhidrasa carbónica es abundante en alvéolos pulmonares y túbulos renales.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Los pulmones regulan principalmente HCO3- y no CO2.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "Anhidrasa carbónica es abundante en alvéolos pulmonares y túbulos renales."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap31_018",
+      "q": "En relación con HCl y bicarbonato, ¿cuál afirmación es correcta?",
+      "exp": "El bicarbonato amortigua HCl formando ácido carbónico, CO2 y agua.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "El bicarbonato amortigua HCl formando ácido carbónico, CO2 y agua.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_019",
+      "q": "En relación con NaOH y bicarbonato, ¿cuál afirmación es correcta?",
+      "exp": "El ácido carbónico amortigua bases fuertes como NaOH.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "El ácido carbónico amortigua bases fuertes como NaOH.",
+        "Los pulmones regulan principalmente HCO3- y no CO2."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap31_020",
+      "q": "En relación con henderson, ¿cuál afirmación es correcta?",
+      "exp": "La ecuación de Henderson-Hasselbalch relaciona pH con HCO3- y PCO2.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Los pulmones regulan principalmente HCO3- y no CO2.",
+        "La ecuación de Henderson-Hasselbalch relaciona pH con HCO3- y PCO2.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "Disminuir HCO3- causa alcalosis metabólica."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_021",
+      "q": "En relación con hco3 pH, ¿cuál afirmación es correcta?",
+      "exp": "Aumentar HCO3- eleva pH y desplaza hacia alcalosis.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Los pulmones regulan principalmente HCO3- y no CO2.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "Aumentar HCO3- eleva pH y desplaza hacia alcalosis."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap31_022",
+      "q": "En relación con PCO2 y pH, ¿cuál afirmación es correcta?",
+      "exp": "Aumentar PCO2 baja pH y desplaza hacia acidosis.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "Aumentar PCO2 baja pH y desplaza hacia acidosis.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "La anhidrasa carbónica impide la formación de H2CO3."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_023",
+      "q": "En relación con metabólica, ¿cuál afirmación es correcta?",
+      "exp": "Los trastornos metabólicos tienen cambio primario en HCO3-.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Los pulmones regulan principalmente HCO3- y no CO2.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "Los trastornos metabólicos tienen cambio primario en HCO3-."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap31_024",
+      "q": "En relación con respiratoria, ¿cuál afirmación es correcta?",
+      "exp": "Los trastornos respiratorios tienen cambio primario en PCO2.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La diarrea causa alcalosis metabólica por pérdida de HCl.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "Los trastornos respiratorios tienen cambio primario en PCO2.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap31_025",
+      "q": "En relación con acidosis metabólica, ¿cuál afirmación es correcta?",
+      "exp": "Disminución primaria de HCO3- causa acidosis metabólica.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "Disminución primaria de HCO3- causa acidosis metabólica."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap31_026",
+      "q": "En relación con alcalosis metabólica, ¿cuál afirmación es correcta?",
+      "exp": "Aumento primario de HCO3- causa alcalosis metabólica.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Aumento primario de HCO3- causa alcalosis metabólica.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "Aumentar PCO2 eleva pH y causa alcalosis."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_027",
+      "q": "En relación con acidosis respiratoria, ¿cuál afirmación es correcta?",
+      "exp": "Aumento primario de PCO2 causa acidosis respiratoria.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "Aumento primario de PCO2 causa acidosis respiratoria.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_028",
+      "q": "En relación con alcalosis respiratoria, ¿cuál afirmación es correcta?",
+      "exp": "Disminución primaria de PCO2 causa alcalosis respiratoria.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "Disminución primaria de PCO2 causa alcalosis respiratoria.",
+        "Un pH bajo corresponde a baja concentración de H+."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap31_029",
+      "q": "En relación con potencia tampón, ¿cuál afirmación es correcta?",
+      "exp": "Un tampón es más eficaz cerca de su pK y con mayor concentración total.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "Un tampón es más eficaz cerca de su pK y con mayor concentración total.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "Aumentar PCO2 eleva pH y causa alcalosis."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_030",
+      "q": "En relación con potencia del sistema bicarbonato, ¿cuál afirmación es correcta?",
+      "exp": "Bicarbonato es potente porque pulmones regulan CO2 y riñones regulan HCO3-.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "Bicarbonato es potente porque pulmones regulan CO2 y riñones regulan HCO3-.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_031",
+      "q": "En relación con fosfato, ¿cuál afirmación es correcta?",
+      "exp": "El tampón fosfato es importante en túbulos renales y líquido intracelular.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Los pulmones regulan principalmente HCO3- y no CO2.",
+        "El tampón fosfato es importante en túbulos renales y líquido intracelular.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl.",
+        "Un pH bajo corresponde a baja concentración de H+."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_032",
+      "q": "En relación con fosfato pk, ¿cuál afirmación es correcta?",
+      "exp": "El pK del fosfato se acerca al pH tubular, favoreciendo amortiguación urinaria.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "El pK del fosfato se acerca al pH tubular, favoreciendo amortiguación urinaria."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap31_033",
+      "q": "En relación con proteínas como tampones, ¿cuál afirmación es correcta?",
+      "exp": "Las proteínas son tampones importantes por sus grupos cargados y alta concentración celular.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Las proteínas son tampones importantes por sus grupos cargados y alta concentración celular.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "Los riñones corrigen trastornos acidobásicos en segundos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_034",
+      "q": "En relación con hemoglobina, ¿cuál afirmación es correcta?",
+      "exp": "La hemoglobina amortigua H+ dentro de eritrocitos.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "La hemoglobina amortigua H+ dentro de eritrocitos.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_035",
+      "q": "En relación con principio isohídrico, ¿cuál afirmación es correcta?",
+      "exp": "El principio isohídrico indica que todos los tampones comparten la misma [H+] en una solución.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "El principio isohídrico indica que todos los tampones comparten la misma [H+] en una solución.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_036",
+      "q": "En relación con aumento de ventilación, ¿cuál afirmación es correcta?",
+      "exp": "Aumentar ventilación reduce PCO2 y disminuye H+.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "Aumentar ventilación reduce PCO2 y disminuye H+.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap31_037",
+      "q": "En relación con disminución de ventilación, ¿cuál afirmación es correcta?",
+      "exp": "Disminuir ventilación aumenta PCO2 y aumenta H+.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "Disminuir ventilación aumenta PCO2 y aumenta H+.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "La anhidrasa carbónica impide la formación de H2CO3."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_038",
+      "q": "En relación con compensación de la acidosis metabólica, ¿cuál afirmación es correcta?",
+      "exp": "La acidosis metabólica estimula hiperventilación compensadora.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "La acidosis metabólica estimula hiperventilación compensadora."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap31_039",
+      "q": "En relación con compensación de la alcalosis metabólica, ¿cuál afirmación es correcta?",
+      "exp": "La alcalosis metabólica reduce ventilación de forma compensadora.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "La alcalosis metabólica reduce ventilación de forma compensadora.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "Los pulmones regulan principalmente HCO3- y no CO2."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_040",
+      "q": "En relación con secreción de H+, ¿cuál afirmación es correcta?",
+      "exp": "El riñón regula pH secretando H+ y manejando bicarbonato.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El riñón regula pH secretando H+ y manejando bicarbonato.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_041",
+      "q": "En relación con reabsorción de HCO3-, ¿cuál afirmación es correcta?",
+      "exp": "El riñón debe reabsorber casi todo el bicarbonato filtrado para evitar acidosis.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "El riñón debe reabsorber casi todo el bicarbonato filtrado para evitar acidosis.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "Un pH bajo corresponde a baja concentración de H+."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_042",
+      "q": "En relación con reabsorción indirecta de HCO3-, ¿cuál afirmación es correcta?",
+      "exp": "El bicarbonato filtrado se reabsorbe indirectamente tras combinarse con H+ y formar CO2.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El bicarbonato filtrado se reabsorbe indirectamente tras combinarse con H+ y formar CO2.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "La acidosis crónica disminuye la producción renal de amonio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_043",
+      "q": "En relación con NHE ácido base, ¿cuál afirmación es correcta?",
+      "exp": "El intercambiador Na-H contribuye a secreción tubular de H+.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "La diarrea causa alcalosis metabólica por pérdida de HCl.",
+        "El intercambiador Na-H contribuye a secreción tubular de H+.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "La anhidrasa carbónica impide la formación de H2CO3."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_044",
+      "q": "En relación con H-ATPasa, ¿cuál afirmación es correcta?",
+      "exp": "Las bombas H-ATPasa secretan H+ en segmentos distales.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "Las bombas H-ATPasa secretan H+ en segmentos distales.",
+        "Disminuir HCO3- causa alcalosis metabólica.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_045",
+      "q": "En relación con ácido titulable, ¿cuál afirmación es correcta?",
+      "exp": "La excreción de H+ con fosfato genera ácido titulable y bicarbonato nuevo.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "La excreción de H+ con fosfato genera ácido titulable y bicarbonato nuevo.",
+        "Aumentar PCO2 eleva pH y causa alcalosis.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_046",
+      "q": "En relación con amonio, ¿cuál afirmación es correcta?",
+      "exp": "El sistema amonio permite excretar H+ como NH4+ y generar bicarbonato nuevo.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Los pulmones regulan principalmente HCO3- y no CO2.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "El sistema amonio permite excretar H+ como NH4+ y generar bicarbonato nuevo."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap31_047",
+      "q": "En relación con acidosis crónica nh4, ¿cuál afirmación es correcta?",
+      "exp": "La acidosis crónica aumenta la producción renal de amonio.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El vómito prolongado causa acidosis metabólica por pérdida de bicarbonato.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "La acidosis crónica aumenta la producción renal de amonio.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "Disminuir HCO3- causa alcalosis metabólica."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_048",
+      "q": "En relación con pH de la orina, ¿cuál afirmación es correcta?",
+      "exp": "El pH urinario puede variar aproximadamente entre 4,5 y 8.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El pH urinario puede variar aproximadamente entre 4,5 y 8.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "Aumentar PCO2 eleva pH y causa alcalosis."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_049",
+      "q": "En relación con alcalosis renal, ¿cuál afirmación es correcta?",
+      "exp": "En alcalosis, el riñón aumenta excreción de bicarbonato y reduce secreción de H+.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "En alcalosis, el riñón aumenta excreción de bicarbonato y reduce secreción de H+.",
+        "La acidosis crónica disminuye la producción renal de amonio.",
+        "La anhidrasa carbónica impide la formación de H2CO3.",
+        "Un pH bajo corresponde a baja concentración de H+.",
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_050",
+      "q": "En relación con diarrea y acidosis, ¿cuál afirmación es correcta?",
+      "exp": "La diarrea puede causar acidosis metabólica por pérdida de bicarbonato.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La hemoglobina no puede amortiguar H+ dentro de eritrocitos.",
+        "En alcalosis renal se genera más bicarbonato nuevo y se secreta más H+.",
+        "El fosfato es el tampón extracelular principal por su alta concentración plasmática.",
+        "Los riñones corrigen trastornos acidobásicos en segundos.",
+        "La diarrea puede causar acidosis metabólica por pérdida de bicarbonato."
+      ],
+      "answer": 4
+    }
+  ]
+}

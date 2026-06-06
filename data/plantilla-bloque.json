@@ -1,0 +1,21 @@
+{
+  "key": "nuevo_bloque",
+  "title": "Nuevo bloque",
+  "subtitle": "Descripción corta del tema del bloque",
+  "level": "1 preguntas",
+  "questions": [
+    {
+      "id": "nuevo_bloque_001",
+      "q": "Escribe aquí la pregunta.",
+      "topic": "Tema",
+      "options": [
+        "Alternativa A",
+        "Alternativa B",
+        "Alternativa C",
+        "Alternativa D"
+      ],
+      "answer": 0,
+      "exp": "Explicación de la respuesta correcta y por qué las otras no son adecuadas."
+    }
+  ]
+}

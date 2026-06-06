@@ -1,0 +1,723 @@
+{
+  "key": "fisio_cap77_aleatorio",
+  "title": "Capítulo 77",
+  "subtitle": "Hormonas metabólicas tiroideas",
+  "level": "55 preguntas",
+  "questions": [
+    {
+      "id": "fisio_aleatorio_77_01",
+      "q": "Sobre la secreción hormonal tiroidea normal, marque lo correcto:",
+      "exp": "Aproximadamente 93% de la secreción es T4 y 7% es T3.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Predomina T3 y T4 se secreta solo en trazas.",
+        "T3 y T4 se secretan en proporciones idénticas.",
+        "Predomina T4 y se secreta menor cantidad de T3.",
+        "La tiroides secreta solo T3 en adultos sanos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_02",
+      "q": "Comparada con T4, la T3 se caracteriza por ser:",
+      "exp": "T3 es unas cuatro veces más potente que T4, pero circula menos y dura menos.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Inactiva, abundante y almacenada solo en células C.",
+        "Peptídica, hidrosoluble y libre en el plasma.",
+        "Menos potente, más abundante y de duración más larga.",
+        "Más potente, menos abundante y de duración más breve."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_03",
+      "q": "La unidad funcional microscópica de la tiroides contiene:",
+      "exp": "La glándula tiroides está compuesta por folículos llenos de coloide con tiroglobulina.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Túbulos seminíferos con células de Sertoli y Leydig.",
+        "Folículos cerrados con coloide rico en tiroglobulina.",
+        "Islotes con células alfa, beta y delta alrededor de capilares.",
+        "Zonas glomerular, fascicular y reticular concéntricas."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_04",
+      "q": "Para formar tiroxina normalmente se requiere:",
+      "exp": "El yoduro es esencial para la síntesis de T3 y T4.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Colesterol captado por LDL.",
+        "Yodo ingerido como yoduro.",
+        "Calcio unido a calmodulina.",
+        "Glucosa transportada por GLUT-4."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_05",
+      "q": "La primera etapa en la síntesis tiroidea es:",
+      "exp": "La síntesis comienza con captación de yoduro por la célula folicular.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Atrapamiento de yoduro desde sangre a célula folicular.",
+        "Proteólisis de tiroglobulina dentro del capilar sanguíneo.",
+        "Unión de T4 a TBG dentro del coloide folicular.",
+        "Conversión de T3 en calcitonina por células C."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_06",
+      "q": "El NIS se localiza principalmente en la membrana:",
+      "exp": "El simportador sodio-yoduro actúa en la membrana basolateral de células foliculares.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Basolateral de la célula folicular tiroidea.",
+        "Luminal del osteoclasto activo.",
+        "Nuclear de la célula corticosuprarrenal.",
+        "Apical de la célula beta pancreática."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_07",
+      "q": "El NIS cotransporta hacia la célula folicular:",
+      "exp": "El NIS cotransporta I- con Na+, usando el gradiente de sodio.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Una tiroglobulina junto con dos cloruros.",
+        "Dos T4 junto con una molécula de TBG.",
+        "Dos yoduros junto con un calcio.",
+        "Un yoduro junto con dos sodios."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_08",
+      "q": "El gradiente que impulsa el NIS depende de:",
+      "exp": "La Na+/K+-ATPasa mantiene bajo el sodio intracelular y permite el cotransporte.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Bomba Na+/K+-ATPasa.",
+        "Aromatasa ovárica.",
+        "Aldosterona sintasa.",
+        "Insulinasa hepática."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_09",
+      "q": "El paso de yoduro hacia el coloide se asocia con:",
+      "exp": "La pendrina transporta yoduro hacia la luz folicular.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Pendrina en la membrana apical.",
+        "Transcortina en el plasma.",
+        "GLUT-4 en músculo esquelético.",
+        "Megalina en la membrana basal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_10",
+      "q": "La tiroglobulina es mejor descrita como:",
+      "exp": "La tiroglobulina contiene tirosinas que serán yodadas y acopladas.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Receptor nuclear que activa genes tiroideos.",
+        "Enzima que transforma yoduro en sodio intracelular.",
+        "Proteína plasmática principal de transporte de cortisol.",
+        "Matriz proteica donde se forman y almacenan T3 y T4."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_11",
+      "q": "La oxidación del yoduro depende principalmente de:",
+      "exp": "La TPO oxida el yoduro para permitir su unión a tirosina.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Glucocinasa hepática y glucosa plasmática.",
+        "Peroxidasa tiroidea y peróxido de hidrógeno.",
+        "Colesterol desmolasa y ACTH.",
+        "Insulinasa renal y péptido C."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_12",
+      "q": "La organificación del yodo significa:",
+      "exp": "Organificación es incorporación de yodo a residuos de tirosina de la tiroglobulina.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Liberación de calcitonina por células parafoliculares.",
+        "Transporte de T4 desde plasma al núcleo celular.",
+        "Unión del yodo oxidado a tirosinas de tiroglobulina.",
+        "Separación de MIT y DIT por desyodasa hepática."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_13",
+      "q": "La formación de T4 se produce por acoplamiento de:",
+      "exp": "T4 se forma por acoplamiento de dos diyodotirosinas.",
+      "topic": "Capítulo 77",
+      "options": [
+        "MIT con MIT.",
+        "MIT con DIT.",
+        "T3 con yoduro.",
+        "DIT con DIT."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_14",
+      "q": "La formación de T3 se produce principalmente por acoplamiento de:",
+      "exp": "T3 se forma por acoplamiento de MIT y DIT.",
+      "topic": "Capítulo 77",
+      "options": [
+        "MIT con MIT.",
+        "DIT con DIT.",
+        "T4 con TBG.",
+        "MIT con DIT."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_15",
+      "q": "El coloide tiroideo permite almacenar hormona para aproximadamente:",
+      "exp": "La tiroides almacena suficiente hormona en coloide para 2-3 meses.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Menos de una hora en ayuno.",
+        "Toda la vida reproductiva.",
+        "Varias semanas a pocos meses.",
+        "Solo segundos después de sintetizarla."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_16",
+      "q": "Para liberar T3 y T4, la célula folicular realiza:",
+      "exp": "La tiroglobulina yodada se endocita y se digiere para liberar T3 y T4.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Difusión directa de tiroglobulina intacta por capilares linfáticos.",
+        "Endocitosis del coloide y proteólisis lisosomal de tiroglobulina.",
+        "Conversión de colesterol en pregnenolona y cortisol.",
+        "Exocitosis de insulina y péptido C en cantidades iguales."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_17",
+      "q": "La megalina en la tiroides se ubica en la membrana:",
+      "exp": "La megalina está en la superficie luminal y participa en captación de tiroglobulina.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Mitocondrial de la célula fascicular.",
+        "Nuclear de la célula paratiroidea.",
+        "Luminal o apical de la célula folicular.",
+        "Basolateral de la célula de Leydig."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_18",
+      "q": "Las MIT y DIT que quedan tras proteólisis:",
+      "exp": "MIT y DIT se desyodan y el yoduro se reutiliza.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Se unen a transcortina para aumentar la vida media plasmática.",
+        "Se secretan como principales hormonas metabólicas activas.",
+        "Se desyodan para reciclar yoduro en la célula tiroidea.",
+        "Se transforman en calcitonina dentro de las células C."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_19",
+      "q": "En sangre, T3 y T4 circulan principalmente:",
+      "exp": "Más del 99% de T3/T4 está unido a proteínas plasmáticas.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Unidas exclusivamente a transcortina.",
+        "Dentro de vesículas secretoras intactas.",
+        "Libres, sin transportadores plasmáticos.",
+        "Unidas a TBG, prealbúmina y albúmina."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_20",
+      "q": "T4 tiene vida media mayor que T3 porque:",
+      "exp": "La unión proteica más intensa prolonga la vida media de T4.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Se une con mayor fuerza a proteínas plasmáticas.",
+        "Es hidrosoluble y se filtra menos en el riñón.",
+        "Es secretada por células C junto con calcitonina.",
+        "No entra a las células diana del organismo."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_21",
+      "q": "El efecto celular principal de T3 y T4 es:",
+      "exp": "Las hormonas tiroideas actúan en receptores nucleares y aumentan expresión de proteínas.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Activar AMPc solo en la membrana luminal tiroidea.",
+        "Cerrar canales de sodio en músculo liso vascular.",
+        "Aumentar transcripción génica y síntesis proteica metabólica.",
+        "Bloquear toda actividad mitocondrial dependiente de oxígeno."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_22",
+      "q": "La TSH estimula en la tiroides:",
+      "exp": "La TSH estimula casi todas las etapas de síntesis y secreción tiroidea.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Solo conversión periférica de T4 en T3.",
+        "Captación de yoduro, síntesis, liberación y crecimiento folicular.",
+        "Exclusivamente unión plasmática a TBG.",
+        "Solo secreción de calcitonina por células C."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_23",
+      "q": "La retroalimentación negativa tiroidea ocurre cuando:",
+      "exp": "Las hormonas tiroideas inhiben TRH y TSH cuando sus niveles aumentan.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Calcitonina elevada estimula TSH.",
+        "T3 y T4 elevadas reducen TRH/TSH.",
+        "TBG elevada bloquea la secreción de TRH.",
+        "TSH elevada reduce directamente T3 y T4."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_24",
+      "q": "Una consecuencia fisiológica del aumento de hormonas tiroideas es:",
+      "exp": "T3/T4 elevan el metabolismo basal y el consumo de oxígeno.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Bloqueo completo de absorción intestinal de glucosa.",
+        "Menor actividad simpática en todos los tejidos.",
+        "Mayor metabolismo basal y consumo de oxígeno.",
+        "Menor crecimiento y maduración cerebral infantil."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_25",
+      "q": "En niños, la deficiencia importante de hormona tiroidea puede causar:",
+      "exp": "Las hormonas tiroideas son esenciales para crecimiento y desarrollo neurológico.",
+      "topic": "Capítulo 77",
+      "options": [
+        "Retraso de crecimiento y desarrollo del sistema nervioso.",
+        "Exceso de cierre epifisario por estrógenos ováricos.",
+        "Hipersecreción de insulina por células beta centrales.",
+        "Aumento de calcio plasmático por calcitonina baja."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_26",
+      "q": "¿Por qué la administración de concentraciones muy elevadas de yoduros inorgánicos disminuye rápidamente la actividad tiroidea?",
+      "exp": "El exceso agudo de yoduro puede frenar la liberación de hormona tiroidea ya formada; es el efecto Wolff-Chaikoff.",
+      "topic": "Tiroides",
+      "options": [
+        "Aumentan la excreción renal de yodo de forma compensatoria.",
+        "Saturan la molécula de tiroglobulina e impiden su transporte.",
+        "Paralizan la endocitosis del coloide y la liberación hormonal.",
+        "Destruyen selectivamente las células foliculares por toxicidad iónica."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_27",
+      "q": "¿Cuál es la proporción aproximada de secreción de tiroxina (T4) y triyodotironina (T3) por la glándula tiroides, y cuál de ellas es metabólicamente más potente?",
+      "exp": "La mayor parte de la secreción tiroidea es T4, pero la T3 tiene mayor potencia biológica.",
+      "topic": "Tiroides",
+      "options": [
+        "93% de T4 y 7% de T3; ambas tienen la misma potencia metabólica.",
+        "93% de T4 y 7% de T3; la T3 es cuatro veces más potente.",
+        "7% de T4 y 93% de T3; la T4 es más potente.",
+        "50% de T4 y 50% de T3; la T4 es más potente por su vida media larga."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_28",
+      "q": "El transporte de yoduro (I-) desde la sangre hacia las células tiroideas es un transporte activo secundario. ¿Cuál es la fuente inmediata de energía para este proceso?",
+      "exp": "El simportador NIS aprovecha el gradiente de Na+ generado por la Na+/K+-ATPasa para introducir yoduro.",
+      "topic": "Tiroides",
+      "options": [
+        "El contratransporte de cloruro a través de la pendrina.",
+        "La oxidación del yoduro por la peroxidasa tiroidea.",
+        "La hidrólisis directa de ATP por el simportador NIS.",
+        "El gradiente de sodio establecido por la bomba Na+/K+-ATPasa."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_29",
+      "q": "¿Qué molécula transporta el yoduro fuera de la célula tiroidea, a través de la membrana apical, hacia el folículo?",
+      "exp": "La pendrina es el transportador apical que mueve yoduro hacia el coloide folicular.",
+      "topic": "Tiroides",
+      "options": [
+        "Megalina.",
+        "Simportador de yoduro de sodio (NIS).",
+        "Pendrina.",
+        "Tiroglobulina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_30",
+      "q": "¿Dónde se lleva a cabo la síntesis real de las hormonas tiroideas T4 y T3?",
+      "exp": "La yodación y el acoplamiento de tirosinas ocurren en la tiroglobulina almacenada en el coloide.",
+      "topic": "Tiroides",
+      "options": [
+        "En la sangre, tras la liberación de precursores.",
+        "En el citoplasma de las células foliculares.",
+        "En el retículo endoplásmico rugoso únicamente.",
+        "Dentro de la molécula de tiroglobulina en el coloide."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_31",
+      "q": "Para la formación de tiroxina (T4), ¿cuál es el paso de acoplamiento necesario?",
+      "exp": "El acoplamiento de dos residuos DIT forma T4; MIT + DIT forma T3.",
+      "topic": "Tiroides",
+      "options": [
+        "La yodación directa de una molécula de T3.",
+        "La unión de dos moléculas de diyodotirosina (DIT).",
+        "La unión de una monoyodotirosina (MIT) y una diyodotirosina (DIT).",
+        "La unión de dos moléculas de monoyodotirosina (MIT)."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_32",
+      "q": "¿Cuánto tiempo aproximado puede mantener el organismo niveles normales de metabolismo tras el cese completo de la síntesis de hormona tiroidea?",
+      "exp": "La tiroides almacena gran cantidad de hormona en el coloide, suficiente para varios meses.",
+      "topic": "Tiroides",
+      "options": [
+        "6 meses.",
+        "24 a 48 horas.",
+        "2 a 3 meses.",
+        "2 a 3 semanas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_33",
+      "q": "¿Cuál es la función de la desyodasa intracelular durante la liberación de hormonas tiroideas?",
+      "exp": "La desyodasa recicla yodo de MIT y DIT que no se acoplaron para formar T3 o T4.",
+      "topic": "Tiroides",
+      "options": [
+        "Recuperar el yodo de las tirosinas yodadas MIT y DIT no utilizadas.",
+        "Convertir T4 en T3 para su secreción inmediata.",
+        "Escindir la tiroxina de la molécula de tiroglobulina.",
+        "Oxidar el yoduro para que pueda unirse a la tirosina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_34",
+      "q": "En el plasma, la mayor parte de la tiroxina (T4) viaja unida a proteínas. ¿Qué efecto tiene esta unión sobre la latencia y duración de acción?",
+      "exp": "La unión a proteínas plasmáticas y celulares actúa como reservorio y retrasa la acción, pero la prolonga.",
+      "topic": "Tiroides",
+      "options": [
+        "Aumenta la velocidad de aclaramiento metabólico de la hormona.",
+        "Provoca comienzo de acción lento y duración prolongada.",
+        "Reduce la vida media de la hormona al facilitar su excreción renal.",
+        "Permite una acción inmediata en los tejidos diana tras su secreción."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_35",
+      "q": "El mecanismo de acción genómica de la T3 implica su unión a un receptor nuclear. ¿Con qué receptor suele formar un heterodímero para activar la transcripción?",
+      "exp": "El receptor de hormona tiroidea suele formar heterodímero con RXR sobre elementos de respuesta tiroidea en el ADN.",
+      "topic": "Tiroides",
+      "options": [
+        "Receptor retinoide X (RXR).",
+        "Receptor de estrógenos.",
+        "Receptor de glucocorticoides.",
+        "Receptor de insulina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_36",
+      "q": "¿Cuál es el efecto de las hormonas tiroideas sobre las mitocondrias de la mayoría de las células?",
+      "exp": "Las hormonas tiroideas aumentan la actividad metabólica y se asocian con aumento de número y tamaño mitocondrial.",
+      "topic": "Tiroides",
+      "options": [
+        "Aumentan su número, tamaño y superficie de membrana.",
+        "Inhiben la fosforilación oxidativa para generar más calor.",
+        "Solo aumentan su actividad enzimática sin cambiar su morfología.",
+        "Disminuyen su número para favorecer la glucólisis anaerobia."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_37",
+      "q": "Las hormonas tiroideas aumentan la actividad de la enzima Na+/K+-ATPasa. ¿Qué consecuencia directa tiene esto sobre el equilibrio energético corporal?",
+      "exp": "El transporte activo consume ATP y libera calor, contribuyendo a la termogénesis.",
+      "topic": "Tiroides",
+      "options": [
+        "Disminuye el consumo de oxígeno en los tejidos periféricos.",
+        "Aumenta la producción de calor corporal.",
+        "Reduce la temperatura corporal por retroalimentación.",
+        "Aumenta el almacenamiento de glucógeno hepático."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_38",
+      "q": "¿Por qué el déficit de hormona tiroidea durante el desarrollo fetal e infantil puede causar retraso mental permanente si no se trata precozmente?",
+      "exp": "La hormona tiroidea es esencial para la maduración estructural del sistema nervioso durante etapas críticas.",
+      "topic": "Tiroides",
+      "options": [
+        "Porque impide la formación de la barrera hematoencefálica.",
+        "Por acumulación de depósitos de calcio en la corteza cerebral.",
+        "Por hipoglucemia cerebral crónica.",
+        "Por retraso del crecimiento, ramificación y mielinización neuronal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_39",
+      "q": "¿Qué efecto tienen niveles elevados de hormona tiroidea sobre las concentraciones plasmáticas de colesterol y los receptores hepáticos de LDL?",
+      "exp": "La hormona tiroidea favorece la captación hepática y eliminación del colesterol, reduciendo sus niveles plasmáticos.",
+      "topic": "Tiroides",
+      "options": [
+        "Disminuyen el colesterol plasmático y aumentan los receptores hepáticos de LDL.",
+        "Aumentan tanto el colesterol como los receptores de LDL.",
+        "No tienen efecto sobre el metabolismo del colesterol.",
+        "Aumentan el colesterol plasmático y disminuyen los receptores de LDL."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_40",
+      "q": "En el sistema cardiovascular, ¿cuál es el efecto de un exceso notable de hormona tiroidea sobre la fuerza del músculo cardíaco a largo plazo?",
+      "exp": "Aunque un exceso ligero puede aumentar la fuerza, el hipertiroidismo grave termina debilitando el miocardio por catabolismo proteico.",
+      "topic": "Tiroides",
+      "options": [
+        "La fuerza aumenta indefinidamente de forma proporcional a la dosis.",
+        "La fuerza disminuye únicamente por bradicardia.",
+        "La fuerza disminuye por catabolismo proteico excesivo.",
+        "La fuerza se mantiene constante, aunque aumenta la frecuencia cardíaca."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_41",
+      "q": "¿Cuál es la frecuencia característica del temblor fino observado en pacientes con hipertiroidismo?",
+      "exp": "El hipertiroidismo produce un temblor fino de alta frecuencia, típico de 10 a 15 veces por segundo.",
+      "topic": "Tiroides",
+      "options": [
+        "50 a 60 veces por segundo.",
+        "1 a 2 veces por segundo.",
+        "10 a 15 veces por segundo.",
+        "3 a 5 veces por segundo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_42",
+      "q": "La tirotropina (TSH) ejerce múltiples efectos sobre la glándula tiroides. ¿Cuál es el efecto más precoz tras su administración?",
+      "exp": "La TSH aumenta rápidamente la proteólisis de tiroglobulina y libera hormonas ya formadas.",
+      "topic": "Tiroides",
+      "options": [
+        "Aumento de la proteólisis de la tiroglobulina almacenada.",
+        "Incremento del tamaño de las células foliculares.",
+        "Plegamiento del epitelio tiroideo en los folículos.",
+        "Aumento del atrapamiento de yoduro por la bomba."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_43",
+      "q": "¿Qué segundo mensajero media la mayoría de los efectos de la TSH en las células tiroideas?",
+      "exp": "La TSH activa principalmente adenilato ciclasa, aumenta AMPc y activa proteína cinasa.",
+      "topic": "Tiroides",
+      "options": [
+        "Óxido nítrico.",
+        "Inositol trifosfato (IP3).",
+        "GMP cíclico (GMPc).",
+        "AMP cíclico (AMPc)."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_44",
+      "q": "¿Cuál es el mecanismo molecular por el cual la tiroliberina (TRH) estimula la secreción de TSH en la adenohipófisis?",
+      "exp": "La TRH estimula las células tirotropas mediante la vía de fosfolipasa C, IP3/DAG y calcio.",
+      "topic": "Tiroides",
+      "options": [
+        "Aumento de la síntesis de AMPc.",
+        "Inhibición de la bomba Na+/K+-ATPasa hipofisaria.",
+        "Activación de la fosfolipasa C e iones calcio.",
+        "Apertura directa de canales de sodio en la membrana nuclear."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_45",
+      "q": "El fármaco antitiroideo propiltiouracilo bloquea la formación de hormonas. ¿Cuál es su mecanismo específico?",
+      "exp": "Al inhibir la peroxidasa, impide la oxidación del yodo y el acoplamiento de residuos para formar T3 y T4.",
+      "topic": "Tiroides",
+      "options": [
+        "Bloquea la peroxidasa y el acoplamiento de tirosinas yodadas.",
+        "Inhibe la secreción de TSH por la adenohipófisis.",
+        "Aumenta la degradación hepática de las hormonas tiroideas.",
+        "Compite con el yoduro por el simportador NIS."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_46",
+      "q": "¿Cuál es la causa patogénica de la protrusión ocular (exoftalmos) en el hipertiroidismo autoinmunitario?",
+      "exp": "En Graves, el proceso autoinmunitario inflama tejidos retroorbitarios y empuja el globo ocular hacia adelante.",
+      "topic": "Tiroides",
+      "options": [
+        "Hipertrofia ósea de las paredes de la órbita.",
+        "Parálisis de los párpados por déficit de vitamina A.",
+        "Aumento de la presión intraocular por exceso de humor acuoso.",
+        "Tumefacción edematosa y degeneración de los músculos extraoculares."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_47",
+      "q": "¿Qué hallazgo en la medición de TSH plasmática es característico de un paciente con bocio tóxico (enfermedad de Graves)?",
+      "exp": "El exceso de T3/T4 inhibe por retroalimentación la TSH hipofisaria, que suele estar muy baja.",
+      "topic": "Tiroides",
+      "options": [
+        "Concentraciones de TSH extremadamente elevadas.",
+        "Concentraciones de TSH prácticamente nulas.",
+        "Concentraciones variables dependientes de la ingesta de yodo.",
+        "Concentraciones normales de TSH con T4 alta."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_48",
+      "q": "En el hipotiroidismo se puede observar acumulación de gel tisular en los espacios intersticiales. ¿Cómo se denomina este estado y qué sustancias lo componen?",
+      "exp": "El mixedema se debe a depósito de glucosaminoglucanos que retienen líquido intersticial.",
+      "topic": "Tiroides",
+      "options": [
+        "Edema hidrostático, compuesto por agua y cloruro de sodio.",
+        "Mixedema, compuesto por ácido hialurónico y sulfato de condroitina.",
+        "Anasarca, compuesta por linfa y quilomicrones.",
+        "Ascitis, compuesta por trasudado proteico hepático."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_49",
+      "q": "¿Cuál es la causa del bocio en regiones con deficiencia alimentaria extrema de yodo?",
+      "exp": "Al faltar yodo no se forman suficientes hormonas tiroideas, desaparece la inhibición de la hipófisis y aumenta la TSH.",
+      "topic": "Tiroides",
+      "options": [
+        "Sustitución del tejido glandular por depósitos de grasa.",
+        "Aumento de la secreción de TSH que estimula el crecimiento glandular excesivo.",
+        "Inflamación crónica por infección viral.",
+        "Aumento de la sensibilidad glandular a la adrenalina circulante."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_50",
+      "q": "¿Por qué el hipotiroidismo prolongado suele asociarse con arteriosclerosis grave?",
+      "exp": "La falta de hormona tiroidea reduce la expresión de receptores LDL y la eliminación de colesterol, elevando sus niveles.",
+      "topic": "Tiroides",
+      "options": [
+        "Por hipertensión arterial sistólica extrema.",
+        "Por exceso de depósitos de calcio en las túnicas arteriales.",
+        "Por pérdida excesiva de vitaminas que protegen el endotelio.",
+        "Por aumento marcado del colesterol plasmático circulante."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_51",
+      "q": "¿Qué síntoma es típico del hipotiroidismo en relación con la función del sistema nervioso central?",
+      "exp": "La ausencia de hormona tiroidea enlentece la actividad sináptica y cerebral general.",
+      "topic": "Tiroides",
+      "options": [
+        "Pérdida de memoria a corto plazo con hiperactividad.",
+        "Somnolencia extrema y lentitud de los procesos mentales.",
+        "Aumento de la rapidez de las sinapsis neuronales.",
+        "Grados extremos de nerviosismo y ansiedad."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_77_52",
+      "q": "En el tratamiento del hipertiroidismo con yodo radiactivo (I-131), ¿cuál es el objetivo terapéutico principal?",
+      "exp": "El I-131 es captado por la tiroides y su radiación destruye parte del tejido glandular hiperactivo.",
+      "topic": "Tiroides",
+      "options": [
+        "Bloquear permanentemente los receptores de TSH.",
+        "Aumentar la captación de yoduros inorgánicos para saturar la glándula.",
+        "Inhibir la liberación de tiroliberina por el hipotálamo.",
+        "Destruir una fracción de las células secretoras tiroideas."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_77_53",
+      "q": "Con respecto a la función sexual, ¿cuál es el efecto más común de la falta de hormona tiroidea en las mujeres?",
+      "exp": "El hipotiroidismo en mujeres suele asociarse con sangrados menstruales excesivos y más frecuentes.",
+      "topic": "Tiroides",
+      "options": [
+        "Menorragia y polimenorrea.",
+        "Impotencia y ginecomastia.",
+        "Aumento excesivo de la libido.",
+        "Ovulación acelerada."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_77_54",
+      "q": "¿Cuál es la semivida aproximada de la actividad de la tiroxina (T4) una vez que alcanza su actividad máxima tras una inyección única?",
+      "exp": "Por su unión a proteínas, la acción de T4 persiste varias semanas; su declive funcional ocurre alrededor de 15 días.",
+      "topic": "Tiroides",
+      "options": [
+        "60 días.",
+        "2 a 3 días.",
+        "Aproximadamente 15 días.",
+        "Unas 12 horas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_77_55",
+      "q": "En la enfermedad de Graves, la causa del hipertiroidismo es la presencia de anticuerpos contra el receptor de TSH. ¿Cómo se denominan estos anticuerpos?",
+      "exp": "Las TSI se unen al receptor de TSH y estimulan de forma continua la actividad tiroidea.",
+      "topic": "Tiroides",
+      "options": [
+        "Anticuerpos antitiroglobulina.",
+        "Inmunoglobulinas tiroestimulantes (TSI).",
+        "Inmunoglobulinas de bloqueo del receptor de TSH.",
+        "Anticuerpos antiperoxidasa (TPO)."
+      ],
+      "answer": 1
+    }
+  ]
+}
