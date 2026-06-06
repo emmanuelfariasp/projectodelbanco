@@ -1,6 +1,6 @@
-# Banco de cuestiones 4º semestre - V4.15
+# Banco de cuestiones 4º semestre - V4.16
 
-Versión V4.15 del sitio de Emmanuel Farias.
+Versión V4.16 del sitio de Emmanuel Farias.
 
 ## Estructura
 
@@ -52,7 +52,7 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 - Para agregar preguntas renales, edita los archivos en `data/fisio/unidad_v/`.
 
 
-## V4.15
+## V4.16
 
 - Se retiró la frase repetida "señale la alternativa correcta según el capítulo" de las preguntas de la Unidad V.
 - Se mantuvieron 350 preguntas renales: 50 por capítulo, capítulos 25 a 31.

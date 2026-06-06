@@ -1,0 +1,708 @@
+{
+  "key": "fisio_renal_cap28",
+  "title": "Capítulo 28",
+  "subtitle": "Reabsorción y secreción tubular",
+  "questions": [
+    {
+      "id": "fisio_renal_cap28_001",
+      "q": "En relación con excreción fórmula, ¿cuál afirmación es correcta?",
+      "exp": "La excreción urinaria es filtración glomerular menos reabsorción tubular más secreción tubular.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La excreción urinaria es filtración glomerular menos reabsorción tubular más secreción tubular.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_002",
+      "q": "En relación con selectividad tubular, ¿cuál afirmación es correcta?",
+      "exp": "La reabsorción tubular es altamente selectiva en comparación con la filtración glomerular.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "La reabsorción tubular es altamente selectiva en comparación con la filtración glomerular.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "La rama ascendente gruesa es muy permeable al agua.",
+        "ANP aumenta retención de sodio y agua."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_003",
+      "q": "En relación con importancia cuantitativa, ¿cuál afirmación es correcta?",
+      "exp": "Pequeños cambios en reabsorción pueden producir grandes cambios en excreción urinaria.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "ANP aumenta retención de sodio y agua.",
+        "Pequeños cambios en reabsorción pueden producir grandes cambios en excreción urinaria.",
+        "La rama ascendente gruesa es muy permeable al agua."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_004",
+      "q": "En relación con glucosa normal, ¿cuál afirmación es correcta?",
+      "exp": "La glucosa filtrada se reabsorbe casi por completo en condiciones normales.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La glucosa filtrada se reabsorbe casi por completo en condiciones normales.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "SGLT transporta glucosa usando ATP directo en cada ciclo.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "El transporte máximo aparece cuando no hay transportadores."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_005",
+      "q": "En relación con desechos, ¿cuál afirmación es correcta?",
+      "exp": "Urea y creatinina se reabsorben poco y se excretan en cantidades importantes.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "ANP aumenta retención de sodio y agua.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "Urea y creatinina se reabsorben poco y se excretan en cantidades importantes.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "El transporte máximo aparece cuando no hay transportadores."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_006",
+      "q": "En relación con vía transcelular, ¿cuál afirmación es correcta?",
+      "exp": "La vía transcelular transporta solutos a través de células epiteliales tubulares.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "El agua se reabsorbe por transporte activo primario.",
+        "La vía transcelular transporta solutos a través de células epiteliales tubulares.",
+        "La pinocitosis es el mecanismo principal de reabsorción de agua.",
+        "La rama ascendente gruesa es muy permeable al agua.",
+        "La creatinina se reabsorbe completamente como glucosa."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_007",
+      "q": "En relación con vía paracelular, ¿cuál afirmación es correcta?",
+      "exp": "La vía paracelular transporta agua y solutos entre células por uniones.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "La rama ascendente gruesa es muy permeable al agua.",
+        "La vía paracelular transporta agua y solutos entre células por uniones.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_008",
+      "q": "En relación con ultrafiltracion peritubular, ¿cuál afirmación es correcta?",
+      "exp": "El paso desde intersticio a capilares peritubulares ocurre por flujo en masa.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "El paso desde intersticio a capilares peritubulares ocurre por flujo en masa.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "ANP aumenta retención de sodio y agua."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_009",
+      "q": "En relación con transporte activo primario, ¿cuál afirmación es correcta?",
+      "exp": "El transporte activo primario usa ATP directamente para mover solutos contra gradiente.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La rama ascendente gruesa es muy permeable al agua.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "El transporte activo primario usa ATP directamente para mover solutos contra gradiente."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_010",
+      "q": "En relación con nak atpasa, ¿cuál afirmación es correcta?",
+      "exp": "La Na-K-ATPasa basolateral mantiene bajo Na+ intracelular y alto K+ intracelular.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "La Na-K-ATPasa basolateral mantiene bajo Na+ intracelular y alto K+ intracelular.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_011",
+      "q": "En relación con potencial celular, ¿cuál afirmación es correcta?",
+      "exp": "El interior celular negativo favorece entrada de Na+ desde la luz tubular.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "El interior celular negativo favorece entrada de Na+ desde la luz tubular.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "ANP aumenta retención de sodio y agua.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_012",
+      "q": "En relación con transporte activo secundario, ¿cuál afirmación es correcta?",
+      "exp": "El transporte activo secundario usa energía de un gradiente iónico, no ATP directo.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "El transporte activo secundario usa energía de un gradiente iónico, no ATP directo.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "La rama ascendente gruesa es muy permeable al agua."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_013",
+      "q": "En relación con SGLT, ¿cuál afirmación es correcta?",
+      "exp": "SGLT cotransporta sodio y glucosa a través de la membrana luminal proximal.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "SGLT cotransporta sodio y glucosa a través de la membrana luminal proximal.",
+        "El agua se reabsorbe por transporte activo primario."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_014",
+      "q": "En relación con SGLT2, ¿cuál afirmación es correcta?",
+      "exp": "SGLT2 reabsorbe cerca del 90% de la glucosa filtrada en el túbulo proximal temprano.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La rama ascendente gruesa es muy permeable al agua.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "SGLT2 reabsorbe cerca del 90% de la glucosa filtrada en el túbulo proximal temprano.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "La pinocitosis es el mecanismo principal de reabsorción de agua."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_015",
+      "q": "En relación con SGLT1, ¿cuál afirmación es correcta?",
+      "exp": "SGLT1 reabsorbe el resto de glucosa en segmentos proximales posteriores.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "SGLT1 reabsorbe el resto de glucosa en segmentos proximales posteriores.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "El agua se reabsorbe por transporte activo primario."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_016",
+      "q": "En relación con GLUT, ¿cuál afirmación es correcta?",
+      "exp": "GLUT facilita la salida basolateral de glucosa hacia el intersticio.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La rama ascendente gruesa es muy permeable al agua.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "ANP aumenta retención de sodio y agua.",
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "GLUT facilita la salida basolateral de glucosa hacia el intersticio."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_017",
+      "q": "En relación con NHE, ¿cuál afirmación es correcta?",
+      "exp": "El intercambiador Na-H reabsorbe sodio y secreta H+ en el túbulo proximal.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "ANP aumenta retención de sodio y agua.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "El intercambiador Na-H reabsorbe sodio y secreta H+ en el túbulo proximal.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_018",
+      "q": "En relación con pinocitosis, ¿cuál afirmación es correcta?",
+      "exp": "La pinocitosis tubular proximal reabsorbe pequeñas proteínas filtradas.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "ANP aumenta retención de sodio y agua.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "La pinocitosis tubular proximal reabsorbe pequeñas proteínas filtradas.",
+        "SGLT transporta glucosa usando ATP directo en cada ciclo.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_019",
+      "q": "En relación con transporte máximo, ¿cuál afirmación es correcta?",
+      "exp": "El transporte máximo aparece por saturación de transportadores específicos.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "El transporte máximo aparece por saturación de transportadores específicos.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "La creatinina se reabsorbe completamente como glucosa."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_020",
+      "q": "En relación con Tm glucosa, ¿cuál afirmación es correcta?",
+      "exp": "El transporte máximo de glucosa es aproximadamente 375 mg/min en el adulto.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "SGLT transporta glucosa usando ATP directo en cada ciclo.",
+        "ANP aumenta retención de sodio y agua.",
+        "El transporte máximo de glucosa es aproximadamente 375 mg/min en el adulto.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "El agua se reabsorbe por transporte activo primario."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_021",
+      "q": "En relación con umbral glucosa, ¿cuál afirmación es correcta?",
+      "exp": "El umbral de glucosa aparece antes del Tm por heterogeneidad entre nefronas.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "El umbral de glucosa aparece antes del Tm por heterogeneidad entre nefronas.",
+        "La rama ascendente gruesa es muy permeable al agua.",
+        "El transporte máximo aparece cuando no hay transportadores."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_022",
+      "q": "En relación con glucosuria, ¿cuál afirmación es correcta?",
+      "exp": "La glucosuria ocurre cuando la carga filtrada supera la capacidad de reabsorción.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "ANP aumenta retención de sodio y agua.",
+        "La glucosuria ocurre cuando la carga filtrada supera la capacidad de reabsorción.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "El agua se reabsorbe por transporte activo primario."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_023",
+      "q": "En relación con gradiente tiempo, ¿cuál afirmación es correcta?",
+      "exp": "El transporte gradiente-tiempo depende de gradiente, permeabilidad y tiempo de contacto tubular.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "El transporte gradiente-tiempo depende de gradiente, permeabilidad y tiempo de contacto tubular.",
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_024",
+      "q": "En relación con sodio proximal, ¿cuál afirmación es correcta?",
+      "exp": "La reabsorción proximal de sodio se comporta en gran parte como transporte gradiente-tiempo.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "La reabsorción proximal de sodio se comporta en gran parte como transporte gradiente-tiempo.",
+        "La pinocitosis es el mecanismo principal de reabsorción de agua.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "ANP aumenta retención de sodio y agua."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_025",
+      "q": "En relación con ósmosis, ¿cuál afirmación es correcta?",
+      "exp": "El agua se reabsorbe por ósmosis siguiendo gradientes creados por solutos.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "ANP aumenta retención de sodio y agua.",
+        "El agua se reabsorbe por ósmosis siguiendo gradientes creados por solutos.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "La rama ascendente gruesa es muy permeable al agua."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_026",
+      "q": "En relación con agua en el túbulo proximal, ¿cuál afirmación es correcta?",
+      "exp": "El túbulo proximal es muy permeable al agua y reabsorbe agua junto con solutos.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "El túbulo proximal es muy permeable al agua y reabsorbe agua junto con solutos.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "La pinocitosis es el mecanismo principal de reabsorción de agua."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_027",
+      "q": "En relación con arrastre solvente, ¿cuál afirmación es correcta?",
+      "exp": "El arrastre del disolvente lleva solutos con el agua reabsorbida.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "SGLT transporta glucosa usando ATP directo en cada ciclo.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "El arrastre del disolvente lleva solutos con el agua reabsorbida.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_028",
+      "q": "En relación con permeabilidad al agua del asa ascendente, ¿cuál afirmación es correcta?",
+      "exp": "La rama ascendente de Henle es muy poco permeable al agua.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "La rama ascendente de Henle es muy poco permeable al agua.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "La rama ascendente gruesa es muy permeable al agua.",
+        "SGLT transporta glucosa usando ATP directo en cada ciclo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_029",
+      "q": "En relación con ADH y agua, ¿cuál afirmación es correcta?",
+      "exp": "ADH aumenta la permeabilidad al agua en túbulos distales y colectores.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "ANP aumenta retención de sodio y agua.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "ADH aumenta la permeabilidad al agua en túbulos distales y colectores."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_030",
+      "q": "En relación con cloro pasivo, ¿cuál afirmación es correcta?",
+      "exp": "El cloro se reabsorbe pasivamente por gradiente eléctrico y de concentración.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "El cloro se reabsorbe pasivamente por gradiente eléctrico y de concentración.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "ANP aumenta retención de sodio y agua."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_031",
+      "q": "En relación con urea pasiva, ¿cuál afirmación es correcta?",
+      "exp": "La urea se reabsorbe pasivamente, menos que el agua por menor permeabilidad.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "La urea se reabsorbe pasivamente, menos que el agua por menor permeabilidad.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_032",
+      "q": "En relación con creatinina, ¿cuál afirmación es correcta?",
+      "exp": "La creatinina casi no se reabsorbe y se excreta en gran proporción.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La creatinina casi no se reabsorbe y se excreta en gran proporción.",
+        "SGLT transporta glucosa usando ATP directo en cada ciclo.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "El transporte máximo aparece cuando no hay transportadores."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_033",
+      "q": "En relación con proximal porcentaje, ¿cuál afirmación es correcta?",
+      "exp": "El túbulo proximal reabsorbe alrededor de 65% del sodio y agua filtrados.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "El túbulo proximal reabsorbe alrededor de 65% del sodio y agua filtrados.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_034",
+      "q": "En relación con bicarbonato proximal, ¿cuál afirmación es correcta?",
+      "exp": "La reabsorción proximal de bicarbonato depende de secreción de H+ y anhidrasa carbónica.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "SGLT transporta glucosa usando ATP directo en cada ciclo.",
+        "La pinocitosis es el mecanismo principal de reabsorción de agua.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "La reabsorción proximal de bicarbonato depende de secreción de H+ y anhidrasa carbónica.",
+        "El transporte máximo aparece cuando no hay transportadores."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_035",
+      "q": "En relación con asa gruesa, ¿cuál afirmación es correcta?",
+      "exp": "La rama ascendente gruesa reabsorbe Na+, K+ y Cl-.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "SGLT transporta glucosa usando ATP directo en cada ciclo.",
+        "La rama ascendente gruesa reabsorbe Na+, K+ y Cl-."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_036",
+      "q": "En relación con segmento diluyente, ¿cuál afirmación es correcta?",
+      "exp": "La rama ascendente gruesa y distal temprano diluyen el líquido tubular al reabsorber solutos sin agua.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "La rama ascendente gruesa y distal temprano diluyen el líquido tubular al reabsorber solutos sin agua.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "La pinocitosis es el mecanismo principal de reabsorción de agua."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_037",
+      "q": "En relación con distal temprano, ¿cuál afirmación es correcta?",
+      "exp": "El túbulo distal temprano se parece funcionalmente a la rama ascendente gruesa.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "SGLT transporta glucosa usando ATP directo en cada ciclo.",
+        "El túbulo distal temprano se parece funcionalmente a la rama ascendente gruesa.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "El transporte máximo aparece cuando no hay transportadores."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_038",
+      "q": "En relación con aldosterona, ¿cuál afirmación es correcta?",
+      "exp": "Aldosterona aumenta reabsorción de sodio y secreción de potasio en células principales.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "ANP aumenta retención de sodio y agua.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "Aldosterona aumenta reabsorción de sodio y secreción de potasio en células principales.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_039",
+      "q": "En relación con ENaC, ¿cuál afirmación es correcta?",
+      "exp": "Aldosterona aumenta canales ENaC y Na-K-ATPasa en segmentos distales.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La pinocitosis es el mecanismo principal de reabsorción de agua.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "Aldosterona aumenta canales ENaC y Na-K-ATPasa en segmentos distales."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_040",
+      "q": "En relación con ADH en el conducto colector, ¿cuál afirmación es correcta?",
+      "exp": "ADH permite reabsorber agua en colectores cuando existe gradiente medular.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "ADH permite reabsorber agua en colectores cuando existe gradiente medular.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "La pinocitosis es el mecanismo principal de reabsorción de agua.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_041",
+      "q": "En relación con angiotensina ii, ¿cuál afirmación es correcta?",
+      "exp": "Angiotensina II aumenta reabsorción de sodio, especialmente proximal y por aldosterona.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "La rama ascendente gruesa es muy permeable al agua.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "Angiotensina II aumenta reabsorción de sodio, especialmente proximal y por aldosterona."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_042",
+      "q": "En relación con ANP, ¿cuál afirmación es correcta?",
+      "exp": "El péptido natriurético auricular aumenta excreción de sodio y agua.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "El péptido natriurético auricular aumenta excreción de sodio y agua.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "La creatinina se reabsorbe completamente como glucosa."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_043",
+      "q": "En relación con PTH, ¿cuál afirmación es correcta?",
+      "exp": "PTH aumenta reabsorción de calcio y disminuye reabsorción de fosfato.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "ANP aumenta retención de sodio y agua.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "PTH aumenta reabsorción de calcio y disminuye reabsorción de fosfato."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_044",
+      "q": "En relación con fuerzas peritubulares, ¿cuál afirmación es correcta?",
+      "exp": "Alta presión oncótica y baja presión hidrostática peritubular favorecen reabsorción.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "Alta presión oncótica y baja presión hidrostática peritubular favorecen reabsorción.",
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "ANP aumenta retención de sodio y agua.",
+        "La creatinina se reabsorbe completamente como glucosa.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_045",
+      "q": "En relación con balance glomerulotubular, ¿cuál afirmación es correcta?",
+      "exp": "El balance glomerulotubular ajusta reabsorción proximal a cambios de carga filtrada.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "El balance glomerulotubular ajusta reabsorción proximal a cambios de carga filtrada.",
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "SGLT transporta glucosa usando ATP directo en cada ciclo.",
+        "PTH aumenta reabsorción de fosfato en túbulo proximal.",
+        "La creatinina se reabsorbe completamente como glucosa."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_046",
+      "q": "En relación con natriuresis presión, ¿cuál afirmación es correcta?",
+      "exp": "El aumento de presión arterial favorece natriuresis y diuresis por presión.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La pinocitosis es el mecanismo principal de reabsorción de agua.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio.",
+        "El aumento de presión arterial favorece natriuresis y diuresis por presión.",
+        "La rama ascendente gruesa es muy permeable al agua."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_047",
+      "q": "En relación con diurético asa, ¿cuál afirmación es correcta?",
+      "exp": "Bloquear el asa ascendente gruesa aumenta excreción de NaCl y reduce concentración urinaria.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "Bloquear el asa ascendente gruesa aumenta excreción de NaCl y reduce concentración urinaria.",
+        "La pinocitosis es el mecanismo principal de reabsorción de agua.",
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "ANP aumenta retención de sodio y agua."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_048",
+      "q": "En relación con inhibidor SGLT2, ¿cuál afirmación es correcta?",
+      "exp": "Inhibir SGLT2 aumenta glucosuria al reducir reabsorción proximal temprana.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "SGLT transporta glucosa usando ATP directo en cada ciclo.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "El transporte máximo aparece cuando no hay transportadores.",
+        "Inhibir SGLT2 aumenta glucosuria al reducir reabsorción proximal temprana."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_049",
+      "q": "En relación con flujo tubular, ¿cuál afirmación es correcta?",
+      "exp": "Un flujo tubular alto reduce el tiempo de contacto y puede disminuir reabsorción gradiente-tiempo.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "Un flujo tubular alto reduce el tiempo de contacto y puede disminuir reabsorción gradiente-tiempo.",
+        "El agua se reabsorbe por transporte activo primario.",
+        "La reabsorción tubular carece de selectividad y es idéntica a la filtración.",
+        "La Na-K-ATPasa se ubica solo en la membrana luminal de podocitos.",
+        "Aldosterona bloquea ENaC y reduce reabsorción de sodio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_050",
+      "q": "En relación con urea colector medular, ¿cuál afirmación es correcta?",
+      "exp": "En el conducto colector medular interno, la reabsorción pasiva de urea se facilita por transportadores específicos.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular",
+      "options": [
+        "El agua se reabsorbe por transporte activo primario.",
+        "En el conducto colector medular interno, la reabsorción pasiva de urea se facilita por transportadores específicos.",
+        "La glucosuria ocurre cuando la carga filtrada es menor que la capacidad de transporte.",
+        "La rama ascendente gruesa es muy permeable al agua.",
+        "El transporte máximo aparece cuando no hay transportadores. Capítulo 29 - Concentración/dilución urinaria y ADH-sed"
+      ],
+      "answer": 1
+    }
+  ],
+  "version": "4.16.0"
+}

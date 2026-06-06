@@ -1,6 +1,6 @@
 {
-  "version": "4.15.0",
-  "description": "V4.15: limpia la redacción de preguntas de la Unidad V renal y verifica consistencia de los bloques 25 a 31.",
+  "version": "4.16.0",
+  "description": "V4.16: fuerza la recarga de la Unidad V renal con rutas JSON nuevas y preguntas sin la frase repetida del capítulo.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -130,36 +130,36 @@
       "label": "Fisiología - Unidad V",
       "subtitle": "Unidad V: Los líquidos corporales y los riñones. Capítulos 25 a 31 con 50 preguntas por capítulo.",
       "unit": "Unidad V: Los líquidos corporales y los riñones",
-      "pdf": "cuestionario_fisiologia_renal_capitulos_25_31.pdf",
-      "pdfLabel": "Descargar PDF Unidad V - Renal",
+      "pdf": "pdf_fisiologia_renal_unidad_v_350_preguntas_2_columnas_emmanuel.pdf",
+      "pdfLabel": "Descargar PDF Unidad V - Renal limpio",
       "sections": [
         {
           "key": "fisio_renal_cap25",
-          "file": "data/fisio/unidad_v/cap25.json"
+          "file": "data/fisio/unidad_v_limpia_v416/cap25.json"
         },
         {
           "key": "fisio_renal_cap26",
-          "file": "data/fisio/unidad_v/cap26.json"
+          "file": "data/fisio/unidad_v_limpia_v416/cap26.json"
         },
         {
           "key": "fisio_renal_cap27",
-          "file": "data/fisio/unidad_v/cap27.json"
+          "file": "data/fisio/unidad_v_limpia_v416/cap27.json"
         },
         {
           "key": "fisio_renal_cap28",
-          "file": "data/fisio/unidad_v/cap28.json"
+          "file": "data/fisio/unidad_v_limpia_v416/cap28.json"
         },
         {
           "key": "fisio_renal_cap29",
-          "file": "data/fisio/unidad_v/cap29.json"
+          "file": "data/fisio/unidad_v_limpia_v416/cap29.json"
         },
         {
           "key": "fisio_renal_cap30",
-          "file": "data/fisio/unidad_v/cap30.json"
+          "file": "data/fisio/unidad_v_limpia_v416/cap30.json"
         },
         {
           "key": "fisio_renal_cap31",
-          "file": "data/fisio/unidad_v/cap31.json"
+          "file": "data/fisio/unidad_v_limpia_v416/cap31.json"
         }
       ]
     }

@@ -1,0 +1,708 @@
+{
+  "key": "fisio_renal_cap29",
+  "title": "Capítulo 29",
+  "subtitle": "Concentración/dilución urinaria y ADH-sed",
+  "questions": [
+    {
+      "id": "fisio_renal_cap29_001",
+      "q": "En relación con exceso agua, ¿cuál afirmación es correcta?",
+      "exp": "El exceso de agua reduce ADH y permite excretar gran volumen de orina diluida.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "El exceso de agua reduce ADH y permite excretar gran volumen de orina diluida.",
+        "La urea no participa en la osmolaridad medular interna.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_002",
+      "q": "En relación con orina mínima osm, ¿cuál afirmación es correcta?",
+      "exp": "La orina humana puede diluirse hasta cerca de 50 mOsm/l.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "La orina humana puede diluirse hasta cerca de 50 mOsm/l.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_003",
+      "q": "En relación con déficit agua, ¿cuál afirmación es correcta?",
+      "exp": "El déficit de agua aumenta ADH y favorece pequeño volumen de orina concentrada.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "UT-A1 reabsorbe glucosa en el túbulo proximal.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "El déficit de agua aumenta ADH y favorece pequeño volumen de orina concentrada.",
+        "El alcohol estimula ADH y reduce diuresis."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap29_004",
+      "q": "En relación con orina máxima osm, ¿cuál afirmación es correcta?",
+      "exp": "La orina humana puede concentrarse hasta cerca de 1.200-1.400 mOsm/l.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "La orina humana puede concentrarse hasta cerca de 1.200-1.400 mOsm/l.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "La urea no participa en la osmolaridad medular interna.",
+        "La sed se inhibe por angiotensina II."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_005",
+      "q": "En relación con ADH, ¿cuál afirmación es correcta?",
+      "exp": "ADH aumenta permeabilidad al agua en distal tardío y conductos colectores.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La urea no participa en la osmolaridad medular interna.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "ADH aumenta permeabilidad al agua en distal tardío y conductos colectores.",
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap29_006",
+      "q": "En relación con baja ADH, ¿cuál afirmación es correcta?",
+      "exp": "Con baja ADH, los segmentos distales reabsorben solutos pero poca agua.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Con baja ADH, los segmentos distales reabsorben solutos pero poca agua.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La sed se inhibe por angiotensina II.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_007",
+      "q": "En relación con diuresis acuosa, ¿cuál afirmación es correcta?",
+      "exp": "Tras beber agua, aumenta el flujo urinario y baja la osmolaridad urinaria sin gran cambio de solutos.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "Tras beber agua, aumenta el flujo urinario y baja la osmolaridad urinaria sin gran cambio de solutos."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_008",
+      "q": "En relación con proximal isoosmótico, ¿cuál afirmación es correcta?",
+      "exp": "El túbulo proximal mantiene líquido casi isoosmótico por reabsorción proporcional de agua y solutos.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La urea no participa en la osmolaridad medular interna.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "El túbulo proximal mantiene líquido casi isoosmótico por reabsorción proporcional de agua y solutos.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_009",
+      "q": "En relación con rama descendente, ¿cuál afirmación es correcta?",
+      "exp": "La rama descendente concentra el líquido por salida de agua hacia médula hiperosmótica.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La rama descendente concentra el líquido por salida de agua hacia médula hiperosmótica.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "La sed se inhibe por angiotensina II."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_010",
+      "q": "En relación con rama ascendente, ¿cuál afirmación es correcta?",
+      "exp": "La rama ascendente gruesa diluye el líquido al reabsorber solutos sin agua.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "La rama ascendente gruesa diluye el líquido al reabsorber solutos sin agua.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "El alcohol estimula ADH y reduce diuresis.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_011",
+      "q": "En relación con distal temprano, ¿cuál afirmación es correcta?",
+      "exp": "El líquido que entra al distal temprano suele ser hipoosmótico.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "El líquido que entra al distal temprano suele ser hipoosmótico.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_012",
+      "q": "En relación con orina concentrada requisito, ¿cuál afirmación es correcta?",
+      "exp": "La orina concentrada requiere ADH elevada e intersticio medular hiperosmótico.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "La orina concentrada requiere ADH elevada e intersticio medular hiperosmótico.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_013",
+      "q": "En relación con contracorriente anatomia, ¿cuál afirmación es correcta?",
+      "exp": "El mecanismo de contracorriente depende de asas de Henle largas y vasos rectos.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "El alcohol estimula ADH y reduce diuresis.",
+        "El mecanismo de contracorriente depende de asas de Henle largas y vasos rectos.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_014",
+      "q": "En relación con nefronas yuxtamedulares, ¿cuál afirmación es correcta?",
+      "exp": "Las nefronas yuxtamedulares son clave por sus asas largas profundas.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La sed se inhibe por angiotensina II.",
+        "Las nefronas yuxtamedulares son clave por sus asas largas profundas.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "El alcohol estimula ADH y reduce diuresis.",
+        "La urea no participa en la osmolaridad medular interna."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_015",
+      "q": "En relación con gradiente 200, ¿cuál afirmación es correcta?",
+      "exp": "La rama ascendente gruesa establece un gradiente transversal cercano a 200 mOsm/l.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La sed se inhibe por angiotensina II.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "La rama ascendente gruesa establece un gradiente transversal cercano a 200 mOsm/l.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_016",
+      "q": "En relación con multiplicador, ¿cuál afirmación es correcta?",
+      "exp": "La repetición de flujo y bombeo multiplica el gradiente corticopapilar.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "La repetición de flujo y bombeo multiplica el gradiente corticopapilar.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap29_017",
+      "q": "En relación con osmolaridad medular, ¿cuál afirmación es correcta?",
+      "exp": "La médula interna puede alcanzar 1.200-1.400 mOsm/l en la papila.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "La médula interna puede alcanzar 1.200-1.400 mOsm/l en la papila.",
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "Los vasos rectos crean el gradiente medular por transporte activo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_018",
+      "q": "En relación con nacl medular, ¿cuál afirmación es correcta?",
+      "exp": "El transporte de NaCl desde la rama ascendente aporta solutos a la médula.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El alcohol estimula ADH y reduce diuresis.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "El transporte de NaCl desde la rama ascendente aporta solutos a la médula."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_019",
+      "q": "En relación con colectores medulares, ¿cuál afirmación es correcta?",
+      "exp": "En ADH alta, los colectores medulares se vuelven permeables al agua.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "El alcohol estimula ADH y reduce diuresis.",
+        "La sed se inhibe por angiotensina II.",
+        "En ADH alta, los colectores medulares se vuelven permeables al agua.",
+        "La diabetes insípida central se debe a exceso persistente de ADH."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap29_020",
+      "q": "En relación con urea aporte, ¿cuál afirmación es correcta?",
+      "exp": "La urea aporta cerca de 40-50% de la osmolaridad medular máxima.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "La urea aporta cerca de 40-50% de la osmolaridad medular máxima.",
+        "La urea no participa en la osmolaridad medular interna."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap29_021",
+      "q": "En relación con ADH urea, ¿cuál afirmación es correcta?",
+      "exp": "ADH aumenta permeabilidad a urea en conductos colectores medulares internos.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "ADH aumenta permeabilidad a urea en conductos colectores medulares internos.",
+        "La urea no participa en la osmolaridad medular interna.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "El alcohol estimula ADH y reduce diuresis."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_022",
+      "q": "En relación con UT A1 A3, ¿cuál afirmación es correcta?",
+      "exp": "UT-A1 y UT-A3 facilitan salida de urea desde el colector medular interno.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La sed se inhibe por angiotensina II.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "UT-A1 y UT-A3 facilitan salida de urea desde el colector medular interno.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_023",
+      "q": "En relación con UT A2, ¿cuál afirmación es correcta?",
+      "exp": "UT-A2 facilita recirculación de urea hacia asas finas de Henle.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "UT-A2 facilita recirculación de urea hacia asas finas de Henle.",
+        "La urea no participa en la osmolaridad medular interna.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal.",
+        "La diabetes insípida central se debe a exceso persistente de ADH."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_024",
+      "q": "En relación con proteínas dieta, ¿cuál afirmación es correcta?",
+      "exp": "Una dieta hiperproteica aumenta urea y mejora capacidad de concentrar orina.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "Una dieta hiperproteica aumenta urea y mejora capacidad de concentrar orina.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_025",
+      "q": "En relación con malnutrición, ¿cuál afirmación es correcta?",
+      "exp": "Baja producción de urea deteriora la capacidad de concentración urinaria.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal.",
+        "Baja producción de urea deteriora la capacidad de concentración urinaria.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "El aclaramiento de agua libre positivo indica conservación de agua."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_026",
+      "q": "En relación con vasos rectos, ¿cuál afirmación es correcta?",
+      "exp": "Los vasos rectos conservan la hiperosmolaridad medular por intercambio contracorriente.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "Los vasos rectos conservan la hiperosmolaridad medular por intercambio contracorriente.",
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "La sed se inhibe por angiotensina II."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_027",
+      "q": "En relación con vasos rectos no crean, ¿cuál afirmación es correcta?",
+      "exp": "Los vasos rectos no crean el gradiente medular, pero evitan su lavado.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "El alcohol estimula ADH y reduce diuresis.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "Los vasos rectos no crean el gradiente medular, pero evitan su lavado.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap29_028",
+      "q": "En relación con flujo medular alto, ¿cuál afirmación es correcta?",
+      "exp": "El aumento de flujo sanguíneo medular lava solutos y reduce concentración urinaria máxima.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La sed se inhibe por angiotensina II.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "La urea no participa en la osmolaridad medular interna.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal.",
+        "El aumento de flujo sanguíneo medular lava solutos y reduce concentración urinaria máxima."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_029",
+      "q": "En relación con densidad específica, ¿cuál afirmación es correcta?",
+      "exp": "La densidad específica mide peso de solutos por volumen de orina.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "La densidad específica mide peso de solutos por volumen de orina.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_030",
+      "q": "En relación con osmolaridad vs densidad, ¿cuál afirmación es correcta?",
+      "exp": "La osmolaridad depende del número de partículas, no del peso molecular.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La osmolaridad depende del número de partículas, no del peso molecular.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "La sed se inhibe por angiotensina II.",
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_031",
+      "q": "En relación con glucosa densidad, ¿cuál afirmación es correcta?",
+      "exp": "Glucosa o radiocontraste pueden elevar densidad específica sin aumento proporcional de osmolalidad.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "El alcohol estimula ADH y reduce diuresis.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La urea no participa en la osmolaridad medular interna.",
+        "Glucosa o radiocontraste pueden elevar densidad específica sin aumento proporcional de osmolalidad."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_032",
+      "q": "En relación con volumen obligatorio, ¿cuál afirmación es correcta?",
+      "exp": "El volumen obligatorio depende de solutos a excretar y concentración máxima urinaria.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La sed se inhibe por angiotensina II.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "El volumen obligatorio depende de solutos a excretar y concentración máxima urinaria."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_033",
+      "q": "En relación con agua de mar, ¿cuál afirmación es correcta?",
+      "exp": "Beber agua de mar deshidrata porque excretar NaCl y otros solutos exige más agua urinaria.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "La sed se inhibe por angiotensina II.",
+        "Beber agua de mar deshidrata porque excretar NaCl y otros solutos exige más agua urinaria."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_034",
+      "q": "En relación con Cosm, ¿cuál afirmación es correcta?",
+      "exp": "El aclaramiento osmolar expresa el volumen de plasma depurado de solutos por minuto.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La urea no participa en la osmolaridad medular interna.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "El aclaramiento osmolar expresa el volumen de plasma depurado de solutos por minuto.",
+        "La sed se inhibe por angiotensina II.",
+        "La diabetes insípida central se debe a exceso persistente de ADH."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_035",
+      "q": "En relación con CH2O positivo, ¿cuál afirmación es correcta?",
+      "exp": "El aclaramiento de agua libre positivo indica excreción de agua libre de solutos.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "La sed se inhibe por angiotensina II.",
+        "El aclaramiento de agua libre positivo indica excreción de agua libre de solutos.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap29_036",
+      "q": "En relación con CH2O negativo, ¿cuál afirmación es correcta?",
+      "exp": "El aclaramiento de agua libre negativo indica conservación de agua y orina concentrada.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La sed se inhibe por angiotensina II.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "El alcohol estimula ADH y reduce diuresis.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "El aclaramiento de agua libre negativo indica conservación de agua y orina concentrada."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_037",
+      "q": "En relación con di central, ¿cuál afirmación es correcta?",
+      "exp": "La diabetes insípida central se debe a falta de producción o liberación de ADH.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La diabetes insípida central se debe a falta de producción o liberación de ADH.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "La sed se inhibe por angiotensina II."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_038",
+      "q": "En relación con di central clínica, ¿cuál afirmación es correcta?",
+      "exp": "La diabetes insípida central causa gran volumen de orina diluida.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "La urea no participa en la osmolaridad medular interna.",
+        "La diabetes insípida central causa gran volumen de orina diluida.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_039",
+      "q": "En relación con desmopresina, ¿cuál afirmación es correcta?",
+      "exp": "La desmopresina corrige la poliuria en diabetes insípida central si el riñón responde.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal.",
+        "El aclaramiento de agua libre positivo indica conservación de agua.",
+        "El alcohol estimula ADH y reduce diuresis.",
+        "La desmopresina corrige la poliuria en diabetes insípida central si el riñón responde."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_040",
+      "q": "En relación con di nefrógena, ¿cuál afirmación es correcta?",
+      "exp": "La diabetes insípida nefrógena ocurre con ADH normal o alta pero mala respuesta renal.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "El alcohol estimula ADH y reduce diuresis.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "La diabetes insípida nefrógena ocurre con ADH normal o alta pero mala respuesta renal.",
+        "UT-A1 reabsorbe glucosa en el túbulo proximal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap29_041",
+      "q": "En relación con litio, ¿cuál afirmación es correcta?",
+      "exp": "El litio puede causar diabetes insípida nefrógena al reducir la respuesta a ADH.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "El litio puede causar diabetes insípida nefrógena al reducir la respuesta a ADH.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_042",
+      "q": "En relación con sodio plasma, ¿cuál afirmación es correcta?",
+      "exp": "El sodio plasmático normal se mantiene cerca de 140-145 mEq/l.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El sodio plasmático normal se mantiene cerca de 140-145 mEq/l.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "El alcohol estimula ADH y reduce diuresis."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_043",
+      "q": "En relación con osmolaridad sodio, ¿cuál afirmación es correcta?",
+      "exp": "El sodio y sus aniones son los principales determinantes de osmolaridad extracelular efectiva.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "UT-A1 reabsorbe glucosa en el túbulo proximal.",
+        "El alcohol estimula ADH y reduce diuresis.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "El sodio y sus aniones son los principales determinantes de osmolaridad extracelular efectiva."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_044",
+      "q": "En relación con osmorreceptores, ¿cuál afirmación es correcta?",
+      "exp": "La hiperosmolaridad retrae osmorreceptores hipotalámicos y estimula ADH.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "La hiperosmolaridad retrae osmorreceptores hipotalámicos y estimula ADH.",
+        "La diabetes insípida central se debe a exceso persistente de ADH."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap29_045",
+      "q": "En relación con ADH síntesis, ¿cuál afirmación es correcta?",
+      "exp": "ADH se sintetiza en núcleos supraópticos y paraventriculares del hipotálamo.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "La urea no participa en la osmolaridad medular interna.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "ADH se sintetiza en núcleos supraópticos y paraventriculares del hipotálamo."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_046",
+      "q": "En relación con neurohipófisis, ¿cuál afirmación es correcta?",
+      "exp": "ADH se transporta por axones y se libera en la neurohipófisis.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "La rama descendente gruesa bombea NaCl y es impermeable al agua.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "La urea no participa en la osmolaridad medular interna.",
+        "ADH se transporta por axones y se libera en la neurohipófisis."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_047",
+      "q": "En relación con AV3V, ¿cuál afirmación es correcta?",
+      "exp": "La región AV3V participa en ADH, sed, apetito por sal y presión arterial.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El alcohol estimula ADH y reduce diuresis.",
+        "Los vasos rectos crean el gradiente medular por transporte activo.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "La región AV3V participa en ADH, sed, apetito por sal y presión arterial."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap29_048",
+      "q": "En relación con barorreceptores, ¿cuál afirmación es correcta?",
+      "exp": "Hipovolemia o hipotensión estimulan ADH por reflejos cardiovasculares.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "Hipovolemia o hipotensión estimulan ADH por reflejos cardiovasculares.",
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La ADH baja concentra la orina al abrir acuaporinas colectoras.",
+        "El alcohol estimula ADH y reduce diuresis."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_049",
+      "q": "En relación con náuseas, ¿cuál afirmación es correcta?",
+      "exp": "Las náuseas son un estímulo potente para liberación de ADH.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "La urea no participa en la osmolaridad medular interna.",
+        "Las náuseas son un estímulo potente para liberación de ADH.",
+        "Aldosterona es el principal regulador de la concentración plasmática de sodio.",
+        "La diabetes insípida central se debe a exceso persistente de ADH."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_050",
+      "q": "En relación con alcohol, ¿cuál afirmación es correcta?",
+      "exp": "El alcohol inhibe ADH y favorece diuresis acuosa.",
+      "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
+      "options": [
+        "El flujo medular alto aumenta siempre la capacidad de concentrar orina.",
+        "La diabetes insípida central se debe a exceso persistente de ADH.",
+        "Beber agua de mar hidrata porque el riñón excreta sal sin agua.",
+        "La sed se inhibe por angiotensina II.",
+        "El alcohol inhibe ADH y favorece diuresis acuosa. Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen"
+      ],
+      "answer": 4
+    }
+  ],
+  "version": "4.16.0"
+}
