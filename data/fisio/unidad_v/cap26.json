@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "fisio_renal_cap26_001",
-      "q": "Sobre funcion renal general, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con función renal general, ¿cuál afirmación es correcta?",
       "exp": "Los riñones mantienen el medio interno al regular agua, electrolitos, desechos, presión y equilibrio acidobásico.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -19,7 +19,7 @@
     },
     {
       "id": "fisio_renal_cap26_002",
-      "q": "Sobre formacion de orina, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con formación de orina, ¿cuál afirmación es correcta?",
       "exp": "La orina se forma filtrando plasma y modificando el filtrado por reabsorción y secreción.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -33,7 +33,7 @@
     },
     {
       "id": "fisio_renal_cap26_003",
-      "q": "Sobre urea, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con urea, ¿cuál afirmación es correcta?",
       "exp": "La urea es producto del metabolismo de aminoácidos y debe excretarse por los riñones.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -47,7 +47,7 @@
     },
     {
       "id": "fisio_renal_cap26_004",
-      "q": "Sobre creatinina, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con creatinina, ¿cuál afirmación es correcta?",
       "exp": "La creatinina procede del metabolismo de la creatina muscular.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -61,7 +61,7 @@
     },
     {
       "id": "fisio_renal_cap26_005",
-      "q": "Sobre acido urico, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con ácido úrico, ¿cuál afirmación es correcta?",
       "exp": "El ácido úrico deriva del metabolismo de los ácidos nucleicos.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -75,7 +75,7 @@
     },
     {
       "id": "fisio_renal_cap26_006",
-      "q": "Sobre bilirrubina, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con bilirrubina, ¿cuál afirmación es correcta?",
       "exp": "La bilirrubina es un producto final relacionado con el metabolismo de la hemoglobina.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -89,7 +89,7 @@
     },
     {
       "id": "fisio_renal_cap26_007",
-      "q": "Sobre balance de electrolitos, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con balance de electrolitos, ¿cuál afirmación es correcta?",
       "exp": "La excreción renal debe ajustarse a la ingesta para mantener el balance de agua y electrolitos.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -103,7 +103,7 @@
     },
     {
       "id": "fisio_renal_cap26_008",
-      "q": "Sobre ingesta de sodio, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con ingesta de sodio, ¿cuál afirmación es correcta?",
       "exp": "Ante aumento de ingesta de sodio, los riñones aumentan su excreción en pocos días.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -117,7 +117,7 @@
     },
     {
       "id": "fisio_renal_cap26_009",
-      "q": "Sobre retencion inicial, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con retención inicial, ¿cuál afirmación es correcta?",
       "exp": "Durante la adaptación a alta ingesta de sodio puede haber retención modesta y leve expansión del LEC.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -131,7 +131,7 @@
     },
     {
       "id": "fisio_renal_cap26_010",
-      "q": "Sobre presion arterial, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con presión arterial, ¿cuál afirmación es correcta?",
       "exp": "Los riñones dominan el control a largo plazo de la presión arterial por excreción de sodio y agua.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -145,7 +145,7 @@
     },
     {
       "id": "fisio_renal_cap26_011",
-      "q": "Sobre renina, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con renina, ¿cuál afirmación es correcta?",
       "exp": "La renina contribuye al control vascular y de presión al favorecer angiotensina II.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -159,7 +159,7 @@
     },
     {
       "id": "fisio_renal_cap26_012",
-      "q": "Sobre equilibrio acido base, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con equilibrio ácido base, ¿cuál afirmación es correcta?",
       "exp": "Los riñones regulan el equilibrio acidobásico al excretar ácidos y regular bicarbonato.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -173,7 +173,7 @@
     },
     {
       "id": "fisio_renal_cap26_013",
-      "q": "Sobre eritropoyetina, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con eritropoyetina, ¿cuál afirmación es correcta?",
       "exp": "La hipoxia renal estimula eritropoyetina, que promueve producción de eritrocitos.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -187,7 +187,7 @@
     },
     {
       "id": "fisio_renal_cap26_014",
-      "q": "Sobre nefropatia anemia, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con nefropatia anemia, ¿cuál afirmación es correcta?",
       "exp": "La nefropatía grave puede causar anemia por menor producción de eritropoyetina.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -201,7 +201,7 @@
     },
     {
       "id": "fisio_renal_cap26_015",
-      "q": "Sobre calcitriol, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con calcitriol, ¿cuál afirmación es correcta?",
       "exp": "El riñón activa vitamina D a calcitriol, importante para calcio y hueso.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -215,7 +215,7 @@
     },
     {
       "id": "fisio_renal_cap26_016",
-      "q": "Sobre gluconeogenesis, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con gluconeogenesis, ¿cuál afirmación es correcta?",
       "exp": "En ayuno prolongado, el riñón puede sintetizar glucosa por gluconeogénesis.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "fisio_renal_cap26_017",
-      "q": "Sobre insuficiencia renal, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con insuficiencia renal, ¿cuál afirmación es correcta?",
       "exp": "La insuficiencia renal completa acumula potasio, ácidos, líquido y desechos en pocos días.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -243,7 +243,7 @@
     },
     {
       "id": "fisio_renal_cap26_018",
-      "q": "Sobre hemodialisis, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con hemodiálisis, ¿cuál afirmación es correcta?",
       "exp": "La hemodiálisis puede restablecer parcialmente el equilibrio de líquidos y electrolitos.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -257,7 +257,7 @@
     },
     {
       "id": "fisio_renal_cap26_019",
-      "q": "Sobre posicion renal, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con posición renal, ¿cuál afirmación es correcta?",
       "exp": "Los riñones están en la pared posterior abdominal, fuera de la cavidad peritoneal.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -271,7 +271,7 @@
     },
     {
       "id": "fisio_renal_cap26_020",
-      "q": "Sobre hilio, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con hilio, ¿cuál afirmación es correcta?",
       "exp": "El hilio renal transmite arteria, vena, linfáticos, nervios y uréter.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -285,7 +285,7 @@
     },
     {
       "id": "fisio_renal_cap26_021",
-      "q": "Sobre capsula renal, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con cápsula renal, ¿cuál afirmación es correcta?",
       "exp": "La cápsula fibrosa renal protege estructuras internas delicadas.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -299,7 +299,7 @@
     },
     {
       "id": "fisio_renal_cap26_022",
-      "q": "Sobre corteza medula, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con corteza y médula, ¿cuál afirmación es correcta?",
       "exp": "El riñón se divide en corteza externa y médula interna.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -313,7 +313,7 @@
     },
     {
       "id": "fisio_renal_cap26_023",
-      "q": "Sobre piramides, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con pirámides, ¿cuál afirmación es correcta?",
       "exp": "La médula forma pirámides renales que terminan en papilas.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -327,7 +327,7 @@
     },
     {
       "id": "fisio_renal_cap26_024",
-      "q": "Sobre papilas, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con papilas, ¿cuál afirmación es correcta?",
       "exp": "Las papilas proyectan la orina hacia cálices y pelvis renal.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -341,7 +341,7 @@
     },
     {
       "id": "fisio_renal_cap26_025",
-      "q": "Sobre calices, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con cálices, ¿cuál afirmación es correcta?",
       "exp": "Los cálices menores reciben orina de las papilas y drenan hacia cálices mayores.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -355,7 +355,7 @@
     },
     {
       "id": "fisio_renal_cap26_026",
-      "q": "Sobre pelvis renal, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con pelvis renal, ¿cuál afirmación es correcta?",
       "exp": "La pelvis renal continúa con el uréter y conduce la orina hacia la vejiga.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -369,7 +369,7 @@
     },
     {
       "id": "fisio_renal_cap26_027",
-      "q": "Sobre ureter, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con uréter, ¿cuál afirmación es correcta?",
       "exp": "El uréter transporta orina desde pelvis renal hasta vejiga por contracciones peristálticas.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -383,7 +383,7 @@
     },
     {
       "id": "fisio_renal_cap26_028",
-      "q": "Sobre vejiga, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con vejiga, ¿cuál afirmación es correcta?",
       "exp": "La vejiga almacena orina hasta que ocurre la micción.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -397,7 +397,7 @@
     },
     {
       "id": "fisio_renal_cap26_029",
-      "q": "Sobre flujo renal, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con flujo renal, ¿cuál afirmación es correcta?",
       "exp": "El flujo sanguíneo renal total es cerca de 22% del gasto cardíaco.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -411,7 +411,7 @@
     },
     {
       "id": "fisio_renal_cap26_030",
-      "q": "Sobre arterias renales, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con arterias renales, ¿cuál afirmación es correcta?",
       "exp": "La arteria renal se ramifica hacia arterias interlobulares, arciformes e interlobulillares.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -425,7 +425,7 @@
     },
     {
       "id": "fisio_renal_cap26_031",
-      "q": "Sobre arteriola aferente, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con arteriola aferente, ¿cuál afirmación es correcta?",
       "exp": "La arteriola aferente conduce sangre hacia los capilares glomerulares.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -439,7 +439,7 @@
     },
     {
       "id": "fisio_renal_cap26_032",
-      "q": "Sobre capilares glomerulares, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con capilares glomerulares, ¿cuál afirmación es correcta?",
       "exp": "Los capilares glomerulares filtran grandes cantidades de líquido y solutos pequeños.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -453,7 +453,7 @@
     },
     {
       "id": "fisio_renal_cap26_033",
-      "q": "Sobre arteriola eferente, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con arteriola eferente, ¿cuál afirmación es correcta?",
       "exp": "La arteriola eferente separa capilares glomerulares de capilares peritubulares.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -467,7 +467,7 @@
     },
     {
       "id": "fisio_renal_cap26_034",
-      "q": "Sobre capilares peritubulares, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con capilares peritubulares, ¿cuál afirmación es correcta?",
       "exp": "Los capilares peritubulares rodean los túbulos y favorecen reabsorción.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -481,7 +481,7 @@
     },
     {
       "id": "fisio_renal_cap26_035",
-      "q": "Sobre presion glomerular, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con presión glomerular, ¿cuál afirmación es correcta?",
       "exp": "La alta presión hidrostática glomerular favorece filtración rápida.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -495,7 +495,7 @@
     },
     {
       "id": "fisio_renal_cap26_036",
-      "q": "Sobre presion peritubular, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con presión peritubular, ¿cuál afirmación es correcta?",
       "exp": "La baja presión hidrostática peritubular favorece reabsorción hacia sangre.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -509,7 +509,7 @@
     },
     {
       "id": "fisio_renal_cap26_037",
-      "q": "Sobre resistencia arteriolar, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con resistencia arteriolar, ¿cuál afirmación es correcta?",
       "exp": "Cambios en resistencia aferente y eferente regulan filtración y reabsorción.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -523,7 +523,7 @@
     },
     {
       "id": "fisio_renal_cap26_038",
-      "q": "Sobre nefrona unidad, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con nefrona unidad, ¿cuál afirmación es correcta?",
       "exp": "La nefrona es la unidad funcional del riñón.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -537,7 +537,7 @@
     },
     {
       "id": "fisio_renal_cap26_039",
-      "q": "Sobre numero nefronas, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con número nefronas, ¿cuál afirmación es correcta?",
       "exp": "Cada riñón tiene aproximadamente 800.000 a 1.000.000 nefronas.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -551,7 +551,7 @@
     },
     {
       "id": "fisio_renal_cap26_040",
-      "q": "Sobre no regeneracion, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con no regeneración, ¿cuál afirmación es correcta?",
       "exp": "El riñón no regenera nefronas nuevas de forma significativa.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -565,7 +565,7 @@
     },
     {
       "id": "fisio_renal_cap26_041",
-      "q": "Sobre envejecimiento, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con envejecimiento, ¿cuál afirmación es correcta?",
       "exp": "Después de los 40 años se pierde gradualmente una fracción de nefronas funcionantes.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -579,7 +579,7 @@
     },
     {
       "id": "fisio_renal_cap26_042",
-      "q": "Sobre glomerulo, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con glomérulo, ¿cuál afirmación es correcta?",
       "exp": "El glomérulo es un penacho de capilares de alta presión cubierto por cápsula de Bowman.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -593,7 +593,7 @@
     },
     {
       "id": "fisio_renal_cap26_043",
-      "q": "Sobre capsula Bowman, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con cápsula bowman, ¿cuál afirmación es correcta?",
       "exp": "El filtrado glomerular entra primero en la cápsula de Bowman.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -607,7 +607,7 @@
     },
     {
       "id": "fisio_renal_cap26_044",
-      "q": "Sobre tubulo proximal, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con túbulo proximal, ¿cuál afirmación es correcta?",
       "exp": "Desde la cápsula de Bowman, el filtrado pasa al túbulo proximal.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -621,7 +621,7 @@
     },
     {
       "id": "fisio_renal_cap26_045",
-      "q": "Sobre asa de Henle, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con asa de henle, ¿cuál afirmación es correcta?",
       "exp": "El asa de Henle desciende a la médula y retorna hacia la corteza.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -635,7 +635,7 @@
     },
     {
       "id": "fisio_renal_cap26_046",
-      "q": "Sobre rama ascendente gruesa, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con rama ascendente gruesa, ¿cuál afirmación es correcta?",
       "exp": "La rama ascendente gruesa retorna a la corteza y precede al túbulo distal.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -649,7 +649,7 @@
     },
     {
       "id": "fisio_renal_cap26_047",
-      "q": "Sobre macula densa, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con mácula densa, ¿cuál afirmación es correcta?",
       "exp": "La mácula densa es una placa especializada al final de la rama ascendente gruesa.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -663,7 +663,7 @@
     },
     {
       "id": "fisio_renal_cap26_048",
-      "q": "Sobre tubulo distal, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con túbulo distal, ¿cuál afirmación es correcta?",
       "exp": "Tras la mácula densa, el líquido entra al túbulo distal cortical.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -677,7 +677,7 @@
     },
     {
       "id": "fisio_renal_cap26_049",
-      "q": "Sobre colector, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con colector, ¿cuál afirmación es correcta?",
       "exp": "Varios túbulos colectores corticales se unen y forman conductos colectores medulares.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [
@@ -691,7 +691,7 @@
     },
     {
       "id": "fisio_renal_cap26_050",
-      "q": "Sobre nefronas corticales, señale la alternativa correcta según el capítulo 26.",
+      "q": "En relación con nefronas corticales, ¿cuál afirmación es correcta?",
       "exp": "Las nefronas corticales tienen glomérulos externos y asas de Henle cortas.",
       "topic": "Capítulo 26 - Sistema urinario y anatomía funcional",
       "options": [

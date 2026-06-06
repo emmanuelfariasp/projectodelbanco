@@ -1,6 +1,6 @@
 {
-  "version": "4.14.0",
-  "description": "V4.14: reorganiza Fisiología por unidades y agrega Unidad V con 350 preguntas de fisiología renal, capítulos 25 a 31.",
+  "version": "4.15.0",
+  "description": "V4.15: limpia la redacción de preguntas de la Unidad V renal y verifica consistencia de los bloques 25 a 31.",
   "subjects": {
     "neuro": {
       "key": "neuro",

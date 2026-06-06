@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "fisio_renal_cap27_001",
-      "q": "Sobre primer paso, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con primer paso, ¿cuál afirmación es correcta?",
       "exp": "La filtración glomerular es el primer paso en la formación de orina.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -19,7 +19,7 @@
     },
     {
       "id": "fisio_renal_cap27_002",
-      "q": "Sobre filtrado diario, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con filtrado diario, ¿cuál afirmación es correcta?",
       "exp": "La filtración glomerular normal produce cerca de 180 litros de filtrado por día.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -33,7 +33,7 @@
     },
     {
       "id": "fisio_renal_cap27_003",
-      "q": "Sobre reabsorcion masiva, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con reabsorción masiva, ¿cuál afirmación es correcta?",
       "exp": "Más del 99% del filtrado normalmente se reabsorbe antes de la excreción final.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -47,7 +47,7 @@
     },
     {
       "id": "fisio_renal_cap27_004",
-      "q": "Sobre filtrado composicion, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con filtrado composición, ¿cuál afirmación es correcta?",
       "exp": "El filtrado glomerular tiene pocas proteínas y casi no contiene elementos celulares.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -61,7 +61,7 @@
     },
     {
       "id": "fisio_renal_cap27_005",
-      "q": "Sobre sales pequenas, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con sales pequeñas, ¿cuál afirmación es correcta?",
       "exp": "Sales y moléculas orgánicas pequeñas se filtran en concentraciones parecidas al plasma.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -75,7 +75,7 @@
     },
     {
       "id": "fisio_renal_cap27_006",
-      "q": "Sobre calcio acidos grasos, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con calcio acidos grasos, ¿cuál afirmación es correcta?",
       "exp": "Calcio y ácidos grasos unidos a proteínas no se filtran libremente.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -89,7 +89,7 @@
     },
     {
       "id": "fisio_renal_cap27_007",
-      "q": "Sobre FG normal, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con FG normal, ¿cuál afirmación es correcta?",
       "exp": "La FG promedio adulta es de unos 125 ml/min.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -103,7 +103,7 @@
     },
     {
       "id": "fisio_renal_cap27_008",
-      "q": "Sobre fraccion filtracion, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con fraccion filtración, ¿cuál afirmación es correcta?",
       "exp": "La fracción de filtración es FG dividida por flujo plasmático renal.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -117,7 +117,7 @@
     },
     {
       "id": "fisio_renal_cap27_009",
-      "q": "Sobre fraccion normal, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con fraccion normal, ¿cuál afirmación es correcta?",
       "exp": "La fracción de filtración normal se aproxima a 0,2 o 20%.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -131,7 +131,7 @@
     },
     {
       "id": "fisio_renal_cap27_010",
-      "q": "Sobre membrana glomerular, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con membrana glomerular, ¿cuál afirmación es correcta?",
       "exp": "La barrera glomerular tiene endotelio fenestrado, membrana basal y podocitos.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -145,7 +145,7 @@
     },
     {
       "id": "fisio_renal_cap27_011",
-      "q": "Sobre fenestraciones, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con fenestraciones, ¿cuál afirmación es correcta?",
       "exp": "Las fenestraciones endoteliales permiten alta filtración de agua y solutos pequeños.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -159,7 +159,7 @@
     },
     {
       "id": "fisio_renal_cap27_012",
-      "q": "Sobre cargas negativas, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con cargas negativas, ¿cuál afirmación es correcta?",
       "exp": "Las cargas negativas de la barrera limitan el paso de proteínas plasmáticas.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -173,7 +173,7 @@
     },
     {
       "id": "fisio_renal_cap27_013",
-      "q": "Sobre membrana basal, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con membrana basal, ¿cuál afirmación es correcta?",
       "exp": "La membrana basal contiene colágeno y proteoglucanos con carga negativa.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -187,7 +187,7 @@
     },
     {
       "id": "fisio_renal_cap27_014",
-      "q": "Sobre podocitos, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con podocitos, ¿cuál afirmación es correcta?",
       "exp": "Los podocitos forman poros en hendidura que participan en la filtración selectiva.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -201,7 +201,7 @@
     },
     {
       "id": "fisio_renal_cap27_015",
-      "q": "Sobre tamano molecular, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con tamaño molecular, ¿cuál afirmación es correcta?",
       "exp": "La filtrabilidad disminuye conforme aumenta el tamaño molecular.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -215,7 +215,7 @@
     },
     {
       "id": "fisio_renal_cap27_016",
-      "q": "Sobre carga molecular, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con carga molecular, ¿cuál afirmación es correcta?",
       "exp": "Moléculas grandes con carga negativa se filtran menos que moléculas positivas del mismo tamaño.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "fisio_renal_cap27_017",
-      "q": "Sobre albumina, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con albúmina, ¿cuál afirmación es correcta?",
       "exp": "La albúmina se filtra muy poco por su tamaño y carga negativa.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -243,7 +243,7 @@
     },
     {
       "id": "fisio_renal_cap27_018",
-      "q": "Sobre proteinuria, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con proteinuria, ¿cuál afirmación es correcta?",
       "exp": "La pérdida de cargas negativas en la barrera puede causar albuminuria.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -257,7 +257,7 @@
     },
     {
       "id": "fisio_renal_cap27_019",
-      "q": "Sobre Kf, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con Kf, ¿cuál afirmación es correcta?",
       "exp": "El coeficiente Kf combina conductividad hidráulica y área superficial capilar.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -271,7 +271,7 @@
     },
     {
       "id": "fisio_renal_cap27_020",
-      "q": "Sobre FG formula, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con fórmula de la FG, ¿cuál afirmación es correcta?",
       "exp": "La FG equivale a Kf multiplicado por la presión de filtración neta.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -285,7 +285,7 @@
     },
     {
       "id": "fisio_renal_cap27_021",
-      "q": "Sobre presion glomerular, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con presión glomerular, ¿cuál afirmación es correcta?",
       "exp": "La presión hidrostática glomerular favorece la filtración.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -299,7 +299,7 @@
     },
     {
       "id": "fisio_renal_cap27_022",
-      "q": "Sobre presion Bowman, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con presión bowman, ¿cuál afirmación es correcta?",
       "exp": "La presión hidrostática en cápsula de Bowman se opone a la filtración.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -313,7 +313,7 @@
     },
     {
       "id": "fisio_renal_cap27_023",
-      "q": "Sobre oncotica glomerular, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con presión oncótica glomerular, ¿cuál afirmación es correcta?",
       "exp": "La presión coloidosmótica glomerular se opone a la filtración.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -327,7 +327,7 @@
     },
     {
       "id": "fisio_renal_cap27_024",
-      "q": "Sobre oncotica Bowman, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con oncótica bowman, ¿cuál afirmación es correcta?",
       "exp": "La presión coloidosmótica en Bowman normalmente es casi cero.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -341,7 +341,7 @@
     },
     {
       "id": "fisio_renal_cap27_025",
-      "q": "Sobre presion neta, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con presión neta, ¿cuál afirmación es correcta?",
       "exp": "La presión neta de filtración normal se estima cerca de 10 mmHg.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -355,7 +355,7 @@
     },
     {
       "id": "fisio_renal_cap27_026",
-      "q": "Sobre Kf disminucion, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con disminución de Kf, ¿cuál afirmación es correcta?",
       "exp": "Diabetes e hipertensión crónicas pueden reducir Kf por daño y engrosamiento capilar.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -369,7 +369,7 @@
     },
     {
       "id": "fisio_renal_cap27_027",
-      "q": "Sobre obstruccion urinaria, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con obstrucción urinaria, ¿cuál afirmación es correcta?",
       "exp": "La obstrucción urinaria aumenta la presión de Bowman y reduce la FG.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -383,7 +383,7 @@
     },
     {
       "id": "fisio_renal_cap27_028",
-      "q": "Sobre oncotica aumenta, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con oncótica aumenta, ¿cuál afirmación es correcta?",
       "exp": "La presión oncótica glomerular aumenta a lo largo del capilar por filtración de agua.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -397,7 +397,7 @@
     },
     {
       "id": "fisio_renal_cap27_029",
-      "q": "Sobre flujo renal y oncótica, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con flujo renal y oncótica, ¿cuál afirmación es correcta?",
       "exp": "Menor flujo plasmático renal concentra proteínas más rápido y tiende a bajar FG.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -411,7 +411,7 @@
     },
     {
       "id": "fisio_renal_cap27_030",
-      "q": "Sobre flujo renal alto, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con flujo renal alto, ¿cuál afirmación es correcta?",
       "exp": "Mayor flujo plasmático renal retrasa el aumento oncótico y puede elevar FG.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -425,7 +425,7 @@
     },
     {
       "id": "fisio_renal_cap27_031",
-      "q": "Sobre arteriola aferente constriccion, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con arteriola aferente constriccion, ¿cuál afirmación es correcta?",
       "exp": "La constricción aferente reduce presión glomerular, flujo renal y FG.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -439,7 +439,7 @@
     },
     {
       "id": "fisio_renal_cap27_032",
-      "q": "Sobre arteriola aferente dilatacion, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con arteriola aferente dilatacion, ¿cuál afirmación es correcta?",
       "exp": "La dilatación aferente aumenta flujo renal y presión glomerular.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -453,7 +453,7 @@
     },
     {
       "id": "fisio_renal_cap27_033",
-      "q": "Sobre eferente moderada, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con eferente moderada, ¿cuál afirmación es correcta?",
       "exp": "La constricción eferente moderada eleva presión glomerular y puede mantener FG.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -467,7 +467,7 @@
     },
     {
       "id": "fisio_renal_cap27_034",
-      "q": "Sobre eferente intensa, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con eferente intensa, ¿cuál afirmación es correcta?",
       "exp": "La constricción eferente intensa reduce flujo y eleva presión oncótica, pudiendo bajar FG.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -481,7 +481,7 @@
     },
     {
       "id": "fisio_renal_cap27_035",
-      "q": "Sobre autorregulacion, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con autorregulación, ¿cuál afirmación es correcta?",
       "exp": "La autorregulación mantiene relativamente constantes FG y flujo renal ante cambios moderados de presión.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -495,7 +495,7 @@
     },
     {
       "id": "fisio_renal_cap27_036",
-      "q": "Sobre miogeno, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con miógeno, ¿cuál afirmación es correcta?",
       "exp": "El mecanismo miogénico contrae la arteriola aferente cuando se estira por presión alta.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -509,7 +509,7 @@
     },
     {
       "id": "fisio_renal_cap27_037",
-      "q": "Sobre tubuloglomerular, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con tubuloglomerular, ¿cuál afirmación es correcta?",
       "exp": "La retroalimentación tubuloglomerular usa la mácula densa para detectar entrega de NaCl.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -523,7 +523,7 @@
     },
     {
       "id": "fisio_renal_cap27_038",
-      "q": "Sobre NaCl alto macula, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con nacl alto mácula, ¿cuál afirmación es correcta?",
       "exp": "NaCl alto en mácula densa induce respuestas que reducen FG.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -537,7 +537,7 @@
     },
     {
       "id": "fisio_renal_cap27_039",
-      "q": "Sobre NaCl bajo macula, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con nacl bajo mácula, ¿cuál afirmación es correcta?",
       "exp": "NaCl bajo en mácula densa favorece renina y angiotensina II.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -551,7 +551,7 @@
     },
     {
       "id": "fisio_renal_cap27_040",
-      "q": "Sobre renina angiotensina, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con renina-angiotensina, ¿cuál afirmación es correcta?",
       "exp": "Angiotensina II constriñe preferentemente la arteriola eferente.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -565,7 +565,7 @@
     },
     {
       "id": "fisio_renal_cap27_041",
-      "q": "Sobre simpatico, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con simpático, ¿cuál afirmación es correcta?",
       "exp": "La activación simpática intensa reduce flujo renal y FG por vasoconstricción.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -579,7 +579,7 @@
     },
     {
       "id": "fisio_renal_cap27_042",
-      "q": "Sobre catecolaminas, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con catecolaminas, ¿cuál afirmación es correcta?",
       "exp": "Noradrenalina y adrenalina tienden a vasoconstricción renal.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -593,7 +593,7 @@
     },
     {
       "id": "fisio_renal_cap27_043",
-      "q": "Sobre prostaglandinas, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con prostaglandinas, ¿cuál afirmación es correcta?",
       "exp": "Prostaglandinas renales ayudan a atenuar vasoconstricción excesiva.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -607,7 +607,7 @@
     },
     {
       "id": "fisio_renal_cap27_044",
-      "q": "Sobre oxido nitrico, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con óxido nítrico, ¿cuál afirmación es correcta?",
       "exp": "El óxido nítrico renal favorece vasodilatación y flujo renal adecuado.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -621,7 +621,7 @@
     },
     {
       "id": "fisio_renal_cap27_045",
-      "q": "Sobre endotelina, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con endotelina, ¿cuál afirmación es correcta?",
       "exp": "La endotelina es vasoconstrictora y aumenta sobre todo en lesión vascular.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -635,7 +635,7 @@
     },
     {
       "id": "fisio_renal_cap27_046",
-      "q": "Sobre inulina, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con inulina, ¿cuál afirmación es correcta?",
       "exp": "La inulina mide FG porque se filtra libremente y no se reabsorbe ni secreta.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -649,7 +649,7 @@
     },
     {
       "id": "fisio_renal_cap27_047",
-      "q": "Sobre creatinina, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con creatinina, ¿cuál afirmación es correcta?",
       "exp": "La depuración de creatinina se usa clínicamente como aproximación de FG.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -663,7 +663,7 @@
     },
     {
       "id": "fisio_renal_cap27_048",
-      "q": "Sobre PAH, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con PAH, ¿cuál afirmación es correcta?",
       "exp": "El PAH estima flujo plasmático renal efectivo por filtración y secreción casi completa.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -677,7 +677,7 @@
     },
     {
       "id": "fisio_renal_cap27_049",
-      "q": "Sobre clearance, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con clearance, ¿cuál afirmación es correcta?",
       "exp": "La depuración expresa volumen de plasma limpiado de una sustancia por unidad de tiempo.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [
@@ -691,7 +691,7 @@
     },
     {
       "id": "fisio_renal_cap27_050",
-      "q": "Sobre clearance mayor FG, señale la alternativa correcta según el capítulo 27.",
+      "q": "En relación con clearance mayor FG, ¿cuál afirmación es correcta?",
       "exp": "Una depuración mayor que FG sugiere secreción tubular neta.",
       "topic": "Capítulo 27 - Filtración glomerular y flujo renal",
       "options": [

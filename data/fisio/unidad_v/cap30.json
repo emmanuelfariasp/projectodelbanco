@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "fisio_renal_cap30_001",
-      "q": "Sobre K normal, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con K+ normal, ¿cuál afirmación es correcta?",
       "exp": "La concentración extracelular de potasio se mantiene cerca de 4,2 mEq/l.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -19,7 +19,7 @@
     },
     {
       "id": "fisio_renal_cap30_002",
-      "q": "Sobre K cardiaco, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con K+ cardiaco, ¿cuál afirmación es correcta?",
       "exp": "Pequeños aumentos de potasio pueden causar arritmias y paro cardíaco.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -33,7 +33,7 @@
     },
     {
       "id": "fisio_renal_cap30_003",
-      "q": "Sobre K intracelular, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con K+ intracelular, ¿cuál afirmación es correcta?",
       "exp": "Más del 98% del potasio corporal total está dentro de las células.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -47,7 +47,7 @@
     },
     {
       "id": "fisio_renal_cap30_004",
-      "q": "Sobre K extracelular, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con K+ extracelular, ¿cuál afirmación es correcta?",
       "exp": "Solo una fracción pequeña del potasio corporal está en el líquido extracelular.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -61,7 +61,7 @@
     },
     {
       "id": "fisio_renal_cap30_005",
-      "q": "Sobre primera defensa K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con primera defensa K+, ¿cuál afirmación es correcta?",
       "exp": "La redistribución celular del potasio amortigua cambios rápidos del potasio plasmático.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -75,7 +75,7 @@
     },
     {
       "id": "fisio_renal_cap30_006",
-      "q": "Sobre insulina K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con insulina K+, ¿cuál afirmación es correcta?",
       "exp": "Insulina estimula captación de potasio por las células después de una comida.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -89,7 +89,7 @@
     },
     {
       "id": "fisio_renal_cap30_007",
-      "q": "Sobre deficit insulina, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con déficit insulina, ¿cuál afirmación es correcta?",
       "exp": "La deficiencia de insulina favorece aumento de potasio extracelular.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -103,7 +103,7 @@
     },
     {
       "id": "fisio_renal_cap30_008",
-      "q": "Sobre aldosterona K celular, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con aldosterona K+ celular, ¿cuál afirmación es correcta?",
       "exp": "Aldosterona favorece captación celular de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -117,7 +117,7 @@
     },
     {
       "id": "fisio_renal_cap30_009",
-      "q": "Sobre Addison K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con addison K+, ¿cuál afirmación es correcta?",
       "exp": "Deficiencia de aldosterona en Addison favorece hiperpotasemia.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -131,7 +131,7 @@
     },
     {
       "id": "fisio_renal_cap30_010",
-      "q": "Sobre Conn K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con conn K+, ¿cuál afirmación es correcta?",
       "exp": "Exceso de aldosterona puede producir hipopotasemia.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -145,7 +145,7 @@
     },
     {
       "id": "fisio_renal_cap30_011",
-      "q": "Sobre beta adrenergico, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con estímulo beta-adrenérgico, ¿cuál afirmación es correcta?",
       "exp": "El estímulo beta-adrenérgico aumenta captación celular de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -159,7 +159,7 @@
     },
     {
       "id": "fisio_renal_cap30_012",
-      "q": "Sobre beta bloqueo, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con bloqueo beta-adrenérgico, ¿cuál afirmación es correcta?",
       "exp": "El beta-bloqueo puede favorecer salida de potasio y tendencia a hiperpotasemia.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -173,7 +173,7 @@
     },
     {
       "id": "fisio_renal_cap30_013",
-      "q": "Sobre acidosis K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con acidosis y K+, ¿cuál afirmación es correcta?",
       "exp": "La acidosis metabólica aumenta potasio extracelular por menor captación celular.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -187,7 +187,7 @@
     },
     {
       "id": "fisio_renal_cap30_014",
-      "q": "Sobre alcalosis K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con alcalosis y K+, ¿cuál afirmación es correcta?",
       "exp": "La alcalosis metabólica reduce potasio extracelular.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -201,7 +201,7 @@
     },
     {
       "id": "fisio_renal_cap30_015",
-      "q": "Sobre lisis celular, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con lisis celular, ¿cuál afirmación es correcta?",
       "exp": "La lisis celular libera potasio intracelular al líquido extracelular.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -215,7 +215,7 @@
     },
     {
       "id": "fisio_renal_cap30_016",
-      "q": "Sobre ejercicio, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con ejercicio, ¿cuál afirmación es correcta?",
       "exp": "El ejercicio extenuante libera potasio desde músculo esquelético.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "fisio_renal_cap30_017",
-      "q": "Sobre osmolaridad K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con osmolaridad y K+, ¿cuál afirmación es correcta?",
       "exp": "La hiperosmolaridad extracelular saca agua de células y favorece salida de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -243,7 +243,7 @@
     },
     {
       "id": "fisio_renal_cap30_018",
-      "q": "Sobre excrecion renal K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con excreción renal de K+, ¿cuál afirmación es correcta?",
       "exp": "La excreción renal de potasio resulta de filtración, reabsorción y secreción.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -257,7 +257,7 @@
     },
     {
       "id": "fisio_renal_cap30_019",
-      "q": "Sobre filtracion K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con filtración de K+, ¿cuál afirmación es correcta?",
       "exp": "La carga filtrada de potasio depende de FG y potasio plasmático.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -271,7 +271,7 @@
     },
     {
       "id": "fisio_renal_cap30_020",
-      "q": "Sobre proximal K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con K+ en el túbulo proximal, ¿cuál afirmación es correcta?",
       "exp": "El túbulo proximal reabsorbe alrededor de 65% del potasio filtrado.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -285,7 +285,7 @@
     },
     {
       "id": "fisio_renal_cap30_021",
-      "q": "Sobre asa K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con K+ en el asa de Henle, ¿cuál afirmación es correcta?",
       "exp": "El asa de Henle reabsorbe cerca de 25-30% del potasio filtrado.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -299,7 +299,7 @@
     },
     {
       "id": "fisio_renal_cap30_022",
-      "q": "Sobre distal K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con K+ en segmentos distales, ¿cuál afirmación es correcta?",
       "exp": "La regulación diaria del potasio ocurre sobre todo en distal tardío y colector cortical.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -313,7 +313,7 @@
     },
     {
       "id": "fisio_renal_cap30_023",
-      "q": "Sobre principal celula, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con principal celula, ¿cuál afirmación es correcta?",
       "exp": "Las células principales son el sitio clave de secreción de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -327,7 +327,7 @@
     },
     {
       "id": "fisio_renal_cap30_024",
-      "q": "Sobre secrecion K pasos, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con pasos de la secreción de K+, ¿cuál afirmación es correcta?",
       "exp": "La secreción de K+ inicia con captación basolateral por Na-K-ATPasa y salida luminal por canales.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -341,7 +341,7 @@
     },
     {
       "id": "fisio_renal_cap30_025",
-      "q": "Sobre ROMK BK, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con ROMK BK, ¿cuál afirmación es correcta?",
       "exp": "ROMK y BK son canales luminales importantes para secreción de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -355,7 +355,7 @@
     },
     {
       "id": "fisio_renal_cap30_026",
-      "q": "Sobre K extracelular secrecion, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con K+ extracelular y secreción tubular, ¿cuál afirmación es correcta?",
       "exp": "El aumento de potasio extracelular estimula directamente secreción tubular de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -369,7 +369,7 @@
     },
     {
       "id": "fisio_renal_cap30_027",
-      "q": "Sobre K y aldosterona, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con K+ y aldosterona, ¿cuál afirmación es correcta?",
       "exp": "El aumento de potasio extracelular estimula secreción de aldosterona.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -383,7 +383,7 @@
     },
     {
       "id": "fisio_renal_cap30_028",
-      "q": "Sobre aldosterona secrecion K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con aldosterona y secreción de K+, ¿cuál afirmación es correcta?",
       "exp": "Aldosterona aumenta Na-K-ATPasa y canales luminales de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -397,7 +397,7 @@
     },
     {
       "id": "fisio_renal_cap30_029",
-      "q": "Sobre flujo tubular K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con flujo tubular y K+, ¿cuál afirmación es correcta?",
       "exp": "El aumento de flujo tubular distal aumenta secreción de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -411,7 +411,7 @@
     },
     {
       "id": "fisio_renal_cap30_030",
-      "q": "Sobre acidosis secrecion K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con acidosis y secreción de K+, ¿cuál afirmación es correcta?",
       "exp": "La acidosis reduce la secreción distal de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -425,7 +425,7 @@
     },
     {
       "id": "fisio_renal_cap30_031",
-      "q": "Sobre intercalada A, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con intercalada a, ¿cuál afirmación es correcta?",
       "exp": "Las células intercaladas tipo A reabsorben potasio durante depleción de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -439,7 +439,7 @@
     },
     {
       "id": "fisio_renal_cap30_032",
-      "q": "Sobre intercalada B, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con intercalada b, ¿cuál afirmación es correcta?",
       "exp": "Las células intercaladas tipo B pueden secretar potasio durante exceso corporal.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -453,7 +453,7 @@
     },
     {
       "id": "fisio_renal_cap30_033",
-      "q": "Sobre H K ATPasa, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con H+ K+ atpasa, ¿cuál afirmación es correcta?",
       "exp": "La H-K-ATPasa participa en reabsorción de potasio en células intercaladas tipo A.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -467,7 +467,7 @@
     },
     {
       "id": "fisio_renal_cap30_034",
-      "q": "Sobre diureticos K, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con diuréticos K+, ¿cuál afirmación es correcta?",
       "exp": "Diuréticos con mayor entrega distal de sodio pueden aumentar secreción de potasio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -481,7 +481,7 @@
     },
     {
       "id": "fisio_renal_cap30_035",
-      "q": "Sobre calcio renal, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con calcio renal, ¿cuál afirmación es correcta?",
       "exp": "El calcio filtrable se reabsorbe en túbulos y es regulado por PTH.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -495,7 +495,7 @@
     },
     {
       "id": "fisio_renal_cap30_036",
-      "q": "Sobre PTH calcio, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con PTH calcio, ¿cuál afirmación es correcta?",
       "exp": "PTH aumenta reabsorción renal de calcio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -509,7 +509,7 @@
     },
     {
       "id": "fisio_renal_cap30_037",
-      "q": "Sobre PTH vitamina D, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con PTH vitamina d, ¿cuál afirmación es correcta?",
       "exp": "PTH estimula formación renal de calcitriol.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -523,7 +523,7 @@
     },
     {
       "id": "fisio_renal_cap30_038",
-      "q": "Sobre fosfato renal, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con fosfato renal, ¿cuál afirmación es correcta?",
       "exp": "La excreción renal de fosfato aumenta cuando PTH reduce su reabsorción.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -537,7 +537,7 @@
     },
     {
       "id": "fisio_renal_cap30_039",
-      "q": "Sobre PTH fosfato, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con PTH fosfato, ¿cuál afirmación es correcta?",
       "exp": "PTH disminuye reabsorción proximal de fosfato.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -551,7 +551,7 @@
     },
     {
       "id": "fisio_renal_cap30_040",
-      "q": "Sobre magnesio renal, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con magnesio renal, ¿cuál afirmación es correcta?",
       "exp": "El riñón ajusta reabsorción de magnesio para mantener balance.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -565,7 +565,7 @@
     },
     {
       "id": "fisio_renal_cap30_041",
-      "q": "Sobre volumen LEC, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con volumen del LEC, ¿cuál afirmación es correcta?",
       "exp": "El volumen extracelular depende principalmente del contenido total de sodio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -579,7 +579,7 @@
     },
     {
       "id": "fisio_renal_cap30_042",
-      "q": "Sobre sodio agua, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con sodio y agua, ¿cuál afirmación es correcta?",
       "exp": "El agua acompaña osmóticamente a cambios en sodio extracelular.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -593,7 +593,7 @@
     },
     {
       "id": "fisio_renal_cap30_043",
-      "q": "Sobre hipovolemia, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con hipovolemia, ¿cuál afirmación es correcta?",
       "exp": "La hipovolemia activa simpático, angiotensina II, aldosterona y ADH.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -607,7 +607,7 @@
     },
     {
       "id": "fisio_renal_cap30_044",
-      "q": "Sobre hipervolemia, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con hipervolemia, ¿cuál afirmación es correcta?",
       "exp": "La expansión de volumen favorece natriuresis y diuresis.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -621,7 +621,7 @@
     },
     {
       "id": "fisio_renal_cap30_045",
-      "q": "Sobre presion natriuresis, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con natriuresis por presión, ¿cuál afirmación es correcta?",
       "exp": "El aumento de presión arterial aumenta excreción renal de sodio.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -635,7 +635,7 @@
     },
     {
       "id": "fisio_renal_cap30_046",
-      "q": "Sobre presion diuresis, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con diuresis por presión, ¿cuál afirmación es correcta?",
       "exp": "El aumento de presión arterial aumenta excreción renal de agua.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -649,7 +649,7 @@
     },
     {
       "id": "fisio_renal_cap30_047",
-      "q": "Sobre angiotensina volumen, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con angiotensina II y volumen, ¿cuál afirmación es correcta?",
       "exp": "Angiotensina II conserva volumen al aumentar reabsorción de sodio y estimular aldosterona.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -663,7 +663,7 @@
     },
     {
       "id": "fisio_renal_cap30_048",
-      "q": "Sobre aldosterona volumen, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con aldosterona y volumen, ¿cuál afirmación es correcta?",
       "exp": "Aldosterona conserva sodio en segmentos distales y ayuda a sostener volumen extracelular.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -677,7 +677,7 @@
     },
     {
       "id": "fisio_renal_cap30_049",
-      "q": "Sobre ADH volumen, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con ADH y volumen, ¿cuál afirmación es correcta?",
       "exp": "ADH conserva agua aumentando permeabilidad de colectores.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [
@@ -691,7 +691,7 @@
     },
     {
       "id": "fisio_renal_cap30_050",
-      "q": "Sobre ANP, señale la alternativa correcta según el capítulo 30.",
+      "q": "En relación con ANP, ¿cuál afirmación es correcta?",
       "exp": "El péptido natriurético auricular se libera con distensión auricular y aumenta natriuresis.",
       "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen",
       "options": [

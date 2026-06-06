@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "fisio_renal_cap31_001",
-      "q": "Sobre H precision, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con precisión del H+, ¿cuál afirmación es correcta?",
       "exp": "La concentración de H+ debe regularse con precisión porque altera sistemas enzimáticos.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -19,7 +19,7 @@
     },
     {
       "id": "fisio_renal_cap31_002",
-      "q": "Sobre H normal, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con concentración normal de H+, ¿cuál afirmación es correcta?",
       "exp": "La concentración normal de H+ en LEC es cerca de 40 nEq/l.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -33,7 +33,7 @@
     },
     {
       "id": "fisio_renal_cap31_003",
-      "q": "Sobre pH significado, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con significado del pH, ¿cuál afirmación es correcta?",
       "exp": "El pH es inversamente proporcional a la concentración de H+.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -47,7 +47,7 @@
     },
     {
       "id": "fisio_renal_cap31_004",
-      "q": "Sobre pH arterial, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con pH arterial, ¿cuál afirmación es correcta?",
       "exp": "El pH arterial normal es aproximadamente 7,4.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -61,7 +61,7 @@
     },
     {
       "id": "fisio_renal_cap31_005",
-      "q": "Sobre pH venoso, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con pH venoso, ¿cuál afirmación es correcta?",
       "exp": "El pH venoso es algo menor por mayor CO2 procedente de tejidos.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -75,7 +75,7 @@
     },
     {
       "id": "fisio_renal_cap31_006",
-      "q": "Sobre acidosis, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con acidosis, ¿cuál afirmación es correcta?",
       "exp": "Acidosis significa pH arterial menor de 7,4.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -89,7 +89,7 @@
     },
     {
       "id": "fisio_renal_cap31_007",
-      "q": "Sobre alcalosis, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con alcalosis, ¿cuál afirmación es correcta?",
       "exp": "Alcalosis significa pH arterial mayor de 7,4.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -103,7 +103,7 @@
     },
     {
       "id": "fisio_renal_cap31_008",
-      "q": "Sobre limite pH, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con limite pH, ¿cuál afirmación es correcta?",
       "exp": "La vida pocas horas es compatible aproximadamente entre pH 6,8 y 8.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -117,7 +117,7 @@
     },
     {
       "id": "fisio_renal_cap31_009",
-      "q": "Sobre HCl gastrico, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con HCl gástrico, ¿cuál afirmación es correcta?",
       "exp": "El HCl gástrico tiene concentración de H+ millones de veces mayor que la sangre.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -131,7 +131,7 @@
     },
     {
       "id": "fisio_renal_cap31_010",
-      "q": "Sobre defensa acidobasica, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con defensas acidobásicas, ¿cuál afirmación es correcta?",
       "exp": "Las defensas acidobásicas principales son tampones, pulmones y riñones.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -145,7 +145,7 @@
     },
     {
       "id": "fisio_renal_cap31_011",
-      "q": "Sobre tampon rapido, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con tampón rapido, ¿cuál afirmación es correcta?",
       "exp": "Los tampones químicos actúan en segundos al captar o liberar H+.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -159,7 +159,7 @@
     },
     {
       "id": "fisio_renal_cap31_012",
-      "q": "Sobre pulmones, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con pulmones, ¿cuál afirmación es correcta?",
       "exp": "Los pulmones regulan H+ al modificar la eliminación de CO2.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -173,7 +173,7 @@
     },
     {
       "id": "fisio_renal_cap31_013",
-      "q": "Sobre rinones acido base, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con riñones y equilibrio ácido-base, ¿cuál afirmación es correcta?",
       "exp": "Los riñones son la defensa más potente pero más lenta del equilibrio acidobásico.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -187,7 +187,7 @@
     },
     {
       "id": "fisio_renal_cap31_014",
-      "q": "Sobre amortiguador, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con amortiguador, ¿cuál afirmación es correcta?",
       "exp": "Un amortiguador se une reversiblemente a H+.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -201,7 +201,7 @@
     },
     {
       "id": "fisio_renal_cap31_015",
-      "q": "Sobre bicarbonato sistema, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con sistema bicarbonato, ¿cuál afirmación es correcta?",
       "exp": "El sistema bicarbonato está formado por H2CO3 y HCO3-.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -215,7 +215,7 @@
     },
     {
       "id": "fisio_renal_cap31_016",
-      "q": "Sobre anhidrasa carbonica, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con anhidrasa carbónica, ¿cuál afirmación es correcta?",
       "exp": "La anhidrasa carbónica cataliza la reacción CO2 + H2O reversible a H2CO3.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "fisio_renal_cap31_017",
-      "q": "Sobre AC pulmon rinon, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con anhidrasa carbónica en pulmón y riñón, ¿cuál afirmación es correcta?",
       "exp": "Anhidrasa carbónica es abundante en alvéolos pulmonares y túbulos renales.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -243,7 +243,7 @@
     },
     {
       "id": "fisio_renal_cap31_018",
-      "q": "Sobre HCl bicarbonato, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con HCl y bicarbonato, ¿cuál afirmación es correcta?",
       "exp": "El bicarbonato amortigua HCl formando ácido carbónico, CO2 y agua.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -257,7 +257,7 @@
     },
     {
       "id": "fisio_renal_cap31_019",
-      "q": "Sobre NaOH bicarbonato, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con NaOH y bicarbonato, ¿cuál afirmación es correcta?",
       "exp": "El ácido carbónico amortigua bases fuertes como NaOH.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -271,7 +271,7 @@
     },
     {
       "id": "fisio_renal_cap31_020",
-      "q": "Sobre Henderson, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con henderson, ¿cuál afirmación es correcta?",
       "exp": "La ecuación de Henderson-Hasselbalch relaciona pH con HCO3- y PCO2.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -285,7 +285,7 @@
     },
     {
       "id": "fisio_renal_cap31_021",
-      "q": "Sobre HCO3 pH, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con hco3 pH, ¿cuál afirmación es correcta?",
       "exp": "Aumentar HCO3- eleva pH y desplaza hacia alcalosis.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -299,7 +299,7 @@
     },
     {
       "id": "fisio_renal_cap31_022",
-      "q": "Sobre PCO2 pH, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con PCO2 y pH, ¿cuál afirmación es correcta?",
       "exp": "Aumentar PCO2 baja pH y desplaza hacia acidosis.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -313,7 +313,7 @@
     },
     {
       "id": "fisio_renal_cap31_023",
-      "q": "Sobre metabolica, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con metabólica, ¿cuál afirmación es correcta?",
       "exp": "Los trastornos metabólicos tienen cambio primario en HCO3-.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -327,7 +327,7 @@
     },
     {
       "id": "fisio_renal_cap31_024",
-      "q": "Sobre respiratoria, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con respiratoria, ¿cuál afirmación es correcta?",
       "exp": "Los trastornos respiratorios tienen cambio primario en PCO2.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -341,7 +341,7 @@
     },
     {
       "id": "fisio_renal_cap31_025",
-      "q": "Sobre acidosis metabolica, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con acidosis metabólica, ¿cuál afirmación es correcta?",
       "exp": "Disminución primaria de HCO3- causa acidosis metabólica.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -355,7 +355,7 @@
     },
     {
       "id": "fisio_renal_cap31_026",
-      "q": "Sobre alcalosis metabolica, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con alcalosis metabólica, ¿cuál afirmación es correcta?",
       "exp": "Aumento primario de HCO3- causa alcalosis metabólica.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -369,7 +369,7 @@
     },
     {
       "id": "fisio_renal_cap31_027",
-      "q": "Sobre acidosis respiratoria, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con acidosis respiratoria, ¿cuál afirmación es correcta?",
       "exp": "Aumento primario de PCO2 causa acidosis respiratoria.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -383,7 +383,7 @@
     },
     {
       "id": "fisio_renal_cap31_028",
-      "q": "Sobre alcalosis respiratoria, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con alcalosis respiratoria, ¿cuál afirmación es correcta?",
       "exp": "Disminución primaria de PCO2 causa alcalosis respiratoria.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -397,7 +397,7 @@
     },
     {
       "id": "fisio_renal_cap31_029",
-      "q": "Sobre potencia tampon, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con potencia tampón, ¿cuál afirmación es correcta?",
       "exp": "Un tampón es más eficaz cerca de su pK y con mayor concentración total.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -411,7 +411,7 @@
     },
     {
       "id": "fisio_renal_cap31_030",
-      "q": "Sobre bicarbonato potencia, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con potencia del sistema bicarbonato, ¿cuál afirmación es correcta?",
       "exp": "Bicarbonato es potente porque pulmones regulan CO2 y riñones regulan HCO3-.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -425,7 +425,7 @@
     },
     {
       "id": "fisio_renal_cap31_031",
-      "q": "Sobre fosfato, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con fosfato, ¿cuál afirmación es correcta?",
       "exp": "El tampón fosfato es importante en túbulos renales y líquido intracelular.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -439,7 +439,7 @@
     },
     {
       "id": "fisio_renal_cap31_032",
-      "q": "Sobre fosfato pK, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con fosfato pk, ¿cuál afirmación es correcta?",
       "exp": "El pK del fosfato se acerca al pH tubular, favoreciendo amortiguación urinaria.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -453,7 +453,7 @@
     },
     {
       "id": "fisio_renal_cap31_033",
-      "q": "Sobre proteinas tampon, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con proteínas como tampones, ¿cuál afirmación es correcta?",
       "exp": "Las proteínas son tampones importantes por sus grupos cargados y alta concentración celular.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -467,7 +467,7 @@
     },
     {
       "id": "fisio_renal_cap31_034",
-      "q": "Sobre hemoglobina, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con hemoglobina, ¿cuál afirmación es correcta?",
       "exp": "La hemoglobina amortigua H+ dentro de eritrocitos.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -481,7 +481,7 @@
     },
     {
       "id": "fisio_renal_cap31_035",
-      "q": "Sobre isohidrico, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con principio isohídrico, ¿cuál afirmación es correcta?",
       "exp": "El principio isohídrico indica que todos los tampones comparten la misma [H+] en una solución.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -495,7 +495,7 @@
     },
     {
       "id": "fisio_renal_cap31_036",
-      "q": "Sobre ventilacion alta, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con aumento de ventilación, ¿cuál afirmación es correcta?",
       "exp": "Aumentar ventilación reduce PCO2 y disminuye H+.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -509,7 +509,7 @@
     },
     {
       "id": "fisio_renal_cap31_037",
-      "q": "Sobre ventilacion baja, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con disminución de ventilación, ¿cuál afirmación es correcta?",
       "exp": "Disminuir ventilación aumenta PCO2 y aumenta H+.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -523,7 +523,7 @@
     },
     {
       "id": "fisio_renal_cap31_038",
-      "q": "Sobre compensacion acidosis metabolica, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con compensación de la acidosis metabólica, ¿cuál afirmación es correcta?",
       "exp": "La acidosis metabólica estimula hiperventilación compensadora.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -537,7 +537,7 @@
     },
     {
       "id": "fisio_renal_cap31_039",
-      "q": "Sobre compensacion alcalosis metabolica, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con compensación de la alcalosis metabólica, ¿cuál afirmación es correcta?",
       "exp": "La alcalosis metabólica reduce ventilación de forma compensadora.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -551,7 +551,7 @@
     },
     {
       "id": "fisio_renal_cap31_040",
-      "q": "Sobre secrecion H, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con secreción de H+, ¿cuál afirmación es correcta?",
       "exp": "El riñón regula pH secretando H+ y manejando bicarbonato.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -565,7 +565,7 @@
     },
     {
       "id": "fisio_renal_cap31_041",
-      "q": "Sobre reabsorcion HCO3, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con reabsorción de HCO3-, ¿cuál afirmación es correcta?",
       "exp": "El riñón debe reabsorber casi todo el bicarbonato filtrado para evitar acidosis.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -579,7 +579,7 @@
     },
     {
       "id": "fisio_renal_cap31_042",
-      "q": "Sobre HCO3 indirecto, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con reabsorción indirecta de HCO3-, ¿cuál afirmación es correcta?",
       "exp": "El bicarbonato filtrado se reabsorbe indirectamente tras combinarse con H+ y formar CO2.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -593,7 +593,7 @@
     },
     {
       "id": "fisio_renal_cap31_043",
-      "q": "Sobre NHE acido base, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con NHE ácido base, ¿cuál afirmación es correcta?",
       "exp": "El intercambiador Na-H contribuye a secreción tubular de H+.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -607,7 +607,7 @@
     },
     {
       "id": "fisio_renal_cap31_044",
-      "q": "Sobre H ATPasa, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con H-ATPasa, ¿cuál afirmación es correcta?",
       "exp": "Las bombas H-ATPasa secretan H+ en segmentos distales.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -621,7 +621,7 @@
     },
     {
       "id": "fisio_renal_cap31_045",
-      "q": "Sobre acido titulable, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con ácido titulable, ¿cuál afirmación es correcta?",
       "exp": "La excreción de H+ con fosfato genera ácido titulable y bicarbonato nuevo.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -635,7 +635,7 @@
     },
     {
       "id": "fisio_renal_cap31_046",
-      "q": "Sobre amonio, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con amonio, ¿cuál afirmación es correcta?",
       "exp": "El sistema amonio permite excretar H+ como NH4+ y generar bicarbonato nuevo.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -649,7 +649,7 @@
     },
     {
       "id": "fisio_renal_cap31_047",
-      "q": "Sobre acidosis cronica NH4, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con acidosis crónica nh4, ¿cuál afirmación es correcta?",
       "exp": "La acidosis crónica aumenta la producción renal de amonio.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -663,7 +663,7 @@
     },
     {
       "id": "fisio_renal_cap31_048",
-      "q": "Sobre pH orina, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con pH de la orina, ¿cuál afirmación es correcta?",
       "exp": "El pH urinario puede variar aproximadamente entre 4,5 y 8.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -677,7 +677,7 @@
     },
     {
       "id": "fisio_renal_cap31_049",
-      "q": "Sobre alcalosis renal, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con alcalosis renal, ¿cuál afirmación es correcta?",
       "exp": "En alcalosis, el riñón aumenta excreción de bicarbonato y reduce secreción de H+.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [
@@ -691,7 +691,7 @@
     },
     {
       "id": "fisio_renal_cap31_050",
-      "q": "Sobre diarrea acidosis, señale la alternativa correcta según el capítulo 31.",
+      "q": "En relación con diarrea y acidosis, ¿cuál afirmación es correcta?",
       "exp": "La diarrea puede causar acidosis metabólica por pérdida de bicarbonato.",
       "topic": "Capítulo 31 - Regulación acidobásica",
       "options": [

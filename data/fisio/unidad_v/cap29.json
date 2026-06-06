@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "fisio_renal_cap29_001",
-      "q": "Sobre exceso agua, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con exceso agua, ¿cuál afirmación es correcta?",
       "exp": "El exceso de agua reduce ADH y permite excretar gran volumen de orina diluida.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -19,7 +19,7 @@
     },
     {
       "id": "fisio_renal_cap29_002",
-      "q": "Sobre orina minima osm, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con orina mínima osm, ¿cuál afirmación es correcta?",
       "exp": "La orina humana puede diluirse hasta cerca de 50 mOsm/l.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -33,7 +33,7 @@
     },
     {
       "id": "fisio_renal_cap29_003",
-      "q": "Sobre deficit agua, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con déficit agua, ¿cuál afirmación es correcta?",
       "exp": "El déficit de agua aumenta ADH y favorece pequeño volumen de orina concentrada.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -47,7 +47,7 @@
     },
     {
       "id": "fisio_renal_cap29_004",
-      "q": "Sobre orina maxima osm, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con orina máxima osm, ¿cuál afirmación es correcta?",
       "exp": "La orina humana puede concentrarse hasta cerca de 1.200-1.400 mOsm/l.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -61,7 +61,7 @@
     },
     {
       "id": "fisio_renal_cap29_005",
-      "q": "Sobre ADH, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con ADH, ¿cuál afirmación es correcta?",
       "exp": "ADH aumenta permeabilidad al agua en distal tardío y conductos colectores.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -75,7 +75,7 @@
     },
     {
       "id": "fisio_renal_cap29_006",
-      "q": "Sobre baja ADH, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con baja ADH, ¿cuál afirmación es correcta?",
       "exp": "Con baja ADH, los segmentos distales reabsorben solutos pero poca agua.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -89,7 +89,7 @@
     },
     {
       "id": "fisio_renal_cap29_007",
-      "q": "Sobre diuresis acuosa, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con diuresis acuosa, ¿cuál afirmación es correcta?",
       "exp": "Tras beber agua, aumenta el flujo urinario y baja la osmolaridad urinaria sin gran cambio de solutos.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -103,7 +103,7 @@
     },
     {
       "id": "fisio_renal_cap29_008",
-      "q": "Sobre proximal isoosmotico, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con proximal isoosmótico, ¿cuál afirmación es correcta?",
       "exp": "El túbulo proximal mantiene líquido casi isoosmótico por reabsorción proporcional de agua y solutos.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -117,7 +117,7 @@
     },
     {
       "id": "fisio_renal_cap29_009",
-      "q": "Sobre rama descendente, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con rama descendente, ¿cuál afirmación es correcta?",
       "exp": "La rama descendente concentra el líquido por salida de agua hacia médula hiperosmótica.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -131,7 +131,7 @@
     },
     {
       "id": "fisio_renal_cap29_010",
-      "q": "Sobre rama ascendente, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con rama ascendente, ¿cuál afirmación es correcta?",
       "exp": "La rama ascendente gruesa diluye el líquido al reabsorber solutos sin agua.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -145,7 +145,7 @@
     },
     {
       "id": "fisio_renal_cap29_011",
-      "q": "Sobre distal temprano, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con distal temprano, ¿cuál afirmación es correcta?",
       "exp": "El líquido que entra al distal temprano suele ser hipoosmótico.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -159,7 +159,7 @@
     },
     {
       "id": "fisio_renal_cap29_012",
-      "q": "Sobre orina concentrada requisito, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con orina concentrada requisito, ¿cuál afirmación es correcta?",
       "exp": "La orina concentrada requiere ADH elevada e intersticio medular hiperosmótico.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -173,7 +173,7 @@
     },
     {
       "id": "fisio_renal_cap29_013",
-      "q": "Sobre contracorriente anatomia, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con contracorriente anatomia, ¿cuál afirmación es correcta?",
       "exp": "El mecanismo de contracorriente depende de asas de Henle largas y vasos rectos.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -187,7 +187,7 @@
     },
     {
       "id": "fisio_renal_cap29_014",
-      "q": "Sobre nefronas yuxtamedulares, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con nefronas yuxtamedulares, ¿cuál afirmación es correcta?",
       "exp": "Las nefronas yuxtamedulares son clave por sus asas largas profundas.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -201,7 +201,7 @@
     },
     {
       "id": "fisio_renal_cap29_015",
-      "q": "Sobre gradiente 200, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con gradiente 200, ¿cuál afirmación es correcta?",
       "exp": "La rama ascendente gruesa establece un gradiente transversal cercano a 200 mOsm/l.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -215,7 +215,7 @@
     },
     {
       "id": "fisio_renal_cap29_016",
-      "q": "Sobre multiplicador, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con multiplicador, ¿cuál afirmación es correcta?",
       "exp": "La repetición de flujo y bombeo multiplica el gradiente corticopapilar.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "fisio_renal_cap29_017",
-      "q": "Sobre medula osm, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con osmolaridad medular, ¿cuál afirmación es correcta?",
       "exp": "La médula interna puede alcanzar 1.200-1.400 mOsm/l en la papila.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -243,7 +243,7 @@
     },
     {
       "id": "fisio_renal_cap29_018",
-      "q": "Sobre NaCl medular, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con nacl medular, ¿cuál afirmación es correcta?",
       "exp": "El transporte de NaCl desde la rama ascendente aporta solutos a la médula.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -257,7 +257,7 @@
     },
     {
       "id": "fisio_renal_cap29_019",
-      "q": "Sobre colectores medulares, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con colectores medulares, ¿cuál afirmación es correcta?",
       "exp": "En ADH alta, los colectores medulares se vuelven permeables al agua.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -271,7 +271,7 @@
     },
     {
       "id": "fisio_renal_cap29_020",
-      "q": "Sobre urea aporte, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con urea aporte, ¿cuál afirmación es correcta?",
       "exp": "La urea aporta cerca de 40-50% de la osmolaridad medular máxima.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -285,7 +285,7 @@
     },
     {
       "id": "fisio_renal_cap29_021",
-      "q": "Sobre ADH urea, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con ADH urea, ¿cuál afirmación es correcta?",
       "exp": "ADH aumenta permeabilidad a urea en conductos colectores medulares internos.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -299,7 +299,7 @@
     },
     {
       "id": "fisio_renal_cap29_022",
-      "q": "Sobre UT A1 A3, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con UT A1 A3, ¿cuál afirmación es correcta?",
       "exp": "UT-A1 y UT-A3 facilitan salida de urea desde el colector medular interno.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -313,7 +313,7 @@
     },
     {
       "id": "fisio_renal_cap29_023",
-      "q": "Sobre UT A2, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con UT A2, ¿cuál afirmación es correcta?",
       "exp": "UT-A2 facilita recirculación de urea hacia asas finas de Henle.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -327,7 +327,7 @@
     },
     {
       "id": "fisio_renal_cap29_024",
-      "q": "Sobre proteinas dieta, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con proteínas dieta, ¿cuál afirmación es correcta?",
       "exp": "Una dieta hiperproteica aumenta urea y mejora capacidad de concentrar orina.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -341,7 +341,7 @@
     },
     {
       "id": "fisio_renal_cap29_025",
-      "q": "Sobre malnutricion, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con malnutrición, ¿cuál afirmación es correcta?",
       "exp": "Baja producción de urea deteriora la capacidad de concentración urinaria.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -355,7 +355,7 @@
     },
     {
       "id": "fisio_renal_cap29_026",
-      "q": "Sobre vasos rectos, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con vasos rectos, ¿cuál afirmación es correcta?",
       "exp": "Los vasos rectos conservan la hiperosmolaridad medular por intercambio contracorriente.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -369,7 +369,7 @@
     },
     {
       "id": "fisio_renal_cap29_027",
-      "q": "Sobre vasos rectos no crean, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con vasos rectos no crean, ¿cuál afirmación es correcta?",
       "exp": "Los vasos rectos no crean el gradiente medular, pero evitan su lavado.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -383,7 +383,7 @@
     },
     {
       "id": "fisio_renal_cap29_028",
-      "q": "Sobre flujo medular alto, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con flujo medular alto, ¿cuál afirmación es correcta?",
       "exp": "El aumento de flujo sanguíneo medular lava solutos y reduce concentración urinaria máxima.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -397,7 +397,7 @@
     },
     {
       "id": "fisio_renal_cap29_029",
-      "q": "Sobre densidad especifica, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con densidad específica, ¿cuál afirmación es correcta?",
       "exp": "La densidad específica mide peso de solutos por volumen de orina.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -411,7 +411,7 @@
     },
     {
       "id": "fisio_renal_cap29_030",
-      "q": "Sobre osmolaridad vs densidad, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con osmolaridad vs densidad, ¿cuál afirmación es correcta?",
       "exp": "La osmolaridad depende del número de partículas, no del peso molecular.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -425,7 +425,7 @@
     },
     {
       "id": "fisio_renal_cap29_031",
-      "q": "Sobre glucosa densidad, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con glucosa densidad, ¿cuál afirmación es correcta?",
       "exp": "Glucosa o radiocontraste pueden elevar densidad específica sin aumento proporcional de osmolalidad.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -439,7 +439,7 @@
     },
     {
       "id": "fisio_renal_cap29_032",
-      "q": "Sobre volumen obligatorio, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con volumen obligatorio, ¿cuál afirmación es correcta?",
       "exp": "El volumen obligatorio depende de solutos a excretar y concentración máxima urinaria.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -453,7 +453,7 @@
     },
     {
       "id": "fisio_renal_cap29_033",
-      "q": "Sobre agua de mar, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con agua de mar, ¿cuál afirmación es correcta?",
       "exp": "Beber agua de mar deshidrata porque excretar NaCl y otros solutos exige más agua urinaria.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -467,7 +467,7 @@
     },
     {
       "id": "fisio_renal_cap29_034",
-      "q": "Sobre Cosm, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con Cosm, ¿cuál afirmación es correcta?",
       "exp": "El aclaramiento osmolar expresa el volumen de plasma depurado de solutos por minuto.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -481,7 +481,7 @@
     },
     {
       "id": "fisio_renal_cap29_035",
-      "q": "Sobre CH2O positivo, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con CH2O positivo, ¿cuál afirmación es correcta?",
       "exp": "El aclaramiento de agua libre positivo indica excreción de agua libre de solutos.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -495,7 +495,7 @@
     },
     {
       "id": "fisio_renal_cap29_036",
-      "q": "Sobre CH2O negativo, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con CH2O negativo, ¿cuál afirmación es correcta?",
       "exp": "El aclaramiento de agua libre negativo indica conservación de agua y orina concentrada.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -509,7 +509,7 @@
     },
     {
       "id": "fisio_renal_cap29_037",
-      "q": "Sobre DI central, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con di central, ¿cuál afirmación es correcta?",
       "exp": "La diabetes insípida central se debe a falta de producción o liberación de ADH.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -523,7 +523,7 @@
     },
     {
       "id": "fisio_renal_cap29_038",
-      "q": "Sobre DI central clinica, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con di central clínica, ¿cuál afirmación es correcta?",
       "exp": "La diabetes insípida central causa gran volumen de orina diluida.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -537,7 +537,7 @@
     },
     {
       "id": "fisio_renal_cap29_039",
-      "q": "Sobre desmopresina, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con desmopresina, ¿cuál afirmación es correcta?",
       "exp": "La desmopresina corrige la poliuria en diabetes insípida central si el riñón responde.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -551,7 +551,7 @@
     },
     {
       "id": "fisio_renal_cap29_040",
-      "q": "Sobre DI nefrogena, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con di nefrógena, ¿cuál afirmación es correcta?",
       "exp": "La diabetes insípida nefrógena ocurre con ADH normal o alta pero mala respuesta renal.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -565,7 +565,7 @@
     },
     {
       "id": "fisio_renal_cap29_041",
-      "q": "Sobre litio, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con litio, ¿cuál afirmación es correcta?",
       "exp": "El litio puede causar diabetes insípida nefrógena al reducir la respuesta a ADH.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -579,7 +579,7 @@
     },
     {
       "id": "fisio_renal_cap29_042",
-      "q": "Sobre sodio plasma, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con sodio plasma, ¿cuál afirmación es correcta?",
       "exp": "El sodio plasmático normal se mantiene cerca de 140-145 mEq/l.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -593,7 +593,7 @@
     },
     {
       "id": "fisio_renal_cap29_043",
-      "q": "Sobre osmolaridad sodio, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con osmolaridad sodio, ¿cuál afirmación es correcta?",
       "exp": "El sodio y sus aniones son los principales determinantes de osmolaridad extracelular efectiva.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -607,7 +607,7 @@
     },
     {
       "id": "fisio_renal_cap29_044",
-      "q": "Sobre osmorreceptores, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con osmorreceptores, ¿cuál afirmación es correcta?",
       "exp": "La hiperosmolaridad retrae osmorreceptores hipotalámicos y estimula ADH.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -621,7 +621,7 @@
     },
     {
       "id": "fisio_renal_cap29_045",
-      "q": "Sobre ADH sintesis, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con ADH síntesis, ¿cuál afirmación es correcta?",
       "exp": "ADH se sintetiza en núcleos supraópticos y paraventriculares del hipotálamo.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -635,7 +635,7 @@
     },
     {
       "id": "fisio_renal_cap29_046",
-      "q": "Sobre neurohipofisis, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con neurohipófisis, ¿cuál afirmación es correcta?",
       "exp": "ADH se transporta por axones y se libera en la neurohipófisis.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -649,7 +649,7 @@
     },
     {
       "id": "fisio_renal_cap29_047",
-      "q": "Sobre AV3V, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con AV3V, ¿cuál afirmación es correcta?",
       "exp": "La región AV3V participa en ADH, sed, apetito por sal y presión arterial.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -663,7 +663,7 @@
     },
     {
       "id": "fisio_renal_cap29_048",
-      "q": "Sobre barorreceptores, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con barorreceptores, ¿cuál afirmación es correcta?",
       "exp": "Hipovolemia o hipotensión estimulan ADH por reflejos cardiovasculares.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -677,7 +677,7 @@
     },
     {
       "id": "fisio_renal_cap29_049",
-      "q": "Sobre nauseas, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con náuseas, ¿cuál afirmación es correcta?",
       "exp": "Las náuseas son un estímulo potente para liberación de ADH.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [
@@ -691,7 +691,7 @@
     },
     {
       "id": "fisio_renal_cap29_050",
-      "q": "Sobre alcohol, señale la alternativa correcta según el capítulo 29.",
+      "q": "En relación con alcohol, ¿cuál afirmación es correcta?",
       "exp": "El alcohol inhibe ADH y favorece diuresis acuosa.",
       "topic": "Capítulo 29 - Concentración/dilución urinaria y ADH-sed",
       "options": [

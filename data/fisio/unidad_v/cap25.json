@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "fisio_renal_cap25_001",
-      "q": "Sobre balance hidrico, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con balance hídrico, ¿cuál afirmación es correcta?",
       "exp": "La estabilidad del agua corporal exige que la entrada total de agua se iguale con sus pérdidas.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -19,7 +19,7 @@
     },
     {
       "id": "fisio_renal_cap25_002",
-      "q": "Sobre ingesta diaria de agua, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con ingesta diaria de agua, ¿cuál afirmación es correcta?",
       "exp": "La ingesta ordinaria proviene de líquidos/alimentos y de agua metabólica producida por oxidación.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -33,7 +33,7 @@
     },
     {
       "id": "fisio_renal_cap25_003",
-      "q": "Sobre perdida insensible, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con pérdida insensible, ¿cuál afirmación es correcta?",
       "exp": "La pérdida insensible ocurre por piel y pulmones sin percepción consciente directa.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -47,7 +47,7 @@
     },
     {
       "id": "fisio_renal_cap25_004",
-      "q": "Sobre piel y barrera cornificada, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con piel y barrera cornificada, ¿cuál afirmación es correcta?",
       "exp": "La capa cornificada rica en colesterol reduce la pérdida de agua por difusión cutánea.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -61,7 +61,7 @@
     },
     {
       "id": "fisio_renal_cap25_005",
-      "q": "Sobre quemaduras extensas, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con quemaduras extensas, ¿cuál afirmación es correcta?",
       "exp": "Las quemaduras extensas aumentan mucho la evaporación cutánea y exigen reposición hídrica.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -75,7 +75,7 @@
     },
     {
       "id": "fisio_renal_cap25_006",
-      "q": "Sobre via respiratoria, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con vía respiratoria, ¿cuál afirmación es correcta?",
       "exp": "El aire inspirado se humidifica en la vía aérea y el agua se pierde al espirar.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -89,7 +89,7 @@
     },
     {
       "id": "fisio_renal_cap25_007",
-      "q": "Sobre clima frio, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con clima frío, ¿cuál afirmación es correcta?",
       "exp": "El clima frío aumenta la pérdida pulmonar relativa porque el aire inspirado contiene menos vapor de agua.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -103,7 +103,7 @@
     },
     {
       "id": "fisio_renal_cap25_008",
-      "q": "Sobre sudor, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con sudor, ¿cuál afirmación es correcta?",
       "exp": "La pérdida por sudor puede aumentar mucho con calor o ejercicio intenso.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -117,7 +117,7 @@
     },
     {
       "id": "fisio_renal_cap25_009",
-      "q": "Sobre heces, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con heces, ¿cuál afirmación es correcta?",
       "exp": "La pérdida fecal normal de agua es pequeña, pero la diarrea puede elevarla a litros por día.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -131,7 +131,7 @@
     },
     {
       "id": "fisio_renal_cap25_010",
-      "q": "Sobre riñones, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con riñones, ¿cuál afirmación es correcta?",
       "exp": "Los riñones ajustan el volumen urinario para igualar entradas y salidas de agua y electrolitos.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -145,7 +145,7 @@
     },
     {
       "id": "fisio_renal_cap25_011",
-      "q": "Sobre agua corporal total, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con agua corporal total, ¿cuál afirmación es correcta?",
       "exp": "En un varón adulto de 70 kg, el agua corporal total se aproxima a 42 litros.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -159,7 +159,7 @@
     },
     {
       "id": "fisio_renal_cap25_012",
-      "q": "Sobre porcentaje de agua, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con porcentaje de agua, ¿cuál afirmación es correcta?",
       "exp": "El porcentaje de agua corporal disminuye con edad y obesidad por mayor proporción de grasa.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -173,7 +173,7 @@
     },
     {
       "id": "fisio_renal_cap25_013",
-      "q": "Sobre mujer adulta, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con mujer adulta, ¿cuál afirmación es correcta?",
       "exp": "En promedio, la mujer adulta tiene menor porcentaje de agua corporal que el varón por más grasa corporal.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -187,7 +187,7 @@
     },
     {
       "id": "fisio_renal_cap25_014",
-      "q": "Sobre neonato, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con neonato, ¿cuál afirmación es correcta?",
       "exp": "El neonato tiene mayor porcentaje de agua corporal total que el adulto.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -201,7 +201,7 @@
     },
     {
       "id": "fisio_renal_cap25_015",
-      "q": "Sobre liquido intracelular, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con líquido intracelular, ¿cuál afirmación es correcta?",
       "exp": "El líquido intracelular representa cerca del 40% del peso corporal en el adulto promedio.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -215,7 +215,7 @@
     },
     {
       "id": "fisio_renal_cap25_016",
-      "q": "Sobre liquido extracelular, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con líquido extracelular, ¿cuál afirmación es correcta?",
       "exp": "El líquido extracelular representa cerca del 20% del peso corporal en el adulto promedio.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "fisio_renal_cap25_017",
-      "q": "Sobre intersticio, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con intersticio, ¿cuál afirmación es correcta?",
       "exp": "El líquido intersticial constituye la mayor parte del líquido extracelular.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -243,7 +243,7 @@
     },
     {
       "id": "fisio_renal_cap25_018",
-      "q": "Sobre plasma, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con plasma, ¿cuál afirmación es correcta?",
       "exp": "El plasma representa aproximadamente una cuarta parte del líquido extracelular.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -257,7 +257,7 @@
     },
     {
       "id": "fisio_renal_cap25_019",
-      "q": "Sobre liquido transcelular, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con líquido transcelular, ¿cuál afirmación es correcta?",
       "exp": "El líquido transcelular incluye espacios como sinovial, peritoneal, pericárdico y cefalorraquídeo.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -271,7 +271,7 @@
     },
     {
       "id": "fisio_renal_cap25_020",
-      "q": "Sobre volumen sanguineo, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con volumen sanguíneo, ¿cuál afirmación es correcta?",
       "exp": "El volumen sanguíneo adulto promedio es cercano a 5 litros o 7% del peso corporal.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -285,7 +285,7 @@
     },
     {
       "id": "fisio_renal_cap25_021",
-      "q": "Sobre hematocrito, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con hematocrito, ¿cuál afirmación es correcta?",
       "exp": "El hematocrito expresa la fracción del volumen sanguíneo ocupada por eritrocitos.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -299,7 +299,7 @@
     },
     {
       "id": "fisio_renal_cap25_022",
-      "q": "Sobre hematocrito medido, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con hematocrito medido, ¿cuál afirmación es correcta?",
       "exp": "El hematocrito medido puede sobrestimar el real porque queda plasma atrapado entre eritrocitos.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -313,7 +313,7 @@
     },
     {
       "id": "fisio_renal_cap25_023",
-      "q": "Sobre plasma e intersticio, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con plasma e intersticio, ¿cuál afirmación es correcta?",
       "exp": "Plasma e intersticio tienen composición iónica semejante, pero el plasma contiene más proteínas.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -327,7 +327,7 @@
     },
     {
       "id": "fisio_renal_cap25_024",
-      "q": "Sobre efecto Donnan, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con efecto donnan, ¿cuál afirmación es correcta?",
       "exp": "El efecto Donnan mantiene ligeramente más cationes en el plasma por la carga negativa proteica.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -341,7 +341,7 @@
     },
     {
       "id": "fisio_renal_cap25_025",
-      "q": "Sobre LEC composicion, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con composición del LEC, ¿cuál afirmación es correcta?",
       "exp": "El líquido extracelular contiene mucho sodio, cloro y bicarbonato.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -355,7 +355,7 @@
     },
     {
       "id": "fisio_renal_cap25_026",
-      "q": "Sobre LIC composicion, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con composición del LIC, ¿cuál afirmación es correcta?",
       "exp": "El líquido intracelular contiene mucho potasio, fosfato, magnesio y proteínas.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -369,7 +369,7 @@
     },
     {
       "id": "fisio_renal_cap25_027",
-      "q": "Sobre membrana celular, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con membrana celular, ¿cuál afirmación es correcta?",
       "exp": "La membrana celular es muy permeable al agua, pero mucho menos a la mayoría de electrolitos.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -383,7 +383,7 @@
     },
     {
       "id": "fisio_renal_cap25_028",
-      "q": "Sobre indicador dilucion, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con indicador dilución, ¿cuál afirmación es correcta?",
       "exp": "El volumen de un compartimiento puede estimarse con indicador que se distribuya solo en ese compartimiento.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -397,7 +397,7 @@
     },
     {
       "id": "fisio_renal_cap25_029",
-      "q": "Sobre principio masa, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con principio masa, ¿cuál afirmación es correcta?",
       "exp": "El método de dilución usa conservación de masa: cantidad inyectada igual a cantidad distribuida.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -411,7 +411,7 @@
     },
     {
       "id": "fisio_renal_cap25_030",
-      "q": "Sobre agua total indicador, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con agua total indicador, ¿cuál afirmación es correcta?",
       "exp": "Agua pesada, tritio o antipirina pueden estimar el agua corporal total.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -425,7 +425,7 @@
     },
     {
       "id": "fisio_renal_cap25_031",
-      "q": "Sobre LEC indicador, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con indicador para el LEC, ¿cuál afirmación es correcta?",
       "exp": "Inulina, tiosulfato o sodio radiactivo pueden estimar el volumen extracelular.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -439,7 +439,7 @@
     },
     {
       "id": "fisio_renal_cap25_032",
-      "q": "Sobre LIC calculo, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con cálculo del LIC, ¿cuál afirmación es correcta?",
       "exp": "El líquido intracelular se calcula como agua corporal total menos líquido extracelular.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -453,7 +453,7 @@
     },
     {
       "id": "fisio_renal_cap25_033",
-      "q": "Sobre plasma indicador, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con plasma indicador, ¿cuál afirmación es correcta?",
       "exp": "Albúmina marcada o azul de Evans sirven para medir volumen plasmático.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -467,7 +467,7 @@
     },
     {
       "id": "fisio_renal_cap25_034",
-      "q": "Sobre intersticio calculo, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con intersticio cálculo, ¿cuál afirmación es correcta?",
       "exp": "El líquido intersticial se calcula como líquido extracelular menos volumen plasmático.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -481,7 +481,7 @@
     },
     {
       "id": "fisio_renal_cap25_035",
-      "q": "Sobre volumen sanguineo calculo, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con volumen sanguíneo cálculo, ¿cuál afirmación es correcta?",
       "exp": "El volumen sanguíneo puede calcularse como volumen plasmático dividido por uno menos hematocrito.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -495,7 +495,7 @@
     },
     {
       "id": "fisio_renal_cap25_036",
-      "q": "Sobre osmosis celular, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con ósmosis celular, ¿cuál afirmación es correcta?",
       "exp": "El agua se distribuye entre LIC y LEC según solutos efectivos que no cruzan libremente la membrana.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -509,7 +509,7 @@
     },
     {
       "id": "fisio_renal_cap25_037",
-      "q": "Sobre tonicidad, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con tonicidad, ¿cuál afirmación es correcta?",
       "exp": "La tonicidad depende de solutos no permeantes que sostienen gradientes osmóticos.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -523,7 +523,7 @@
     },
     {
       "id": "fisio_renal_cap25_038",
-      "q": "Sobre NaCl isotonico, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con NaCl isotónico, ¿cuál afirmación es correcta?",
       "exp": "El NaCl isotónico expande sobre todo el líquido extracelular sin cambiar mucho el volumen celular.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -537,7 +537,7 @@
     },
     {
       "id": "fisio_renal_cap25_039",
-      "q": "Sobre NaCl hipertonico, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con NaCl hipertónico, ¿cuál afirmación es correcta?",
       "exp": "El NaCl hipertónico extrae agua de las células y expande el líquido extracelular.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -551,7 +551,7 @@
     },
     {
       "id": "fisio_renal_cap25_040",
-      "q": "Sobre agua libre, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con agua libre, ¿cuál afirmación es correcta?",
       "exp": "El exceso de agua libre baja la osmolaridad extracelular y aumenta el volumen intracelular.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -565,7 +565,7 @@
     },
     {
       "id": "fisio_renal_cap25_041",
-      "q": "Sobre glucosa cinco por ciento, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con glucosa al 5%, ¿cuál afirmación es correcta?",
       "exp": "La glucosa al 5% actúa finalmente como agua libre cuando la glucosa se metaboliza.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -579,7 +579,7 @@
     },
     {
       "id": "fisio_renal_cap25_042",
-      "q": "Sobre urea, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con urea, ¿cuál afirmación es correcta?",
       "exp": "La urea es osmóticamente menos efectiva entre compartimientos porque cruza muchas membranas.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -593,7 +593,7 @@
     },
     {
       "id": "fisio_renal_cap25_043",
-      "q": "Sobre edema extracelular, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con edema extracelular, ¿cuál afirmación es correcta?",
       "exp": "El edema extracelular se produce cuando la filtración capilar supera la reabsorción y el drenaje linfático.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -607,7 +607,7 @@
     },
     {
       "id": "fisio_renal_cap25_044",
-      "q": "Sobre presion venosa, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con presión venosa, ¿cuál afirmación es correcta?",
       "exp": "El aumento de presión venosa favorece edema por elevar la presión hidrostática capilar.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -621,7 +621,7 @@
     },
     {
       "id": "fisio_renal_cap25_045",
-      "q": "Sobre hipoproteinemia, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con hipoproteinemia, ¿cuál afirmación es correcta?",
       "exp": "La caída de proteínas plasmáticas favorece edema por reducir la presión coloidosmótica del plasma.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -635,7 +635,7 @@
     },
     {
       "id": "fisio_renal_cap25_046",
-      "q": "Sobre permeabilidad capilar, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con permeabilidad capilar, ¿cuál afirmación es correcta?",
       "exp": "La mayor permeabilidad capilar a proteínas eleva la presión coloidosmótica intersticial y favorece edema.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -649,7 +649,7 @@
     },
     {
       "id": "fisio_renal_cap25_047",
-      "q": "Sobre linfedema, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con linfedema, ¿cuál afirmación es correcta?",
       "exp": "La obstrucción linfática causa edema porque impide retirar líquido y proteínas del intersticio.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -663,7 +663,7 @@
     },
     {
       "id": "fisio_renal_cap25_048",
-      "q": "Sobre edema intracelular, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con edema intracelular, ¿cuál afirmación es correcta?",
       "exp": "El edema intracelular aparece con hiponatremia o depresión metabólica que altera bombas iónicas.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -677,7 +677,7 @@
     },
     {
       "id": "fisio_renal_cap25_049",
-      "q": "Sobre bomba sodio potasio, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con bomba sodio potasio, ¿cuál afirmación es correcta?",
       "exp": "La falla de la bomba sodio-potasio permite acumular sodio dentro de la célula y arrastrar agua.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
@@ -691,7 +691,7 @@
     },
     {
       "id": "fisio_renal_cap25_050",
-      "q": "Sobre seguridad antiedema, señale la alternativa correcta según el capítulo 25.",
+      "q": "En relación con seguridad antiedema, ¿cuál afirmación es correcta?",
       "exp": "La baja distensibilidad intersticial, el aumento del flujo linfático y el lavado de proteínas protegen contra edema.",
       "topic": "Capítulo 25 - Compartimientos líquidos, osmolaridad y edema",
       "options": [
