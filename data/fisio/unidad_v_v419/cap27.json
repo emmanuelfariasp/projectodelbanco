@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap27",
+  "title": "Capítulo 27",
+  "subtitle": "Filtración glomerular, flujo sanguíneo renal y su control",
+  "questions": [
+    {
+      "id": "fisio_renal_cap27_001",
+      "q": "Un adulto filtra cerca de 180 l/día en los glomérulos, pero excreta alrededor de 1 l/día de orina. ¿Qué interpretación fisiológica es más correcta?",
+      "exp": "La FG diaria es muy grande, pero casi todo el filtrado se reabsorbe; por eso la excreción final es pequeña.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "La cápsula de Bowman almacena casi todo el filtrado hasta que el uréter permite su salida.",
+        "La mayor parte del filtrado glomerular se reabsorbe antes de llegar a la orina final.",
+        "La filtración glomerular solo ocurre cuando aumenta mucho la ingestión diaria de líquido.",
+        "La filtración renal corresponde casi por completo a la excreción urinaria diaria total.",
+        "La reabsorción tubular es mínima porque el filtrado carece de proteínas plasmáticas."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap27_002",
+      "q": "¿Cuál descripción del filtrado glomerular es más compatible con la barrera glomerular normal?",
+      "exp": "El filtrado normal casi no contiene proteínas ni células, pero los solutos pequeños se filtran en concentraciones semejantes al plasma.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Contiene eritrocitos, pero casi no contiene glucosa ni sodio por su tamaño molecular.",
+        "Presenta muchas proteínas plasmáticas, pero carece de sales y moléculas orgánicas pequeñas.",
+        "Tiene composición idéntica al plasma, incluso para sustancias unidas a proteínas.",
+        "Carece casi de proteínas y células, pero contiene muchas sales en concentraciones similares al plasma.",
+        "Contiene albúmina libre en alta concentración, pero no contiene calcio ni ácidos grasos."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap27_003",
+      "q": "Si la FG se mantiene inicialmente constante, pero el flujo plasmático renal disminuye, ¿qué efecto tiende a aparecer sobre la presión coloidosmótica glomerular?",
+      "exp": "Si cae el flujo plasmático renal con FG inicialmente estable, aumenta la fracción de filtración y se concentran proteínas en el capilar.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Aumenta, porque se filtra una fracción mayor del plasma que atraviesa el glomérulo.",
+        "Disminuye, porque las proteínas plasmáticas se diluyen dentro de los capilares glomerulares.",
+        "No cambia, porque la presión coloidosmótica depende solo de la cápsula de Bowman.",
+        "Aumenta solo si la albúmina se filtra libremente hacia el espacio de Bowman.",
+        "Disminuye, porque la fracción de filtración se reduce cuando cae el flujo plasmático renal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap27_004",
+      "q": "¿Cuál combinación representa correctamente las tres capas principales de la membrana capilar glomerular?",
+      "exp": "La barrera glomerular tiene endotelio capilar, membrana basal y epitelio formado por podocitos.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Endotelio continuo, músculo liso vascular y epitelio de transición.",
+        "Cápsula fibrosa renal, membrana basal y células yuxtaglomerulares.",
+        "Endotelio fenestrado, lámina propia ureteral y células principales.",
+        "Mácula densa, membrana basal tubular y células intercaladas.",
+        "Endotelio capilar, membrana basal y epitelio con podocitos."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap27_005",
+      "q": "En la nefropatía por cambios mínimos aparece proteinuria sin grandes alteraciones histológicas iniciales. ¿Qué mecanismo explica mejor este hallazgo?",
+      "exp": "La pérdida de cargas negativas permite que se filtre más albúmina, originando proteinuria o albuminuria.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Aumento primario de la presión en la cápsula de Bowman que arrastra eritrocitos.",
+        "Disminución del diámetro molecular de la albúmina por acción de enzimas tubulares.",
+        "Pérdida de cargas negativas que normalmente limitan la filtración de albúmina.",
+        "Aumento de la reabsorción proximal de proteínas filtradas por pinocitosis.",
+        "Contracción eferente intensa que impide el contacto de proteínas con la barrera."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap27_006",
+      "q": "La albúmina tiene un diámetro menor que los poros glomerulares, pero casi no se filtra. ¿Cuál explicación integra mejor este hecho?",
+      "exp": "La albúmina es grande y negativa; las cargas negativas de la barrera la repelen aunque el poro sea mayor que su diámetro.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "La albúmina es demasiado pequeña para interactuar con las hendiduras de los podocitos.",
+        "Las cargas negativas de la barrera glomerular repelen moléculas grandes con carga negativa.",
+        "La albúmina se convierte en glucosa antes de atravesar el endotelio fenestrado.",
+        "Los poros glomerulares permiten solo proteínas positivas y bloquean todas las sales.",
+        "La presión de Bowman empuja la albúmina de vuelta hacia la arteriola aferente."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap27_007",
+      "q": "¿Qué cambio reduce la FG por disminuir el coeficiente de filtración glomerular, Kf?",
+      "exp": "Menos área capilar funcional o membrana más gruesa reducen Kf y, por tanto, la FG.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Dilatación aislada de la arteriola aferente con membrana capilar intacta.",
+        "Disminución de la presión hidrostática en la cápsula de Bowman.",
+        "Reducción de la presión coloidosmótica del plasma arterial.",
+        "Engrosamiento de la membrana basal y pérdida de capilares funcionantes.",
+        "Aumento moderado de la resistencia eferente con flujo renal conservado."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap27_008",
+      "q": "En condiciones normales, piB se considera cercana a cero. ¿Qué fórmula representa mejor la presión neta de filtración?",
+      "exp": "La presión neta de filtración se expresa como PG - PB - piG + piB; piB suele ser despreciable.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "PG - PB - piG + piB, con piB casi nula en condiciones normales.",
+        "PB - PG + piG - piB, porque la cápsula de Bowman favorece la filtración.",
+        "piG + PB - PG, porque las proteínas glomerulares impulsan el filtrado.",
+        "PG + PB - piG, porque ambas presiones hidrostáticas favorecen la filtración.",
+        "Kf - PG - piG, porque el coeficiente reemplaza a las presiones de Starling."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap27_009",
+      "q": "Un cálculo ureteral eleva la presión retrógrada hasta la cápsula de Bowman. ¿Qué efecto renal directo se espera?",
+      "exp": "La obstrucción aumenta PB, una fuerza que se opone a la filtración y reduce la FG.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Aumento de la FG por elevación de la presión de salida tubular.",
+        "Aumento de la filtración de albúmina por pérdida de cargas negativas.",
+        "Disminución de la presión coloidosmótica glomerular por dilución proteica.",
+        "Aumento de la fracción de filtración por mayor flujo plasmático renal.",
+        "Reducción de la FG por aumento de la presión que se opone a la filtración."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap27_010",
+      "q": "¿Por qué la presión coloidosmótica glomerular aumenta desde el extremo aferente hacia el eferente del capilar?",
+      "exp": "Al filtrarse líquido sin proteínas, las proteínas retenidas se concentran y elevan piG hacia el extremo eferente.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Porque las proteínas plasmáticas se secretan desde la mácula densa al capilar glomerular.",
+        "Porque la cápsula de Bowman transfiere albúmina hacia el capilar por difusión pasiva.",
+        "Porque se filtra agua y solutos pequeños, concentrando proteínas que no se filtran.",
+        "Porque la arteriola eferente agrega proteínas plasmáticas al finalizar la filtración.",
+        "Porque la presión hidrostática glomerular convierte glucosa en proteínas osmóticas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap27_011",
+      "q": "Si la presión hidrostática glomerular se mantiene constante, ¿por qué un aumento del flujo sanguíneo renal puede tender a aumentar la FG?",
+      "exp": "Más flujo renal retrasa el aumento de piG, disminuyendo la oposición coloidosmótica a la filtración.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Porque aumenta la presión de Bowman y reduce la filtración de proteínas.",
+        "Porque enlentece el ascenso de piG y reduce su efecto opositor a la filtración.",
+        "Porque incrementa la carga negativa de los podocitos y filtra más albúmina.",
+        "Porque disminuye el Kf al distender la membrana basal glomerular.",
+        "Porque transforma la filtración en secreción tubular de agua y sodio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap27_012",
+      "q": "¿Qué efecto produce una constricción de la arteriola aferente sobre la FG y el flujo sanguíneo renal?",
+      "exp": "La constricción aferente reduce la entrada de sangre, baja PG y disminuye FG y flujo renal.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Reduce ambos al disminuir la presión hidrostática glomerular y la entrada de sangre.",
+        "Aumenta ambos al elevar la presión posglomerular en capilares peritubulares.",
+        "Mantiene ambos constantes por aumento obligatorio de la presión de Bowman.",
+        "Reduce el flujo, pero aumenta siempre la FG por concentración de proteínas.",
+        "Aumenta la FG y reduce la presión hidrostática glomerular de forma simultánea."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap27_013",
+      "q": "¿Qué ocurre típicamente con una constricción moderada de la arteriola eferente?",
+      "exp": "La constricción eferente moderada aumenta PG y puede elevar ligeramente la FG.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Disminuye PG, aumenta el flujo renal y reduce la fracción de filtración.",
+        "Reduce la FG desde el inicio por caída inmediata de la presión hidrostática glomerular.",
+        "Aumenta el Kf al adelgazar la membrana basal de los capilares glomerulares.",
+        "Aumenta ligeramente la FG al elevar la presión hidrostática glomerular.",
+        "Aumenta la presión de Bowman y bloquea la filtración de solutos pequeños."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap27_014",
+      "q": "¿Por qué una constricción eferente intensa puede disminuir la FG, aunque eleve la presión hidrostática glomerular?",
+      "exp": "La constricción eferente intensa reduce mucho el flujo y eleva piG, que termina superando el efecto de PG.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Porque reduce la presión coloidosmótica glomerular hasta valores cercanos a cero.",
+        "Porque transforma la arteriola eferente en capilar peritubular de baja resistencia.",
+        "Porque aumenta la filtración de proteínas y elimina el gradiente osmótico.",
+        "Porque dilata la arteriola aferente y reduce la llegada de plasma al glomérulo.",
+        "Porque reduce mucho el flujo renal y aumenta marcadamente la presión coloidosmótica glomerular."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap27_015",
+      "q": "En pérdida de volumen o baja presión de perfusión renal, ¿cuál acción de la angiotensina II ayuda a sostener la FG?",
+      "exp": "La angiotensina II contrae sobre todo la eferente y ayuda a sostener PG cuando la perfusión cae.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Dilata de forma preferente las arteriolas eferentes y reduce la presión glomerular.",
+        "Bloquea la reabsorción proximal de sodio y aumenta la llegada a la mácula densa.",
+        "Contrae preferentemente las arteriolas eferentes y ayuda a mantener PG.",
+        "Disminuye la liberación de renina y elimina el mecanismo tubuloglomerular.",
+        "Reduce la presión coloidosmótica plasmática al aumentar la filtración de albúmina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap27_016",
+      "q": "Los riñones reciben cerca del 22% del gasto cardíaco, aunque pesan solo una pequeña fracción del cuerpo. ¿Cuál es la razón funcional principal?",
+      "exp": "El flujo renal elevado aporta plasma suficiente para una filtración alta y un control fino de agua y solutos.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Aportar suficiente plasma para una elevada FG y una regulación precisa de agua y solutos.",
+        "Sostener un consumo de oxígeno mayor que el flujo sanguíneo disponible en la médula.",
+        "Mantener la vejiga llena de forma constante independientemente del filtrado glomerular.",
+        "Permitir que los eritrocitos atraviesen libremente la cápsula de Bowman.",
+        "Asegurar que la presión venosa renal sea mayor que la presión arterial renal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap27_017",
+      "q": "Si la FG cae intensamente y se filtra menos sodio, ¿qué ocurre con el consumo renal de oxígeno?",
+      "exp": "Gran parte del oxígeno renal se usa para reabsorber sodio; si se filtra menos sodio, se consume menos oxígeno.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Aumenta mucho porque la reabsorción de sodio exige más ATP por molécula.",
+        "Permanece igual porque depende solo del metabolismo basal de los podocitos.",
+        "Desaparece por completo porque las células renales no tienen consumo residual.",
+        "Disminuye en proporción a la menor reabsorción tubular de sodio.",
+        "Aumenta al reducirse la extracción arteriovenosa de oxígeno."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap27_018",
+      "q": "¿En qué contexto el sistema nervioso simpático renal reduce claramente la FG?",
+      "exp": "La activación simpática intensa, como en hemorragia grave, contrae vasos renales y reduce flujo y FG.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "En reposo, por tono simpático basal mantenido sobre las arteriolas aferentes.",
+        "Durante activación intensa, como hemorragia grave o reacción de defensa.",
+        "Durante estimulación leve, sin cambios en reabsorción tubular de sodio.",
+        "Solo durante aumento de glucemia por dilatación de arteriolas aferentes.",
+        "Cuando la presión arterial sube levemente por encima de valores normales."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap27_019",
+      "q": "¿Qué efecto puede tener un aumento ligero de la actividad simpática renal, aunque modifique poco la FG?",
+      "exp": "Aunque la FG cambie poco, el simpático leve puede aumentar la reabsorción tubular y reducir la excreción de sodio y agua.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Incrementa la filtración de albúmina por pérdida de cargas negativas.",
+        "Aumenta la presión de Bowman por contracción de la pelvis renal.",
+        "Reduce la producción de angiotensina II en células endoteliales.",
+        "Bloquea la autorregulación miógena de las arteriolas aferentes.",
+        "Disminuye la excreción de sodio y agua al aumentar la reabsorción tubular."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap27_020",
+      "q": "¿Cuál grupo tiende a contraer vasos renales y reducir el flujo sanguíneo renal y la FG?",
+      "exp": "Noradrenalina, adrenalina y endotelina son vasoconstrictores renales que reducen flujo y FG.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Óxido nítrico, bradicinina y prostaglandinas vasodilatadoras.",
+        "Angiotensina II, óxido nítrico y péptidos natriuréticos.",
+        "Noradrenalina, adrenalina y endotelina.",
+        "Glucosa filtrada, aminoácidos y prostaglandina I2.",
+        "Renina, inulina y bicarbonato filtrado."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap27_021",
+      "q": "La inhibición de la producción basal de óxido nítrico endotelial renal tendería a producir ¿cuál secuencia?",
+      "exp": "El NO basal mantiene vasodilatación; inhibirlo aumenta resistencia renal, baja FG y reduce natriuresis.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Aumento de resistencia vascular renal, reducción de FG y menor excreción de sodio.",
+        "Disminución de resistencia renal, aumento de FG y natriuresis marcada.",
+        "Aumento de filtración de proteínas por neutralización de la membrana basal.",
+        "Dilatación eferente selectiva, caída de presión de Bowman y aumento de diuresis.",
+        "Activación directa de SGLT y reducción de reabsorción proximal de sodio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap27_022",
+      "q": "En una persona con pérdida de volumen, el uso de un AINE puede reducir la FG. ¿Cuál explicación es más adecuada?",
+      "exp": "En estrés o hipovolemia, las prostaglandinas protegen la arteriola aferente; los AINE eliminan ese efecto.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Los AINE bloquean directamente la presión hidrostática de la cápsula de Bowman.",
+        "Los AINE aumentan la liberación de endotelina desde células endoteliales intactas.",
+        "Los AINE reducen la formación de angiotensina II en la arteriola eferente.",
+        "Los AINE inhiben prostaglandinas que amortiguan la vasoconstricción aferente.",
+        "Los AINE aumentan el Kf y causan pérdida de proteínas en el filtrado."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap27_023",
+      "q": "¿Cuál papel de prostaglandinas y bradicinina es más coherente con el capítulo?",
+      "exp": "Prostaglandinas y bradicinina son vasodilatadoras y amortiguan vasoconstrictores como simpático o angiotensina II.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Reducen el flujo renal al contraer de forma intensa las arteriolas aferentes.",
+        "Producen vasodilatación y pueden oponerse a vasoconstrictores renales.",
+        "Sustituyen a la mácula densa como sensor principal de cloruro de sodio.",
+        "Aumentan la presión de Bowman para limitar la filtración en reposo.",
+        "Eliminan la necesidad de angiotensina II en la estenosis de arteria renal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap27_024",
+      "q": "¿Qué afirmación describe mejor la autorregulación renal de la FG?",
+      "exp": "La autorregulación mantiene FG y flujo renal relativamente constantes ante cambios amplios de presión.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Mantiene fijo el flujo urinario, pero no controla el flujo sanguíneo renal.",
+        "Depende exclusivamente de hormonas circulantes provenientes de la médula suprarrenal.",
+        "Actúa solo cuando la presión arterial cae por debajo de 40 mmHg.",
+        "Aumenta la FG más del 30% ante cualquier cambio moderado de presión arterial.",
+        "Mantiene la FG relativamente constante pese a cambios amplios de presión arterial."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap27_025",
+      "q": "Sin autorregulación, una elevación de presión arterial de 100 a 125 mmHg podría aumentar enormemente el flujo urinario. ¿Qué razonamiento explica esto?",
+      "exp": "Como la excreción es la diferencia entre FG y reabsorción, pequeños cambios de FG pueden generar grandes cambios urinarios.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "La vejiga aumenta su reabsorción de agua cuando sube la presión arterial.",
+        "La filtración disminuiría mientras la reabsorción tubular aumentaría en la misma proporción.",
+        "Una pequeña elevación de FG, si la reabsorción no acompaña, deja mucho más líquido para excretar.",
+        "La presión arterial alta bloquea el flujo plasmático renal y concentra proteínas en el plasma.",
+        "La presión venosa renal se vuelve mayor que la arterial y empuja filtrado hacia la sangre."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap27_026",
+      "q": "¿Cuál es el objetivo funcional principal de la retroalimentación tubuloglomerular?",
+      "exp": "La retroalimentación tubuloglomerular busca estabilizar la llegada distal de cloruro de sodio.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Mantener relativamente constante la llegada de NaCl al túbulo distal.",
+        "Garantizar que todo el sodio filtrado sea excretado sin reabsorción tubular.",
+        "Aumentar la presión de Bowman siempre que se eleva la presión arterial.",
+        "Sustituir el control simpático en hemorragias graves y sostenidas.",
+        "Impedir la formación de angiotensina II durante dietas bajas en sodio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap27_027",
+      "q": "¿Cuál estructura corresponde correctamente al complejo yuxtaglomerular?",
+      "exp": "El complejo yuxtaglomerular incluye mácula densa y células yuxtaglomerulares de arteriolas aferente y eferente.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Podocitos, células mesangiales y células principales del conducto colector.",
+        "Epitelio ureteral, células intercaladas y músculo detrusor.",
+        "Cálices menores, papila renal y células de la cápsula fibrosa.",
+        "Mácula densa y células yuxtaglomerulares de arteriolas aferente y eferente.",
+        "Membrana basal glomerular, eritrocitos y capilares peritubulares."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap27_028",
+      "q": "Una disminución de NaCl en la mácula densa desencadena ¿qué respuesta combinada?",
+      "exp": "Bajo NaCl en mácula densa dilata la aferente y aumenta renina, lo que favorece angiotensina II.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Constricción aferente y menor liberación de renina para reducir la FG.",
+        "Dilatación aferente y aumento de renina, con generación posterior de angiotensina II.",
+        "Aumento de presión de Bowman y bloqueo de la arteriola eferente.",
+        "Disminución de Kf y aumento de filtración de proteínas plasmáticas.",
+        "Dilatación eferente intensa con caída obligatoria de presión glomerular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap27_029",
+      "q": "¿Por qué un inhibidor de la ECA puede disminuir marcadamente la FG en estenosis de arteria renal?",
+      "exp": "En estenosis, la angiotensina II sostiene PG por constricción eferente; bloquearla puede reducir mucho la FG.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Porque aumenta la reabsorción proximal de glucosa y reduce la llegada de sodio distal.",
+        "Porque bloquea la vasodilatación por óxido nítrico en arteriolas aferentes.",
+        "Porque aumenta la presión en la cápsula de Bowman por contracción ureteral.",
+        "Porque disminuye la presión coloidosmótica plasmática y reduce el gradiente de filtración.",
+        "Porque impide la constricción eferente mediada por angiotensina II que sostenía PG."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap27_030",
+      "q": "¿Qué describe mejor el mecanismo miógeno renal?",
+      "exp": "El mecanismo miógeno responde al estiramiento con entrada de calcio y contracción del músculo liso vascular.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "La mácula densa detecta NaCl y libera renina hacia células musculares lisas.",
+        "Los podocitos responden al estiramiento aumentando los poros en hendidura.",
+        "El estiramiento arteriolar aumenta entrada de calcio y causa contracción del músculo liso.",
+        "La angiotensina II dilata arteriolas aferentes para evitar lesión por hipertensión.",
+        "El aumento de presión arterial reduce la resistencia vascular por relajación refleja."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap27_031",
+      "q": "¿Cómo puede una comida rica en proteínas aumentar la FG en 1 a 2 horas?",
+      "exp": "Aminoácidos y sodio se reabsorben juntos en proximal; baja NaCl en mácula densa y se dilata la aferente.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Aumenta reabsorción proximal de aminoácidos y sodio, baja NaCl en mácula densa y dilata aferente.",
+        "Aumenta la presión de Bowman al elevar la cantidad de urea dentro del túbulo distal.",
+        "Disminuye la reabsorción proximal de sodio y aumenta NaCl en la mácula densa.",
+        "Estimula endotelina para contraer arteriolas aferentes y elevar el flujo renal.",
+        "Reduce el Kf al aumentar transitoriamente el espesor de la membrana basal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap27_032",
+      "q": "En diabetes mellitus no controlada, la hiperglucemia puede aumentar la FG. ¿Qué secuencia del capítulo explica mejor este fenómeno?",
+      "exp": "La glucosa se reabsorbe con sodio; al disminuir NaCl distal, la retroalimentación dilata la aferente y aumenta FG.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Glucosa filtrada inhibe SGLT, aumenta NaCl distal y causa constricción aferente.",
+        "Glucosa filtrada se une a albúmina, reduce piG y bloquea la filtración.",
+        "Glucosa aumenta la presión de Bowman y fuerza la salida de filtrado.",
+        "Más glucosa se reabsorbe con sodio en túbulo proximal, baja NaCl en mácula densa y dilata aferente.",
+        "La hiperglucemia destruye la mácula densa y elimina la autorregulación renal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap27_033",
+      "q": "Un daño tubular proximal por metales pesados reduce la reabsorción de NaCl antes de la mácula densa. ¿Qué respuesta compensadora es esperada?",
+      "exp": "Si llega demasiado NaCl a la mácula densa, la respuesta compensadora es vasoconstricción para reducir la carga distal.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Aumento de reabsorción de aminoácidos para reducir el flujo plasmático renal.",
+        "Vasoconstricción renal mediada por retroalimentación tubuloglomerular.",
+        "Dilatación aferente por baja llegada de NaCl al túbulo distal.",
+        "Secreción de albúmina por podocitos para elevar la presión oncótica tubular.",
+        "Aumento de Kf por adelgazamiento rápido de la membrana basal glomerular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap27_034",
+      "q": "¿Cuál afirmación evita una interpretación equivocada del mecanismo tubuloglomerular?",
+      "exp": "El blanco funcional no es solo FG o flujo, sino la entrega adecuada de NaCl al túbulo distal.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Su variable primaria controlada es siempre el flujo sanguíneo renal máximo.",
+        "Solo actúa si la osmolaridad plasmática aumenta por encima de lo normal.",
+        "Su función es impedir toda variación de la excreción de urea.",
+        "Opera únicamente por hormonas sistémicas sin señales intrarrenales.",
+        "Busca estabilizar la llegada distal de NaCl, aunque cambien FG o flujo renal."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap27_035",
+      "q": "La fracción de filtración se define como FG/FPR. Si aumenta la fracción de filtración, ¿qué cambio favorece la reducción posterior de la FG?",
+      "exp": "Una fracción de filtración alta concentra proteínas y eleva piG, fuerza que se opone a la FG.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Disminución de la concentración de proteínas en el extremo eferente del glomérulo.",
+        "Aumento de la presión hidrostática en la cápsula de Bowman por dilatación ureteral.",
+        "Elevación más rápida de la presión coloidosmótica capilar glomerular.",
+        "Reducción del gradiente de concentración de sodio en el túbulo proximal.",
+        "Aumento de la presión coloidosmótica en la cápsula de Bowman."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap27_036",
+      "q": "¿Por qué piB suele no contribuir de forma relevante a la filtración normal?",
+      "exp": "Como casi no hay proteínas en el filtrado, la presión coloidosmótica de Bowman es prácticamente cero.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Porque el filtrado normal contiene tan pocas proteínas que su presión coloidosmótica es despreciable.",
+        "Porque la cápsula de Bowman contiene más albúmina que el plasma glomerular.",
+        "Porque la presión hidrostática de Bowman siempre favorece la filtración.",
+        "Porque las proteínas pasan libremente por fenestraciones y podocitos.",
+        "Porque el flujo tubular elimina toda el agua antes de que se forme presión osmótica."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap27_037",
+      "q": "¿Qué combinación de características aumenta más la capacidad de una molécula para filtrarse por el glomérulo?",
+      "exp": "Las moléculas pequeñas y no unidas a proteínas se filtran con mayor facilidad.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Gran tamaño molecular y carga negativa fuerte.",
+        "Unión intensa a proteínas plasmáticas y alto radio molecular.",
+        "Tamaño similar a albúmina y carga polianiónica.",
+        "Bajo peso molecular y ausencia de unión importante a proteínas plasmáticas.",
+        "Alto peso molecular y carga negativa neutralizada en el túbulo proximal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap27_038",
+      "q": "¿Cómo puede la membrana glomerular filtrar mucho líquido y al mismo tiempo restringir proteínas?",
+      "exp": "La barrera es muy permeable a agua y solutos pequeños, pero restringe proteínas por tamaño y carga.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Porque la presión de Bowman selecciona moléculas antes de entrar al glomérulo.",
+        "Porque combina alta porosidad para agua/solutos pequeños con barreras de tamaño y carga.",
+        "Porque la filtración solo ocurre a través de células musculares lisas eferentes.",
+        "Porque las proteínas son reabsorbidas antes de alcanzar la membrana basal.",
+        "Porque las fenestraciones endoteliales son impermeables incluso a electrolitos pequeños."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap27_039",
+      "q": "¿Por qué parte del calcio plasmático y muchos ácidos grasos no se filtran libremente?",
+      "exp": "La porción unida a proteínas plasmáticas no se filtra libremente.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Porque tienen carga positiva y son repelidos por las hendiduras de podocitos.",
+        "Porque son degradados en la arteriola aferente antes de llegar al glomérulo.",
+        "Porque atraviesan solo capilares peritubulares y nunca capilares glomerulares.",
+        "Porque su diámetro siempre supera al de la albúmina plasmática.",
+        "Porque una fracción está unida a proteínas plasmáticas que no se filtran."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap27_040",
+      "q": "¿Cuáles variables determinan directamente la presión hidrostática glomerular bajo control fisiológico?",
+      "exp": "PG depende de presión arterial y de las resistencias aferente y eferente.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Hematocrito, concentración de glucosa y presión coloidosmótica tubular.",
+        "Kf, presión de Bowman y concentración de albúmina urinaria.",
+        "Presión arterial, resistencia aferente y resistencia eferente.",
+        "Flujo urinario, osmolaridad medular y permeabilidad a la urea.",
+        "Volumen vesical, presión uretral y actividad del detrusor."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap27_041",
+      "q": "¿Cuál afirmación sobre Kf es más correcta?",
+      "exp": "Kf no es el regulador diario principal, pero enfermedades como hipertensión y diabetes pueden reducirlo.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "No suele regular la FG día a día, pero puede reducirse en enfermedades glomerulares.",
+        "Es el principal sensor de NaCl de la mácula densa durante hipoperfusión.",
+        "Disminuye cuando aumenta el área superficial capilar disponible para filtración.",
+        "Equivale a la presión hidrostática glomerular multiplicada por la presión de Bowman.",
+        "Aumenta en hipertensión crónica por engrosamiento de la membrana basal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap27_042",
+      "q": "¿Qué expresa mejor los determinantes del flujo sanguíneo renal?",
+      "exp": "El flujo renal depende del gradiente de presión entre arteria y vena renal dividido por la resistencia vascular renal.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "FG dividida entre la presión neta de filtración glomerular.",
+        "Fracción de filtración multiplicada por presión de Bowman.",
+        "Presión coloidosmótica glomerular dividida entre Kf.",
+        "Gradiente de presión arteria renal-vena renal dividido por resistencia vascular renal.",
+        "Reabsorción tubular de sodio dividida entre consumo renal de oxígeno."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap27_043",
+      "q": "En una persona sana en reposo, ¿qué efecto tiene el tono simpático sobre flujo sanguíneo renal y FG?",
+      "exp": "En reposo, el tono simpático influye poco; su importancia aumenta en situaciones agudas graves.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Es el principal determinante de la FG basal en todo momento.",
+        "Ejerce poca influencia comparado con situaciones agudas graves.",
+        "Mantiene el flujo renal en cero hasta que aparece estímulo barorreceptor.",
+        "Produce vasoconstricción máxima de arteriolas aferentes y eferentes.",
+        "Aumenta la FG al dilatar selectivamente la arteriola eferente."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap27_044",
+      "q": "¿Cuál situación se relaciona mejor con aumento de endotelina y vasoconstricción renal?",
+      "exp": "La endotelina aumenta en lesión vascular y puede contribuir a vasoconstricción renal en varios trastornos.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Reabsorción proximal aumentada por una comida rica en proteínas.",
+        "Aumento basal de óxido nítrico en endotelio renal sano.",
+        "Disminución leve de presión en barorreceptores cardiopulmonares.",
+        "Dilatación aferente por reducción de NaCl en mácula densa.",
+        "Lesión vascular, insuficiencia renal aguda o uremia crónica."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap27_045",
+      "q": "En la figura de autorregulación renal, ¿qué variable no se autorregula de la misma forma que FG y flujo sanguíneo renal?",
+      "exp": "FG y flujo renal se autorregulan mejor que el flujo de orina, que varía con la presión.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Presión hidrostática glomerular.",
+        "Concentración de NaCl en mácula densa.",
+        "Flujo de orina.",
+        "Resistencia arteriolar aferente.",
+        "Flujo plasmático renal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap27_046",
+      "q": "Además de sostener la FG, ¿qué favorece la constricción eferente inducida por angiotensina II durante hipovolemia?",
+      "exp": "La constricción eferente reduce el flujo peritubular y favorece reabsorción de sodio y agua.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Reduce flujo peritubular y favorece reabsorción tubular de sodio y agua.",
+        "Aumenta la presión en la cápsula de Bowman y promueve excreción de agua.",
+        "Impide la reabsorción proximal de sodio al bloquear la bomba Na-K ATPasa.",
+        "Aumenta la pérdida urinaria de sodio para normalizar la osmolaridad.",
+        "Elimina la necesidad de aldosterona y renina en el control del volumen."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap27_047",
+      "q": "¿Por qué las arteriolas aferentes están relativamente protegidas de la contracción por angiotensina II en muchas condiciones fisiológicas?",
+      "exp": "NO y prostaglandinas protegen vasos preglomerulares frente a la vasoconstricción por angiotensina II.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Porque no poseen receptores para angiotensina II en su pared vascular.",
+        "Porque la presión de Bowman neutraliza cualquier respuesta del músculo liso.",
+        "Porque el túbulo proximal libera albúmina que bloquea el receptor vascular.",
+        "Porque prostaglandinas y óxido nítrico contrarrestan la vasoconstricción.",
+        "Porque la angiotensina II se degrada antes de llegar a vasos preglomerulares."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap27_048",
+      "q": "Si aumenta la llegada de NaCl a la mácula densa por lesión proximal, ¿qué respuesta ayuda a evitar pérdida excesiva de volumen?",
+      "exp": "La llegada elevada de NaCl a la mácula densa activa vasoconstricción tubuloglomerular para limitar pérdidas.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Dilatación aferente sostenida con aumento de FG y natriuresis.",
+        "Vasoconstricción renal por retroalimentación tubuloglomerular.",
+        "Aumento de renina por caída de NaCl en el túbulo distal.",
+        "Reducción de la presión de Bowman por obstrucción ureteral.",
+        "Aumento de Kf por proliferación inmediata de capilares glomerulares."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap27_049",
+      "q": "¿Qué relación cuantitativa basal resume mejor FG, reabsorción y excreción urinaria?",
+      "exp": "Con FG de unos 180 l/día y orina cercana a 1-1,5 l/día, más del 99% se reabsorbe.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "La excreción urinaria es cercana al 20% de la FG diaria total.",
+        "La FG normal es menor que el flujo urinario en condiciones de reposo.",
+        "La reabsorción tubular equivale solo a la mitad del líquido filtrado.",
+        "El flujo plasmático renal es igual a la excreción urinaria por minuto.",
+        "Más del 99% del líquido filtrado se reabsorbe normalmente."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap27_050",
+      "q": "¿Cuál conjunto de cambios tiende a reducir la FG según los determinantes del capítulo?",
+      "exp": "Reducir Kf o PG, o aumentar PB/piG, disminuye la presión neta de filtración y la FG.",
+      "topic": "Capítulo 27 - Filtración glomerular, flujo sanguíneo renal y su control",
+      "options": [
+        "Aumento de Kf, reducción de PB y disminución de piG.",
+        "Dilatación aferente, aumento moderado de resistencia eferente y aumento de PG.",
+        "Disminución de Kf, aumento de PB, aumento de piG y reducción de PG.",
+        "Aumento del flujo renal, descenso de fracción de filtración y reducción de resistencia aferente.",
+        "Disminución de presión coloidosmótica arterial y reducción de resistencia vascular renal."
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -433,3 +433,9 @@ body{margin:0;font-family:Inter,Arial,Helvetica,sans-serif;background:var(--bg);
   .dashboardStats{grid-template-columns:1fr 1fr!important;}
   .randomButtons .btn{flex-basis:100%!important;}
 }
+
+
+/* V4.20 - explicaciones detalladas de Microbiología */
+.expText{white-space:pre-line;line-height:1.55;margin-top:8px}
+.reviewExp .expText{margin-top:10px;color:inherit}
+.microUnitHint{font-size:13px;color:var(--muted);margin-top:8px}

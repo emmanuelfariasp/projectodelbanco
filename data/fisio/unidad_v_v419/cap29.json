@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap29",
+  "title": "Capítulo 29",
+  "subtitle": "Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+  "questions": [
+    {
+      "id": "fisio_renal_cap29_001",
+      "q": "Un paciente ingiere gran cantidad de agua y su osmolaridad extracelular disminuye. ¿Qué respuesta renal explica mejor la eliminación del exceso de agua sin gran aumento de la excreción de solutos?",
+      "exp": "Con exceso de agua baja la ADH; los segmentos distales siguen reabsorbiendo solutos, pero reabsorben poca agua, formando orina diluida.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Aumento de ADH con mayor permeabilidad al agua en los conductos colectores.",
+        "Disminución de ADH con persistencia de reabsorción de solutos en segmentos distales.",
+        "Inhibición completa de la filtración glomerular hasta normalizar la osmolaridad.",
+        "Aumento de aldosterona con secreción de agua hacia la luz del túbulo proximal.",
+        "Bloqueo del asa ascendente para impedir la salida de cloruro de sodio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_002",
+      "q": "Después de beber 1 litro de agua, el flujo urinario aumenta y la osmolaridad urinaria cae, mientras la excreción total de solutos cambia poco. ¿Cuál es la interpretación más correcta?",
+      "exp": "La diuresis acuosa elimina exceso de agua; la cantidad de solutos excretados permanece casi constante.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "El riñón elimina principalmente solutos para reducir la osmolaridad plasmática.",
+        "El riñón reduce la filtración de agua y aumenta la secreción tubular de sodio.",
+        "El riñón excreta agua libre, manteniendo relativamente constante la salida de solutos.",
+        "El riñón concentra la orina para evitar que el plasma se vuelva hipoosmótico.",
+        "El riñón aumenta la reabsorción de agua y disminuye el flujo en los colectores."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_003",
+      "q": "El filtrado que acaba de formarse en el glomérulo tiene una osmolaridad parecida a la del plasma. ¿Qué ocurre normalmente en el túbulo proximal?",
+      "exp": "En el túbulo proximal, la reabsorción de agua acompaña a la de solutos; por eso el líquido permanece cerca de 300 mOsm/l.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Se reabsorbe más agua que soluto, por lo que el líquido se vuelve hipoosmótico.",
+        "Se reabsorben agua y solutos en proporciones semejantes, manteniendo isoosmolaridad.",
+        "Se secreta cloruro de sodio hacia la luz, elevando mucho la osmolaridad tubular.",
+        "Se bloquea el paso de agua hasta que el filtrado alcanza el asa ascendente.",
+        "Se reabsorbe solo urea, haciendo que el líquido tubular se diluya intensamente."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_004",
+      "q": "Un segmento tubular reabsorbe Na+, K+ y Cl- con intensidad, pero es impermeable al agua incluso con ADH elevada. ¿Qué efecto produce sobre el líquido tubular?",
+      "exp": "La rama ascendente gruesa del asa de Henle diluye el líquido porque extrae solutos y permanece impermeable al agua.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Lo vuelve progresivamente hipoosmótico al retirar solutos sin retirar agua.",
+        "Lo concentra hasta igualarlo con la médula interna renal.",
+        "Lo mantiene isoosmótico porque el agua sigue siempre al sodio.",
+        "Lo acidifica por secreción obligatoria de hidrógeno y urea.",
+        "Lo convierte en orina final antes de entrar al túbulo distal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_005",
+      "q": "En ausencia de ADH, el líquido tubular que llega a la porción final del túbulo distal y a los colectores puede alcanzar cerca de 50 mOsm/l. ¿Por qué sucede esto?",
+      "exp": "Sin ADH, los segmentos distales y colectores reabsorben solutos, pero no agua suficiente; por eso la orina se diluye mucho.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Porque el túbulo proximal deja de filtrar sodio y agua al mismo tiempo.",
+        "Porque los colectores secretan agua activamente hacia la luz tubular.",
+        "Porque continúa la reabsorción de NaCl, pero el epitelio es poco permeable al agua.",
+        "Porque la urea se reabsorbe masivamente desde la corteza hacia el plasma.",
+        "Porque la médula pierde por completo su gradiente osmótico normal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_006",
+      "q": "Un individuo con gran exceso de agua puede excretar hasta unos 20 l/día de orina muy diluida. ¿Qué condición tubular permite esta capacidad?",
+      "exp": "La formación de grandes volúmenes de orina diluida depende de retirar solutos y dejar agua en la luz tubular cuando falta ADH.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "La reabsorción distal continua de solutos con baja permeabilidad al agua.",
+        "La secreción masiva de sodio en el túbulo proximal y en la mácula densa.",
+        "La filtración exclusiva de agua por capilares glomerulares sin electrolitos.",
+        "La inactivación del asa ascendente y de los conductos colectores medulares.",
+        "La reabsorción de urea en la corteza con bloqueo del flujo urinario distal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_007",
+      "q": "Para producir orina muy concentrada en una deficiencia de agua, ¿qué combinación es indispensable?",
+      "exp": "La ADH da permeabilidad al agua y la médula hiperosmótica proporciona el gradiente para reabsorberla.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Baja ADH y médula renal con osmolaridad cercana a la del plasma.",
+        "Alta ADH y líquido intersticial medular renal hiperosmótico.",
+        "Alta aldosterona y ausencia de transporte de solutos en el asa ascendente.",
+        "Baja filtración glomerular y pérdida de permeabilidad al agua en colectores.",
+        "Alta angiotensina II y eliminación completa de urea por el túbulo proximal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_008",
+      "q": "Aunque la ADH esté en concentración máxima, un aumento importante del flujo sanguíneo medular reduce la capacidad de concentrar la orina. ¿Cuál es la causa más probable?",
+      "exp": "El aumento del flujo medular puede lavar solutos de la médula; sin gradiente medular suficiente, la ADH no logra concentrar al máximo.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "La ADH deja de unirse a los osmorreceptores de la región AV3V.",
+        "El flujo medular arrastra solutos y disminuye la hiperosmolaridad intersticial.",
+        "La presión en la cápsula de Bowman aumenta e impide la filtración de agua.",
+        "Los conductos colectores secretan sodio hacia la médula de manera activa.",
+        "La urea se convierte en glucosa y deja de contribuir a la osmolaridad."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_009",
+      "q": "Un adulto debe excretar 600 mOsm de solutos por día y su orina máxima alcanza 1.200 mOsm/l. ¿Qué volumen mínimo de orina es necesario?",
+      "exp": "Volumen obligatorio = carga osmolar a excretar / osmolaridad urinaria máxima: 600/1.200 = 0,5 l/día.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "0,25 l/día, porque solo se elimina la mitad del soluto filtrado.",
+        "0,5 l/día, porque 600 mOsm requieren ese volumen a 1.200 mOsm/l.",
+        "1,0 l/día, porque la urea limita toda concentración urinaria.",
+        "1,5 l/día, porque el sodio siempre ocupa la mitad de la osmolaridad.",
+        "2,0 l/día, porque el túbulo proximal mantiene el filtrado isoosmótico."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_010",
+      "q": "Una persona bebe agua de mar con osmolaridad aproximada de 1.200 mOsm/l. ¿Por qué esto tiende a deshidratarla?",
+      "exp": "Aunque la orina pueda alcanzar 1.200 mOsm/l, otros solutos también deben excretarse; se requiere más agua que la ingerida para eliminar el NaCl del agua de mar.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Porque el riñón no filtra NaCl y debe eliminarlo por sudoración obligatoria.",
+        "Porque el NaCl ingerido exige más agua urinaria al coexistir con otros solutos como urea.",
+        "Porque el agua de mar inhibe toda secreción de ADH y bloquea los colectores.",
+        "Porque la médula renal queda hipotónica y no permite formar orina alguna.",
+        "Porque la vejiga reabsorbe sodio hacia la sangre antes de la micción."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_011",
+      "q": "La densidad específica urinaria puede sugerir falsamente una orina muy concentrada cuando hay glucosa o medio de contraste en la orina. ¿Qué explica esta limitación?",
+      "exp": "La densidad específica depende de la masa de solutos por volumen; moléculas grandes elevan el valor aunque la osmolalidad no aumente proporcionalmente.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "La densidad específica depende del peso y tamaño de los solutos, no solo de su número.",
+        "La osmolaridad mide el peso molecular total y no la cantidad de partículas.",
+        "La glucosa reduce la masa urinaria aunque aumente la cantidad de osmoles.",
+        "El refractómetro mide únicamente sodio y cloro, ignorando moléculas grandes.",
+        "La ADH transforma moléculas grandes en partículas osmóticamente inactivas."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_012",
+      "q": "El mecanismo multiplicador de contracorriente depende especialmente de nefronas yuxtamedulares. ¿Qué rasgo anatómico lo favorece?",
+      "exp": "Las asas largas y los vasos rectos en U permiten establecer y conservar el gradiente osmótico medular.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Glomérulos superficiales con asas cortas que no penetran en la médula.",
+        "Asas de Henle largas y vasos rectos que se introducen profundamente en la médula.",
+        "Conductos colectores que terminan en la corteza sin atravesar la médula.",
+        "Cálices menores con epitelio secretor de sodio hacia la pelvis renal.",
+        "Arteriolas aferentes sin relación con túbulos distales ni mácula densa."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_013",
+      "q": "La osmolaridad medular puede llegar a 1.200-1.400 mOsm/l en la papila. ¿Qué afirmación resume mejor cómo se alcanza?",
+      "exp": "El gradiente medular resulta de añadir solutos, sobre todo NaCl y urea, más de lo que se añade agua.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "La médula acumula más solutos que agua por transporte de NaCl, urea y baja entrada relativa de agua.",
+        "La médula se vuelve hiperosmótica solo porque la filtración glomerular aumenta durante la deshidratación.",
+        "La médula concentra agua por secreción activa desde los capilares hacia los colectores.",
+        "La médula elimina urea hacia la corteza para mantener el intersticio sin osmoles.",
+        "La médula depende únicamente del túbulo proximal, que bombea NaCl contra la corriente."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_014",
+      "q": "La bomba de la rama ascendente gruesa establece un gradiente de unos 200 mOsm entre la luz tubular y el intersticio. ¿Por qué este gradiente se puede mantener?",
+      "exp": "Al salir solutos sin que el agua los siga, se crea una diferencia osmótica entre el líquido tubular y el intersticio.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Porque el agua acompaña al NaCl y diluye el intersticio medular.",
+        "Porque la rama ascendente gruesa es casi impermeable al agua.",
+        "Porque el túbulo proximal impide la entrada de líquido al asa de Henle.",
+        "Porque el conducto colector bloquea toda difusión de urea.",
+        "Porque los vasos rectos bombean solutos activamente hacia la luz tubular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_015",
+      "q": "En la rama descendente del asa de Henle, el líquido tubular se concentra al descender hacia la médula. ¿Cuál propiedad segmentaria explica esto?",
+      "exp": "La rama descendente permite salida de agua hacia la médula hiperosmótica; por eso el líquido tubular se concentra.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Alta permeabilidad al agua y menor permeabilidad relativa a NaCl y urea.",
+        "Baja permeabilidad al agua y transporte activo intenso de potasio.",
+        "Secreción activa de urea desde la luz tubular hacia el plasma cortical.",
+        "Bloqueo de la ósmosis por ausencia de acuaporinas en todo el segmento.",
+        "Reabsorción de solutos sin paso de agua hacia el intersticio medular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_016",
+      "q": "¿Qué significa que el sistema sea un “multiplicador” por contracorriente y no solo un intercambiador?",
+      "exp": "El transporte repetido de NaCl en la rama ascendente y el flujo continuo multiplican un gradiente local hasta formar un gran gradiente corticomedular.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Que crea repetidamente pequeños gradientes locales que se suman a lo largo de la médula.",
+        "Que elimina todo gradiente al mezclar sangre venosa y filtrado glomerular.",
+        "Que produce urea nueva a partir de sodio en la rama descendente.",
+        "Que aumenta la filtración glomerular cada vez que baja la ADH.",
+        "Que concentra el plasma renal sin modificar el intersticio medular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_017",
+      "q": "Con ADH alta, se reabsorbe gran cantidad de agua en el túbulo colector cortical. ¿Por qué esto ayuda a conservar la hiperosmolaridad medular?",
+      "exp": "Gran parte del agua sale en la corteza; así se evita añadir demasiado agua al intersticio medular, preservando su gradiente.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Porque esa agua se reabsorbe principalmente hacia la corteza y no diluye tanto la médula.",
+        "Porque el agua cortical se convierte en urea antes de llegar a los vasos rectos.",
+        "Porque la corteza funciona como barrera absoluta frente al flujo peritubular.",
+        "Porque los capilares peritubulares secretan esa agua de vuelta al túbulo distal.",
+        "Porque la ADH impide toda reabsorción en los conductos colectores medulares."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_018",
+      "q": "Cuando el riñón forma orina concentrada al máximo, ¿cuál es el aporte aproximado de la urea a la osmolaridad del intersticio medular?",
+      "exp": "La urea puede aportar aproximadamente 40-50% de la osmolaridad medular en antidiuresis máxima.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Menos del 5%, porque casi toda la osmolaridad depende de glucosa filtrada.",
+        "Cerca de 10-15%, principalmente en la corteza externa.",
+        "Alrededor de 40-50%, equivalente a unos 500-600 mOsm/l.",
+        "Casi 100%, porque el NaCl no participa en la médula renal.",
+        "Variable sin importancia, porque la urea se reabsorbe solo en el proximal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap29_019",
+      "q": "En presencia de ADH elevada, la urea difunde desde el conducto colector medular interno al intersticio. ¿Qué transportadores facilitan este proceso?",
+      "exp": "La ADH aumenta el transporte de urea por UT-A1 y UT-A3 en el conducto colector medular interno.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "SGLT1 y SGLT2, situados en el borde en cepillo proximal.",
+        "UT-A1 y UT-A3, activados en los conductos colectores medulares internos.",
+        "ROMK y BK, que abren canales de potasio luminales.",
+        "NHE y GLUT2, encargados del intercambio sodio-hidrógeno.",
+        "AQP1 y ENaC, que convierten urea en agua libre."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_020",
+      "q": "Un paciente con baja ingesta proteica prolongada puede tener menor capacidad de concentrar la orina. ¿Qué mecanismo lo explica mejor?",
+      "exp": "La dieta baja en proteínas reduce la producción de urea, disminuyendo su aporte al gradiente medular y a la concentración urinaria.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Menor producción de urea reduce su acumulación en el intersticio medular.",
+        "Menor filtración de glucosa impide el funcionamiento de los vasos rectos.",
+        "Mayor secreción de ADH bloquea la permeabilidad al agua de los colectores.",
+        "Mayor formación de creatinina diluye el intersticio medular interno.",
+        "Menor reabsorción proximal de sodio elimina el gradiente corticomedular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_021",
+      "q": "La recirculación de la urea ayuda a atraparla en la médula. ¿Qué secuencia es más correcta?",
+      "exp": "La urea sale del colector medular interno, entra al asa fina por UT-A2 y puede recorrer segmentos distales hasta regresar al colector.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Colector medular interno -> intersticio medular -> asa fina de Henle -> distal -> colector otra vez.",
+        "Túbulo proximal -> cápsula de Bowman -> glomérulo -> vena renal -> pelvis renal.",
+        "Asa ascendente gruesa -> corteza externa -> uréter -> vejiga -> túbulo distal.",
+        "Colector cortical -> arteriola aferente -> capilares glomerulares -> asa descendente.",
+        "Vasos rectos -> cápsula renal -> cáliz mayor -> túbulo proximal -> colector."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_022",
+      "q": "¿Cuál afirmación diferencia mejor la función de los vasos rectos respecto al asa de Henle?",
+      "exp": "El asa de Henle genera el gradiente multiplicador; los vasos rectos, por intercambio, evitan que se disipe.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Los vasos rectos crean el gradiente; el asa de Henle solo lo conserva.",
+        "Los vasos rectos conservan el gradiente; el asa de Henle participa en crearlo.",
+        "Ambos secretan activamente ADH hacia el intersticio medular.",
+        "Ambos impiden el paso de agua y solutos en toda su longitud.",
+        "Los vasos rectos forman la orina final; el asa regula la sed."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_023",
+      "q": "Al descender por los vasos rectos hacia la papila, la sangre se vuelve más hiperosmótica. ¿Qué ocurre al ascender de nuevo hacia la corteza?",
+      "exp": "En la rama ascendente, los solutos difunden hacia el intersticio y el agua entra en los vasos, lo que conserva el gradiente.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Pierde agua y gana solutos, aumentando más su osmolaridad.",
+        "Gana agua y pierde solutos hacia el intersticio, reduciendo su osmolaridad.",
+        "Bloquea el intercambio para evitar el paso de proteínas plasmáticas.",
+        "Convierte NaCl en urea por acción directa de la ADH.",
+        "Se filtra en la cápsula de Bowman y forma orina primaria."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_024",
+      "q": "En el túbulo proximal, la reabsorción de electrólitos filtrados es cercana al 65%. ¿Por qué la osmolaridad tubular no cambia mucho en ese segmento?",
+      "exp": "El túbulo proximal tiene alta permeabilidad al agua, incluida AQP-1, por lo que el líquido permanece aproximadamente isoosmótico.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Porque la membrana proximal es muy permeable al agua, que sigue a los solutos.",
+        "Porque la urea secretada neutraliza toda salida de sodio y cloro.",
+        "Porque el túbulo proximal es impermeable al agua hasta recibir ADH.",
+        "Porque la filtración glomerular se detiene mientras ocurre la reabsorción.",
+        "Porque el asa ascendente devuelve agua al túbulo proximal por contracorriente."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_025",
+      "q": "La rama ascendente fina del asa de Henle contribuye a diluir el líquido tubular. ¿Cuál proceso participa en esta dilución?",
+      "exp": "La rama ascendente fina es prácticamente impermeable al agua, pero permite salida pasiva de NaCl, por lo que el líquido se diluye.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Difusión pasiva de NaCl hacia el intersticio mientras el agua permanece en la luz.",
+        "Reabsorción activa de agua hacia el intersticio por bombas dependientes de ATP.",
+        "Secreción de ADH desde la luz tubular hacia los vasos rectos.",
+        "Entrada de glucosa y aminoácidos para elevar la presión osmótica tubular.",
+        "Filtración de proteínas plasmáticas hacia el interior de la rama ascendente."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_026",
+      "q": "En los conductos colectores medulares internos con ADH alta, el líquido tubular puede acercarse a la osmolaridad de la papila. ¿Qué permite este equilibrio?",
+      "exp": "La ADH permite que el agua salga hasta equilibrarse con el intersticio medular hiperosmótico.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Alta permeabilidad al agua y gradiente hiperosmótico medular previamente establecido.",
+        "Ausencia de urea en la luz tubular y bloqueo del flujo por los vasos rectos.",
+        "Secreción activa de agua desde el intersticio hacia la luz tubular.",
+        "Impermeabilidad completa al agua y transporte activo de sodio hacia la luz.",
+        "Filtración secundaria de plasma desde la médula hacia el conducto colector."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_027",
+      "q": "Durante deshidratación con ingesta baja de sodio, puede formarse orina muy concentrada con poco NaCl. ¿Qué solutos sostienen principalmente la osmolaridad urinaria en esa situación?",
+      "exp": "Aunque el NaCl contribuye al gradiente medular, la orina concentrada puede depender de solutos de desecho como urea y creatinina.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Proteínas plasmáticas filtradas y eritrocitos atrapados en el túbulo.",
+        "Productos de desecho como urea y creatinina, junto a otros solutos no salinos.",
+        "Glucosa y aminoácidos, porque dejan de reabsorberse en el túbulo proximal.",
+        "Bicarbonato y calcio, porque sustituyen completamente al agua libre.",
+        "Potasio intracelular, porque difunde directamente desde la vejiga."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_028",
+      "q": "Si la osmolaridad urinaria es mayor que la plasmática, ¿qué indica un aclaramiento de agua libre negativo?",
+      "exp": "Cuando Uosm > Posm, se elimina una orina concentrada; el riñón está ahorrando agua y el CH2O es negativo.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Los riñones excretan exceso de agua libre y diluyen el plasma.",
+        "Los riñones conservan agua y eliminan proporcionalmente más solutos.",
+        "La filtración glomerular se detuvo y no existe excreción osmolar.",
+        "El volumen urinario debe ser siempre mayor de 20 l/día.",
+        "La ADH está ausente y el túbulo colector es impermeable al agua."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_029",
+      "q": "Un paciente tiene Posm de 300 mOsm/l, Uosm de 600 mOsm/l y flujo urinario de 1 ml/min. ¿Qué conclusión es correcta?",
+      "exp": "Cosm = Uosm x V / Posm = 600 x 1 / 300 = 2 ml/min; CH2O = V - Cosm = 1 - 2 = -1 ml/min.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "El aclaramiento osmolar es 2 ml/min y el aclaramiento de agua libre es -1 ml/min.",
+        "El aclaramiento osmolar es 1 ml/min y el aclaramiento de agua libre es +2 ml/min.",
+        "El aclaramiento osmolar es 0,5 ml/min y el riñón excreta agua libre positiva.",
+        "El aclaramiento osmolar es 6 ml/min y el túbulo no conserva agua.",
+        "El aclaramiento osmolar no puede calcularse si la ADH está presente."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_030",
+      "q": "Un paciente elimina más de 15 l/día de orina muy diluida por falta de liberación de ADH. ¿Cuál diagnóstico fisiológico encaja mejor?",
+      "exp": "En la diabetes insípida central falta ADH; los túbulos distales y colectores no reabsorben agua adecuadamente.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Diabetes insípida central, con defecto de producción o liberación de ADH.",
+        "Diabetes insípida nefrógena, con respuesta excesiva a desmopresina.",
+        "Hiperaldosteronismo primario, con pérdida obligatoria de agua por ENaC.",
+        "Síndrome de secreción inadecuada de ADH, con orina muy concentrada.",
+        "Acidosis tubular, con incapacidad exclusiva para secretar bicarbonato."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_031",
+      "q": "Tras administrar desmopresina a un paciente con poliuria diluida, no disminuye rápido el volumen urinario ni aumenta la osmolaridad urinaria. ¿Qué sugiere este hallazgo?",
+      "exp": "Si no responde a desmopresina, la anomalía está en el riñón o en el mecanismo medular, no en la falta de ADH.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Diabetes insípida central sensible al análogo de ADH.",
+        "Diabetes insípida nefrógena por incapacidad renal de responder a ADH.",
+        "Exceso de sed primaria con sistema colector intacto.",
+        "Aumento normal de osmorreceptores hipotalámicos.",
+        "Hiperactividad de los transportadores UT-A1 y UT-A3."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_032",
+      "q": "Un diurético de asa como furosemida reduce la capacidad de concentrar la orina. ¿Qué mecanismo del capítulo explica este efecto?",
+      "exp": "Al inhibir la reabsorción de NaCl en el asa, se compromete el mecanismo multiplicador y la hiperosmolaridad medular.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Disminuye la reabsorción de electrólitos en el asa de Henle y debilita el gradiente medular.",
+        "Estimula los osmorreceptores y aumenta la secreción de ADH de manera irreversible.",
+        "Aumenta la reabsorción de urea proximal y vuelve isoosmótica toda la médula.",
+        "Bloquea la sed y reduce el ingreso de agua sin afectar la médula renal.",
+        "Aumenta la permeabilidad al agua del asa ascendente gruesa."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_033",
+      "q": "La osmolaridad plasmática puede estimarse a partir del sodio plasmático porque el sodio y sus aniones asociados representan la mayor parte de los osmoles extracelulares. ¿Cuál matiz es correcto?",
+      "exp": "Na+ y sus aniones asociados dominan los osmoles extracelulares y son los principales osmoles efectivos; la urea difunde fácilmente y ejerce poca presión osmótica efectiva estable.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "La urea es el principal osmole efectivo para mover agua entre células en estado estable.",
+        "El sodio y sus aniones son los principales determinantes efectivos del movimiento de agua celular.",
+        "La glucosa nunca contribuye a la osmolaridad plasmática en condiciones clínicas.",
+        "Las proteínas plasmáticas representan cerca del 94% de los osmoles extracelulares.",
+        "El potasio extracelular determina casi toda la osmolaridad del plasma."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_034",
+      "q": "Cuando aumenta la osmolaridad del líquido extracelular, las células osmorreceptoras se retraen. ¿Cuál es la consecuencia funcional de esa retracción?",
+      "exp": "La retracción por hiperosmolaridad activa osmorreceptores, aumenta señales a núcleos supraópticos y favorece liberación de ADH.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Disminuyen señales hacia la neurohipófisis y se forma orina más diluida.",
+        "Activan señales hacia núcleos hipotalámicos que aumentan la liberación de ADH.",
+        "Estimulan la médula renal para secretar directamente agua hacia los colectores.",
+        "Bloquean la sed hasta que la concentración de sodio vuelva a la normalidad.",
+        "Inhiben los barorreceptores arteriales y reducen la presión sanguínea."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_035",
+      "q": "Respecto a la síntesis y liberación de ADH, ¿qué relación anatómica es más correcta?",
+      "exp": "La ADH se sintetiza en neuronas magnocelulares del hipotálamo y viaja por axones hasta el lóbulo posterior de la hipófisis.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Se sintetiza en túbulos colectores y se libera desde la corteza renal.",
+        "Se sintetiza en núcleos supraópticos y paraventriculares y se libera por la neurohipófisis.",
+        "Se sintetiza en la adenohipófisis y actúa solo sobre la mácula densa.",
+        "Se produce en vasos rectos y se almacena en la médula interna.",
+        "Se sintetiza en el órgano subfornical y se elimina por los cálices."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_036",
+      "q": "Una lesión en la región AV3V puede alterar ADH, sed, apetito por sodio y presión arterial. ¿Qué interpretación fisiológica es la mejor?",
+      "exp": "La AV3V incluye estructuras relacionadas con osmosensación, sed, angiotensina II y control de la ADH.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "La región AV3V integra señales osmóticas, angiotensina II y conexiones hipotalámicas.",
+        "La región AV3V funciona solo como vía motora para la micción voluntaria.",
+        "La región AV3V produce filtrado glomerular y controla la presión de Bowman.",
+        "La región AV3V impide la difusión de iones por una barrera hematoencefálica completa.",
+        "La región AV3V regula exclusivamente la reabsorción proximal de glucosa."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_037",
+      "q": "El órgano subfornical y el órgano vasculoso de la lámina terminal carecen de una barrera hematoencefálica típica. ¿Qué ventaja funcional aporta esto?",
+      "exp": "Al permitir intercambio de solutos con el líquido intersticial local, estas regiones detectan rápidamente cambios osmóticos.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Permite que los osmorreceptores detecten rápidamente cambios de solutos en sangre.",
+        "Permite que el filtrado glomerular regrese al hipotálamo antes de la micción.",
+        "Impide la acción de la angiotensina II sobre los centros de la sed.",
+        "Hace que la ADH se sintetice directamente dentro del plasma.",
+        "Evita que los cambios de osmolaridad afecten la secreción hormonal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_038",
+      "q": "Durante una hemorragia importante, aumenta la secreción de ADH aunque la osmolaridad no sea el estímulo principal. ¿Qué vía explica este aumento?",
+      "exp": "La reducción de presión o volumen activa reflejos cardiovasculares que aumentan la liberación de ADH.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Reflejos de barorreceptores arteriales y cardiopulmonares hacia núcleos hipotalámicos.",
+        "Estimulación directa de los podocitos para secretar ADH en el glomérulo.",
+        "Aumento de urea tubular que activa las células principales del colector cortical.",
+        "Distensión gástrica que aumenta la osmolaridad del líquido cefalorraquídeo.",
+        "Disminución de potasio extracelular que activa UT-A1 y UT-A3."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_039",
+      "q": "Comparando estímulos osmóticos y volumétricos de ADH, ¿cuál afirmación es más correcta?",
+      "exp": "Cambios osmóticos de cerca de 1% estimulan ADH; el volumen debe caer alrededor de 10% para cambios apreciables, aunque después la respuesta aumenta mucho.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "La ADH responde a pequeños cambios de osmolaridad, pero requiere mayor caída de volumen para activarse mucho.",
+        "La ADH solo cambia cuando el volumen sanguíneo cae 1%, sin importar la osmolaridad.",
+        "La osmolaridad necesita variar más del 20% para modificar la ADH plasmática.",
+        "El volumen sanguíneo no modifica la respuesta de ADH a la osmolaridad.",
+        "La presión arterial elevada es el principal estímulo habitual para secretar ADH."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_040",
+      "q": "Un paciente presenta náuseas intensas y luego aumento marcado de ADH. ¿Cómo debe interpretarse este fenómeno?",
+      "exp": "El capítulo destaca que las náuseas pueden estimular mucho la liberación de ADH, incluso como estímulo no osmótico.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Las náuseas son un estímulo potente no osmótico para liberar ADH.",
+        "Las náuseas inhiben la neurohipófisis y producen diuresis acuosa.",
+        "La ADH aumenta solo si las náuseas elevan primero el sodio plasmático.",
+        "La respuesta depende de bloquear los receptores V2 en el túbulo colector.",
+        "La náusea actúa únicamente por reducción de urea medular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_041",
+      "q": "Después de ingerir alcohol, puede aparecer diuresis acentuada. ¿Qué mecanismo del capítulo contribuye a este efecto?",
+      "exp": "El alcohol inhibe la secreción de ADH; por eso disminuye la reabsorción de agua y aumenta el volumen urinario.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Estimulación de ADH con aumento de permeabilidad al agua en colectores.",
+        "Inhibición de liberación de ADH, con menor reabsorción de agua distal.",
+        "Activación de UT-A1 y UT-A3 con retención intensa de agua.",
+        "Aumento de angiotensina II que bloquea la sed por completo.",
+        "Aumento de aldosterona que transforma agua en sodio urinario."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_042",
+      "q": "Los centros de la sed se relacionan con la pared anteroventral del tercer ventrículo. ¿Qué estímulo activa directamente estas neuronas osmorreceptoras?",
+      "exp": "El aumento de osmolaridad deshidrata células de los centros de la sed y provoca búsqueda de agua.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Soluciones hipertónicas que elevan la osmolaridad del líquido extracelular o cefalorraquídeo.",
+        "Disminución de la osmolaridad plasmática luego de beber gran cantidad de agua.",
+        "Distensión gástrica mantenida después de una comida abundante.",
+        "Aumento aislado del hematocrito sin cambio en volumen ni osmolaridad.",
+        "Filtración aumentada de proteínas plasmáticas a la cápsula de Bowman."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_043",
+      "q": "Además del aumento de osmolaridad, ¿qué combinación estimula la sed de forma coherente con el capítulo?",
+      "exp": "Hipovolemia, hipotensión y angiotensina II estimulan sed por vías relacionadas con barorreceptores y órganos circumventriculares.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Aumento del volumen sanguíneo, aumento de presión arterial y disminución de angiotensina II.",
+        "Disminución del volumen sanguíneo, disminución de presión arterial y aumento de angiotensina II.",
+        "Disminución de osmolaridad, distensión gástrica y aumento del volumen sanguíneo.",
+        "Bloqueo de barorreceptores, baja angiotensina II y mucosa oral hidratada.",
+        "Aumento de urea medular, baja ADH y dilución del líquido extracelular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_044",
+      "q": "Una persona sedienta siente alivio casi inmediato al beber agua, antes de que el agua se absorba. ¿Qué explicación es más adecuada?",
+      "exp": "Los estímulos de boca, faringe y tubo digestivo alivian la sed de forma parcial y temporal antes de corregir plasma.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "La sequedad oral y estímulos faríngeos/digestivos reducen temporalmente la sensación de sed.",
+        "El agua ingerida llega al plasma en segundos y normaliza la osmolaridad total.",
+        "La distensión gástrica aumenta la ADH y hace desaparecer la hiperosmolaridad.",
+        "La vejiga detecta el agua ingerida y bloquea los osmorreceptores hipotalámicos.",
+        "La angiotensina II se elimina por la saliva inmediatamente al beber."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_045",
+      "q": "El umbral osmolar para beber se alcanza con un aumento pequeño de sodio plasmático. ¿Cuál valor aproxima mejor ese umbral según el capítulo?",
+      "exp": "Pequeños aumentos de sodio, alrededor de 2 mEq/l, activan el deseo de beber para corregir la osmolaridad.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Alrededor de 2 mEq/l por encima de lo normal.",
+        "Alrededor de 20 mEq/l por debajo de lo normal.",
+        "Cerca de 50 mEq/l por encima de lo normal.",
+        "Solo cuando el sodio plasmático se duplica.",
+        "Solo cuando la osmolaridad urinaria cae a 50 mOsm/l."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_046",
+      "q": "Con los sistemas de ADH y sed intactos, un aumento grande de la ingestión de sodio modifica poco la concentración plasmática de sodio. ¿Por qué?",
+      "exp": "La concentración de sodio depende mucho del agua extracelular; ADH y sed regulan esa agua para estabilizar osmolaridad y natremia.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Porque el sodio ingerido no se absorbe en el intestino si la ADH está presente.",
+        "Porque ADH y sed ajustan agua corporal y diluyen o concentran el líquido extracelular.",
+        "Porque la aldosterona bloquea por completo el ingreso renal de sodio al plasma.",
+        "Porque la urea sustituye al sodio como principal osmole extracelular efectivo.",
+        "Porque el riñón elimina todo el sodio ingerido sin cambiar el agua corporal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap29_047",
+      "q": "Si falla solo el mecanismo de ADH, la sed puede mantener razonablemente la osmolaridad siempre que se cumpla una condición. ¿Cuál?",
+      "exp": "La sed puede compensar la falta de ADH si el paciente tiene acceso a agua suficiente para cubrir la diuresis y pérdidas diarias.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Que la persona pueda ingerir suficiente agua para compensar pérdidas obligatorias.",
+        "Que la aldosterona permanezca completamente bloqueada en todo momento.",
+        "Que el asa ascendente deje de reabsorber sodio y cloro.",
+        "Que no exista volumen obligatorio de orina durante la deshidratación.",
+        "Que la presión arterial se mantenga siempre por debajo de lo normal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_048",
+      "q": "Angiotensina II y aldosterona aumentan la reabsorción de sodio. ¿Por qué normalmente tienen poco efecto sobre la concentración de sodio extracelular?",
+      "exp": "RAAS aumenta la cantidad de sodio corporal, pero también retiene agua; por eso su efecto usual es mayor sobre volumen extracelular que sobre natremia.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "Porque aumentan sodio y agua del líquido extracelular, cambiando más el volumen que la concentración.",
+        "Porque solo actúan sobre potasio y nunca modifican el manejo tubular de sodio.",
+        "Porque destruyen la ADH y bloquean el mecanismo de la sed en la región AV3V.",
+        "Porque hacen que el sodio se traslade por completo al líquido intracelular.",
+        "Porque solo se secretan cuando la ingesta de sodio es extremadamente alta."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_049",
+      "q": "En hiperaldosteronismo primario, la concentración plasmática de sodio suele aumentar solo pocos mEq/l. ¿Qué mecanismo oscurece ese efecto?",
+      "exp": "El mecanismo ADH-sed es muy poderoso para controlar osmolaridad; compensa la tendencia de la aldosterona a elevar Na+ plasmático.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "El sistema ADH-sed corrige tendencias de hipernatremia mediante agua ingerida o retenida.",
+        "La urea impide toda reabsorción de sodio en el túbulo distal.",
+        "Los vasos rectos eliminan sodio directamente hacia la pelvis renal.",
+        "La aldosterona deja de actuar cuando la concentración de potasio es normal.",
+        "La vejiga reabsorbe agua en proporción exacta a la concentración de sodio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap29_050",
+      "q": "Un paciente con enfermedad de Addison tiene pérdida renal intensa de sodio y deseo marcado de sal. ¿Qué explicación integra mejor este fenómeno?",
+      "exp": "En Addison hay deficiencia de aldosterona, pérdida renal de sodio, menor volumen extracelular y activación de mecanismos de apetito por sal.",
+      "topic": "Capítulo 29 - Concentración y dilución de orina; regulación de la osmolaridad y del sodio",
+      "options": [
+        "La falta de aldosterona favorece pérdida de Na+, menor volumen extracelular y estímulo del apetito por sal.",
+        "El exceso de ADH elimina sodio por los pulmones y reduce la sed por agua.",
+        "La ausencia de urea en la médula convierte al sodio en un producto no filtrable.",
+        "El aumento de aldosterona causa hipernatremia y rechazo conductual a la sal.",
+        "La expansión del volumen sanguíneo activa reflejos que disminuyen el apetito por sal."
+      ],
+      "answer": 0
+    }
+  ]
+}

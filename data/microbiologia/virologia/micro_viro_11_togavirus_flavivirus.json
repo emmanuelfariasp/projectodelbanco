@@ -1,0 +1,157 @@
+{
+  "key": "micro_viro_11_togavirus_flavivirus",
+  "title": "Togavirus y Flavivirus",
+  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 9 Togavirus y Flavivirus.pdf",
+  "questions": [
+    {
+      "id": "micro_viro_11_togavirus_flavivirus_001",
+      "q": "Alfavirus y flavivirus comparten como rasgo estructural:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “ARN monocatenario positivo con envoltura.” porque, dentro de UNIDAD 9 - Togavirus y Flavivirus, ese dato encaja con el tema de virología: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “ADN bicatenario sin envoltura.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario positivo con envoltura.”.\nb) No. El concepto de esta alternativa es “ARN negativo en forma de bala.”: un genoma que debe ser transcrito por una polimerasa viral antes de producir proteínas. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario positivo con envoltura.”.\nc) Correcta. “ARN monocatenario positivo con envoltura.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Aquí se está describiendo “ADN monocatenario eritrotropo.”: descripción de parvovirus B19, no de paramixovirus. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario positivo con envoltura.”.\ne) No. Esa opción apunta a “Genoma circular con transcriptasa inversa.”: la enzima de los retrovirus que transforma ARN viral en ADN para integrarse al genoma celular. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario positivo con envoltura.”.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "ADN bicatenario sin envoltura.",
+        "ARN negativo en forma de bala.",
+        "ARN monocatenario positivo con envoltura.",
+        "ADN monocatenario eritrotropo.",
+        "Genoma circular con transcriptasa inversa."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_11_togavirus_flavivirus_002",
+      "q": "La replicacion de alfavirus ocurre principalmente en:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Citoplasma.” porque, dentro de UNIDAD 9 - Togavirus y Flavivirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Citoplasma.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esta alternativa se refiere a “Nucleo.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citoplasma.”.\nc) No. Aquí se está describiendo “Eritrocito maduro.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citoplasma.”.\nd) No. Esa opción apunta a “Conducto biliar.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citoplasma.”.\ne) No. Lo que menciona esta opción corresponde a “Ganglio sensorial.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citoplasma.”.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Citoplasma.",
+        "Nucleo.",
+        "Eritrocito maduro.",
+        "Conducto biliar.",
+        "Ganglio sensorial."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_11_togavirus_flavivirus_003",
+      "q": "En arbovirus, el termino vector biologico se aplica con mayor frecuencia a:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Mosquito hembra hematofago.” porque, dentro de UNIDAD 9 - Togavirus y Flavivirus, ese dato encaja con el tema de virología: artrópodo vector; puede transmitir arbovirus o Plasmodium según el género y contexto. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Caracol Lymnaea.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Mosquito hembra hematofago.”.\nb) No. Aquí se está describiendo “Perro domestico.”: reservorio doméstico importante de leishmaniasis visceral americana y hospedador definitivo de Echinococcus según contexto. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Mosquito hembra hematofago.”.\nc) No. Esa opción apunta a “Pescado de agua dulce.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Mosquito hembra hematofago.”.\nd) No. Lo que menciona esta opción corresponde a “Gato definitivo.”: hospedador definitivo de Toxoplasma gondii y fuente de ooquistes por heces. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Mosquito hembra hematofago.”.\ne) Correcta. “Mosquito hembra hematofago.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Caracol Lymnaea.",
+        "Perro domestico.",
+        "Pescado de agua dulce.",
+        "Gato definitivo.",
+        "Mosquito hembra hematofago."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_11_togavirus_flavivirus_004",
+      "q": "Dengue grave tras una segunda infección por serotipo distinto se explica mejor por:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Potenciacion dependiente de anticuerpos.” porque, dentro de UNIDAD 9 - Togavirus y Flavivirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Latencia en ganglios dorsales.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Potenciacion dependiente de anticuerpos.”.\nb) Correcta. “Potenciacion dependiente de anticuerpos.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Lo que menciona esta opción corresponde a “Autoinfección intestinal.”: capacidad de reinfectarse dentro del mismo hospedador, como Strongyloides o Hymenolepis nana; no es variación de influenza. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Potenciacion dependiente de anticuerpos.”.\nd) No. El concepto de esta alternativa es “Toxina neurotropa salival.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Potenciacion dependiente de anticuerpos.”.\ne) No. Esta alternativa se refiere a “Destruccion de vitamina B12.”: vitamina que puede disminuir en difilobotriasis, causando anemia megaloblástica y síntomas neurológicos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Potenciacion dependiente de anticuerpos.”.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Latencia en ganglios dorsales.",
+        "Potenciacion dependiente de anticuerpos.",
+        "Autoinfección intestinal.",
+        "Toxina neurotropa salival.",
+        "Destruccion de vitamina B12."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_11_togavirus_flavivirus_005",
+      "q": "En dengue temprano, una combinacion diagnostica util es:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “NS1 o RT-PCR, luego IgM/IgG segun dias.” porque, dentro de UNIDAD 9 - Togavirus y Flavivirus, ese dato encaja con el tema de virología: antígeno útil en diagnóstico temprano de dengue, antes de que predominen IgM/IgG. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Cinta adhesiva y coproparásitologico.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “NS1 o RT-PCR, luego IgM/IgG segun dias.”.\nb) No. Lo que menciona esta opción corresponde a “Gota gruesa para larvas.”: un método parasitológico para malaria: concentra sangre y aumenta la sensibilidad para ver parásitos. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “NS1 o RT-PCR, luego IgM/IgG segun dias.”.\nc) No. El concepto de esta alternativa es “Cultivo de bilis para huevos.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “NS1 o RT-PCR, luego IgM/IgG segun dias.”.\nd) Correcta. “NS1 o RT-PCR, luego IgM/IgG segun dias.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Aquí se está describiendo “Biopsia de musculo para quistes.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “NS1 o RT-PCR, luego IgM/IgG segun dias.”.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Cinta adhesiva y coproparásitologico.",
+        "Gota gruesa para larvas.",
+        "Cultivo de bilis para huevos.",
+        "NS1 o RT-PCR, luego IgM/IgG segun dias.",
+        "Biopsia de musculo para quistes."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_11_togavirus_flavivirus_006",
+      "q": "Chikungunya se reconoce clínicamente por:",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Fiebre con artralgias intensas y persistentes.” porque, dentro de UNIDAD 9 - Togavirus y Flavivirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Fiebre con artralgias intensas y persistentes.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. El concepto de esta alternativa es “Hidrofobia y espasmos faringeos.”: signo neurológico clásico de rabia por espasmos faríngeos y disfunción del SNC. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Fiebre con artralgias intensas y persistentes.”.\nc) No. Esta alternativa se refiere a “Diarrea grasa por malabsorcion.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Fiebre con artralgias intensas y persistentes.”.\nd) No. Aquí se está describiendo “Paralisis flacida por asta anterior.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Fiebre con artralgias intensas y persistentes.”.\ne) No. Esa opción apunta a “Hematuria por huevos vesicales.”: manifestación típica de Schistosoma haematobium, asociada a vejiga y riesgo de cáncer vesical. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Fiebre con artralgias intensas y persistentes.”.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Fiebre con artralgias intensas y persistentes.",
+        "Hidrofobia y espasmos faringeos.",
+        "Diarrea grasa por malabsorcion.",
+        "Paralisis flacida por asta anterior.",
+        "Hematuria por huevos vesicales."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_11_togavirus_flavivirus_007",
+      "q": "Zika tiene especial importancia en gestación por su relacion con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Síndrome congenito y microcefalia.” porque, dentro de UNIDAD 9 - Togavirus y Flavivirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Eritema infeccioso por B19.”: cuadro clásico de parvovirus B19, no de VHH-8. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Síndrome congenito y microcefalia.”.\nb) No. Esta alternativa se refiere a “Sarcoma de Kaposi neonatal.”: neoplasia asociada a VHH-8, sobre todo en inmunodepresión. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Síndrome congenito y microcefalia.”.\nc) Correcta. “Síndrome congenito y microcefalia.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esa opción apunta a “Hidatidosis pulmonar fetal.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Síndrome congenito y microcefalia.”.\ne) No. Lo que menciona esta opción corresponde a “Aplasia medular por HPV.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Síndrome congenito y microcefalia.”.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Eritema infeccioso por B19.",
+        "Sarcoma de Kaposi neonatal.",
+        "Síndrome congenito y microcefalia.",
+        "Hidatidosis pulmonar fetal.",
+        "Aplasia medular por HPV."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_11_togavirus_flavivirus_008",
+      "q": "La fiebre amarilla se previene de forma especifica con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Vacuna viva atenuada y control vectorial.” porque, dentro de UNIDAD 9 - Togavirus y Flavivirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Vacuna antirrabica unicamente.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacuna viva atenuada y control vectorial.”.\nb) No. Aquí se está describiendo “Antibiotico macrolido.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacuna viva atenuada y control vectorial.”.\nc) No. Esa opción apunta a “Antihelmintico para perros.”: reservorio doméstico importante de leishmaniasis visceral americana y hospedador definitivo de Echinococcus según contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacuna viva atenuada y control vectorial.”.\nd) No. Lo que menciona esta opción corresponde a “Coccion de pescado.”: prevención de cestodos del pescado, no de rotavirus. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacuna viva atenuada y control vectorial.”.\ne) Correcta. “Vacuna viva atenuada y control vectorial.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Vacuna antirrabica unicamente.",
+        "Antibiotico macrolido.",
+        "Antihelmintico para perros.",
+        "Coccion de pescado.",
+        "Vacuna viva atenuada y control vectorial."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_11_togavirus_flavivirus_009",
+      "q": "El virus de la rubéola pertenece al genero:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Rubivirus.” porque, dentro de UNIDAD 9 - Togavirus y Flavivirus, ese dato encaja con el tema de virología: género al que pertenece el virus de la rubéola. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Flavivirus.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Rubivirus.”.\nb) Correcta. “Rubivirus.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Lo que menciona esta opción corresponde a “Lentivirus.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Rubivirus.”.\nd) No. El concepto de esta alternativa es “Enterovirus.”: picornavirus resistentes al ácido y transmisión fecal-oral; no siempre producen enfermedad entérica. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Rubivirus.”.\ne) No. Esta alternativa se refiere a “Rhabdovirus.”: virus de la rabia, con forma de bala y ARN negativo; no produce verrugas por queratinocitos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Rubivirus.”.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Flavivirus.",
+        "Rubivirus.",
+        "Lentivirus.",
+        "Enterovirus.",
+        "Rhabdovirus."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_11_togavirus_flavivirus_010",
+      "q": "La rubéola congenita se previene principalmente mediante:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Vacunacion prevía a embarazo y control de susceptibles.” porque, dentro de UNIDAD 9 - Togavirus y Flavivirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Tratamiento con antiveneno.”: un concepto de ofidismo/toxinología. No explica infecciones virales o parasitarias si el problema no es una mordedura de serpiente. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacunacion prevía a embarazo y control de susceptibles.”.\nb) No. Lo que menciona esta opción corresponde a “Hervir pescado de rio.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacunacion prevía a embarazo y control de susceptibles.”.\nc) No. El concepto de esta alternativa es “Desecacion de quistes.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacunacion prevía a embarazo y control de susceptibles.”.\nd) Correcta. “Vacunacion prevía a embarazo y control de susceptibles.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Aquí se está describiendo “Observacion de animales 10 dias.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacunacion prevía a embarazo y control de susceptibles.”.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Tratamiento con antiveneno.",
+        "Hervir pescado de rio.",
+        "Desecacion de quistes.",
+        "Vacunacion prevía a embarazo y control de susceptibles.",
+        "Observacion de animales 10 dias."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    }
+  ]
+}

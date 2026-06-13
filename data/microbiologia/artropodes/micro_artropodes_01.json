@@ -1,0 +1,157 @@
+{
+  "key": "micro_artropodes_01",
+  "title": "Artrópodos de importancia médica",
+  "subtitle": "Artrópodos · 10 preguntas · Fuente: 10 Unidad XX Artrópodos.pdf",
+  "questions": [
+    {
+      "id": "micro_artropodes_01_001",
+      "q": "Una caracteristica general de los artrópodos es:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Exoesqueleto quitinoso y cuerpo segmentado.” porque, dentro de UNIDAD XX - Artrópodos de importancia médica, ese dato encaja con el tema de entomología médica: rasgo de artrópodos: cubierta externa de quitina y cuerpo segmentado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Exoesqueleto quitinoso y cuerpo segmentado.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. El concepto de esta alternativa es “Endoesqueleto oseo y pulmones alveolares.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Exoesqueleto quitinoso y cuerpo segmentado.”.\nc) No. Esta alternativa se refiere a “Capsidem icosaedrica y genoma ARN.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Exoesqueleto quitinoso y cuerpo segmentado.”.\nd) No. Aquí se está describiendo “Pared célular de peptidoglicano.”: un concepto de bacteriología. Puede ser válido para bacterias, pero desplaza la respuesta hacia otro tipo de microorganismo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Exoesqueleto quitinoso y cuerpo segmentado.”.\ne) No. Esa opción apunta a “Cuerpo plano sin apendices.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Exoesqueleto quitinoso y cuerpo segmentado.”.",
+      "topic": "Artrópodos - Artrópodos de importancia médica",
+      "options": [
+        "Exoesqueleto quitinoso y cuerpo segmentado.",
+        "Endoesqueleto oseo y pulmones alveolares.",
+        "Capsidem icosaedrica y genoma ARN.",
+        "Pared célular de peptidoglicano.",
+        "Cuerpo plano sin apendices."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_artropodes_01_002",
+      "q": "Los insectos se diferencian de aracnidos porque suelen tener:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Tres pares de patas y cuerpo en cabeza, torax y abdomen.” porque, dentro de UNIDAD XX - Artrópodos de importancia médica, ese dato encaja con el tema de entomología médica: rasgo de insectos adultos, junto con cabeza, tórax y abdomen. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Cuatro pares de patas y cefalotorax.”: rasgo de arácnidos como arañas y garrapatas, con cefalotórax y abdomen. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tres pares de patas y cuerpo en cabeza, torax y abdomen.”.\nb) No. Esta alternativa se refiere a “Sin patas y cuerpo cilindrico.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tres pares de patas y cuerpo en cabeza, torax y abdomen.”.\nc) No. Aquí se está describiendo “Botrios en escolex.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tres pares de patas y cuerpo en cabeza, torax y abdomen.”.\nd) No. Esa opción apunta a “Ventosas oral y ventral siempre.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tres pares de patas y cuerpo en cabeza, torax y abdomen.”.\ne) Correcta. “Tres pares de patas y cuerpo en cabeza, torax y abdomen.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Artrópodos - Artrópodos de importancia médica",
+      "options": [
+        "Cuatro pares de patas y cefalotorax.",
+        "Sin patas y cuerpo cilindrico.",
+        "Botrios en escolex.",
+        "Ventosas oral y ventral siempre.",
+        "Tres pares de patas y cuerpo en cabeza, torax y abdomen."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_artropodes_01_003",
+      "q": "Un vector mecanico transmite agentes principalmente por:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Arrastre pasivo sin multiplicacion del agente.” porque, dentro de UNIDAD XX - Artrópodos de importancia médica, ese dato encaja con el tema de entomología médica: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Desarrollo obligatorio del parásito en su cuerpo.”: hospedador definitivo de Toxoplasma gondii y fuente de ooquistes por heces. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Arrastre pasivo sin multiplicacion del agente.”.\nb) Correcta. “Arrastre pasivo sin multiplicacion del agente.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esa opción apunta a “Inoculacion de veneno neurotoxico.”: un concepto de ofidismo/toxinología. No explica infecciones virales o parasitarias si el problema no es una mordedura de serpiente. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Arrastre pasivo sin multiplicacion del agente.”.\nd) No. Lo que menciona esta opción corresponde a “Produccion de huevos dentro del humano.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Arrastre pasivo sin multiplicacion del agente.”.\ne) No. El concepto de esta alternativa es “Replicación viral en ganglio sensorial.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Arrastre pasivo sin multiplicacion del agente.”.",
+      "topic": "Artrópodos - Artrópodos de importancia médica",
+      "options": [
+        "Desarrollo obligatorio del parásito en su cuerpo.",
+        "Arrastre pasivo sin multiplicacion del agente.",
+        "Inoculacion de veneno neurotoxico.",
+        "Produccion de huevos dentro del humano.",
+        "Replicación viral en ganglio sensorial."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_artropodes_01_004",
+      "q": "Los triatominos tienen importancia médica por transmitir:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Trypanosoma cruzi.” porque, dentro de UNIDAD XX - Artrópodos de importancia médica, ese dato encaja con el tema de entomología médica: protozoo causante de Chagas americano, transmitido principalmente por triatominos. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Leishmania infantum.”: protozoo transmitido por flebótomos, con formas promastigote en vector y amastigote en macrófagos humanos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Trypanosoma cruzi.”.\nb) No. Esa opción apunta a “Plasmodium vivax.”: protozoo causante de paludismo/malaria; se transmite usualmente por mosquito Anopheles hembra. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Trypanosoma cruzi.”.\nc) No. Lo que menciona esta opción corresponde a “Dengue virus.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Trypanosoma cruzi.”.\nd) Correcta. “Trypanosoma cruzi.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esta alternativa se refiere a “Fasciola hepática.”: trematodo hepático adquirido por metacercarias; no produce mononucleosis viral. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Trypanosoma cruzi.”.",
+      "topic": "Artrópodos - Artrópodos de importancia médica",
+      "options": [
+        "Leishmania infantum.",
+        "Plasmodium vivax.",
+        "Dengue virus.",
+        "Trypanosoma cruzi.",
+        "Fasciola hepática."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_artropodes_01_005",
+      "q": "Los flebotomos son relevantes porque transmiten:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Leishmania.” porque, dentro de UNIDAD XX - Artrópodos de importancia médica, ese dato encaja con el tema de entomología médica: protozoo transmitido por flebótomos, con formas promastigote en vector y amastigote en macrófagos humanos. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Leishmania.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Lo que menciona esta opción corresponde a “Rabia.”: rhabdovirus neurotrópico transmitido sobre todo por saliva de animales infectados. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Leishmania.”.\nc) No. El concepto de esta alternativa es “Poliovirus.”: enterovirus con tropismo por motoneuronas, capaz de causar parálisis flácida. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Leishmania.”.\nd) No. Esta alternativa se refiere a “Taenia saginata.”: cestodo de carne bovina; no produce mononucleosis. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Leishmania.”.\ne) No. Aquí se está describiendo “Enterobius.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Leishmania.”.",
+      "topic": "Artrópodos - Artrópodos de importancia médica",
+      "options": [
+        "Leishmania.",
+        "Rabia.",
+        "Poliovirus.",
+        "Taenia saginata.",
+        "Enterobius."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_artropodes_01_006",
+      "q": "Mosquitos del genero Aedes se asocian especialmente con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Dengue, zika, chikungunya y fiebre amarilla urbana.” porque, dentro de UNIDAD XX - Artrópodos de importancia médica, ese dato encaja con el tema de entomología médica: arbovirus destacado por fiebre y artralgias intensas, a veces prolongadas. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Chagas y leishmaniasis visceral.”: protozoo transmitido por flebótomos, con formas promastigote en vector y amastigote en macrófagos humanos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Dengue, zika, chikungunya y fiebre amarilla urbana.”.\nb) No. El concepto de esta alternativa es “Hidatidosis y teniasis.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Dengue, zika, chikungunya y fiebre amarilla urbana.”.\nc) Correcta. “Dengue, zika, chikungunya y fiebre amarilla urbana.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Aquí se está describiendo “Oxiuriasis y trichuriosis.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Dengue, zika, chikungunya y fiebre amarilla urbana.”.\ne) No. Esa opción apunta a “Fasciolosis y esquistosomiasis.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Dengue, zika, chikungunya y fiebre amarilla urbana.”.",
+      "topic": "Artrópodos - Artrópodos de importancia médica",
+      "options": [
+        "Chagas y leishmaniasis visceral.",
+        "Hidatidosis y teniasis.",
+        "Dengue, zika, chikungunya y fiebre amarilla urbana.",
+        "Oxiuriasis y trichuriosis.",
+        "Fasciolosis y esquistosomiasis."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_artropodes_01_007",
+      "q": "La pediculosis se relaciona con infestacion por:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Piojos.” porque, dentro de UNIDAD XX - Artrópodos de importancia médica, ese dato encaja con el tema de entomología médica: insectos ectoparásitos causantes de pediculosis. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Garrapatas.”: arácnidos hematófagos que pueden ser vectores biológicos de diversos agentes. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Piojos.”.\nb) No. Esta alternativa se refiere a “Pulgas exclusivamente.”: insectos que pueden transmitir agentes o actuar como hospedadores intermediarios de Dipylidium. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Piojos.”.\nc) No. Aquí se está describiendo “Flebotomos.”: insecto vector de Leishmania. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Piojos.”.\nd) No. Esa opción apunta a “Cucarachas.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Piojos.”.\ne) Correcta. “Piojos.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Artrópodos - Artrópodos de importancia médica",
+      "options": [
+        "Garrapatas.",
+        "Pulgas exclusivamente.",
+        "Flebotomos.",
+        "Cucarachas.",
+        "Piojos."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_artropodes_01_008",
+      "q": "Las garrapatas son importantes porque pueden actuar como:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Vectores biologicos de varios agentes.” porque, dentro de UNIDAD XX - Artrópodos de importancia médica, ese dato encaja con el tema de entomología médica: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Huesped definitivo de Echinococcus.”: organismo donde el parásito alcanza la madurez sexual o realiza reproducción sexuada. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vectores biologicos de varios agentes.”.\nb) Correcta. “Vectores biologicos de varios agentes.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esa opción apunta a “Reservorio felino de Toxoplasma.”: fuente natural que mantiene el agente y permite su transmisión a otros hospedadores. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vectores biologicos de varios agentes.”.\nd) No. Lo que menciona esta opción corresponde a “Caracol intermediario de Fasciola.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vectores biologicos de varios agentes.”.\ne) No. El concepto de esta alternativa es “Adulto intestinal de Taenia.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vectores biologicos de varios agentes.”.",
+      "topic": "Artrópodos - Artrópodos de importancia médica",
+      "options": [
+        "Huesped definitivo de Echinococcus.",
+        "Vectores biologicos de varios agentes.",
+        "Reservorio felino de Toxoplasma.",
+        "Caracol intermediario de Fasciola.",
+        "Adulto intestinal de Taenia."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_artropodes_01_009",
+      "q": "La pulga participa en la transmisión de Dipylidium caninum cuando:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Es ingerida accidentalmente con cisticercoide.” porque, dentro de UNIDAD XX - Artrópodos de importancia médica, ese dato encaja con el tema de entomología médica: larva de Taenia en tejidos; en carne causa teniasis, y si el humano ingiere huevos de T. solium puede producir cisticercosis. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Pica e inocula cercarias.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Es ingerida accidentalmente con cisticercoide.”.\nb) No. Esa opción apunta a “Defeca tripomastigotes.”: forma de Trypanosoma observable en sangre, especialmente en fase aguda. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Es ingerida accidentalmente con cisticercoide.”.\nc) No. Lo que menciona esta opción corresponde a “Libera ooquistes en arena.”: formas eliminadas por felinos en toxoplasmosis o presentes en coccidios; requieren maduración/esporulación para ser infectantes según el agente. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Es ingerida accidentalmente con cisticercoide.”.\nd) Correcta. “Es ingerida accidentalmente con cisticercoide.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esta alternativa se refiere a “Deposita huevos de Ascaris.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Es ingerida accidentalmente con cisticercoide.”.",
+      "topic": "Artrópodos - Artrópodos de importancia médica",
+      "options": [
+        "Pica e inocula cercarias.",
+        "Defeca tripomastigotes.",
+        "Libera ooquistes en arena.",
+        "Es ingerida accidentalmente con cisticercoide.",
+        "Deposita huevos de Ascaris."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_artropodes_01_010",
+      "q": "Una medida general contra vectores artrópodos en APS es:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Eliminar criaderos, usar barreras y educar a la comunidad.” porque, dentro de UNIDAD XX - Artrópodos de importancia médica, ese dato encaja con el tema de entomología médica: medida de APS para reducir mosquitos y otros vectores, junto con barreras y educación comunitaria. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Suspender agua potable.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Eliminar criaderos, usar barreras y educar a la comunidad.”.\nb) No. Lo que menciona esta opción corresponde a “Evitar toda vacunacion.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Eliminar criaderos, usar barreras y educar a la comunidad.”.\nc) Correcta. “Eliminar criaderos, usar barreras y educar a la comunidad.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esta alternativa se refiere a “Usar antibioticos semanales.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Eliminar criaderos, usar barreras y educar a la comunidad.”.\ne) No. Aquí se está describiendo “Capturar serpientes para estudio.”: un concepto de ofidismo/toxinología. No explica infecciones virales o parasitarias si el problema no es una mordedura de serpiente. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Eliminar criaderos, usar barreras y educar a la comunidad.”.",
+      "topic": "Artrópodos - Artrópodos de importancia médica",
+      "options": [
+        "Suspender agua potable.",
+        "Evitar toda vacunacion.",
+        "Eliminar criaderos, usar barreras y educar a la comunidad.",
+        "Usar antibioticos semanales.",
+        "Capturar serpientes para estudio."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    }
+  ]
+}

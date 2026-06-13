@@ -1,0 +1,157 @@
+{
+  "key": "micro_para_05_leishmania",
+  "title": "Leishmania",
+  "subtitle": "Parasitología · 10 preguntas · Fuente: 5 Unidad XVI Leishmania.pdf",
+  "questions": [
+    {
+      "id": "micro_para_05_leishmania_001",
+      "q": "La forma infectante para el humano en Leishmania transmitida por flebotomo es:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Promastigote metaciclico.” porque, dentro de UNIDAD XVI - Leishmania, ese dato encaja con el tema de protozoología/parasitología: forma flagelada infectante de Leishmania inoculada por flebótomo. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Amastigote intracélular.”: forma intracelular sin flagelo visible que se multiplica en tejidos en Chagas o Leishmania. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Promastigote metaciclico.”.\nb) No. El concepto de esta alternativa es “Ooquiste esporulado.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Promastigote metaciclico.”.\nc) Correcta. “Promastigote metaciclico.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Aquí se está describiendo “Cercaria acuática.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Promastigote metaciclico.”.\ne) No. Esa opción apunta a “Huevo embrionado.”: forma infectante de algunos nematodos como Ascaris cuando se ingiere desde suelo/alimentos contaminados. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Promastigote metaciclico.”.",
+      "topic": "Parasitología - Leishmania",
+      "options": [
+        "Amastigote intracélular.",
+        "Ooquiste esporulado.",
+        "Promastigote metaciclico.",
+        "Cercaria acuática.",
+        "Huevo embrionado."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_05_leishmania_002",
+      "q": "Dentro del humano, Leishmania se multiplica principalmente como:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Amastigote en macrofagos.” porque, dentro de UNIDAD XVI - Leishmania, ese dato encaja con el tema de protozoología/parasitología: forma intracelular sin flagelo visible que se multiplica en tejidos en Chagas o Leishmania. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Tripomastigote en eritrocitos.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Amastigote en macrofagos.”.\nb) No. Esta alternativa se refiere a “Merozoito en hepatocitos.”: célula hepática donde Plasmodium se multiplica primero tras inoculación por mosquito. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Amastigote en macrofagos.”.\nc) No. Aquí se está describiendo “Larva filariforme en piel.”: larva infectante de Strongyloides o uncinarias, capaz de penetrar piel en varios ciclos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Amastigote en macrofagos.”.\nd) No. Esa opción apunta a “Procercoide en crustaceos.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Amastigote en macrofagos.”.\ne) Correcta. “Amastigote en macrofagos.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Parasitología - Leishmania",
+      "options": [
+        "Tripomastigote en eritrocitos.",
+        "Merozoito en hepatocitos.",
+        "Larva filariforme en piel.",
+        "Procercoide en crustaceos.",
+        "Amastigote en macrofagos."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_05_leishmania_003",
+      "q": "El vector más relacionado con leishmaniasis es:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Flebotomo.” porque, dentro de UNIDAD XVI - Leishmania, ese dato encaja con el tema de protozoología/parasitología: insecto vector de Leishmania. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Anopheles.”: mosquito hembra transmisor habitual de malaria. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Flebotomo.”.\nb) Correcta. “Flebotomo.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esa opción apunta a “Triatomino.”: insecto vector de T. cruzi; la infección ocurre por contaminación con heces infectantes cerca de la picadura o mucosas. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Flebotomo.”.\nd) No. Lo que menciona esta opción corresponde a “Caracol Lymnaea.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Flebotomo.”.\ne) No. El concepto de esta alternativa es “Pulga.”: un vector o artrópodo. Es clave en transmisión vectorial, pero no siempre participa en el agente del enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Flebotomo.”.",
+      "topic": "Parasitología - Leishmania",
+      "options": [
+        "Anopheles.",
+        "Flebotomo.",
+        "Triatomino.",
+        "Caracol Lymnaea.",
+        "Pulga."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_05_leishmania_004",
+      "q": "La leishmaniasis visceral se caracteriza mejor por:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Fiebre prolongada, hepatoesplenomegalia y pancitopenia.” porque, dentro de UNIDAD XVI - Leishmania, ese dato encaja con el tema de protozoología/parasitología: disminución de varias líneas celulares sanguíneas, compatible con leishmaniasis visceral por afectación sistémica. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Verrugas genitales y coilocitosis.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Fiebre prolongada, hepatoesplenomegalia y pancitopenia.”.\nb) No. Esa opción apunta a “Diarrea grasa sin invasion.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Fiebre prolongada, hepatoesplenomegalia y pancitopenia.”.\nc) No. Lo que menciona esta opción corresponde a “Hidrofobia y encefalitis.”: signo neurológico clásico de rabia por espasmos faríngeos y disfunción del SNC. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Fiebre prolongada, hepatoesplenomegalia y pancitopenia.”.\nd) Correcta. “Fiebre prolongada, hepatoesplenomegalia y pancitopenia.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esta alternativa se refiere a “Prurito anal nocturno.”: dato de Enterobius vermicularis, no de CMV. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Fiebre prolongada, hepatoesplenomegalia y pancitopenia.”.",
+      "topic": "Parasitología - Leishmania",
+      "options": [
+        "Verrugas genitales y coilocitosis.",
+        "Diarrea grasa sin invasion.",
+        "Hidrofobia y encefalitis.",
+        "Fiebre prolongada, hepatoesplenomegalia y pancitopenia.",
+        "Prurito anal nocturno."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_05_leishmania_005",
+      "q": "En la leishmaniasis visceral americana, un reservorio domestico clave es:",
+      "exp": "La pregunta está evaluando dónde persiste el agente o qué hospedador mantiene el ciclo. La opción correcta es “Perro.” porque, dentro de UNIDAD XVI - Leishmania, ese dato encaja con el tema de protozoología/parasitología: reservorio doméstico importante de leishmaniasis visceral americana y hospedador definitivo de Echinococcus según contexto. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Gato como definitivo.”: hospedador definitivo de Toxoplasma gondii y fuente de ooquistes por heces. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Perro.”.\nb) No. Lo que menciona esta opción corresponde a “Pez de agua dulce.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Perro.”.\nc) Correcta. “Perro.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esta alternativa se refiere a “Cerdo exclusivamente.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Perro.”.\ne) No. Aquí se está describiendo “Caracol.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Perro.”.",
+      "topic": "Parasitología - Leishmania",
+      "options": [
+        "Gato como definitivo.",
+        "Pez de agua dulce.",
+        "Perro.",
+        "Cerdo exclusivamente.",
+        "Caracol."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_05_leishmania_006",
+      "q": "La forma mucocutanea es preocupante porque puede producir:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Destruccion de mucosas naso-orofaringeas.” porque, dentro de UNIDAD XVI - Leishmania, ese dato encaja con el tema de protozoología/parasitología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Destruccion de mucosas naso-orofaringeas.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. El concepto de esta alternativa es “Aplasia eritroide pura.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Destruccion de mucosas naso-orofaringeas.”.\nc) No. Esta alternativa se refiere a “Paralisis flacida poliomielitica.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Destruccion de mucosas naso-orofaringeas.”.\nd) No. Aquí se está describiendo “Quistes en cerebro por huevos.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Destruccion de mucosas naso-orofaringeas.”.\ne) No. Esa opción apunta a “Bronquiolitis infantil.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Destruccion de mucosas naso-orofaringeas.”.",
+      "topic": "Parasitología - Leishmania",
+      "options": [
+        "Destruccion de mucosas naso-orofaringeas.",
+        "Aplasia eritroide pura.",
+        "Paralisis flacida poliomielitica.",
+        "Quistes en cerebro por huevos.",
+        "Bronquiolitis infantil."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_05_leishmania_007",
+      "q": "Un diagnóstico parásitologico directo de leishmaniasis busca:",
+      "exp": "La pregunta está evaluando qué prueba o hallazgo confirma mejor el agente o el cuadro señalado. La opción correcta es “Amastigotes en material de lesion o medula.” porque, dentro de UNIDAD XVI - Leishmania, ese dato encaja con el tema de protozoología/parasitología: forma intracelular sin flagelo visible que se multiplica en tejidos en Chagas o Leishmania. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Huevos mamelonados en heces.”: huevos típicos de Ascaris; no son hallazgo citológico de herpes. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Amastigotes en material de lesion o medula.”.\nb) No. Esta alternativa se refiere a “Cercarias en piel.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Amastigotes en material de lesion o medula.”.\nc) No. Aquí se está describiendo “Ooquistes ácido-alcohol resistentes.”: formas eliminadas por felinos en toxoplasmosis o presentes en coccidios; requieren maduración/esporulación para ser infectantes según el agente. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Amastigotes en material de lesion o medula.”.\nd) No. Esa opción apunta a “Antigenos de influenza.”: componentes del agente reconocidos por pruebas rápidas o inmunológicas; en malaria se usan para detectar infección actual. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Amastigotes en material de lesion o medula.”.\ne) Correcta. “Amastigotes en material de lesion o medula.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Parasitología - Leishmania",
+      "options": [
+        "Huevos mamelonados en heces.",
+        "Cercarias en piel.",
+        "Ooquistes ácido-alcohol resistentes.",
+        "Antigenos de influenza.",
+        "Amastigotes en material de lesion o medula."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_05_leishmania_008",
+      "q": "La coinfección con VIH en leishmaniasis visceral se considera grave porque:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Aumenta mortalidad y dificulta manejo.” porque, dentro de UNIDAD XVI - Leishmania, ese dato encaja con el tema de protozoología/parasitología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Impide toda transmisión vectorial.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Aumenta mortalidad y dificulta manejo.”.\nb) Correcta. “Aumenta mortalidad y dificulta manejo.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esa opción apunta a “Convierte al parásito en virus.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque lleva la explicación hacia virología, no hacia el parásito o helminto preguntado. En cambio, la respuesta correcta exige reconocer “Aumenta mortalidad y dificulta manejo.”.\nd) No. Lo que menciona esta opción corresponde a “Elimina necesidad de tratamiento.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Aumenta mortalidad y dificulta manejo.”.\ne) No. El concepto de esta alternativa es “Produce inmunidad esterilizante.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Aumenta mortalidad y dificulta manejo.”.",
+      "topic": "Parasitología - Leishmania",
+      "options": [
+        "Impide toda transmisión vectorial.",
+        "Aumenta mortalidad y dificulta manejo.",
+        "Convierte al parásito en virus.",
+        "Elimina necesidad de tratamiento.",
+        "Produce inmunidad esterilizante."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_05_leishmania_009",
+      "q": "Una medida preventiva comunitaria correcta es:",
+      "exp": "La pregunta está evaluando qué medida actúa sobre el riesgo principal o sobre el agente responsable. La opción correcta es “Control del vector, reservorios y proteccion contra picaduras.” porque, dentro de UNIDAD XVI - Leishmania, ese dato encaja con el tema de protozoología/parasitología: fuente natural que mantiene el agente y permite su transmisión a otros hospedadores. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Solo clorar agua sin otras medidas.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Control del vector, reservorios y proteccion contra picaduras.”.\nb) No. Esa opción apunta a “Vacunar contra HPV.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Control del vector, reservorios y proteccion contra picaduras.”.\nc) No. Lo que menciona esta opción corresponde a “Observar perros mordedores 10 dias.”: reservorio doméstico importante de leishmaniasis visceral americana y hospedador definitivo de Echinococcus según contexto. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Control del vector, reservorios y proteccion contra picaduras.”.\nd) Correcta. “Control del vector, reservorios y proteccion contra picaduras.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esta alternativa se refiere a “Cocinar pescado de rio.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Control del vector, reservorios y proteccion contra picaduras.”.",
+      "topic": "Parasitología - Leishmania",
+      "options": [
+        "Solo clorar agua sin otras medidas.",
+        "Vacunar contra HPV.",
+        "Observar perros mordedores 10 dias.",
+        "Control del vector, reservorios y proteccion contra picaduras.",
+        "Cocinar pescado de rio."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_05_leishmania_010",
+      "q": "La leishmaniosis se considera enfermedad desatendida porque:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Afecta poblaciones vulnerables y tiene subregistro importante.” porque, dentro de UNIDAD XVI - Leishmania, ese dato encaja con el tema de protozoología/parasitología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Afecta poblaciones vulnerables y tiene subregistro importante.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Lo que menciona esta opción corresponde a “Solo ocurre en países ricos.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Afecta poblaciones vulnerables y tiene subregistro importante.”.\nc) No. El concepto de esta alternativa es “No requiere vector ni reservorio.”: fuente natural que mantiene el agente y permite su transmisión a otros hospedadores. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Afecta poblaciones vulnerables y tiene subregistro importante.”.\nd) No. Esta alternativa se refiere a “Nunca causa dano clinico.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Afecta poblaciones vulnerables y tiene subregistro importante.”.\ne) No. Aquí se está describiendo “Se erradico mundialmente.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Afecta poblaciones vulnerables y tiene subregistro importante.”.",
+      "topic": "Parasitología - Leishmania",
+      "options": [
+        "Afecta poblaciones vulnerables y tiene subregistro importante.",
+        "Solo ocurre en países ricos.",
+        "No requiere vector ni reservorio.",
+        "Nunca causa dano clinico.",
+        "Se erradico mundialmente."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    }
+  ]
+}

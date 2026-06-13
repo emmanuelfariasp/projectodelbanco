@@ -1,0 +1,157 @@
+{
+  "key": "micro_viro_06_parvovirus_poxvirus",
+  "title": "Parvovirus y Poxvirus",
+  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 4.2 PARVOVIRUS Y POXVIRUS.pdf",
+  "questions": [
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_001",
+      "q": "Parvovirus B19 se distingue estructuralmente porque es:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “ADN monocatenario lineal, pequeno y sin envoltura.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: la estructura de parvovirus B19: ADN de cadena simple lineal, muy pequeño y sin envoltura. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “ADN monocatenario lineal, pequeno y sin envoltura.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. El concepto de esta alternativa es “ARN segmentado negativo, envuelto.”: un genoma dividido en segmentos, importante en influenza y rotavirus; permite reorganización si dos cepas infectan la misma célula. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN monocatenario lineal, pequeno y sin envoltura.”.\nc) No. Esta alternativa se refiere a “ADN bicatenario gigante, envuelto.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN monocatenario lineal, pequeno y sin envoltura.”.\nd) No. Aquí se está describiendo “ARN positivo helicoidal, sin cápside.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN monocatenario lineal, pequeno y sin envoltura.”.\ne) No. Esa opción apunta a “ADN circular con transcriptasa inversa.”: la enzima de los retrovirus que transforma ARN viral en ADN para integrarse al genoma celular. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN monocatenario lineal, pequeno y sin envoltura.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "ADN monocatenario lineal, pequeno y sin envoltura.",
+        "ARN segmentado negativo, envuelto.",
+        "ADN bicatenario gigante, envuelto.",
+        "ARN positivo helicoidal, sin cápside.",
+        "ADN circular con transcriptasa inversa."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_002",
+      "q": "El tropismo central del parvovirus B19 explica que destruya principalmente:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Celulas precursoras eritroides.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: células de médula ósea que producen la serie roja; B19 las destruye y puede frenar la eritropoyesis. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Neurona de ganglio dorsal.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas precursoras eritroides.”.\nb) No. Esta alternativa se refiere a “Hepatocito adulto.”: célula hepática donde Plasmodium se multiplica primero tras inoculación por mosquito. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas precursoras eritroides.”.\nc) Correcta. “Celulas precursoras eritroides.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esa opción apunta a “Queratinocito cornificado.”: célula epitelial superficial queratinizada; HPV infecta queratinocitos, pero la latencia de VHS es neuronal. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas precursoras eritroides.”.\ne) No. Lo que menciona esta opción corresponde a “Enterocito ciliado.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas precursoras eritroides.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Neurona de ganglio dorsal.",
+        "Hepatocito adulto.",
+        "Celulas precursoras eritroides.",
+        "Queratinocito cornificado.",
+        "Enterocito ciliado."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_003",
+      "q": "Un paciente con anemia hemolitica crónica desarrolla aplasia transitoria intensa. Qué virus debe considerarse?",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Parvovirus B19.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: virus pequeño ADN monocatenario, tropismo por precursores eritroides; causa eritema infeccioso y crisis aplásica. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Adenovirus ocular.”: virus ADN bicatenario lineal, sin envoltura, con resistencia ambiental y tropismo respiratorio, ocular, digestivo y urinario. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Parvovirus B19.”.\nb) No. Aquí se está describiendo “Virus rubéola.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Parvovirus B19.”.\nc) No. Esa opción apunta a “VHH-8.”: herpesvirus humano asociado a sarcoma de Kaposi y otros procesos linfoproliferativos. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Parvovirus B19.”.\nd) No. Lo que menciona esta opción corresponde a “Rinovirus.”: picornavirus lábil al pH ácido y adaptado a 33 °C, típico de vías respiratorias superiores. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Parvovirus B19.”.\ne) Correcta. “Parvovirus B19.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Adenovirus ocular.",
+        "Virus rubéola.",
+        "VHH-8.",
+        "Rinovirus.",
+        "Parvovirus B19."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_004",
+      "q": "En la evolucion bifasica por B19, el exantema y la artralgia suelen ser:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Mediados por respuesta inmunitaria.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Fase de maxima contagiosidad respiratoria.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Mediados por respuesta inmunitaria.”.\nb) Correcta. “Mediados por respuesta inmunitaria.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Lo que menciona esta opción corresponde a “Debidos a larvas pulmonares.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Mediados por respuesta inmunitaria.”.\nd) No. El concepto de esta alternativa es “Secuela de infección por poxvirus.”: virus ADN grandes y complejos, con envoltura, que se replican en citoplasma. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Mediados por respuesta inmunitaria.”.\ne) No. Esta alternativa se refiere a “Resultado de huevos en bilis.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Mediados por respuesta inmunitaria.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Fase de maxima contagiosidad respiratoria.",
+        "Mediados por respuesta inmunitaria.",
+        "Debidos a larvas pulmonares.",
+        "Secuela de infección por poxvirus.",
+        "Resultado de huevos en bilis."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_005",
+      "q": "Durante la primera fase de B19, la contagiosidad se relaciona con:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Viremia y secreciones respiratorias.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: vía por la que B19 se elimina en la fase inicial, febril e infecciosa. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Quistes en heces formadas.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Viremia y secreciones respiratorias.”.\nb) No. Lo que menciona esta opción corresponde a “Metacercarias en vegetales.”: forma enquistada infectante de trematodos como Fasciola en vegetación acuática. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Viremia y secreciones respiratorias.”.\nc) No. El concepto de esta alternativa es “Mordedura de murcielago.”: vía de exposición típica para rabia u ofidismo según el contexto; el significado depende del agente. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Viremia y secreciones respiratorias.”.\nd) Correcta. “Viremia y secreciones respiratorias.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Aquí se está describiendo “Proglotides en heces.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Viremia y secreciones respiratorias.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Quistes en heces formadas.",
+        "Metacercarias en vegetales.",
+        "Mordedura de murcielago.",
+        "Viremia y secreciones respiratorias.",
+        "Proglotides en heces."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_006",
+      "q": "En embarazada, B19 preocupa porque puede provocar:",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Hidropesia fetal por anemia.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: complicación fetal por B19 por anemia severa e insuficiencia cardíaca fetal. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Condiloma acuminado fetal.”: verruga anogenital vinculada típicamente a HPV mucoso de bajo riesgo. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidropesia fetal por anemia.”.\nb) No. El concepto de esta alternativa es “Hidrofobia neonatal.”: signo neurológico clásico de rabia por espasmos faríngeos y disfunción del SNC. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidropesia fetal por anemia.”.\nc) Correcta. “Hidropesia fetal por anemia.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Aquí se está describiendo “Megacolon congenito.”: manifestación digestiva crónica de Chagas por denervación intestinal. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidropesia fetal por anemia.”.\ne) No. Esa opción apunta a “Quiste hidatidico pulmonar.”: lesión por Echinococcus granulosus; no es manifestación de VHH-8. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidropesia fetal por anemia.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Condiloma acuminado fetal.",
+        "Hidrofobia neonatal.",
+        "Hidropesia fetal por anemia.",
+        "Megacolon congenito.",
+        "Quiste hidatidico pulmonar."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_007",
+      "q": "Una diferencia importante de poxvirus frente a muchos virus ADN es que:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “Replica en el citoplasma.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Replica en el citoplasma.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esta alternativa se refiere a “No posee ningun genoma.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Replica en el citoplasma.”.\nc) No. Aquí se está describiendo “Necesita eritrocitos maduros.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Replica en el citoplasma.”.\nd) No. Esa opción apunta a “Es siempre no envuelto.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Replica en el citoplasma.”.\ne) No. Lo que menciona esta opción corresponde a “Solo se transmite por alimentos.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Replica en el citoplasma.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Replica en el citoplasma.",
+        "No posee ningun genoma.",
+        "Necesita eritrocitos maduros.",
+        "Es siempre no envuelto.",
+        "Solo se transmite por alimentos."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_008",
+      "q": "Los poxvirus se reconocen como virus:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Grandes, complejos y de ADN bicatenario.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Pequenos, desnudos y de ARN positivo.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes, complejos y de ADN bicatenario.”.\nb) No. Aquí se está describiendo “Helicoidales en forma de bala.”: morfología clásica del virus rábico. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes, complejos y de ADN bicatenario.”.\nc) No. Esa opción apunta a “Segmentados con neuraminidasa.”: glucoproteína de influenza que facilita la liberación de viriones al cortar ácido siálico. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes, complejos y de ADN bicatenario.”.\nd) No. Lo que menciona esta opción corresponde a “Flagelados con cinetoplasto.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes, complejos y de ADN bicatenario.”.\ne) Correcta. “Grandes, complejos y de ADN bicatenario.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Pequenos, desnudos y de ARN positivo.",
+        "Helicoidales en forma de bala.",
+        "Segmentados con neuraminidasa.",
+        "Flagelados con cinetoplasto.",
+        "Grandes, complejos y de ADN bicatenario."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_009",
+      "q": "La vacuna historica que permitio controlar la viruela se relaciona con:",
+      "exp": "La pregunta está evaluando qué medida actúa sobre el riesgo principal o sobre el agente responsable. La opción correcta es “Vaccinia.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: virus usado históricamente en la vacunación que permitió controlar/erradicar la viruela. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Rotavirus.”: virus de diarrea infantil por Reoviridae; no infecta queratinocitos ni produce verrugas. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Vaccinia.”.\nb) Correcta. “Vaccinia.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Lo que menciona esta opción corresponde a “VEB.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Vaccinia.”.\nd) No. El concepto de esta alternativa es “Toxoplasma.”: protozoo apicomplejo; felinos son hospedadores definitivos y humanos se infectan por ooquistes o quistes tisulares. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Vaccinia.”.\ne) No. Esta alternativa se refiere a “Schistosoma.”: trematodo sanguíneo cuyas cercarias penetran activamente la piel y cuyos huevos causan inflamación. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Vaccinia.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Rotavirus.",
+        "Vaccinia.",
+        "VEB.",
+        "Toxoplasma.",
+        "Schistosoma."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_010",
+      "q": "Molluscum contagiosum se debe ubicar dentro del grupo de:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Poxvirus.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: virus ADN grandes y complejos, con envoltura, que se replican en citoplasma. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Parvovirus.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Poxvirus.”.\nb) No. Lo que menciona esta opción corresponde a “Flavivirus.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Poxvirus.”.\nc) No. El concepto de esta alternativa es “Cestodos.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Poxvirus.”.\nd) Correcta. “Poxvirus.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Aquí se está describiendo “Trematodos.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Poxvirus.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Parvovirus.",
+        "Flavivirus.",
+        "Cestodos.",
+        "Poxvirus.",
+        "Trematodos."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    }
+  ]
+}

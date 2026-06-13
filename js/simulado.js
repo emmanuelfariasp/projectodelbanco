@@ -31,6 +31,7 @@ function saveWrongAnswer(record){
     choice: record.choice,
     exp: record.exp,
     topic: record.topic || 'Sin tema',
+    keepOptionOrder: !!record.keepOptionOrder,
     sectionTitle: currentSection ? currentSection.title : subjectLabel(),
     updatedAt: BancoStore.now()
   });
@@ -107,6 +108,7 @@ function startWrongReview(){
     answer: item.answer,
     exp: item.exp,
     topic: item.topic || 'Errores',
+    keepOptionOrder: !!item.keepOptionOrder,
     sourceSection: item.sectionTitle || ''
   }));
   const section = {

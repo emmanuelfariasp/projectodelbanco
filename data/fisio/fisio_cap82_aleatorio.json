@@ -2,7 +2,7 @@
   "key": "fisio_cap82_aleatorio",
   "title": "Capítulo 82",
   "subtitle": "Fisiología femenina previa al embarazo",
-  "level": "25 preguntas",
+  "level": "68 preguntas",
   "questions": [
     {
       "id": "fisio_aleatorio_82_01",
@@ -328,6 +328,565 @@
         "Destruir el endometrio en la fase proliferativa."
       ],
       "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_26",
+      "q": "Durante el desarrollo embrionario, ¿en qué fase específica de la meiosis se detienen los ovocitos primarios hasta que se reanuda el ciclo en la pubertad?",
+      "exp": "Los ovocitos primarios quedan detenidos en profase de la meiosis I hasta que el ciclo ovárico se reinicia desde la pubertad.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Anafase de la meiosis I",
+        "Profase de la meiosis I",
+        "Telofase de la meiosis II",
+        "Metafase de la meiosis II"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_27",
+      "q": "¿Cuál es la función principal de la enzima aromatasa en las células de la granulosa?",
+      "exp": "La aromatasa de las células de la granulosa convierte andrógenos provenientes de la teca en estrógenos.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Convertir los andrógenos en estrógenos",
+        "Degradar el estrógeno en el hígado",
+        "Sintetizar progesterona a partir de colesterol",
+        "Activar la liberación pulsátil de GnRH"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_28",
+      "q": "¿Por qué solo un folículo suele alcanzar la madurez completa durante un ciclo mensual normal?",
+      "exp": "El folículo dominante produce estrógenos e inhibina, lo que reduce FSH y limita el crecimiento de otros folículos.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Los altos niveles de estrógeno del folículo dominante inhiben la secreción de FSH",
+        "Los folículos secundarios carecen de vasos sanguíneos",
+        "La progesterona bloquea los receptores de LH en los folículos pequeños",
+        "La GnRH deja de ser pulsátil después de la primera semana"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_29",
+      "q": "¿Qué evento hormonal específico ocurre aproximadamente 16 horas antes de la ovulación?",
+      "exp": "El pico preovulatorio de LH aparece poco antes de la ovulación y desencadena los cambios finales para la rotura folicular.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Un descenso brusco de la temperatura corporal",
+        "El inicio de la fase proliferativa endometrial",
+        "Un pico masivo en la secreción de LH",
+        "La involución total del cuerpo lúteo anterior"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_30",
+      "q": "¿Cuál es el destino del ovocito secundario si no ocurre la fecundación?",
+      "exp": "El ovocito secundario completa la meiosis II solo si es fecundado; si no, degenera.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Se convierte en una ovogonia",
+        "Degenera sin completar la meiosis II",
+        "Se implanta en el endometrio secretor",
+        "Forma el primer cuerpo polar"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_31",
+      "q": "En el mecanismo de ovulación, ¿qué papel juegan las prostaglandinas?",
+      "exp": "Las prostaglandinas favorecen cambios inflamatorios locales, vasodilatación y trasudación, ayudando a la rotura folicular.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Reducen la motilidad de las trompas de Falopio",
+        "Causan vasodilatación y trasudación de plasma al folículo",
+        "Inhiben la actividad de las enzimas proteolíticas",
+        "Estimulan la fusión de las epífisis óseas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_32",
+      "q": "¿Cuál de los siguientes efectos es característico de la progesterona sobre el útero?",
+      "exp": "La progesterona disminuye la excitabilidad del miometrio y ayuda a mantener un ambiente uterino más estable.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Reducir la frecuencia de las contracciones uterinas",
+        "Aumentar la densidad del moco cervical",
+        "Inducir el crecimiento de los vasos sanguíneos espiralados",
+        "Promover la proliferación rápida del epitelio vaginal"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_33",
+      "q": "¿Qué ocurre con el cuerpo lúteo si no hay una señal de gonadotropina coriónica humana (hCG)?",
+      "exp": "Sin hCG, el cuerpo lúteo pierde soporte hormonal, involuciona y se transforma en corpus albicans.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Se transforma en un tumor de células de la granulosa",
+        "Permanece activo produciendo estriol durante todo el mes",
+        "Involuciona para formar el corpus albicans tras unos 12 días",
+        "Aumenta su secreción de inhibina para iniciar un nuevo ciclo"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_34",
+      "q": "¿Cuál es la potencia estrogénica relativa del beta-estradiol en comparación con el estriol?",
+      "exp": "El beta-estradiol es el estrógeno más potente; en Guyton se considera mucho más potente que el estriol.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Es 12 veces más potente",
+        "Tiene la misma potencia pero mayor vida media",
+        "Es 80 veces más potente",
+        "Es 500 veces menos potente"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_35",
+      "q": "¿Qué cambio metabólico inducen los estrógenos en el tejido adiposo femenino?",
+      "exp": "Los estrógenos favorecen el patrón femenino de distribución de grasa, especialmente en nalgas, muslos y tejido subcutáneo.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Promueven la lipólisis masiva para el crecimiento óseo",
+        "Aumentan el depósito de grasa en nalgas y muslos",
+        "Reducen el porcentaje total de grasa corporal frente al masculino",
+        "Inhiben el desarrollo del estroma mamario"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_36",
+      "q": "¿Cuál es la causa principal de la osteoporosis en las mujeres posmenopáusicas?",
+      "exp": "La caída de estrógenos después de la menopausia aumenta la resorción ósea y favorece osteoporosis.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Déficit de estrógenos que aumenta la actividad osteoclástica",
+        "Aumento del depósito de fosfato cálcico en la matriz",
+        "Exceso de PTH debido a la falta de progesterona",
+        "Fusión tardía de las epífisis por niveles bajos de LH"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_37",
+      "q": "¿Qué fenómeno describe mejor la fase secretora del ciclo endometrial?",
+      "exp": "Durante la fase secretora, la progesterona prepara el endometrio con glándulas secretoras, edema y reservas nutritivas.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Tumefacción y acumulación de nutrientes bajo la influencia de la progesterona",
+        "Disminución del espesor total del endometrio a 1 mm",
+        "Reepitelización de la superficie endometrial tras la descamación",
+        "Vasoespasmo de las arteriolas espirales por caída hormonal"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_38",
+      "q": "¿Por qué el líquido menstrual es normalmente incoagulable?",
+      "exp": "La fibrinolisina liberada en el tejido descamado impide la coagulación habitual del líquido menstrual.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Debido a la liberación de fibrinolisina junto con el tejido necrótico",
+        "Por la ausencia total de plaquetas en el flujo menstrual",
+        "Debido a los altos niveles de estriol en el útero",
+        "Por la presencia de moco cervical alcalino"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_39",
+      "q": "¿Cuál es la importancia de la naturaleza pulsátil de la secreción de GnRH?",
+      "exp": "La secreción pulsátil de GnRH es necesaria para mantener la liberación adecuada de FSH y LH.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Evita que la inhibina bloquee el hipotálamo",
+        "Permite que la temperatura corporal se mantenga constante",
+        "Es esencial para estimular la liberación de FSH y LH por la adenohipófisis",
+        "Garantiza que solo un ovario funcione cada mes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_40",
+      "q": "¿Qué explica el pico de LH que precede a la ovulación?",
+      "exp": "Los niveles altos de estrógeno del folículo dominante cambian a retroalimentación positiva y desencadenan el pico de LH.",
+      "topic": "Capítulo 82",
+      "options": [
+        "La estimulación directa del nervio pudendo",
+        "Un efecto de retroalimentación positiva de los estrógenos sobre la hipófisis",
+        "El aumento de la temperatura a 37 grados Celsius",
+        "La desaparición repentina de la progesterona"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_41",
+      "q": "En la menopausia, ¿por qué aumentan drásticamente las concentraciones de FSH y LH?",
+      "exp": "Al disminuir los estrógenos ováricos, se pierde la retroalimentación negativa sobre hipotálamo e hipófisis, elevando FSH y LH.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Debido a la pérdida de la retroalimentación negativa por estrógenos",
+        "Por una hiperactividad del sistema límbico",
+        "Para intentar regenerar el corpus albicans",
+        "Por la secreción excesiva de inhibina folicular"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_42",
+      "q": "¿Qué síntoma es un indicador clínico de que ha ocurrido la ovulación?",
+      "exp": "Tras la ovulación, la progesterona eleva ligeramente la temperatura corporal basal.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Una disminución en la vascularización de la piel",
+        "La aparición inmediata de sangrado menstrual",
+        "Un aumento de aproximadamente 0,5 grados Celsius en la temperatura corporal basal",
+        "La detención de la secreción de moco cervical"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_43",
+      "q": "¿Cómo actúa la píldora anticonceptiva combinada para prevenir el embarazo?",
+      "exp": "Estrógenos y progestágenos ejercen retroalimentación negativa y bloquean el pico de LH necesario para la ovulación.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Suprime el pico preovulatorio de LH mediante retroalimentación negativa",
+        "Aumenta la motilidad ciliar para expulsar el óvulo rápido",
+        "Neutraliza la fibrinolisina del líquido menstrual",
+        "Provoca la atresia inmediata de todos los folículos primordiales"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_44",
+      "q": "¿Cuál es la causa más frecuente de infertilidad femenina relacionada con obstrucciones físicas?",
+      "exp": "Procesos como salpingitis y endometriosis pueden obstruir o alterar las trompas y dificultar el encuentro entre gametos.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Endometriosis y salpingitis",
+        "Hiposecreción de GnRH de origen psíquico",
+        "Persistencia de un epitelio vaginal cúbico",
+        "Hipertrofia del clítoris"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_45",
+      "q": "¿Qué función cumplen las células de la teca interna en el folículo antral?",
+      "exp": "La teca interna produce andrógenos bajo estímulo de LH; luego la granulosa los aromatiza a estrógenos.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Inhibir la secreción de LH mediante activina",
+        "Formar la corona radiada que rodea al óvulo",
+        "Secretar andrógenos que luego se convierten en estrógenos",
+        "Producir fibrinolisina para la rotura del estigma"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_46",
+      "q": "¿Qué ocurre con el epitelio vaginal bajo la influencia de los estrógenos durante la pubertad?",
+      "exp": "Los estrógenos transforman el epitelio vaginal en un epitelio más resistente, estratificado.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Secreta grandes cantidades de moco viscoso protector",
+        "Cambia de cúbico a estratificado para ser más resistente",
+        "Pierde su inervación parasimpática",
+        "Se vuelve más delgado y propenso a hemorragias"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_47",
+      "q": "En el contexto de la fecundidad, ¿cuánto tiempo permanece viable el óvulo tras la ovulación?",
+      "exp": "El ovocito liberado suele permanecer viable alrededor de 24 horas, mientras que los espermatozoides pueden sobrevivir más tiempo.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Exactamente 72 horas",
+        "Depende de los niveles de oxitocina",
+        "Hasta 5 días",
+        "No más de 24 horas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_82_48",
+      "q": "¿Cuál es la función de la inhibina producida por el cuerpo lúteo?",
+      "exp": "La inhibina ejerce retroalimentación negativa selectiva sobre la secreción de FSH.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Aumentar la sensibilidad de la teca a la LH",
+        "Provocar la involución del corpus albicans",
+        "Inhibir específicamente la secreción de FSH por la adenohipófisis",
+        "Estimular la mitosis de las células germinales primordiales"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_49",
+      "q": "¿Qué efecto tienen los estrógenos sobre el crecimiento óseo?",
+      "exp": "Los estrógenos aceleran el cierre epifisario, limitando el crecimiento longitudinal después de la pubertad.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Estimulan la actividad de los osteoclastos en los huesos largos",
+        "Fomentan la fusión temprana de las epífisis con las diáfisis",
+        "Impiden el depósito de calcio y fosfato en la matriz",
+        "Aumentan la longitud de los huesos de forma indefinida"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_50",
+      "q": "¿Cuál es el principal producto final de la degradación de la progesterona que se excreta en la orina?",
+      "exp": "La progesterona se degrada principalmente a pregnandiol, que se elimina por la orina.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Androstenediona",
+        "Gonadotropina coriónica",
+        "Estriol",
+        "Pregnandiol"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_82_51",
+      "q": "De acuerdo con el material, ¿cuál es la frecuencia promedio de los pulsos de secreción de GnRH por el hipotálamo?",
+      "exp": "La GnRH se libera en pulsos, aproximadamente cada 1 a 2 horas, manteniendo la estimulación de FSH y LH.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Cada 15 a 30 minutos de forma continua",
+        "Cada 1 a 2 horas, con una duración de 5 a 25 minutos",
+        "Una vez al día durante la fase folicular",
+        "Cada 24 horas exclusivamente durante el pico de LH"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_52",
+      "q": "¿Cuál es el efecto principal de la LH sobre las células foliculares justo antes de la ovulación?",
+      "exp": "El pico de LH induce luteinización parcial y aumento de secreción de progesterona antes de la ovulación.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Induce la proliferación masiva de células ciliadas en las trompas",
+        "Estimula la síntesis de colágeno para fortalecer la pared del folículo",
+        "Provoca la secreción de progesterona antes de que ocurra la rotura folicular",
+        "Reduce la vascularización del folículo para facilitar el estigma"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_53",
+      "q": "Durante el acto sexual femenino, ¿qué sistema nervioso es responsable de la erección del tejido eréctil y la lubricación?",
+      "exp": "La respuesta eréctil y la lubricación femenina dependen principalmente de la activación parasimpática.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Simpático, mediante la liberación de noradrenalina",
+        "Parasimpático, a través de los nervios erectores",
+        "Somático, mediante el nervio pudendo de forma voluntaria",
+        "Entérico, regulando la presión abdominal"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_54",
+      "q": "¿Cuál es la ventana de fertilidad aproximada de una mujer en cada ciclo sexual?",
+      "exp": "La fecundidad se relaciona con la supervivencia de espermatozoides antes de la ovulación y la corta viabilidad del ovocito después de ella.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Unas 24 horas exactas tras la ovulación",
+        "Exclusivamente durante los 5 días de la menstruación",
+        "Los 14 días posteriores a la menstruación",
+        "Desde 4-5 días antes de la ovulación hasta pocas horas después"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_82_55",
+      "q": "¿Cuál es la causa principal de la involución del cuerpo lúteo al final de un ciclo no fértil?",
+      "exp": "Sin embarazo, la retroalimentación negativa reduce el soporte gonadotrópico y el cuerpo lúteo degenera.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Un aumento masivo de GnRH que desestabiliza el ovario",
+        "La excesiva secreción de LH que agota a las células luteínicas",
+        "La secreción de estrógenos, progesterona e inhibina que suprimen la LH y FSH",
+        "La llegada de sangre arterial con alta concentración de oxígeno"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_56",
+      "q": "En la ovogenia, ¿cuántos cromosomas tiene un ovocito secundario?",
+      "exp": "El ovocito secundario es haploide, pero sus cromosomas aún están duplicados hasta completar la meiosis II.",
+      "topic": "Capítulo 82",
+      "options": [
+        "23 cromosomas sencillos",
+        "46 cromosomas sencillos",
+        "23 cromosomas duplicados",
+        "46 cromosomas duplicados"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_57",
+      "q": "¿Qué factor se cree que desencadena el inicio de la pubertad en las niñas?",
+      "exp": "La pubertad comienza cuando maduran los mecanismos hipotalámicos que permiten pulsos eficaces de GnRH.",
+      "topic": "Capítulo 82",
+      "options": [
+        "La maduración súbita de los folículos primordiales por la dieta",
+        "La caída de los niveles de estrógenos maternos residuales",
+        "Un proceso de maduración cerebral que inicia la secreción pulsátil de GnRH",
+        "El cierre completo de todas las epífisis óseas"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_58",
+      "q": "¿Cuál es la función de la hormona inhibina secretada por el cuerpo lúteo?",
+      "exp": "La inhibina del cuerpo lúteo reduce selectivamente la secreción de FSH.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Suprimir selectivamente la secreción de FSH en la adenohipófisis",
+        "Bloquear los receptores de progesterona en el endometrio",
+        "Inhibir la contracción del músculo liso uterino",
+        "Impedir la degradación del estradiol en el hígado"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_59",
+      "q": "En el contexto de la ovulación, ¿qué es el estigma?",
+      "exp": "El estigma es el punto debilitado y prominente de la pared folicular por donde se libera el ovocito.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Una protuberancia en la pared del folículo por donde saldrá el óvulo",
+        "El conjunto de células de la granulosa que rodea al óvulo expulsado",
+        "La cavidad llena de líquido dentro del folículo antral",
+        "La cicatriz que deja el cuerpo lúteo tras degenerar"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_60",
+      "q": "¿Cuál es el principal precursor químico para la síntesis de estrógenos y progesterona en el ovario?",
+      "exp": "Las hormonas esteroideas ováricas se sintetizan a partir de colesterol.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Ácidos grasos libres de cadena corta",
+        "Vitamina D3 activada",
+        "Colesterol sanguíneo",
+        "Acetil coenzima A exclusivamente"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_61",
+      "q": "¿Cómo se transportan principalmente los estrógenos y la progesterona en la sangre?",
+      "exp": "Al ser esteroideas, circulan unidas de forma reversible a albúmina y globulinas transportadoras.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Como parte de los quilomicrones tras la absorción ovárica",
+        "Unidos laxamente a albúmina y globulinas específicas",
+        "Disueltos libremente en el plasma debido a su alta solubilidad",
+        "Dentro de los eritrocitos unidos a la hemoglobina"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_62",
+      "q": "¿Qué efecto tiene la progesterona sobre las contracciones uterinas?",
+      "exp": "La progesterona disminuye la contractilidad del miometrio, favoreciendo la estabilidad uterina.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Provoca contracciones tetánicas durante la ovulación",
+        "Reduce la frecuencia e intensidad de las contracciones",
+        "Aumenta su frecuencia para facilitar el transporte de esperma",
+        "No tiene ningún efecto sobre el miometrio"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_63",
+      "q": "En el método rítmico de anticoncepción, ¿qué intervalo se considera el más constante en el ciclo sexual femenino?",
+      "exp": "La fase lútea, desde la ovulación hasta la siguiente menstruación, es relativamente más constante.",
+      "topic": "Capítulo 82",
+      "options": [
+        "El intervalo entre la ovulación y la siguiente menstruación",
+        "El tiempo que dura el flujo menstrual",
+        "El tiempo de maduración de los folículos primarios",
+        "El período desde la menstruación hasta la ovulación"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_64",
+      "q": "¿Cuál es la causa de los sofocos durante la menopausia?",
+      "exp": "La disminución de estrógenos altera mecanismos vasomotores y puede producir sofocos.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Un exceso súbito de producción de estrógenos suprarrenales",
+        "La falta de estrógenos que afecta el control vasomotor",
+        "El aumento de la calcificación ósea que libera calor",
+        "La infección latente del endometrio atrofiado"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_aleatorio_82_65",
+      "q": "Un tumor de células de la granulosa que secreta estrógenos después de la menopausia suele manifestarse inicialmente como:",
+      "exp": "La secreción anormal de estrógenos en una mujer posmenopáusica puede estimular el endometrio y causar sangrado irregular.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Sangrado irregular o metrorragia",
+        "Aumento masivo de la secreción de FSH",
+        "Cierre de las epífisis de los huesos largos",
+        "Amenorrea prolongada"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_aleatorio_82_66",
+      "q": "¿Qué fenómeno ocurre durante el orgasmo femenino que podría facilitar la fecundación?",
+      "exp": "Durante el orgasmo femenino pueden ocurrir cambios cervicales y uterinos que favorecen el transporte espermático.",
+      "topic": "Capítulo 82",
+      "options": [
+        "El aumento de la acidez vaginal para activar los espermatozoides",
+        "La liberación de fibrinolisina en la vagina",
+        "La contracción de los vasos sanguíneos del clítoris",
+        "La dilatación del canal cervical por hasta 30 minutos"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_aleatorio_82_67",
+      "q": "En mujeres con ciclos anovulatorios, ¿qué hormona suele estar ausente o en niveles mínimos en la segunda mitad del ciclo?",
+      "exp": "Si no hay ovulación, no se forma un cuerpo lúteo funcional; por eso falta la elevación luteal de progesterona.",
+      "topic": "Capítulo 82",
+      "options": [
+        "GnRH",
+        "FSH",
+        "Progesterona",
+        "Estradiol"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_aleatorio_82_68",
+      "q": "¿Cuál es el propósito del incremento de leucocitos en el útero durante la menstruación?",
+      "exp": "Durante la menstruación, el endometrio queda expuesto; el aumento de leucocitos ayuda a proteger contra infecciones.",
+      "topic": "Capítulo 82",
+      "options": [
+        "Proporcionar resistencia a la infección mientras el endometrio está denudado",
+        "Aumentar la viscosidad del flujo menstrual",
+        "Destruir los espermatozoides residuales del ciclo anterior",
+        "Sintetizar nuevas glándulas endometriales para el siguiente ciclo"
+      ],
+      "answer": 0
     }
   ]
 }

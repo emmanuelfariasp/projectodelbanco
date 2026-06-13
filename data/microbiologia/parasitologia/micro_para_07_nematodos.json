@@ -1,0 +1,157 @@
+{
+  "key": "micro_para_07_nematodos",
+  "title": "Nematodos intestinales",
+  "subtitle": "Parasitología · 10 preguntas · Fuente: 7 Unidad XVIII Nematodos intestinales.pdf",
+  "questions": [
+    {
+      "id": "micro_para_07_nematodos_001",
+      "q": "La forma infectante de Ascaris lumbricoides para el humano es:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Huevo embrionado ingerido.” porque, dentro de UNIDAD XVIII - Nematodos intestinales, ese dato encaja con el tema de helmintología: forma infectante de algunos nematodos como Ascaris cuando se ingiere desde suelo/alimentos contaminados. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Larva filariforme penetrante.”: larva infectante de Strongyloides o uncinarias, capaz de penetrar piel en varios ciclos. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Huevo embrionado ingerido.”.\nb) Correcta. “Huevo embrionado ingerido.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esta alternativa se refiere a “Cisticerco en carne.”: larva de Taenia en tejidos; en carne causa teniasis, y si el humano ingiere huevos de T. solium puede producir cisticercosis. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Huevo embrionado ingerido.”.\nd) No. Aquí se está describiendo “Metacercaria en vegetal acuatico.”: forma enquistada infectante de trematodos como Fasciola en vegetación acuática. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Huevo embrionado ingerido.”.\ne) No. Esa opción apunta a “Plerocercoide en pescado.”: larva infectante de Diphyllobothrium latum en pescado crudo o mal cocido. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Huevo embrionado ingerido.”.",
+      "topic": "Parasitología - Nematodos intestinales",
+      "options": [
+        "Larva filariforme penetrante.",
+        "Huevo embrionado ingerido.",
+        "Cisticerco en carne.",
+        "Metacercaria en vegetal acuatico.",
+        "Plerocercoide en pescado."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_07_nematodos_002",
+      "q": "El síndrome de Loeffler en ascariosis se relaciona con:",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Migracion larvaria pulmonar con eosinofilia.” porque, dentro de UNIDAD XVIII - Nematodos intestinales, ese dato encaja con el tema de helmintología: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Adultos en vías biliares siempre.”: localización de adultos de Fasciola, donde depositan huevos que salen por heces. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Migracion larvaria pulmonar con eosinofilia.”.\nb) No. Esta alternativa se refiere a “Huevos en vejiga.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Migracion larvaria pulmonar con eosinofilia.”.\nc) No. Aquí se está describiendo “Cisticercos cerebrales.”: larva de Taenia en tejidos; en carne causa teniasis, y si el humano ingiere huevos de T. solium puede producir cisticercosis. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Migracion larvaria pulmonar con eosinofilia.”.\nd) Correcta. “Migracion larvaria pulmonar con eosinofilia.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Lo que menciona esta opción corresponde a “Toxina neurotropa salival.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Migracion larvaria pulmonar con eosinofilia.”.",
+      "topic": "Parasitología - Nematodos intestinales",
+      "options": [
+        "Adultos en vías biliares siempre.",
+        "Huevos en vejiga.",
+        "Cisticercos cerebrales.",
+        "Migracion larvaria pulmonar con eosinofilia.",
+        "Toxina neurotropa salival."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_07_nematodos_003",
+      "q": "La obstruccion intestinal por Ascaris se observa sobre todo cuando:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Existe alta carga de vermes adultos.” porque, dentro de UNIDAD XVIII - Nematodos intestinales, ese dato encaja con el tema de helmintología: gran número de gusanos adultos; aumenta riesgo de obstrucción intestinal o migración ectópica. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Solo hay un huevo no fecundado.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Existe alta carga de vermes adultos.”.\nb) No. Aquí se está describiendo “El parásito esta en mosquito.”: artrópodo vector; puede transmitir arbovirus o Plasmodium según el género y contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Existe alta carga de vermes adultos.”.\nc) Correcta. “Existe alta carga de vermes adultos.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Lo que menciona esta opción corresponde a “El paciente fue vacunado contra polio.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Existe alta carga de vermes adultos.”.\ne) No. El concepto de esta alternativa es “La infección es por Trichomonas.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Existe alta carga de vermes adultos.”.",
+      "topic": "Parasitología - Nematodos intestinales",
+      "options": [
+        "Solo hay un huevo no fecundado.",
+        "El parásito esta en mosquito.",
+        "Existe alta carga de vermes adultos.",
+        "El paciente fue vacunado contra polio.",
+        "La infección es por Trichomonas."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_07_nematodos_004",
+      "q": "Trichuris trichiura se asocia en infección intensa con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Prolapso rectal y anemia.” porque, dentro de UNIDAD XVIII - Nematodos intestinales, ese dato encaja con el tema de helmintología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Prolapso rectal y anemia.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esa opción apunta a “Hidrofobia.”: signo neurológico clásico de rabia por espasmos faríngeos y disfunción del SNC. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Prolapso rectal y anemia.”.\nc) No. Lo que menciona esta opción corresponde a “Condiloma acuminado.”: verruga anogenital vinculada típicamente a HPV mucoso de bajo riesgo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Prolapso rectal y anemia.”.\nd) No. El concepto de esta alternativa es “Fiebre amarilla.”: flavivirus prevenible con vacuna específica. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Prolapso rectal y anemia.”.\ne) No. Esta alternativa se refiere a “Quiste hidatidico.”: lesión por Echinococcus granulosus; no es manifestación de VHH-8. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Prolapso rectal y anemia.”.",
+      "topic": "Parasitología - Nematodos intestinales",
+      "options": [
+        "Prolapso rectal y anemia.",
+        "Hidrofobia.",
+        "Condiloma acuminado.",
+        "Fiebre amarilla.",
+        "Quiste hidatidico."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_07_nematodos_005",
+      "q": "Enterobius vermicularis se diagnostica mejor mediante:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Cinta adhesiva perianal matinal.” porque, dentro de UNIDAD XVIII - Nematodos intestinales, ese dato encaja con el tema de helmintología: la prueba de Graham; recoge huevos de Enterobius alrededor del ano por la mañana. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Gota gruesa.”: un método parasitológico para malaria: concentra sangre y aumenta la sensibilidad para ver parásitos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Cinta adhesiva perianal matinal.”.\nb) No. Lo que menciona esta opción corresponde a “Biopsia hepática.”: una muestra de hígado; puede revelar algunos parásitos tisulares, pero no es el método típico para oxiuriasis ni para virus respiratorios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Cinta adhesiva perianal matinal.”.\nc) No. El concepto de esta alternativa es “Aspirado de medula osea.”: una muestra útil para buscar amastigotes en leishmaniasis visceral; no corresponde a parásitos intestinales comunes. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Cinta adhesiva perianal matinal.”.\nd) No. Esta alternativa se refiere a “PCR respiratoria.”: una prueba molecular aplicada a secreciones respiratorias; sirve para virus respiratorios, pero no para huevos o parásitos intestinales. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Cinta adhesiva perianal matinal.”.\ne) Correcta. “Cinta adhesiva perianal matinal.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Parasitología - Nematodos intestinales",
+      "options": [
+        "Gota gruesa.",
+        "Biopsia hepática.",
+        "Aspirado de medula osea.",
+        "PCR respiratoria.",
+        "Cinta adhesiva perianal matinal."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_07_nematodos_006",
+      "q": "El prurito anal nocturno en un niño orienta principalmente a:",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Oxiuriosis.” porque, dentro de UNIDAD XVIII - Nematodos intestinales, ese dato encaja con el tema de helmintología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Fasciolosis.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Oxiuriosis.”.\nb) Correcta. “Oxiuriosis.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esta alternativa se refiere a “Dengue.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Oxiuriosis.”.\nd) No. Aquí se está describiendo “Rabia.”: rhabdovirus neurotrópico transmitido sobre todo por saliva de animales infectados. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Oxiuriosis.”.\ne) No. Esa opción apunta a “Leishmaniasis visceral.”: protozoo transmitido por flebótomos, con formas promastigote en vector y amastigote en macrófagos humanos. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Oxiuriosis.”.",
+      "topic": "Parasitología - Nematodos intestinales",
+      "options": [
+        "Fasciolosis.",
+        "Oxiuriosis.",
+        "Dengue.",
+        "Rabia.",
+        "Leishmaniasis visceral."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_07_nematodos_007",
+      "q": "Strongyloides stercoralis preocupa en inmunodeprimidos porque puede producir:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Autoinfección e hiperinfección.” porque, dentro de UNIDAD XVIII - Nematodos intestinales, ese dato encaja con el tema de helmintología: capacidad de reinfectarse dentro del mismo hospedador, como Strongyloides o Hymenolepis nana; no es variación de influenza. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Cancer cervical.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Autoinfección e hiperinfección.”.\nb) No. Esta alternativa se refiere a “Aplasia eritroide por B19.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Autoinfección e hiperinfección.”.\nc) No. Aquí se está describiendo “Mononúcleosis.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Autoinfección e hiperinfección.”.\nd) Correcta. “Autoinfección e hiperinfección.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Lo que menciona esta opción corresponde a “Zoster localizado.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Autoinfección e hiperinfección.”.",
+      "topic": "Parasitología - Nematodos intestinales",
+      "options": [
+        "Cancer cervical.",
+        "Aplasia eritroide por B19.",
+        "Mononúcleosis.",
+        "Autoinfección e hiperinfección.",
+        "Zoster localizado."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_07_nematodos_008",
+      "q": "Uncinarias como Ancylostoma y Necator ingresan habitualmente por:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Penetracion cutanea de larvas filariformes.” porque, dentro de UNIDAD XVIII - Nematodos intestinales, ese dato encaja con el tema de helmintología: larvas infectantes de Strongyloides/uncinarias; no son efecto citopático viral. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Penetracion cutanea de larvas filariformes.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Aquí se está describiendo “Ingestion de carne bovina cruda.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque lleva la explicación hacia virología, no hacia el parásito o helminto preguntado. En cambio, la respuesta correcta exige reconocer “Penetracion cutanea de larvas filariformes.”.\nc) No. Esa opción apunta a “Picadura de triatomino.”: insecto vector de T. cruzi; la infección ocurre por contaminación con heces infectantes cerca de la picadura o mucosas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Penetracion cutanea de larvas filariformes.”.\nd) No. Lo que menciona esta opción corresponde a “Oocistos de gato.”: hospedador definitivo de Toxoplasma gondii y fuente de ooquistes por heces. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Penetracion cutanea de larvas filariformes.”.\ne) No. El concepto de esta alternativa es “Mordedura de serpiente.”: vía de exposición típica para rabia u ofidismo según el contexto; el significado depende del agente. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Penetracion cutanea de larvas filariformes.”.",
+      "topic": "Parasitología - Nematodos intestinales",
+      "options": [
+        "Penetracion cutanea de larvas filariformes.",
+        "Ingestion de carne bovina cruda.",
+        "Picadura de triatomino.",
+        "Oocistos de gato.",
+        "Mordedura de serpiente."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_07_nematodos_009",
+      "q": "La anemia por uncinarias se debe principalmente a:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Perdida crónica de sangre intestinal.” porque, dentro de UNIDAD XVIII - Nematodos intestinales, ese dato encaja con el tema de helmintología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Deficit de B12 por pescado.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Perdida crónica de sangre intestinal.”.\nb) No. Esa opción apunta a “Hemolisis por malaria grave.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Perdida crónica de sangre intestinal.”.\nc) Correcta. “Perdida crónica de sangre intestinal.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. El concepto de esta alternativa es “Aplasia por parvovirus.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque lleva la explicación hacia virología, no hacia el parásito o helminto preguntado. En cambio, la respuesta correcta exige reconocer “Perdida crónica de sangre intestinal.”.\ne) No. Esta alternativa se refiere a “Destruccion medular por VIH.”: retrovirus que infecta células CD4 y causa inmunodeficiencia progresiva. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Perdida crónica de sangre intestinal.”.",
+      "topic": "Parasitología - Nematodos intestinales",
+      "options": [
+        "Deficit de B12 por pescado.",
+        "Hemolisis por malaria grave.",
+        "Perdida crónica de sangre intestinal.",
+        "Aplasia por parvovirus.",
+        "Destruccion medular por VIH."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_07_nematodos_010",
+      "q": "Toxocara sp. en humanos se manifiesta como:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Larva migrans visceral u ocular.” porque, dentro de UNIDAD XVIII - Nematodos intestinales, ese dato encaja con el tema de helmintología: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Teniasis intestinal adulta.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Larva migrans visceral u ocular.”.\nb) No. Lo que menciona esta opción corresponde a “Diarrea acuosa por coccidios.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Larva migrans visceral u ocular.”.\nc) No. El concepto de esta alternativa es “Verrugas por HPV.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Larva migrans visceral u ocular.”.\nd) No. Esta alternativa se refiere a “Parotiditis.”: infección por virus de paperas, con inflamación parotídea y posibles complicaciones como orquitis. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Larva migrans visceral u ocular.”.\ne) Correcta. “Larva migrans visceral u ocular.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Parasitología - Nematodos intestinales",
+      "options": [
+        "Teniasis intestinal adulta.",
+        "Diarrea acuosa por coccidios.",
+        "Verrugas por HPV.",
+        "Parotiditis.",
+        "Larva migrans visceral u ocular."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    }
+  ]
+}

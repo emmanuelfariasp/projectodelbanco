@@ -1,0 +1,157 @@
+{
+  "key": "micro_viro_01_generalidades",
+  "title": "Generalidades de Virología",
+  "subtitle": "Virología · 10 preguntas · Fuente: UNIDAD 1 - Generalidades (1).pdf",
+  "questions": [
+    {
+      "id": "micro_viro_01_generalidades_001",
+      "q": "Un alumno afirma que un virus clínicamente importante puede llevar ADN y ARN al mismo tiempo. Segun las generalidades de virologia, cuál correccion es la más adecuada?",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “Su genoma es de ADN o de ARN, pero no de ambos.” porque, dentro de UNIDAD 1 - Generalidades de Virología, ese dato encaja con el tema de virología: la regla general de virología básica: el genoma viral es de ADN o de ARN; no combina ambos como genoma propio. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Puede llevar ambos si posee envoltura lipídica.”: una membrana lipídica externa con glucoproteínas; facilita entrada/salida, pero vuelve al virus más sensible a detergentes y desecación. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Su genoma es de ADN o de ARN, pero no de ambos.”.\nb) No. El concepto de esta alternativa es “Puede llevar ambos durante la fase de eclipse.”: fase inicial tras entrada viral en la que no se detectan viriones infecciosos completos; no significa que el virus tenga ADN y ARN simultáneamente. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Su genoma es de ADN o de ARN, pero no de ambos.”.\nc) Correcta. “Su genoma es de ADN o de ARN, pero no de ambos.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Aquí se está describiendo “El ARN aparece solo en virus de cápside desnuda.”: un virus sin envoltura lipídica; suele resistir mejor desecación, ácido y detergentes. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Su genoma es de ADN o de ARN, pero no de ambos.”.\ne) No. Esa opción apunta a “El ADN aparece solo en virus con simetría helicoidal.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Su genoma es de ADN o de ARN, pero no de ambos.”.",
+      "topic": "Virología - Generalidades de Virología",
+      "options": [
+        "Puede llevar ambos si posee envoltura lipídica.",
+        "Puede llevar ambos durante la fase de eclipse.",
+        "Su genoma es de ADN o de ARN, pero no de ambos.",
+        "El ARN aparece solo en virus de cápside desnuda.",
+        "El ADN aparece solo en virus con simetría helicoidal."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_002",
+      "q": "Si un virion conserva infectividad despues de desecacion, ácido gastrico y detergentes, que rasgo estructural lo explica mejor?",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “Capside desnuda proteica.” porque, dentro de UNIDAD 1 - Generalidades de Virología, ese dato encaja con el tema de virología: un virus sin envoltura lipídica; suele resistir mejor desecación, ácido y detergentes. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Capside desnuda proteica.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esta alternativa se refiere a “Envoltura con glucoproteinas.”: una membrana externa con espículas; ayuda a unión y fusión, pero no explica resistencia al ácido o detergentes. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Capside desnuda proteica.”.\nc) No. Aquí se está describiendo “Genoma segmentado.”: un genoma dividido en segmentos. Es muy importante en influenza y rotavirus porque favorece reorganización genética, pero no explica por sí solo resistencia ambiental. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Capside desnuda proteica.”.\nd) No. Esa opción apunta a “Transcriptasa inversa.”: la enzima de los retrovirus que transforma ARN viral en ADN para integrarse al genoma celular. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Capside desnuda proteica.”.\ne) No. Lo que menciona esta opción corresponde a “Simetria compleja.”: una forma de organización del virión, como ocurre en algunos virus grandes; no define el tipo de ácido nucleico ni la resistencia ambiental. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Capside desnuda proteica.”.",
+      "topic": "Virología - Generalidades de Virología",
+      "options": [
+        "Capside desnuda proteica.",
+        "Envoltura con glucoproteinas.",
+        "Genoma segmentado.",
+        "Transcriptasa inversa.",
+        "Simetria compleja."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_003",
+      "q": "En un esquema basico, capsomeros de polipeptidos que rodean el ácido nucleico forman la cápside. Como se denomina el conjunto cápside más ácido nucleico?",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “Nucleocapside.” porque, dentro de UNIDAD 1 - Generalidades de Virología, ese dato encaja con el tema de virología: el conjunto formado por ácido nucleico viral más cápside proteica. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Envoltura viral.”: la membrana lipídica externa de algunos virus. Es distinta de la nucleocápside, porque no incluye el ácido nucleico con su cápside. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Nucleocapside.”.\nb) No. Aquí se está describiendo “Peplomero viral.”: una espícula o proyección de la envoltura viral, no el conjunto cápside-genoma. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Nucleocapside.”.\nc) No. Esa opción apunta a “Cuerpo de inclusion.”: acúmulo intracelular visible por replicación o productos virales; no es una estructura básica del virión. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Nucleocapside.”.\nd) No. Lo que menciona esta opción corresponde a “Viroplasma.”: zona intracelular de ensamblaje o replicación viral, especialmente descrita en algunos virus, no la nucleocápside. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Nucleocapside.”.\ne) Correcta. “Nucleocapside.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Generalidades de Virología",
+      "options": [
+        "Envoltura viral.",
+        "Peplomero viral.",
+        "Cuerpo de inclusion.",
+        "Viroplasma.",
+        "Nucleocapside."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_004",
+      "q": "Durante el diagnóstico de una infección viral aguda, se busca detectar directamente material genetico del virus. Qué tecnica corresponde mejor a ese objetivo?",
+      "exp": "La pregunta está evaluando qué prueba o hallazgo confirma mejor el agente o el cuadro señalado. La opción correcta es “PCR o RT-PCR.” porque, dentro de UNIDAD 1 - Generalidades de Virología, ese dato encaja con el tema de virología: una prueba molecular: PCR detecta ADN y RT-PCR detecta ARN después de convertirlo a ADN complementario. Se usa cuando se quiere demostrar directamente material genético del agente. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Prueba de coagulasa.”: una prueba enzimática usada sobre todo para identificar Staphylococcus aureus; pertenece a bacteriología, no al diagnóstico viral directo. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “PCR o RT-PCR.”.\nb) Correcta. “PCR o RT-PCR.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Lo que menciona esta opción corresponde a “Prueba de ureasa.”: una prueba metabólica bacteriana, por ejemplo relacionada con bacterias ureasa positivas; no identifica virus por material genético. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “PCR o RT-PCR.”.\nd) No. El concepto de esta alternativa es “Coprocultivo bacteriano.”: un cultivo de materia fecal para bacterias entéricas; no es la herramienta principal para un virus ni para protozoarios/helmintos si se busca la forma parasitaria. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “PCR o RT-PCR.”.\ne) No. Esta alternativa se refiere a “Tincion de Gram.”: una coloración para bacterias que diferencia Gram positivas y Gram negativas; no detecta directamente genomas virales. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “PCR o RT-PCR.”.",
+      "topic": "Virología - Generalidades de Virología",
+      "options": [
+        "Prueba de coagulasa.",
+        "PCR o RT-PCR.",
+        "Prueba de ureasa.",
+        "Coprocultivo bacteriano.",
+        "Tincion de Gram."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_005",
+      "q": "La envoltura viral suele relacionarse con una mayor fragilidad ambiental. Qué consecuencia practica se espera?",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “Mayor sensibilidad a detergentes.” porque, dentro de UNIDAD 1 - Generalidades de Virología, ese dato encaja con el tema de virología: lo que ocurre en virus envueltos: los detergentes alteran la membrana lipídica y disminuyen la infectividad. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Mayor resistencia a bilis.”: una propiedad de resistencia ambiental. Hay que relacionarla con la presencia o ausencia de envoltura y con el agente concreto. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Mayor sensibilidad a detergentes.”.\nb) No. Lo que menciona esta opción corresponde a “Mayor tolerancia a desecacion.”: resistencia al ambiente seco. Se espera más en virus desnudos, no en virus envueltos, porque la envoltura lipídica se daña con facilidad. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Mayor sensibilidad a detergentes.”.\nc) No. El concepto de esta alternativa es “Mayor estabilidad en aguas residuales.”: un rasgo más compatible con virus desnudos resistentes o enterovirus; no es la consecuencia típica de tener envoltura. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Mayor sensibilidad a detergentes.”.\nd) Correcta. “Mayor sensibilidad a detergentes.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Aquí se está describiendo “Mayor resistencia a pH ácido.”: una propiedad de resistencia ambiental. Hay que relacionarla con la presencia o ausencia de envoltura y con el agente concreto. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Mayor sensibilidad a detergentes.”.",
+      "topic": "Virología - Generalidades de Virología",
+      "options": [
+        "Mayor resistencia a bilis.",
+        "Mayor tolerancia a desecacion.",
+        "Mayor estabilidad en aguas residuales.",
+        "Mayor sensibilidad a detergentes.",
+        "Mayor resistencia a pH ácido."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_006",
+      "q": "Un virus causa enfermedad por destruir células durante su replicacion. Qué termino general describe mejor ese efecto?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Citolisis viral.” porque, dentro de UNIDAD 1 - Generalidades de Virología, ese dato encaja con el tema de virología: destrucción de la célula infectada por replicación y liberación viral; es una forma directa de citopatogenia. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Citolisis viral.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. El concepto de esta alternativa es “Latencia antigenica.”: una forma imprecisa de hablar de persistencia sin replicación productiva; no equivale a destrucción celular por replicación. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citolisis viral.”.\nc) No. Esta alternativa se refiere a “Tolerancia humoral.”: un fenómeno inmunológico donde la respuesta de anticuerpos no se activa adecuadamente; no describe daño celular por virus. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citolisis viral.”.\nd) No. Aquí se está describiendo “Recombinacion bacteriana.”: intercambio genético entre bacterias; no describe citopatogenia viral. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citolisis viral.”.\ne) No. Esa opción apunta a “Antagonismo fúngico.”: interacción o competencia entre hongos u otros microorganismos; no explica lesión viral. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citolisis viral.”.",
+      "topic": "Virología - Generalidades de Virología",
+      "options": [
+        "Citolisis viral.",
+        "Latencia antigenica.",
+        "Tolerancia humoral.",
+        "Recombinacion bacteriana.",
+        "Antagonismo fúngico."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_007",
+      "q": "Cuál combinacion relaciona mejor estructura y conducta biologica viral?",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “Envoltura - sensibilidad a solventes lipidicos.” porque, dentro de UNIDAD 1 - Generalidades de Virología, ese dato encaja con el tema de virología: característica de virus envueltos: los solventes/detergentes dañan la envoltura y disminuyen infectividad. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Envoltura - resistencia extrema a ácido.”: resistencia al pH ácido, típica de muchos virus desnudos y enterovirus, no de virus envueltos. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Envoltura - sensibilidad a solventes lipidicos.”.\nb) No. Esta alternativa se refiere a “Capside desnuda - mayor fragilidad ambiental.”: un virus sin envoltura lipídica; suele resistir mejor desecación, ácido y detergentes. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Envoltura - sensibilidad a solventes lipidicos.”.\nc) Correcta. “Envoltura - sensibilidad a solventes lipidicos.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esa opción apunta a “ARN - imposibilidad de variacion genetica.”: una afirmación falsa para virus ARN: suelen variar con facilidad por mutación y otros mecanismos. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Envoltura - sensibilidad a solventes lipidicos.”.\ne) No. Lo que menciona esta opción corresponde a “ADN - transmisión solo vectorial.”: una restricción incorrecta: los virus pueden transmitirse por vía respiratoria, fecal-oral, sexual, vertical, zoonótica o vectorial según el caso. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Envoltura - sensibilidad a solventes lipidicos.”.",
+      "topic": "Virología - Generalidades de Virología",
+      "options": [
+        "Envoltura - resistencia extrema a ácido.",
+        "Capside desnuda - mayor fragilidad ambiental.",
+        "Envoltura - sensibilidad a solventes lipidicos.",
+        "ARN - imposibilidad de variacion genetica.",
+        "ADN - transmisión solo vectorial."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_008",
+      "q": "Si un virus no produce energia por si mismo y necesita maquinaria célular, que propiedad esta siendo destacada?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Es un parásito intracélular obligado.” porque, dentro de UNIDAD 1 - Generalidades de Virología, ese dato encaja con el tema de virología: organismo que necesita entrar en células para multiplicarse; en virología describe la dependencia absoluta del virus de la célula hospedadora. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Es una célula procariota atipica.”: una bacteria o arquea, con metabolismo propio; los virus no son células. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Es un parásito intracélular obligado.”.\nb) No. Aquí se está describiendo “Es un hongo intracélular facultativo.”: un concepto de micología. Sirve para hongos, pero no explica el agente o mecanismo evaluado en esta pregunta. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Es un parásito intracélular obligado.”.\nc) No. Esa opción apunta a “Es una bacteria sin pared célular.”: como Mycoplasma; sigue siendo una bacteria con metabolismo, no un virus. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Es un parásito intracélular obligado.”.\nd) No. Lo que menciona esta opción corresponde a “Es un protozoo con metabolismo reducido.”: un eucariota unicelular parásito; no corresponde a virus, que dependen de la maquinaria celular. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Es un parásito intracélular obligado.”.\ne) Correcta. “Es un parásito intracélular obligado.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Generalidades de Virología",
+      "options": [
+        "Es una célula procariota atipica.",
+        "Es un hongo intracélular facultativo.",
+        "Es una bacteria sin pared célular.",
+        "Es un protozoo con metabolismo reducido.",
+        "Es un parásito intracélular obligado."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_009",
+      "q": "En la secuencia general de replicacion, que evento ocurre despues de la union/penetracion y antes de la sintesis de nuevos componentes?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Liberacion del genoma viral.” porque, dentro de UNIDAD 1 - Generalidades de Virología, ese dato encaja con el tema de virología: desnudamiento/uncoating: después de entrada, el genoma queda disponible para transcripción o replicación. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Formacion de anticuerpos IgG.”: respuesta inmune adaptativa posterior a la infección; no es un paso temprano de replicación viral. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Liberacion del genoma viral.”.\nb) Correcta. “Liberacion del genoma viral.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Lo que menciona esta opción corresponde a “Eliminacion renal del virion.”: un destino de eliminación del organismo, no una etapa de replicación viral. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Liberacion del genoma viral.”.\nd) No. El concepto de esta alternativa es “Produccion de exotoxinas.”: mecanismo clásico de bacterias toxigénicas; los virus no producen exotoxinas bacterianas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Liberacion del genoma viral.”.\ne) No. Esta alternativa se refiere a “Encapsulacion por eosinofilos.”: respuesta inflamatoria más relacionada con parásitos o alergia; no es un paso replicativo viral. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Liberacion del genoma viral.”.",
+      "topic": "Virología - Generalidades de Virología",
+      "options": [
+        "Formacion de anticuerpos IgG.",
+        "Liberacion del genoma viral.",
+        "Eliminacion renal del virion.",
+        "Produccion de exotoxinas.",
+        "Encapsulacion por eosinofilos."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_010",
+      "q": "Un informe integra transmisión respiratoria, fecal-oral, sexual, vectorial y zoonotica. Qué enfoque del curso resume mejor esa lista?",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Vias epidemiologicas de virus estudiados.” porque, dentro de UNIDAD 1 - Generalidades de Virología, ese dato encaja con el tema de virología: formas de transmisión de los virus del curso: respiratoria, fecal-oral, sexual, vectorial y zoonótica. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Fases morfologicas de protozoarios.”: formas como quiste y trofozoíto en protozoarios; no resume vías epidemiológicas virales. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Vias epidemiologicas de virus estudiados.”.\nb) No. Lo que menciona esta opción corresponde a “Tipos de inmunidad bacteriana.”: clasificación de defensa contra bacterias; no es la lista de vías de transmisión viral. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Vias epidemiologicas de virus estudiados.”.\nc) No. El concepto de esta alternativa es “Etapas de esporulacion fungica.”: proceso reproductivo o de resistencia de hongos; no se aplica a virus. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Vias epidemiologicas de virus estudiados.”.\nd) Correcta. “Vias epidemiologicas de virus estudiados.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Aquí se está describiendo “Clases de antibioticos betalactamicos.”: grupo de antibióticos contra bacterias con pared celular; no clasifica vías de transmisión viral. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Vias epidemiologicas de virus estudiados.”.",
+      "topic": "Virología - Generalidades de Virología",
+      "options": [
+        "Fases morfologicas de protozoarios.",
+        "Tipos de inmunidad bacteriana.",
+        "Etapas de esporulacion fungica.",
+        "Vias epidemiologicas de virus estudiados.",
+        "Clases de antibioticos betalactamicos."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    }
+  ]
+}

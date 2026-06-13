@@ -1,0 +1,157 @@
+{
+  "key": "micro_viro_03_veb_cmv_vhh",
+  "title": "VEB, CMV, VHH 6, 7 y 8",
+  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 2.2 VEB CMV VH 6 7 y 8.pdf",
+  "questions": [
+    {
+      "id": "micro_viro_03_veb_cmv_vhh_001",
+      "q": "Un adolescente con fiebre, faringitis, adenopatías y linfocitos atipicos tuvo contacto íntimo por saliva. Qué virus encaja mejor?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Virus Epstein-Barr.” porque, dentro de UNIDAD 2.2 - VEB, CMV, VHH 6, 7 y 8, ese dato encaja con el tema de microbiología: herpesvirus transmitido por saliva, con tropismo por linfocitos B y relación con mononucleosis. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Citomegalovirus.”: herpesvirus que puede causar mononucleosis heterófilo negativa y enfermedad congénita o en inmunodeprimidos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Virus Epstein-Barr.”.\nb) No. El concepto de esta alternativa es “Virus herpes humano 8.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Virus Epstein-Barr.”.\nc) No. Esta alternativa se refiere a “Adenovirus entérico.”: virus ADN bicatenario lineal, sin envoltura, con resistencia ambiental y tropismo respiratorio, ocular, digestivo y urinario. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Virus Epstein-Barr.”.\nd) No. Aquí se está describiendo “Parvovirus B19.”: virus pequeño ADN monocatenario, tropismo por precursores eritroides; causa eritema infeccioso y crisis aplásica. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Virus Epstein-Barr.”.\ne) Correcta. “Virus Epstein-Barr.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - VEB, CMV, VHH 6, 7 y 8",
+      "options": [
+        "Citomegalovirus.",
+        "Virus herpes humano 8.",
+        "Adenovirus entérico.",
+        "Parvovirus B19.",
+        "Virus Epstein-Barr."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_03_veb_cmv_vhh_002",
+      "q": "La mononúcleosis infecciosa por VEB se interpreta como resultado principalmente de:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Una respuesta T intensa contra linfocitos B infectados.” porque, dentro de UNIDAD 2.2 - VEB, CMV, VHH 6, 7 y 8, ese dato encaja con el tema de microbiología: base de la mononucleosis por VEB: los linfocitos T reaccionan contra B infectados. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Lisis de eritrocitos por toxina preformada.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Una respuesta T intensa contra linfocitos B infectados.”.\nb) Correcta. “Una respuesta T intensa contra linfocitos B infectados.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Aquí se está describiendo “Migracion larvaria hacia pulmon.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Una respuesta T intensa contra linfocitos B infectados.”.\nd) No. Esa opción apunta a “Destruccion directa de hepatocitos por ooquistes.”: célula hepática donde Plasmodium se multiplica primero tras inoculación por mosquito. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Una respuesta T intensa contra linfocitos B infectados.”.\ne) No. Lo que menciona esta opción corresponde a “Replicación viral exclusiva en neutrofilos.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Una respuesta T intensa contra linfocitos B infectados.”.",
+      "topic": "Virología - VEB, CMV, VHH 6, 7 y 8",
+      "options": [
+        "Lisis de eritrocitos por toxina preformada.",
+        "Una respuesta T intensa contra linfocitos B infectados.",
+        "Migracion larvaria hacia pulmon.",
+        "Destruccion directa de hepatocitos por ooquistes.",
+        "Replicación viral exclusiva en neutrofilos."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_03_veb_cmv_vhh_003",
+      "q": "En VEB, que célula es clave como diana y zona de latencia?",
+      "exp": "La pregunta está evaluando dónde persiste el agente o qué hospedador mantiene el ciclo. La opción correcta es “Linfocito B.” porque, dentro de UNIDAD 2.2 - VEB, CMV, VHH 6, 7 y 8, ese dato encaja con el tema de microbiología: célula diana y reservorio de latencia del VEB; al activarse la respuesta T aparecen linfocitos atípicos. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Eritrocito maduro.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Linfocito B.”.\nb) No. Aquí se está describiendo “Neurona motora.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Linfocito B.”.\nc) No. Esa opción apunta a “Miocito esqueletico.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Linfocito B.”.\nd) Correcta. “Linfocito B.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. El concepto de esta alternativa es “Celula parietal gastrica.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Linfocito B.”.",
+      "topic": "Virología - VEB, CMV, VHH 6, 7 y 8",
+      "options": [
+        "Eritrocito maduro.",
+        "Neurona motora.",
+        "Miocito esqueletico.",
+        "Linfocito B.",
+        "Celula parietal gastrica."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_03_veb_cmv_vhh_004",
+      "q": "Un paciente inmunodeficiente con VEB presenta riesgo especial de:",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Neoplasias y leucoplasia vellosa oral.” porque, dentro de UNIDAD 2.2 - VEB, CMV, VHH 6, 7 y 8, ese dato encaja con el tema de microbiología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Neoplasias y leucoplasia vellosa oral.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esa opción apunta a “Tos ferina y bronquiolitis neonatal.”: enfermedad bacteriana por Bordetella pertussis; no se explica por VEB. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Neoplasias y leucoplasia vellosa oral.”.\nc) No. Lo que menciona esta opción corresponde a “Larva migrans ocular por nematodo.”: cuadro por Toxocara, un nematodo, no por VEB. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Neoplasias y leucoplasia vellosa oral.”.\nd) No. El concepto de esta alternativa es “Hidatidosis hepática multivesicular.”: infección por Echinococcus con quistes, no enfermedad por VEB. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Neoplasias y leucoplasia vellosa oral.”.\ne) No. Esta alternativa se refiere a “Anemia por uncinarias.”: anemia por pérdida crónica de sangre intestinal causada por hookworms, no por VEB. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Neoplasias y leucoplasia vellosa oral.”.",
+      "topic": "Virología - VEB, CMV, VHH 6, 7 y 8",
+      "options": [
+        "Neoplasias y leucoplasia vellosa oral.",
+        "Tos ferina y bronquiolitis neonatal.",
+        "Larva migrans ocular por nematodo.",
+        "Hidatidosis hepática multivesicular.",
+        "Anemia por uncinarias."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_03_veb_cmv_vhh_005",
+      "q": "Qué cuadro se asocia con VHH-6/VHH-7 en la infancia?",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Exantema subito.” porque, dentro de UNIDAD 2.2 - VEB, CMV, VHH 6, 7 y 8, ese dato encaja con el tema de microbiología: roseola infantil, clásicamente asociada a VHH-6 y también VHH-7. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Rabia furiosa.”: rhabdovirus neurotrópico transmitido sobre todo por saliva de animales infectados. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Exantema subito.”.\nb) No. Lo que menciona esta opción corresponde a “Condiloma acuminado.”: verruga anogenital vinculada típicamente a HPV mucoso de bajo riesgo. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Exantema subito.”.\nc) Correcta. “Exantema subito.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esta alternativa se refiere a “Fiebre amarilla urbana.”: flavivirus prevenible con vacuna específica. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Exantema subito.”.\ne) No. Aquí se está describiendo “Paralisis flacida poliomielitica.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Exantema subito.”.",
+      "topic": "Virología - VEB, CMV, VHH 6, 7 y 8",
+      "options": [
+        "Rabia furiosa.",
+        "Condiloma acuminado.",
+        "Exantema subito.",
+        "Fiebre amarilla urbana.",
+        "Paralisis flacida poliomielitica."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_03_veb_cmv_vhh_006",
+      "q": "La asociacion clinica más caracteristica de VHH-8 es:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Sarcoma de Kaposi.” porque, dentro de UNIDAD 2.2 - VEB, CMV, VHH 6, 7 y 8, ese dato encaja con el tema de microbiología: neoplasia asociada a VHH-8, sobre todo en inmunodepresión. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Eritema infeccioso.”: cuadro clásico de parvovirus B19, no de VHH-8. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Sarcoma de Kaposi.”.\nb) No. El concepto de esta alternativa es “Panencefalitis esclerosante.”: complicación tardía de sarampión, no asociación principal de VHH-8. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Sarcoma de Kaposi.”.\nc) No. Esta alternativa se refiere a “Gastroenteritis por rotavirus.”: diarrea viral infantil por Reovirus, no enfermedad por VHH-8. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Sarcoma de Kaposi.”.\nd) No. Aquí se está describiendo “Quiste hidatidico.”: lesión por Echinococcus granulosus; no es manifestación de VHH-8. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Sarcoma de Kaposi.”.\ne) Correcta. “Sarcoma de Kaposi.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - VEB, CMV, VHH 6, 7 y 8",
+      "options": [
+        "Eritema infeccioso.",
+        "Panencefalitis esclerosante.",
+        "Gastroenteritis por rotavirus.",
+        "Quiste hidatidico.",
+        "Sarcoma de Kaposi."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_03_veb_cmv_vhh_007",
+      "q": "CMV congenito debe sospecharse con mayor atención cuando existe:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Infeccion materna y daño fetal compatible.” porque, dentro de UNIDAD 2.2 - VEB, CMV, VHH 6, 7 y 8, ese dato encaja con el tema de microbiología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Ingestion de pescado crudo con B12 baja.”: vía de Diphyllobothrium latum, no de CMV congénito. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Infeccion materna y daño fetal compatible.”.\nb) Correcta. “Infeccion materna y daño fetal compatible.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Aquí se está describiendo “Mordedura de perro con hidrofobia.”: vía típica de rabia; no es mecanismo de CMV congénito. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Infeccion materna y daño fetal compatible.”.\nd) No. Esa opción apunta a “Prurito anal nocturno familiar.”: dato de Enterobius vermicularis, no de CMV. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Infeccion materna y daño fetal compatible.”.\ne) No. Lo que menciona esta opción corresponde a “Piodermitis por estreptococo.”: infección bacteriana cutánea, no cuadro congénito por CMV. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Infeccion materna y daño fetal compatible.”.",
+      "topic": "Virología - VEB, CMV, VHH 6, 7 y 8",
+      "options": [
+        "Ingestion de pescado crudo con B12 baja.",
+        "Infeccion materna y daño fetal compatible.",
+        "Mordedura de perro con hidrofobia.",
+        "Prurito anal nocturno familiar.",
+        "Piodermitis por estreptococo."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_03_veb_cmv_vhh_008",
+      "q": "En CMV, que hallazgo histologico clasico orienta el diagnóstico?",
+      "exp": "La pregunta está evaluando qué prueba o hallazgo confirma mejor el agente o el cuadro señalado. La opción correcta es “Inclusiones intranucleares en ojo de buho.” porque, dentro de UNIDAD 2.2 - VEB, CMV, VHH 6, 7 y 8, ese dato encaja con el tema de microbiología: inclusiones intranucleares grandes típicas de citomegalovirus; ayudan a recordar el efecto citopático de CMV. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Huevos con espina lateral.”: característica de huevos de Schistosoma mansoni, no de Fasciola. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Inclusiones intranucleares en ojo de buho.”.\nb) No. Aquí se está describiendo “Trofozoitos con eritrocitos ingeridos.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Inclusiones intranucleares en ojo de buho.”.\nc) No. Esa opción apunta a “Capsidem desnuda en forma de bala.”: morfología clásica del virus rábico. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Inclusiones intranucleares en ojo de buho.”.\nd) Correcta. “Inclusiones intranucleares en ojo de buho.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. El concepto de esta alternativa es “Larvas en cinta adhesiva.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Inclusiones intranucleares en ojo de buho.”.",
+      "topic": "Virología - VEB, CMV, VHH 6, 7 y 8",
+      "options": [
+        "Huevos con espina lateral.",
+        "Trofozoitos con eritrocitos ingeridos.",
+        "Capsidem desnuda en forma de bala.",
+        "Inclusiones intranucleares en ojo de buho.",
+        "Larvas en cinta adhesiva."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_03_veb_cmv_vhh_009",
+      "q": "Una mononúcleosis con anticuerpos heterofilos negativos puede relacionarse con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Citomegalovirus.” porque, dentro de UNIDAD 2.2 - VEB, CMV, VHH 6, 7 y 8, ese dato encaja con el tema de microbiología: herpesvirus que puede causar mononucleosis heterófilo negativa y enfermedad congénita o en inmunodeprimidos. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Rabdovirus.”: familia del virus de la rabia; no explica mononucleosis heterófilo negativa por CMV. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citomegalovirus.”.\nb) No. Esa opción apunta a “Dengue primario.”: arbovirosis por Flavivirus; no causa mononucleosis heterófilo negativa típica. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citomegalovirus.”.\nc) Correcta. “Citomegalovirus.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. El concepto de esta alternativa es “Fasciola hepática.”: trematodo hepático adquirido por metacercarias; no produce mononucleosis viral. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citomegalovirus.”.\ne) No. Esta alternativa se refiere a “Taenia saginata.”: cestodo de carne bovina; no produce mononucleosis. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citomegalovirus.”.",
+      "topic": "Virología - VEB, CMV, VHH 6, 7 y 8",
+      "options": [
+        "Rabdovirus.",
+        "Dengue primario.",
+        "Citomegalovirus.",
+        "Fasciola hepática.",
+        "Taenia saginata."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_03_veb_cmv_vhh_010",
+      "q": "Cuál combinacion es más correcta?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “VEB - saliva - linfocito B.” porque, dentro de UNIDAD 2.2 - VEB, CMV, VHH 6, 7 y 8, ese dato encaja con el tema de microbiología: célula diana y reservorio de latencia del VEB; al activarse la respuesta T aparecen linfocitos atípicos. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “VEB - saliva - linfocito B.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Lo que menciona esta opción corresponde a “CMV - mosquito - hepatocito exclusivo.”: relación incorrecta: CMV no se transmite por mosquito ni es exclusivo de hepatocitos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “VEB - saliva - linfocito B.”.\nc) No. El concepto de esta alternativa es “VHH-8 - agua - enterocito.”: relación incorrecta: VHH-8 no se transmite por agua ni tiene como blanco principal el enterocito. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “VEB - saliva - linfocito B.”.\nd) No. Esta alternativa se refiere a “VHH-6 - carne cruda - musculo.”: relación incorrecta: VHH-6/VHH-7 se asocian a exantema súbito, no a carne cruda/músculo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “VEB - saliva - linfocito B.”.\ne) No. Aquí se está describiendo “VEB - garrapata - eritrocito.”: relación incorrecta: VEB se transmite por saliva y se relaciona con linfocito B, no con garrapatas/eritrocitos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “VEB - saliva - linfocito B.”.",
+      "topic": "Virología - VEB, CMV, VHH 6, 7 y 8",
+      "options": [
+        "VEB - saliva - linfocito B.",
+        "CMV - mosquito - hepatocito exclusivo.",
+        "VHH-8 - agua - enterocito.",
+        "VHH-6 - carne cruda - musculo.",
+        "VEB - garrapata - eritrocito."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    }
+  ]
+}

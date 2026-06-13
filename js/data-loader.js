@@ -1,7 +1,7 @@
 // Carga dinámica de preguntas desde archivos JSON separados.
 // V4: Para agregar preguntas, edita los archivos dentro de /data/.
 
-const BANCO_DATA_VERSION = '4.16.0';
+const BANCO_DATA_VERSION = '4.20.0';
 
 async function fetchJSON(path){
   const separator = path.includes('?') ? '&' : '?';
@@ -20,7 +20,8 @@ function normalizeSection(section){
     exp: q.exp || q.explicacion || '',
     topic: q.topic || q.tema || 'Sin tema',
     options: Array.isArray(q.options) ? q.options : [q.A, q.B, q.C, q.D, q.E].filter(Boolean),
-    answer: Number.isInteger(q.answer) ? q.answer : Number(q.correcta ?? q.respuesta ?? 0)
+    answer: Number.isInteger(q.answer) ? q.answer : Number(q.correcta ?? q.respuesta ?? 0),
+    keepOptionOrder: !!(q.keepOptionOrder || q.noShuffleOptions)
   }));
 
   return {

@@ -1,0 +1,23 @@
+V4.20 - Verificación Microbiología
+
+PDF fuente: preguntas_microbiologia_II_por_fuente_gabarito_mejor_explicado.pdf
+Total de fuentes/clases: 23
+Total de preguntas de Microbiología: 230
+
+Distribución:
+- Virología: 12 clases, 120 preguntas
+- Parasitología: 9 clases, 90 preguntas
+- Artrópodos: 1 clase, 10 preguntas
+- Serpientes: 1 clase, 10 preguntas
+
+Verificado:
+- JSON válidos
+- 10 preguntas por clase
+- 5 alternativas por pregunta
+- Respuestas dentro del rango A-E
+- IDs únicos
+- Explicaciones detalladas presentes
+- Alternativas de Microbiología con keepOptionOrder=true para mantener el análisis por letras del PDF
+- Menú principal incluye Microbiología
+- Submenú incluye Virología, Parasitología, Artrópodos y Serpientes
+- Cuaderno de errores de Microbiología conserva el orden de alternativas para no romper el análisis por letras.

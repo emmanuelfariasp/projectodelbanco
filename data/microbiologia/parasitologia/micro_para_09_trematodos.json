@@ -1,0 +1,157 @@
+{
+  "key": "micro_para_09_trematodos",
+  "title": "Trematodos",
+  "subtitle": "Parasitología · 10 preguntas · Fuente: 9 Unidad XIX.2 Trematodos.pdf",
+  "questions": [
+    {
+      "id": "micro_para_09_trematodos_001",
+      "q": "Fasciola hepática utiliza como hospedador intermediario a:",
+      "exp": "La pregunta está evaluando dónde persiste el agente o qué hospedador mantiene el ciclo. La opción correcta es “Caracoles del genero Lymnaea.” porque, dentro de UNIDAD XIX.2 - Trematodos, ese dato encaja con el tema de helmintología: hospedadores intermediarios de Fasciola hepatica. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Mosquitos Aedes.”: artrópodo vector; puede transmitir arbovirus o Plasmodium según el género y contexto. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Caracoles del genero Lymnaea.”.\nb) No. El concepto de esta alternativa es “Pulgas de perro.”: reservorio doméstico importante de leishmaniasis visceral americana y hospedador definitivo de Echinococcus según contexto. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Caracoles del genero Lymnaea.”.\nc) Correcta. “Caracoles del genero Lymnaea.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Aquí se está describiendo “Peces de agua dulce.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Caracoles del genero Lymnaea.”.\ne) No. Esa opción apunta a “Gatos domesticos.”: hospedador definitivo de Toxoplasma gondii y fuente de ooquistes por heces. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Caracoles del genero Lymnaea.”.",
+      "topic": "Parasitología - Trematodos",
+      "options": [
+        "Mosquitos Aedes.",
+        "Pulgas de perro.",
+        "Caracoles del genero Lymnaea.",
+        "Peces de agua dulce.",
+        "Gatos domesticos."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_09_trematodos_002",
+      "q": "La forma infectante de Fasciola para el humano es:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Metacercaria en vegetacion acuática.” porque, dentro de UNIDAD XIX.2 - Trematodos, ese dato encaja con el tema de helmintología: forma enquistada infectante de trematodos como Fasciola en vegetación acuática. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Metacercaria en vegetacion acuática.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esta alternativa se refiere a “Cercaria que penetra piel.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Metacercaria en vegetacion acuática.”.\nc) No. Aquí se está describiendo “Huevo embrionado en suelo.”: forma infectante de algunos nematodos como Ascaris cuando se ingiere desde suelo/alimentos contaminados. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Metacercaria en vegetacion acuática.”.\nd) No. Esa opción apunta a “Plerocercoide en pescado.”: larva infectante de Diphyllobothrium latum en pescado crudo o mal cocido. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Metacercaria en vegetacion acuática.”.\ne) No. Lo que menciona esta opción corresponde a “Cisticerco en cerdo.”: larva de Taenia en tejidos; en carne causa teniasis, y si el humano ingiere huevos de T. solium puede producir cisticercosis. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Metacercaria en vegetacion acuática.”.",
+      "topic": "Parasitología - Trematodos",
+      "options": [
+        "Metacercaria en vegetacion acuática.",
+        "Cercaria que penetra piel.",
+        "Huevo embrionado en suelo.",
+        "Plerocercoide en pescado.",
+        "Cisticerco en cerdo."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_09_trematodos_003",
+      "q": "Los adultos de Fasciola hepática se localizan principalmente en:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Vias biliares.” porque, dentro de UNIDAD XIX.2 - Trematodos, ese dato encaja con el tema de helmintología: localización de adultos de Fasciola, donde depositan huevos que salen por heces. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Colon.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vias biliares.”.\nb) No. Aquí se está describiendo “Ganglios sensoriales.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vias biliares.”.\nc) No. Esa opción apunta a “Medula osea.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vias biliares.”.\nd) No. Lo que menciona esta opción corresponde a “Vejiga urinaria exclusivamente.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vias biliares.”.\ne) Correcta. “Vias biliares.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Parasitología - Trematodos",
+      "options": [
+        "Colon.",
+        "Ganglios sensoriales.",
+        "Medula osea.",
+        "Vejiga urinaria exclusivamente.",
+        "Vias biliares."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_09_trematodos_004",
+      "q": "Los huevos de Fasciola son eliminados al exterior por:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Heces.” porque, dentro de UNIDAD XIX.2 - Trematodos, ese dato encaja con el tema de helmintología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Saliva.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Heces.”.\nb) Correcta. “Heces.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Lo que menciona esta opción corresponde a “Orina siempre.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Heces.”.\nd) No. El concepto de esta alternativa es “Sudor.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Heces.”.\ne) No. Esta alternativa se refiere a “Semen.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Heces.”.",
+      "topic": "Parasitología - Trematodos",
+      "options": [
+        "Saliva.",
+        "Heces.",
+        "Orina siempre.",
+        "Sudor.",
+        "Semen."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_09_trematodos_005",
+      "q": "En la fase aguda de fasciolosis predomina:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Migracion hepática, dolor y eosinofilia.” porque, dentro de UNIDAD XIX.2 - Trematodos, ese dato encaja con el tema de helmintología: fase aguda de fasciolosis con dolor, fiebre/eosinofilia por paso de larvas por hígado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Latencia neuronal.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Migracion hepática, dolor y eosinofilia.”.\nb) No. Lo que menciona esta opción corresponde a “Bronquiolitis viral.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque lleva la explicación hacia virología, no hacia el parásito o helminto preguntado. En cambio, la respuesta correcta exige reconocer “Migracion hepática, dolor y eosinofilia.”.\nc) No. El concepto de esta alternativa es “Autoinfección intestinal.”: capacidad de reinfectarse dentro del mismo hospedador, como Strongyloides o Hymenolepis nana; no es variación de influenza. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Migracion hepática, dolor y eosinofilia.”.\nd) Correcta. “Migracion hepática, dolor y eosinofilia.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Aquí se está describiendo “Cisticercosis muscular.”: larva de Taenia en tejidos; en carne causa teniasis, y si el humano ingiere huevos de T. solium puede producir cisticercosis. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Migracion hepática, dolor y eosinofilia.”.",
+      "topic": "Parasitología - Trematodos",
+      "options": [
+        "Latencia neuronal.",
+        "Bronquiolitis viral.",
+        "Autoinfección intestinal.",
+        "Migracion hepática, dolor y eosinofilia.",
+        "Cisticercosis muscular."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_09_trematodos_006",
+      "q": "Schistosoma se diferencia de Fasciola porque su cercaria:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Penetra activamente la piel.” porque, dentro de UNIDAD XIX.2 - Trematodos, ese dato encaja con el tema de helmintología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Penetra activamente la piel.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. El concepto de esta alternativa es “Se ingiere en berros.”: vegetal acuático que puede portar metacercarias de Fasciola. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Penetra activamente la piel.”.\nc) No. Esta alternativa se refiere a “Esta en carne de cerdo.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque lleva la explicación hacia virología, no hacia el parásito o helminto preguntado. En cambio, la respuesta correcta exige reconocer “Penetra activamente la piel.”.\nd) No. Aquí se está describiendo “Sale en proglotides.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Penetra activamente la piel.”.\ne) No. Esa opción apunta a “Permanece como quiste tisular.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Penetra activamente la piel.”.",
+      "topic": "Parasitología - Trematodos",
+      "options": [
+        "Penetra activamente la piel.",
+        "Se ingiere en berros.",
+        "Esta en carne de cerdo.",
+        "Sale en proglotides.",
+        "Permanece como quiste tisular."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_09_trematodos_007",
+      "q": "La patologia principal de esquistosomiasis se debe sobre todo a:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Respuesta inflamatoria frente a huevos depositados.” porque, dentro de UNIDAD XIX.2 - Trematodos, ese dato encaja con el tema de helmintología: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Toxina preformada en alimentos.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Respuesta inflamatoria frente a huevos depositados.”.\nb) No. Esta alternativa se refiere a “Replicación en queratinocitos.”: célula epitelial donde HPV se replica y puede mantenerse localizado/latente. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Respuesta inflamatoria frente a huevos depositados.”.\nc) Correcta. “Respuesta inflamatoria frente a huevos depositados.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esa opción apunta a “Destruccion de eritrocitos por B19.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Respuesta inflamatoria frente a huevos depositados.”.\ne) No. Lo que menciona esta opción corresponde a “Veneno neurotoxico.”: un concepto de ofidismo/toxinología. No explica infecciones virales o parasitarias si el problema no es una mordedura de serpiente. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Respuesta inflamatoria frente a huevos depositados.”.",
+      "topic": "Parasitología - Trematodos",
+      "options": [
+        "Toxina preformada en alimentos.",
+        "Replicación en queratinocitos.",
+        "Respuesta inflamatoria frente a huevos depositados.",
+        "Destruccion de eritrocitos por B19.",
+        "Veneno neurotoxico."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_09_trematodos_008",
+      "q": "Schistosoma mansoni se asocia principalmente con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Compromiso intestinal-hepatico y hipertension portal.” porque, dentro de UNIDAD XIX.2 - Trematodos, ese dato encaja con el tema de helmintología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Hematuria terminal exclusiva.”: manifestación típica de Schistosoma haematobium, asociada a vejiga y riesgo de cáncer vesical. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Compromiso intestinal-hepatico y hipertension portal.”.\nb) No. Aquí se está describiendo “Crisis aplasica.”: interrupción brusca de producción eritroide, especialmente grave si el paciente ya tiene anemia hemolítica crónica. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Compromiso intestinal-hepatico y hipertension portal.”.\nc) No. Esa opción apunta a “Exantema subito.”: roseola infantil, clásicamente asociada a VHH-6 y también VHH-7. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Compromiso intestinal-hepatico y hipertension portal.”.\nd) No. Lo que menciona esta opción corresponde a “Condilomas.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Compromiso intestinal-hepatico y hipertension portal.”.\ne) Correcta. “Compromiso intestinal-hepatico y hipertension portal.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Parasitología - Trematodos",
+      "options": [
+        "Hematuria terminal exclusiva.",
+        "Crisis aplasica.",
+        "Exantema subito.",
+        "Condilomas.",
+        "Compromiso intestinal-hepatico y hipertension portal."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_09_trematodos_009",
+      "q": "Schistosoma haematobium se relaciona con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Hematuria y riesgo de cáncer vesical.” porque, dentro de UNIDAD XIX.2 - Trematodos, ese dato encaja con el tema de helmintología: manifestación típica de Schistosoma haematobium, asociada a vejiga y riesgo de cáncer vesical. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Anemia por B12.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Hematuria y riesgo de cáncer vesical.”.\nb) Correcta. “Hematuria y riesgo de cáncer vesical.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Lo que menciona esta opción corresponde a “Quistes hepaticos grandes.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Hematuria y riesgo de cáncer vesical.”.\nd) No. El concepto de esta alternativa es “Meningitis aseptica viral.”: cuadro frecuente por enterovirus, especialmente en épocas cálidas. No debe marcarse porque lleva la explicación hacia virología, no hacia el parásito o helminto preguntado. En cambio, la respuesta correcta exige reconocer “Hematuria y riesgo de cáncer vesical.”.\ne) No. Esta alternativa se refiere a “Tos por rinovirus.”: picornavirus lábil al pH ácido y adaptado a 33 °C, típico de vías respiratorias superiores. No debe marcarse porque lleva la explicación hacia virología, no hacia el parásito o helminto preguntado. En cambio, la respuesta correcta exige reconocer “Hematuria y riesgo de cáncer vesical.”.",
+      "topic": "Parasitología - Trematodos",
+      "options": [
+        "Anemia por B12.",
+        "Hematuria y riesgo de cáncer vesical.",
+        "Quistes hepaticos grandes.",
+        "Meningitis aseptica viral.",
+        "Tos por rinovirus."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_09_trematodos_010",
+      "q": "Los huevos de trematodos hepaticos clasicos como Fasciola suelen ser:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Grandes y operculados.” porque, dentro de UNIDAD XIX.2 - Trematodos, ese dato encaja con el tema de helmintología: huevos con opérculo, característicos de varios trematodos como Fasciola. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Mamelonados de Ascaris.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes y operculados.”.\nb) No. Lo que menciona esta opción corresponde a “Con espina lateral siempre.”: característica de huevos de Schistosoma mansoni, no de Fasciola. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes y operculados.”.\nc) No. El concepto de esta alternativa es “Segmentados en proglotides.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes y operculados.”.\nd) Correcta. “Grandes y operculados.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Aquí se está describiendo “Acido-alcohol resistentes.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes y operculados.”.",
+      "topic": "Parasitología - Trematodos",
+      "options": [
+        "Mamelonados de Ascaris.",
+        "Con espina lateral siempre.",
+        "Segmentados en proglotides.",
+        "Grandes y operculados.",
+        "Acido-alcohol resistentes."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap31",
+  "title": "Capítulo 31",
+  "subtitle": "Regulación acidobásica",
+  "questions": [
+    {
+      "id": "fisio_renal_cap31_001",
+      "q": "Un paciente duplica aproximadamente la concentración normal de H+ en el líquido extracelular. ¿Qué interpretación sobre el pH es más coherente con la relación descrita en el capítulo?",
+      "exp": "El pH se define como el logaritmo negativo de la concentración de H+. Por eso, cuando aumenta H+, el pH disminuye.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El pH aumenta porque el H+ se expresa en escala logarítmica inversa.",
+        "El pH disminuye porque es inversamente proporcional a la concentración de H+.",
+        "El pH queda igual porque el bicarbonato compensa cualquier cambio de H+.",
+        "El pH aumenta solo si el cambio de H+ ocurre en el líquido intracelular.",
+        "El pH se vuelve independiente de H+ cuando la Pco2 permanece constante."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_002",
+      "q": "La sangre venosa suele tener un pH ligeramente menor que la arterial. ¿Cuál explicación fisiológica integra mejor este dato?",
+      "exp": "Los tejidos liberan CO2, que forma ácido carbónico y aumenta H+. Por eso el pH venoso e intersticial es algo menor que el arterial.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La sangre venosa contiene más CO2 tisular, que favorece la formación de H2CO3 y H+.",
+        "La sangre venosa tiene menos proteínas plasmáticas y por eso pierde capacidad tampón.",
+        "La sangre arterial contiene más bicarbonato filtrado por los riñones durante la sístole.",
+        "La sangre arterial tiene más H+ por la oxigenación pulmonar y por eso baja menos el pH.",
+        "La sangre venosa elimina H+ por la hemoglobina antes de llegar al pulmón."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_003",
+      "q": "Una base débil como HCO3- protege frente a la adición de un ácido fuerte. ¿Qué ocurre en términos funcionales?",
+      "exp": "El bicarbonato acepta H+ y forma H2CO3, que puede convertirse en CO2 y H2O. Así reduce el impacto de un ácido fuerte.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El HCO3- acepta H+ y transforma un ácido fuerte en un sistema de ácido débil.",
+        "El HCO3- libera H+ para mantener constante la acidez del líquido extracelular.",
+        "El HCO3- se convierte en proteína plasmática y fija el cloruro del ácido fuerte.",
+        "El HCO3- impide la formación de CO2 y bloquea la ventilación compensadora.",
+        "El HCO3- elimina H+ del organismo sin participación pulmonar ni renal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_004",
+      "q": "Si se añade una base fuerte al sistema amortiguador bicarbonato-acido carbónico, ¿qué respuesta inicial es más correcta?",
+      "exp": "Una base fuerte consume H2CO3 y forma más HCO3-. La caída de CO2 tiende a inhibir la ventilación y el exceso de HCO3- puede ser excretado por el riñón.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El OH- se combina con H2CO3, aumenta HCO3- y tiende a disminuir el CO2.",
+        "El OH- se combina con HCO3-, aumenta H+ y genera una acidosis inmediata.",
+        "El OH- bloquea la anhidrasa carbónica y transforma CO2 en ácido láctico.",
+        "El OH- se excreta directamente por el pulmón como gas alcalino.",
+        "El OH- aumenta Pco2 por estimular la ventilación alveolar."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_005",
+      "q": "Según Henderson-Hasselbalch, ¿qué cambio desplaza más directamente el pH hacia alcalosis si los demás factores permanecen constantes?",
+      "exp": "El pH depende del cociente HCO3-/Pco2. Aumentar HCO3- eleva el cociente y desplaza el equilibrio hacia alcalosis.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Disminución de HCO3- con Pco2 constante.",
+        "Aumento de Pco2 con HCO3- constante.",
+        "Aumento de HCO3- con Pco2 constante.",
+        "Aumento de H+ con HCO3- constante.",
+        "Disminución de ventilación con HCO3- bajo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_006",
+      "q": "Un trastorno acidobásico primario se clasifica como metabólico cuando el cambio inicial afecta principalmente a:",
+      "exp": "Los trastornos metabólicos se originan por cambios primarios de HCO3-. Los respiratorios se originan por cambios primarios de Pco2.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La concentración de HCO3- del líquido extracelular.",
+        "La presión parcial de CO2 alveolar y plasmática.",
+        "La concentración de hemoglobina eritrocitaria.",
+        "La ventilación minuto como única alteración primaria.",
+        "La presión arterial sistémica por pérdida de volumen."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_007",
+      "q": "El sistema bicarbonato tiene pK de 6,1, lejos del pH extracelular normal. Aun así es el tampón extracelular más importante porque:",
+      "exp": "Aunque no opera cerca de su pK, el sistema bicarbonato es potente porque CO2 y HCO3- son regulados por pulmones y riñones.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Su pK aumenta hasta 7,4 cuando el paciente entra en acidosis metabólica.",
+        "Sus componentes son regulados por pulmones y riñones, manteniendo el cociente funcional.",
+        "Su concentración en el plasma siempre supera a todas las proteínas intracelulares.",
+        "No depende de CO2, por eso actúa sin intervención respiratoria.",
+        "Funciona solo en el túbulo renal, donde el pH es mucho más bajo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_008",
+      "q": "El amortiguador fosfato es poco importante en el líquido extracelular, pero relevante en el líquido tubular. ¿Qué combinación lo explica mejor?",
+      "exp": "El fosfato se concentra en el túbulo y su pK cercana a 6,8 funciona mejor con el pH tubular, por eso amortigua H+ en la orina.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Mayor concentración tubular de fosfato y pH tubular más próximo a su pK.",
+        "Mayor concentración plasmática de fosfato y pH extracelular más ácido.",
+        "Ausencia de bicarbonato en el túbulo proximal durante todo el filtrado.",
+        "Conversión obligatoria del fosfato en NH4+ en el conducto colector.",
+        "Difusión libre de fosfato desde el plasma hacia todas las células."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_009",
+      "q": "En la amortiguación corporal total, las proteínas intracelulares son muy importantes, pero su acción máxima puede tardar. ¿Por qué?",
+      "exp": "Gran parte de la amortiguación ocurre dentro de las células, pero la entrada de H+ y HCO3- puede ser lenta; el CO2 difunde más rápido.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Porque H+ y HCO3- cruzan lentamente muchas membranas celulares, excepto en eritrocitos.",
+        "Porque las proteínas solo actúan cuando el pH arterial cae por debajo de 6,8.",
+        "Porque las proteínas se convierten primero en bicarbonato por acción renal.",
+        "Porque el CO2 no atraviesa membranas celulares y debe ser filtrado.",
+        "Porque el fosfato intracelular bloquea de forma reversible la hemoglobina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_010",
+      "q": "El principio isohídrico indica que, en una solución biológica común, los diferentes sistemas tampón:",
+      "exp": "Todos los tampones de un mismo líquido están en equilibrio con la misma concentración de H+; al cambiar un sistema, los demás también se reajustan.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Actúan de forma aislada y corrigen solo su propio ácido débil.",
+        "Comparten la misma concentración de H+ y cambian su equilibrio en conjunto.",
+        "Pierden eficacia cuando se encuentran en el mismo compartimiento líquido.",
+        "Mantienen pH diferente para bicarbonato, fosfato y proteínas.",
+        "Eliminan H+ por vías independientes del pulmón y del riñón."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_011",
+      "q": "Un paciente hipoventila de forma aguda. ¿Cuál secuencia acidobásica es la más coherente?",
+      "exp": "La hipoventilación retiene CO2, aumenta Pco2 y H2CO3, eleva H+ y produce tendencia a acidosis respiratoria.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Disminuye Pco2, cae H2CO3 y aparece alcalosis respiratoria.",
+        "Aumenta Pco2, sube H2CO3 y tiende a acidosis respiratoria.",
+        "Aumenta HCO3- filtrado y aparece alcalosis metabólica inmediata.",
+        "Disminuye H+ extracelular por retención de CO2 en los tejidos.",
+        "Aumenta la excreción de HCO3- antes de cualquier cambio en Pco2."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_012",
+      "q": "En una acidosis metabólica simple, ¿cuál respuesta respiratoria se espera como compensación parcial?",
+      "exp": "El aumento de H+ estimula la ventilación. Al eliminar CO2, baja Pco2 y el pH se corrige parcialmente.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Hipoventilación para elevar Pco2 y aumentar el cociente HCO3-/CO2.",
+        "Hiperventilación para reducir Pco2 y elevar parcialmente el pH.",
+        "Aumento de HCO3- pulmonar por secreción alveolar de bicarbonato.",
+        "Disminución de CO2 tisular por bloqueo del metabolismo celular.",
+        "Ausencia de respuesta respiratoria porque el trastorno es renal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_013",
+      "q": "La compensación respiratoria de una alteración metabólica del pH no normaliza por completo la concentración de H+. ¿Cuál afirmación expresa mejor su eficacia?",
+      "exp": "La respuesta respiratoria aparece en minutos y tiene una eficacia aproximada de 50-75%, por eso requiere apoyo renal para la corrección completa.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Actúa en segundos y corrige casi el 100% del trastorno.",
+        "Actúa en minutos y suele corregir alrededor del 50-75% del cambio.",
+        "Actúa en varios días y depende de la generación de NH4+.",
+        "Actúa solo si la concentración de HCO3- aumenta previamente.",
+        "Actúa únicamente en alcalosis porque la acidosis inhibe el centro respiratorio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_014",
+      "q": "Un paciente con enfisema grave desarrolla retención de CO2. Además de provocar acidosis respiratoria, este cuadro dificulta la compensación de una acidosis metabólica porque:",
+      "exp": "En enfermedad pulmonar grave se reduce la eliminación de CO2. Por eso se limita la reducción compensatoria de Pco2 ante acidosis metabólica.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El pulmón lesionado no puede reducir Pco2 adecuadamente mediante mayor ventilación.",
+        "El riñón deja de filtrar bicarbonato cuando la membrana alveolar se engrosa.",
+        "La hemoglobina pierde toda su capacidad de amortiguación intracelular.",
+        "El fosfato tubular se transforma en ácido volátil que depende del pulmón.",
+        "El centro respiratorio produce HCO3- y lo consume durante la hipoxia."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_015",
+      "q": "Para que el riñón reabsorba la mayor parte del bicarbonato filtrado, ¿qué proceso tubular es indispensable?",
+      "exp": "El HCO3- filtrado se reabsorbe indirectamente: debe reaccionar con H+ secretado en la luz para formar CO2 y H2O.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Secreción de H+ hacia la luz tubular para titular el HCO3- filtrado.",
+        "Filtración directa de anhidrasa carbónica desde el glomérulo.",
+        "Secreción de HCO3- por células intercaladas tipo A.",
+        "Conversión luminal de NH4+ en glucosa y fosfato.",
+        "Reabsorción de H+ libre hacia los capilares peritubulares."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_016",
+      "q": "En el túbulo proximal, la secreción de H+ ocurre principalmente por transporte activo secundario. ¿Cuál mecanismo proporciona la energía directa?",
+      "exp": "El gradiente de Na+ permite la entrada luminal de Na+ y la secreción de H+ por contratransporte Na+-H+.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Salida de sodio por la membrana luminal contra su gradiente eléctrico.",
+        "Entrada de sodio a favor de gradiente mediante el intercambiador Na+-H+.",
+        "Difusión de HCO3- hacia la luz impulsada por la presión hidrostática.",
+        "Bombeo primario de H+ por ATPasa H+-K+ en todos los túbulos proximales.",
+        "Acoplamiento de H+ al transporte de urea en el asa ascendente fina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_017",
+      "q": "La anhidrasa carbónica facilita la reabsorción de bicarbonato porque acelera principalmente:",
+      "exp": "La anhidrasa carbónica acelera la formación y degradación de H2CO3, permitiendo que CO2 atraviese la membrana y regenere HCO3- en la célula.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La conversión entre CO2 + H2O y H2CO3 en células tubulares y superficies luminales.",
+        "La filtración glomerular de proteínas que transportan bicarbonato.",
+        "La secreción de bicarbonato por capilares peritubulares hacia la luz.",
+        "La transformación de HCO3- en NH4+ dentro de los eritrocitos.",
+        "La difusión de fosfato desde el túbulo colector hacia el plasma."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_018",
+      "q": "Cuando el HCO3- filtrado se reabsorbe por titulación con H+ secretado, el bicarbonato que vuelve a la sangre representa principalmente:",
+      "exp": "Cuando H+ se combina con HCO3- filtrado, el HCO3- que sale por la membrana basolateral repone el bicarbonato filtrado; no es bicarbonato nuevo neto.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Una ganancia neta de bicarbonato nuevo para el líquido extracelular.",
+        "Una sustitución del bicarbonato filtrado que había entrado al túbulo.",
+        "Una pérdida neta de base equivalente a añadir H+ a la sangre.",
+        "Una conversión obligatoria de bicarbonato en ácido titulable.",
+        "Una secreción directa de bicarbonato desde el plasma a la orina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_019",
+      "q": "La secreción activa primaria de H+ en células intercaladas de túbulos distales tardíos y colectores es cuantitativamente menor, pero importante porque:",
+      "exp": "Aunque secreta una fracción pequeña del H+ total, la bomba de H+ de las células intercaladas puede crear una orina muy ácida, hasta pH cercano a 4,5.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Permite acidificar mucho la orina y alcanzar el pH urinario mínimo cercano a 4,5.",
+        "Reabsorbe todo el bicarbonato filtrado en ausencia de anhidrasa carbónica.",
+        "Es responsable de más del 90% de todo el H+ secretado diariamente.",
+        "Funciona solo cuando la orina está alcalina y no hay fosfato disponible.",
+        "Bloquea la secreción de NH4+ durante la acidosis crónica."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_020",
+      "q": "El riñón no puede excretar los 80 mEq diarios de ácido no volátil como H+ libre porque:",
+      "exp": "Con pH urinario mínimo alrededor de 4,5, la cantidad de H+ libre por litro es muy baja. Por eso el H+ debe excretarse unido a tampones urinarios.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "El pH urinario mínimo limita la concentración de H+ libre que puede quedar en solución.",
+        "El H+ libre se convierte siempre en CO2 antes de llegar al túbulo distal.",
+        "La filtración glomerular impide que cualquier H+ entre al filtrado renal.",
+        "El H+ libre es reabsorbido obligatoriamente con sodio en el asa descendente.",
+        "La hemoglobina urinaria neutraliza todo el ácido antes de la excreción."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_021",
+      "q": "Cuando el H+ secretado se combina con HPO4= en la luz tubular, ¿cuál es la consecuencia para la sangre?",
+      "exp": "Si el H+ se une a un tampón distinto de HCO3-, el HCO3- producido en la célula tubular entra a la sangre como bicarbonato nuevo.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Se pierde HCO3- filtrado y aumenta la acidez plasmática.",
+        "Se añade HCO3- nuevo porque el H+ se excreta como ácido titulable.",
+        "Se consume NH4+ y se reduce la excreción neta de ácido.",
+        "Se bloquea la secreción de H+ por falta de sodio luminal.",
+        "Se transforma fosfato en CO2 y aumenta la Pco2 plasmática."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_022",
+      "q": "La capacidad del fosfato para generar bicarbonato nuevo es importante, pero limitada, porque:",
+      "exp": "Solo una fracción limitada del fosfato filtrado queda disponible en la luz tubular, por eso el sistema amoníaco-amonio domina en acidosis crónica.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La mayor parte del fosfato filtrado se reabsorbe y queda una cantidad diaria limitada para amortiguar H+.",
+        "El fosfato solo actúa en el plasma y no puede concentrarse en el líquido tubular.",
+        "El fosfato es volátil y se elimina por los pulmones antes de llegar al riñón.",
+        "El fosfato tiene pK muy distante del pH tubular y por eso no capta H+.",
+        "El fosfato se convierte en bicarbonato sin necesidad de secreción de H+."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_023",
+      "q": "Una molécula de glutamina metabolizada en células tubulares proximales contribuye al equilibrio ácido-base porque produce aproximadamente:",
+      "exp": "La glutamina renal se metaboliza para formar NH4+ que se secreta a la orina y HCO3- nuevo que retorna a la sangre.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Un NH4+ excretado y un HCO3- consumido en la sangre.",
+        "Dos NH4+ secretados y dos HCO3- nuevos devueltos a la sangre.",
+        "Dos H+ filtrados y dos CO2 eliminados por el túbulo distal.",
+        "Un HPO4= reabsorbido y un NH3 convertido en lactato.",
+        "Dos HCO3- excretados y dos NH4+ reabsorbidos al plasma."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_024",
+      "q": "En el conducto colector, el sistema NH3/NH4+ permite atrapar ácido en la orina porque:",
+      "exp": "El NH3 es permeable y entra en la luz; al unirse a H+ forma NH4+, que queda más atrapado y se excreta, generando bicarbonato nuevo.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "NH3 difunde hacia la luz, se une a H+ y forma NH4+, que difunde peor hacia atrás.",
+        "NH4+ atraviesa libremente la membrana luminal y regresa al intersticio medular.",
+        "NH3 se convierte en bicarbonato luminal y alcaliniza la orina en acidosis.",
+        "NH4+ bloquea la secreción de H+ y obliga a excretar bicarbonato.",
+        "NH3 solo se forma en el hígado y no participa en células tubulares."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_025",
+      "q": "En la acidosis crónica, el mecanismo renal dominante para eliminar ácido y generar nuevo HCO3- es:",
+      "exp": "La acidosis crónica estimula el metabolismo renal de glutamina y aumenta mucho la excreción de NH4+, principal vía de eliminación de ácido y generación de HCO3- nuevo.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Excreción de H+ libre hasta alcanzar grandes volúmenes urinarios.",
+        "Aumento de excreción de NH4+ por mayor metabolismo renal de glutamina.",
+        "Excreción de HCO3- filtrado para reducir la relación HCO3-/CO2.",
+        "Disminución de ácido titulable y bloqueo de la secreción de H+.",
+        "Conversión pulmonar de NH4+ en CO2 para reducir la Pco2."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_026",
+      "q": "La excreción renal neta de ácido se estima mejor mediante la relación:",
+      "exp": "La excreción neta de ácido equivale a ácido titulable más NH4+ urinario menos bicarbonato excretado.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Excreción de HCO3- + excreción de Na+ - excreción de NH4+.",
+        "Ácido titulable + NH4+ excretado - HCO3- excretado.",
+        "Pco2 arterial + HCO3- plasmático - cloruro plasmático.",
+        "H+ libre urinario + bicarbonato plasmático + fosfato filtrado.",
+        "NH4+ reabsorbido - ácido titulable + Pco2 alveolar."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_027",
+      "q": "En una alcalosis significativa, ¿qué patrón renal es más esperado?",
+      "exp": "En alcalosis hay menos H+ disponible para titular HCO3-, por eso se excreta bicarbonato y casi no se genera HCO3- nuevo por NH4+ o ácido titulable.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Aumento de ácido titulable y NH4+ con máxima generación de HCO3- nuevo.",
+        "Reducción de secreción de H+, caída de NH4+ y aumento de excreción de HCO3-.",
+        "Reabsorción completa de HCO3- filtrado y acidificación máxima de la orina.",
+        "Aumento de Pco2 tubular por estimulación intensa de anhidrasa carbónica.",
+        "Secreción de fosfato desde células intercaladas para elevar el pH urinario."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_028",
+      "q": "Un aumento primario de Pco2 en el líquido extracelular estimula la secreción renal de H+ porque:",
+      "exp": "Cuando sube Pco2, también sube dentro de la célula tubular, se forma más H2CO3 y H+, y aumenta la secreción de H+.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Eleva la Pco2 dentro de las células tubulares y favorece la formación intracelular de H+.",
+        "Reduce la formación de H2CO3 y aumenta directamente la excreción de bicarbonato.",
+        "Impide la actividad del intercambiador Na+-H+ en el túbulo proximal.",
+        "Disminuye la concentración de H+ extracelular y produce alcalosis renal.",
+        "Aumenta la filtración de proteínas que actúan como tampón luminal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_029",
+      "q": "La depleción del volumen extracelular puede favorecer alcalosis. ¿Cuál mecanismo del capítulo lo explica mejor?",
+      "exp": "La reducción del volumen estimula angiotensina II y aldosterona. Ambas pueden aumentar secreción de H+ y reabsorción de bicarbonato, favoreciendo alcalosis.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Aumentan angiotensina II y aldosterona, estimulando secreción de H+ y reabsorción de HCO3-.",
+        "Disminuye la reabsorción de sodio y se pierde HCO3- por falta de carga tubular.",
+        "Se bloquea el intercambiador Na+-H+ y se acumula H+ en el plasma.",
+        "Aumenta la excreción de NH4+ sin formación de bicarbonato nuevo.",
+        "La hipovolemia inhibe el riñón y obliga al pulmón a excretar HCO3-."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_030",
+      "q": "Un paciente con hipopotasemia persistente tiende a alcalosis. ¿Cuál relación renal es más adecuada?",
+      "exp": "La baja concentración plasmática de K+ aumenta H+ en células tubulares, estimula secreción de H+ y reabsorción de HCO3-, favoreciendo alcalosis.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La hipopotasemia aumenta H+ en células tubulares y estimula secreción de H+ y reabsorción de HCO3-.",
+        "La hipopotasemia bloquea aldosterona y aumenta excreción de bicarbonato.",
+        "La hipopotasemia reduce la secreción de H+ y favorece acidosis metabólica.",
+        "La hipopotasemia convierte NH4+ en NH3 dentro de la sangre arterial.",
+        "La hipopotasemia impide la formación de ácido titulable en todos los segmentos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_031",
+      "q": "En la acidosis metabólica, el exceso de H+ sobre HCO3- en el líquido tubular ocurre principalmente porque:",
+      "exp": "En acidosis metabólica, la anomalía primaria es la reducción de HCO3- extracelular; así se filtra menos HCO3- y sobra H+ secretado para otros tampones.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La concentración plasmática baja de HCO3- reduce la carga filtrada de bicarbonato.",
+        "El aumento de Pco2 es siempre el evento inicial de toda acidosis metabólica.",
+        "Los túbulos dejan de secretar H+ por completo durante la acidemia.",
+        "La ventilación disminuye y aumenta el bicarbonato filtrado.",
+        "La aldosterona se inhibe y bloquea la excreción de NH4+."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_032",
+      "q": "En la acidosis respiratoria crónica, la compensación renal esperada consiste principalmente en:",
+      "exp": "La Pco2 alta estimula secreción de H+. El riñón compensa aumentando HCO3- plasmático mediante excreción de NH4+ y ácido titulable.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Excretar HCO3- para disminuir el cociente HCO3-/CO2.",
+        "Aumentar la secreción de H+ y añadir HCO3- nuevo al líquido extracelular.",
+        "Reducir NH4+ para evitar una orina demasiado ácida.",
+        "Disminuir la reabsorción de HCO3- filtrado en el túbulo proximal.",
+        "Elevar la ventilación renal para eliminar CO2 por la orina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_033",
+      "q": "En la alcalosis respiratoria simple, ¿qué combinación se espera tras compensación renal?",
+      "exp": "La alcalosis respiratoria empieza por hiperventilación y Pco2 baja; la compensación renal excreta HCO3-, bajando su concentración plasmática.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "pH alto, Pco2 baja y HCO3- plasmático reducido.",
+        "pH bajo, Pco2 alta y HCO3- plasmático aumentado.",
+        "pH alto, Pco2 alta y HCO3- plasmático elevado.",
+        "pH bajo, Pco2 baja y HCO3- plasmático reducido.",
+        "pH normal, Pco2 normal y HCO3- urinario ausente."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_034",
+      "q": "En la alcalosis metabólica simple, ¿qué patrón compensador es más probable?",
+      "exp": "La alcalosis metabólica se origina por aumento de HCO3-. La compensación respiratoria reduce la ventilación y eleva Pco2 parcialmente.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "HCO3- bajo con hiperventilación intensa y Pco2 baja.",
+        "HCO3- alto con hipoventilación parcial y Pco2 aumentada.",
+        "Pco2 baja como evento primario y HCO3- bajo por excreción renal.",
+        "Pco2 alta como evento primario con HCO3- bajo por consumo tubular.",
+        "H+ alto con excreción de NH4+ aumentada hasta 500 mEq/día."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_035",
+      "q": "La acidosis tubular renal se reconoce fisiológicamente por:",
+      "exp": "La acidosis tubular renal se debe a fallas tubulares para secretar H+, reabsorber HCO3- o acidificar la orina, causando retención neta de ácido.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Defecto en secreción renal de H+, reabsorción de HCO3- o ambos, con eliminación inadecuada de ácido.",
+        "Aumento primario de ventilación alveolar que reduce Pco2 por debajo de lo normal.",
+        "Pérdida de HCl gástrico con retención compensadora de bicarbonato.",
+        "Formación excesiva de cetoácidos por falta absoluta de insulina.",
+        "Exceso de aldosterona con secreción aumentada de H+ en colectores."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_036",
+      "q": "Una diarrea intensa produce acidosis metabólica principalmente porque:",
+      "exp": "Las secreciones digestivas contienen mucho bicarbonato. La pérdida fecal de HCO3- reduce la base extracelular y causa acidosis metabólica.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Se pierde bicarbonato de sodio en las heces, equivalente a añadir ácido al organismo.",
+        "Se pierde HCl gástrico puro, reduciendo la concentración de H+ plasmático.",
+        "Aumenta la Pco2 por obstrucción respiratoria secundaria al dolor abdominal.",
+        "Se activa aldosterona y se excreta bicarbonato en el sudor.",
+        "Se forman cetoácidos por bloqueo directo de la secreción de insulina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_037",
+      "q": "En diabetes mellitus grave no controlada, la acidosis metabólica se explica mejor por:",
+      "exp": "Cuando falta insulina, se utiliza más grasa y se forman cetoácidos, que consumen bicarbonato y producen acidosis metabólica.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Metabolismo de grasas con producción de ácido acetoacético y otros cetoácidos.",
+        "Pérdida aislada de HCl por vómitos gástricos persistentes.",
+        "Hipoventilación primaria con retención de CO2 en el líquido extracelular.",
+        "Excreción renal excesiva de NH4+ sin producción de HCO3- nuevo.",
+        "Aumento directo de bicarbonato plasmático por falta de glucosa celular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_038",
+      "q": "La insuficiencia renal crónica puede producir acidosis metabólica grave porque:",
+      "exp": "Al caer la función renal se retienen aniones ácidos y se reduce la excreción de fosfato/NH4+, disminuyendo la adición de bicarbonato nuevo.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Aumenta la excreción de fosfato y NH4+, reduciendo aniones no medidos.",
+        "Disminuye la eliminación de aniones ácidos y reduce la generación de HCO3- nuevo.",
+        "Aumenta la Pco2 por hipoventilación obligatoria del centro respiratorio.",
+        "El riñón secreta demasiado bicarbonato por las células intercaladas tipo A.",
+        "La filtración de glucosa aumenta y se convierte en ácido titulable."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap31_039",
+      "q": "El vómito puede generar alcalosis o acidosis según el contenido perdido. ¿Cuál relación es correcta?",
+      "exp": "El jugo gástrico contiene HCl; perderlo favorece alcalosis. El contenido intestinal distal puede contener bicarbonato; perderlo favorece acidosis.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Pérdida de contenido gástrico puro causa alcalosis; pérdida de contenido intestinal rico en HCO3- puede causar acidosis.",
+        "Pérdida de contenido gástrico puro causa acidosis; pérdida intestinal distal causa alcalosis.",
+        "Todo vómito causa acidosis porque siempre elimina bicarbonato pancreático.",
+        "Todo vómito causa alcalosis porque el intestino no contiene bicarbonato.",
+        "El vómito no altera el pH porque solo modifica el volumen extracelular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_040",
+      "q": "Un diurético que aumenta el flujo distal puede favorecer alcalosis metabólica porque:",
+      "exp": "Muchos diuréticos aumentan el flujo y la entrega distal de Na+. La reabsorción distal de Na+ se acopla a secreción de H+, favoreciendo retención de HCO3- y alcalosis.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Aumenta la reabsorción distal de Na+ acoplada a secreción de H+ y reabsorción de HCO3-.",
+        "Bloquea la reabsorción de Na+ y por eso impide la secreción de H+ en colectores.",
+        "Convierte bicarbonato filtrado en ácido láctico dentro del túbulo proximal.",
+        "Aumenta la excreción de NH4+ sin cambios en la secreción tubular de H+.",
+        "Reduce la acción de aldosterona y causa retención de H+ en el plasma."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_041",
+      "q": "El exceso de aldosterona favorece alcalosis metabólica porque:",
+      "exp": "La aldosterona estimula secreción de H+ en células intercaladas; al excretarse más H+, se añade más HCO3- al líquido extracelular.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Estimula secreción de H+ por células intercaladas y aumenta la adición de HCO3- a la sangre.",
+        "Disminuye la reabsorción de sodio y aumenta la pérdida urinaria de bicarbonato.",
+        "Inhibe la ATPasa H+-K+ y bloquea la acidificación urinaria.",
+        "Aumenta Pco2 por reducir directamente la ventilación alveolar.",
+        "Convierte NH4+ en HCO3- dentro del hígado antes de llegar al riñón."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_042",
+      "q": "Ante pH arterial bajo, HCO3- bajo y Pco2 baja, ¿cuál diagnóstico fisiológico simple es más probable?",
+      "exp": "El pH bajo indica acidosis. El HCO3- bajo indica origen metabólico, y la Pco2 baja representa hiperventilación compensadora.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Acidosis metabólica con compensación respiratoria parcial.",
+        "Acidosis respiratoria con compensación renal completa.",
+        "Alcalosis respiratoria con excreción renal de bicarbonato.",
+        "Alcalosis metabólica con hipoventilación compensadora.",
+        "Trastorno mixto alcalótico con retención de CO2."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_043",
+      "q": "Ante pH bajo, Pco2 alta y HCO3- elevado, ¿cuál interpretación es más coherente si el cuadro es simple y crónico?",
+      "exp": "La alteración primaria respiratoria es Pco2 alta. Si es crónica, el riñón compensa aumentando HCO3plasmático.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Acidosis respiratoria con compensación renal por retención/generación de HCO3-.",
+        "Acidosis metabólica con compensación pulmonar insuficiente.",
+        "Alcalosis metabólica por exceso primario de bicarbonato.",
+        "Alcalosis respiratoria por hiperventilación crónica.",
+        "Acidosis tubular renal con excreción renal elevada de bicarbonato."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_044",
+      "q": "Ante pH alto, Pco2 baja y HCO3- bajo, ¿qué trastorno simple encaja mejor?",
+      "exp": "El pH alto indica alcalosis. La Pco2 baja como cambio primario sugiere alcalosis respiratoria; el HCO3- bajo es la compensación renal.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Alcalosis respiratoria con compensación renal por pérdida de HCO3-.",
+        "Alcalosis metabólica con compensación respiratoria por hipoventilación.",
+        "Acidosis respiratoria con compensación renal por aumento de HCO3-.",
+        "Acidosis metabólica con hiperventilación compensadora.",
+        "Acidosis mixta por pérdida digestiva de bicarbonato y enfisema."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_045",
+      "q": "Un paciente tiene pH bajo, HCO3- bajo y Pco2 alta. ¿Por qué este patrón sugiere un trastorno mixto?",
+      "exp": "HCO3- bajo indica componente metabólico acidótico, pero Pco2 alta indica retención de CO2 en lugar de compensación. Eso sugiere acidosis metabólica y respiratoria.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La acidosis metabólica debería acompañarse de Pco2 baja si la compensación respiratoria es adecuada.",
+        "La acidosis respiratoria siempre debe tener HCO3- bajo desde el inicio.",
+        "La alcalosis metabólica puede presentarse con pH bajo cuando el HCO3- cae.",
+        "La Pco2 alta corrige por completo cualquier reducción de bicarbonato.",
+        "El pH bajo solo se interpreta si el hiato aniónico está aumentado."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_046",
+      "q": "Al usar un nomograma acidobásico, ¿cuál condición temporal debe recordarse para interpretar compensaciones simples?",
+      "exp": "Para valorar trastornos simples, debe considerarse que la compensación ventilatoria necesita horas y la renal de trastornos respiratorios necesita días.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La compensación ventilatoria tarda 6-12 h y la renal en trastornos respiratorios tarda 3-5 días.",
+        "La compensación renal siempre ocurre en segundos y la respiratoria tarda semanas.",
+        "Las compensaciones ocurren solo si el pH ya volvió al rango normal.",
+        "La compensación respiratoria no depende del tiempo y siempre es completa.",
+        "El nomograma solo es válido antes de que aparezca cualquier compensación."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_047",
+      "q": "El hiato aniónico plasmático se calcula usualmente como:",
+      "exp": "El hiato aniónico clínico se estima como Na+ menos la suma de Cl- y HCO3-. Normalmente se sitúa aproximadamente entre 8 y 16 mEq/l.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Na+ - (Cl- + HCO3-).",
+        "(Na+ + K+) - Pco2.",
+        "HCO3- - (Na+ + Cl-).",
+        "Cl- - (Na+ + HCO3-).",
+        "Pco2 + HCO3- - Na+."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_048",
+      "q": "Una acidosis metabólica hiperclorémica con hiato aniónico normal se explica porque:",
+      "exp": "Si el HCO3- baja y el Cl- sube en proporción, no aumentan los aniones no medidos y el hiato aniónico permanece normal.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "La caída de HCO3- se acompaña de aumento proporcional de Cl- para mantener electroneutralidad.",
+        "La caída de HCO3- se acompaña de acumulación de aniones orgánicos no medidos.",
+        "La Pco2 aumenta por hipoventilación y desplaza el cloruro hacia las células.",
+        "El sodio plasmático aumenta mucho y oculta todos los aniones medidos.",
+        "El bicarbonato aumenta y el cloruro disminuye de forma proporcional."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap31_049",
+      "q": "¿Cuál situación se asocia más típicamente a acidosis metabólica con hiato aniónico aumentado?",
+      "exp": "La cetoacidosis diabética acumula aniones orgánicos no medidos, elevando el hiato aniónico. Diarrea y acidosis tubular suelen ser hiperclorémicas.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Diarrea por pérdida de bicarbonato intestinal.",
+        "Acidosis tubular renal por incapacidad de acidificar orina.",
+        "Cetoacidosis diabética por acumulación de aniones orgánicos.",
+        "Inhibidores de anhidrasa carbónica con pérdida renal de HCO3-.",
+        "Enfermedad de Addison con acidosis hiperclorémica."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap31_050",
+      "q": "Un paciente con acidosis metabólica recibe tratamiento. Según el capítulo, el enfoque más correcto es:",
+      "exp": "El mejor tratamiento es corregir la causa. En acidosis, pueden usarse bicarbonato de sodio o sustancias que se metabolizan a bicarbonato cuando está indicado.",
+      "topic": "Capítulo 31 - Regulación acidobásica",
+      "options": [
+        "Corregir la causa de base y, en situaciones seleccionadas, aportar base como bicarbonato o precursores.",
+        "Reducir siempre la ventilación para elevar Pco2 y normalizar el pH rápidamente.",
+        "Administrar cloruro de amonio para aumentar la carga ácida circulante.",
+        "Eliminar bicarbonato por diuréticos para disminuir el cociente HCO3-/CO2.",
+        "Bloquear la excreción renal de NH4+ para conservar ácido titulable."
+      ],
+      "answer": 0
+    }
+  ]
+}

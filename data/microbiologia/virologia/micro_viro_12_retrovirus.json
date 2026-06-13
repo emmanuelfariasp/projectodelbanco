@@ -1,0 +1,157 @@
+{
+  "key": "micro_viro_12_retrovirus",
+  "title": "Retrovirus",
+  "subtitle": "Virología · 10 preguntas · Fuente: UNIDAD 10 Retrovirus.pdf",
+  "questions": [
+    {
+      "id": "micro_viro_12_retrovirus_001",
+      "q": "La caracteristica que define a los retrovirus es la presencia de:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Transcriptasa inversa.” porque, dentro de UNIDAD 10 - Retrovirus, ese dato encaja con el tema de virología: la enzima de los retrovirus que transforma ARN viral en ADN para integrarse al genoma celular. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Transcriptasa inversa.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. El concepto de esta alternativa es “Neuraminidasa.”: glucoproteína de influenza que facilita la liberación de viriones al cortar ácido siálico. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Transcriptasa inversa.”.\nc) No. Esta alternativa se refiere a “Hemaglutinina.”: glucoproteína de influenza que media unión a la célula y es antígeno principal. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Transcriptasa inversa.”.\nd) No. Aquí se está describiendo “Cuerpo de Negri.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Transcriptasa inversa.”.\ne) No. Esa opción apunta a “Disco suctorio.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Transcriptasa inversa.”.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Transcriptasa inversa.",
+        "Neuraminidasa.",
+        "Hemaglutinina.",
+        "Cuerpo de Negri.",
+        "Disco suctorio."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_12_retrovirus_002",
+      "q": "El genoma de VIH se describe mejor como:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “ARN monocatenario positivo con envoltura.” porque, dentro de UNIDAD 10 - Retrovirus, ese dato encaja con el tema de virología: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “ADN bicatenario lineal sin envoltura.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario positivo con envoltura.”.\nb) No. Esta alternativa se refiere a “ARN negativo segmentado.”: un genoma que debe ser transcrito por una polimerasa viral antes de producir proteínas. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario positivo con envoltura.”.\nc) No. Aquí se está describiendo “ADN monocatenario sin envoltura.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario positivo con envoltura.”.\nd) No. Esa opción apunta a “ARN bicatenario de cápside triple.”: ARN de doble cadena, característico de Reovirus/Rotavirus y distinto de influenza, picornavirus o paramixovirus. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario positivo con envoltura.”.\ne) Correcta. “ARN monocatenario positivo con envoltura.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "ADN bicatenario lineal sin envoltura.",
+        "ARN negativo segmentado.",
+        "ADN monocatenario sin envoltura.",
+        "ARN bicatenario de cápside triple.",
+        "ARN monocatenario positivo con envoltura."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_12_retrovirus_003",
+      "q": "La integrasa del VIH permite:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Incorporar el ADN proviral al genoma célular.” porque, dentro de UNIDAD 10 - Retrovirus, ese dato encaja con el tema de virología: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Unir virus a ácido sialico.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Incorporar el ADN proviral al genoma célular.”.\nb) Correcta. “Incorporar el ADN proviral al genoma célular.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esa opción apunta a “Liberar viriones por neuraminidasa.”: glucoproteína de influenza que facilita la liberación de viriones al cortar ácido siálico. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Incorporar el ADN proviral al genoma célular.”.\nd) No. Lo que menciona esta opción corresponde a “Formar quistes resistentes.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Incorporar el ADN proviral al genoma célular.”.\ne) No. El concepto de esta alternativa es “Producir huevos embrionados.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Incorporar el ADN proviral al genoma célular.”.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Unir virus a ácido sialico.",
+        "Incorporar el ADN proviral al genoma célular.",
+        "Liberar viriones por neuraminidasa.",
+        "Formar quistes resistentes.",
+        "Producir huevos embrionados."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_12_retrovirus_004",
+      "q": "Las células diana principales del VIH expresan:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “CD4 y correceptores como CCR5/CXCR4.” porque, dentro de UNIDAD 10 - Retrovirus, ese dato encaja con el tema de virología: receptor de linfocitos T cooperadores y otras células diana del VIH. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Antigeno P eritrocitario.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “CD4 y correceptores como CCR5/CXCR4.”.\nb) No. Esa opción apunta a “Receptor de bilis.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “CD4 y correceptores como CCR5/CXCR4.”.\nc) No. Lo que menciona esta opción corresponde a “Quitina externa.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “CD4 y correceptores como CCR5/CXCR4.”.\nd) Correcta. “CD4 y correceptores como CCR5/CXCR4.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esta alternativa se refiere a “Botrios del escolex.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “CD4 y correceptores como CCR5/CXCR4.”.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Antigeno P eritrocitario.",
+        "Receptor de bilis.",
+        "Quitina externa.",
+        "CD4 y correceptores como CCR5/CXCR4.",
+        "Botrios del escolex."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_12_retrovirus_005",
+      "q": "La disminucion progresiva de CD4 explica principalmente:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Inmunodeficiencia célular y infecciónes oportunistas.” porque, dentro de UNIDAD 10 - Retrovirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Inmunodeficiencia célular y infecciónes oportunistas.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Lo que menciona esta opción corresponde a “Anemia por consumo de B12.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Inmunodeficiencia célular y infecciónes oportunistas.”.\nc) No. El concepto de esta alternativa es “Obstruccion intestinal por adultos.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Inmunodeficiencia célular y infecciónes oportunistas.”.\nd) No. Esta alternativa se refiere a “Fiebre por esquizogonia eritrocitaria.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Inmunodeficiencia célular y infecciónes oportunistas.”.\ne) No. Aquí se está describiendo “Dermatitis por pediculosis.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Inmunodeficiencia célular y infecciónes oportunistas.”.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Inmunodeficiencia célular y infecciónes oportunistas.",
+        "Anemia por consumo de B12.",
+        "Obstruccion intestinal por adultos.",
+        "Fiebre por esquizogonia eritrocitaria.",
+        "Dermatitis por pediculosis."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_12_retrovirus_006",
+      "q": "Una prueba inicial moderna de tamizaje de VIH suele detectar:",
+      "exp": "La pregunta está evaluando qué prueba o hallazgo confirma mejor el agente o el cuadro señalado. La opción correcta es “Antigeno p24 y anticuerpos anti-VIH.” porque, dentro de UNIDAD 10 - Retrovirus, ese dato encaja con el tema de virología: retrovirus que infecta células CD4 y causa inmunodeficiencia progresiva. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Huevos en heces seriadas.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Antigeno p24 y anticuerpos anti-VIH.”.\nb) No. El concepto de esta alternativa es “Trofozoitos moviles en fresco.”: forma móvil y metabólicamente activa de protozoarios; se observa mejor en heces recientes. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Antigeno p24 y anticuerpos anti-VIH.”.\nc) Correcta. “Antigeno p24 y anticuerpos anti-VIH.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Aquí se está describiendo “Cercarias en agua.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Antigeno p24 y anticuerpos anti-VIH.”.\ne) No. Esa opción apunta a “Veneno en sangre.”: un concepto de ofidismo/toxinología. No explica infecciones virales o parasitarias si el problema no es una mordedura de serpiente. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Antigeno p24 y anticuerpos anti-VIH.”.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Huevos en heces seriadas.",
+        "Trofozoitos moviles en fresco.",
+        "Antigeno p24 y anticuerpos anti-VIH.",
+        "Cercarias en agua.",
+        "Veneno en sangre."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_12_retrovirus_007",
+      "q": "La carga viral por PCR se usa principalmente para:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Monitorear replicacion y respuesta al tratamiento.” porque, dentro de UNIDAD 10 - Retrovirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Identificar huevos operculados.”: huevos con opérculo, característicos de varios trematodos como Fasciola. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Monitorear replicacion y respuesta al tratamiento.”.\nb) No. Esta alternativa se refiere a “Clasificar mordeduras ofidicas.”: vía de exposición típica para rabia u ofidismo según el contexto; el significado depende del agente. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Monitorear replicacion y respuesta al tratamiento.”.\nc) No. Aquí se está describiendo “Medir vitamina B12 por cestodos.”: vitamina que puede disminuir en difilobotriasis, causando anemia megaloblástica y síntomas neurológicos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Monitorear replicacion y respuesta al tratamiento.”.\nd) No. Esa opción apunta a “Detectar larvas en cinta adhesiva.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Monitorear replicacion y respuesta al tratamiento.”.\ne) Correcta. “Monitorear replicacion y respuesta al tratamiento.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Identificar huevos operculados.",
+        "Clasificar mordeduras ofidicas.",
+        "Medir vitamina B12 por cestodos.",
+        "Detectar larvas en cinta adhesiva.",
+        "Monitorear replicacion y respuesta al tratamiento."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_12_retrovirus_008",
+      "q": "La terapia antirretroviral combinada busca:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Bloquear distintas etapas de la replicacion viral.” porque, dentro de UNIDAD 10 - Retrovirus, ese dato encaja con el tema de virología: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Eliminar solo bacterias anaerobias.”: un concepto de bacteriología. Puede ser válido para bacterias, pero desplaza la respuesta hacia otro tipo de microorganismo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Bloquear distintas etapas de la replicacion viral.”.\nb) Correcta. “Bloquear distintas etapas de la replicacion viral.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esa opción apunta a “Neutralizar venenos de serpientes.”: un concepto de ofidismo/toxinología. No explica infecciones virales o parasitarias si el problema no es una mordedura de serpiente. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Bloquear distintas etapas de la replicacion viral.”.\nd) No. Lo que menciona esta opción corresponde a “Paralizar nematodos intestinales unicamente.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Bloquear distintas etapas de la replicacion viral.”.\ne) No. El concepto de esta alternativa es “Destruir ooquistes ambientales.”: formas eliminadas por felinos en toxoplasmosis o presentes en coccidios; requieren maduración/esporulación para ser infectantes según el agente. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Bloquear distintas etapas de la replicacion viral.”.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Eliminar solo bacterias anaerobias.",
+        "Bloquear distintas etapas de la replicacion viral.",
+        "Neutralizar venenos de serpientes.",
+        "Paralizar nematodos intestinales unicamente.",
+        "Destruir ooquistes ambientales."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_12_retrovirus_009",
+      "q": "HTLV-1 se asocia especialmente con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Leucemia/linfoma de células T del adulto.” porque, dentro de UNIDAD 10 - Retrovirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Condiloma acuminado.”: verruga anogenital vinculada típicamente a HPV mucoso de bajo riesgo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Leucemia/linfoma de células T del adulto.”.\nb) No. Esa opción apunta a “Rabia paralitica.”: rhabdovirus neurotrópico transmitido sobre todo por saliva de animales infectados. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Leucemia/linfoma de células T del adulto.”.\nc) No. Lo que menciona esta opción corresponde a “Fasciolosis biliar.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Leucemia/linfoma de células T del adulto.”.\nd) Correcta. “Leucemia/linfoma de células T del adulto.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esta alternativa se refiere a “Cisticercosis muscular.”: larva de Taenia en tejidos; en carne causa teniasis, y si el humano ingiere huevos de T. solium puede producir cisticercosis. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Leucemia/linfoma de células T del adulto.”.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Condiloma acuminado.",
+        "Rabia paralitica.",
+        "Fasciolosis biliar.",
+        "Leucemia/linfoma de células T del adulto.",
+        "Cisticercosis muscular."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_12_retrovirus_010",
+      "q": "Una medida preventiva esencial para VIH es:",
+      "exp": "La pregunta está evaluando qué medida actúa sobre el riesgo principal o sobre el agente responsable. La opción correcta es “Uso de preservativo, sangre segura y control prenatal.” porque, dentro de UNIDAD 10 - Retrovirus, ese dato encaja con el tema de virología: barrera preventiva frente a transmisión sexual de VIH y otros agentes. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Evitar exclusivamente gatos.”: hospedador definitivo de Toxoplasma gondii y fuente de ooquistes por heces. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Uso de preservativo, sangre segura y control prenatal.”.\nb) No. Lo que menciona esta opción corresponde a “Cocinar vegetales acuaticos.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Uso de preservativo, sangre segura y control prenatal.”.\nc) Correcta. “Uso de preservativo, sangre segura y control prenatal.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esta alternativa se refiere a “Observar perros por 10 dias.”: reservorio doméstico importante de leishmaniasis visceral americana y hospedador definitivo de Echinococcus según contexto. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Uso de preservativo, sangre segura y control prenatal.”.\ne) No. Aquí se está describiendo “No caminar descalzo.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Uso de preservativo, sangre segura y control prenatal.”.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Evitar exclusivamente gatos.",
+        "Cocinar vegetales acuaticos.",
+        "Uso de preservativo, sangre segura y control prenatal.",
+        "Observar perros por 10 dias.",
+        "No caminar descalzo."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    }
+  ]
+}

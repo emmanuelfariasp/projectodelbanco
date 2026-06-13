@@ -10,10 +10,11 @@ const SUBJECT_KEY='banco4_last_subject';
 
 function $(id){return document.getElementById(id)}
 function shuffle(arr){const a=[...arr]; for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]} return a}
-function shuffleQuestionOptions(q){const order=shuffle(q.options.map((_,i)=>i)); return {...q, options: order.map(i=>q.options[i]), answer: order.indexOf(q.answer)}}
+function shuffleQuestionOptions(q){if(q.keepOptionOrder) return {...q}; const order=shuffle(q.options.map((_,i)=>i)); return {...q, options: order.map(i=>q.options[i]), answer: order.indexOf(q.answer)}}
 function prepareQuestions(qs){ return shuffle(qs).map(shuffleQuestionOptions); }
 function pct(n,d){return d?Math.round((n/d)*100):0}
 function escHtml(str){return String(str).replace(/[&<>"']/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
+function expHtml(str){return `<div class="expText">${escHtml(str)}</div>`;}
 function cleanName(name){return String(name||'').trim().replace(/\s+/g,' ').slice(0,40)}
 function getVisitorName(){return cleanName(localStorage.getItem(NAME_KEY)||'')}
 function getSections(subject=currentSubject){return subject && SUBJECTS[subject] ? SUBJECTS[subject].sections : []}
@@ -128,13 +129,13 @@ function renderDashboard(){
 
 
 function showLogin(){
-  ['subjectSelect','unitSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
+  ['subjectSelect','unitSelect','microUnitSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
   $('login').classList.remove('hidden');
   $('heroLead').textContent='Antes de comenzar, escribe tu nombre para personalizar tu experiencia.';
   setTimeout(()=>{ if($('nameInput')) $('nameInput').focus(); },60);
 }
 function showSubjectSelection(){
-  ['login','unitSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
+  ['login','unitSelect','microUnitSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
   $('subjectSelect').classList.remove('hidden');
   $('heroLead').textContent='Banco de cuestiones para organizar tus estudios del 4º semestre.';
   const name=getVisitorName();
@@ -142,7 +143,7 @@ function showSubjectSelection(){
 }
 function showMenuForUser(){
   if(!currentSubject || !SUBJECTS[currentSubject]){ showSubjectSelection(); return; }
-  ['login','subjectSelect','unitSelect','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
+  ['login','subjectSelect','unitSelect','microUnitSelect','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
   $('menu').classList.remove('hidden');
   $('heroLead').textContent=`${subjectLabel()}: elige un bloque y comienza a practicar.`;
   $('menuHeading').textContent=`Banco de ${subjectLabel()}`;
@@ -159,11 +160,18 @@ function showMenuForUser(){
 function submitName(event){event.preventDefault(); if(!appReady){alert('El banco de preguntas todavía está cargando. Intenta nuevamente en unos segundos.'); return;} const input=$('nameInput'); const name=cleanName(input?input.value:''); if(!name){alert('Escribe tu nombre para entrar.'); return;} localStorage.setItem(NAME_KEY,name); registerVisit(); trackAnalyticsEvent('student_name_saved'); showSubjectSelection();}
 function changeVisitorName(){const current=getVisitorName(); localStorage.removeItem(NAME_KEY); currentSubject=null; showLogin(); if($('nameInput')) $('nameInput').value=current;}
 function showFisioUnitSelection(){
-  ['login','subjectSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
+  ['login','subjectSelect','microUnitSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
   $('unitSelect').classList.remove('hidden');
   $('heroLead').textContent='Fisiología: elige la unidad que quieres practicar.';
   const name=getVisitorName();
   $('unitGreeting').innerHTML=`<span class="helloName">Hola, ${escHtml(name)}.</span> Elige entre Endocrinología y reproducción o Líquidos corporales y riñones.`;
+}
+function showMicroUnitSelection(){
+  ['login','subjectSelect','unitSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
+  $('microUnitSelect').classList.remove('hidden');
+  $('heroLead').textContent='Microbiología: elige el bloque que quieres practicar.';
+  const name=getVisitorName();
+  $('microUnitGreeting').innerHTML=`<span class="helloName">Hola, ${escHtml(name)}.</span> Elige entre Virología, Parasitología, Artrópodos o Serpientes.`;
 }
 function chooseSubject(subject){
   if(!appReady){alert('El banco de preguntas todavía está cargando. Intenta nuevamente en unos segundos.'); return;}
@@ -171,6 +179,12 @@ function chooseSubject(subject){
     registerVisit();
     trackAnalyticsEvent('subject_category_selected',{selected_subject:'fisio'});
     showFisioUnitSelection();
+    return;
+  }
+  if(subject==='micro'){
+    registerVisit();
+    trackAnalyticsEvent('subject_category_selected',{selected_subject:'micro'});
+    showMicroUnitSelection();
     return;
   }
   if(!SUBJECTS[subject]) return;
@@ -181,6 +195,15 @@ function chooseSubject(subject){
   showMenuForUser();
 }
 function chooseFisioUnit(unitKey){
+  if(!appReady){alert('El banco de preguntas todavía está cargando. Intenta nuevamente en unos segundos.'); return;}
+  if(!SUBJECTS[unitKey]) return;
+  currentSubject=unitKey;
+  localStorage.setItem(SUBJECT_KEY,unitKey);
+  registerVisit();
+  trackAnalyticsEvent('subject_selected',{selected_subject:unitKey});
+  showMenuForUser();
+}
+function chooseMicroUnit(unitKey){
   if(!appReady){alert('El banco de preguntas todavía está cargando. Intenta nuevamente en unos segundos.'); return;}
   if(!SUBJECTS[unitKey]) return;
   currentSubject=unitKey;
@@ -234,7 +257,7 @@ function saveProgress(extra={}){
   localStorage.setItem(attemptKey(currentSection.key,currentMode), JSON.stringify(state));
 }
 function shortMenuName(sec){
-  if(currentSubject && currentSubject.startsWith('fisio')) return sec.subtitle;
+  if(currentSubject && (currentSubject.startsWith('fisio') || currentSubject.startsWith('micro_'))) return sec.subtitle;
   const names={clase1:'Sistema Nervioso',clase2:'Médula espinal I',clase3:'Médula espinal II',clase4:'Tronco cerebral',clase5:'Cerebelo y ventrículos',clase6:'Configuración del cerebro',clase7:'Pares craneales I–VII',clase8:'Pares craneales VIII–XII',clase9:'Neuroglia y sinapsis',clase10:'HTEC, edema y ACV',clase11:'Hidrocefalia',clase12:'Absceso y empiema',general_medio:'Todo el contenido · nivel medio',clase13_final_ordinario:'Especial para examen final ordinario',general_dificil:'Todo el contenido · nivel difícil'};
   return names[sec.key] || sec.subtitle;
 }
@@ -280,6 +303,11 @@ function renderCards(){
     $('groupHintClasses').textContent='Capítulos 25 al 31: 50 preguntas por capítulo.';
     $('generalBlock').classList.add('hidden');
     sections.forEach((sec,i)=>classCards.appendChild(makeCard(sec,i,false)));
+  } else if(currentSubject && currentSubject.startsWith('micro_')) {
+    $('groupTitleClasses').textContent=subjectLabel();
+    $('groupHintClasses').textContent='Cada clase tiene 10 preguntas. En modo estudio, la explicación aparece con análisis detallado de la correcta y de los distractores.';
+    $('generalBlock').classList.add('hidden');
+    sections.forEach((sec,i)=>classCards.appendChild(makeCard(sec,i,false)));
   } else {
     $('groupTitleClasses').textContent='Bloques';
     $('groupHintClasses').textContent='Elige un bloque para empezar.';
@@ -295,7 +323,7 @@ function showQuizShell(openList=false){
   $('listBtn').style.display = currentMode==='exam' ? 'none' : '';
   const progressPanel=document.querySelector('#quiz .progressPanel');
   if(progressPanel) progressPanel.classList.toggle('hidden', currentMode==='exam');
-  ['subjectSelect','unitSelect','menu','result','login'].forEach(id=>$(id).classList.add('hidden'));
+  ['subjectSelect','unitSelect','microUnitSelect','menu','result','login'].forEach(id=>$(id).classList.add('hidden'));
   $('quiz').classList.remove('hidden');
   $('quizPill').textContent=subjectLabel()+' · '+currentSection.title+' · '+currentSection.level;
   const mp=$('modePill'); mp.textContent=modeLabel(); mp.className='modeTag '+modeClass();
@@ -330,7 +358,7 @@ function updateProgressUI(){
   $('progressText').innerHTML=`<div class="progressLabel"><strong>Progreso del bloque</strong><span>${done}/${questions.length} respondidas · ${pp}%</span></div><div class="statsGrid"><div class="statBox"><b>${done}</b><span>Respondidas</span></div><div class="statBox ok"><b>${ok}</b><span>Ciertos</span></div><div class="statBox bad"><b>${bad}</b><span>Errores</span></div><div class="statBox pending"><b>${pending}</b><span>Pendientes</span></div></div>`;
 }
 function renderQuestion(){locked=false; selectedChoice=null; $('nextBtn').disabled=true; $('nextBtn').textContent=(idx===questions.length-1?'Ver resultado':'Siguiente'); const q=questions[idx]; updateProgressUI(); $('question').textContent=q.q; const opts=$('options'); opts.innerHTML=''; $('feedback').className='feedback'; $('feedback').innerHTML=''; q.options.forEach((op,i)=>{const b=document.createElement('button'); b.className='option'; b.innerHTML=`<b>${letters[i]})</b>&nbsp;${escHtml(op)}`; b.onclick=()=>selectOption(i); opts.appendChild(b);}); restoreCurrentAnswerView(); equalizeOptionHeights();}
-function restoreCurrentAnswerView(){const q=questions[idx], rec=answerFor(q.id); if(!rec) return; selectedChoice=rec.choice; $('nextBtn').disabled=false; const buttons=[...$('options').children]; buttons.forEach((b,i)=>{b.classList.toggle('selected',i===rec.choice);}); if(currentMode==='exam'){$('feedback').className='feedback'; $('feedback').innerHTML=''; return;} locked=true; buttons.forEach((b,i)=>{b.disabled=true; if(i===q.answer) b.classList.add('correct'); if(i===rec.choice&&i!==q.answer) b.classList.add('wrong'); if(i!==rec.choice&&i!==q.answer) b.classList.add('dim');}); const fb=$('feedback'); fb.className='feedback '+(rec.correct?'good':'bad'); fb.innerHTML=rec.correct?`<strong>✅ Correcto</strong>${escHtml(q.exp)}`:`<strong>❌ Incorrecto</strong>Respuesta correcta: <b>${letters[q.answer]}) ${escHtml(q.options[q.answer])}</b><br>${escHtml(q.exp)}`;}
+function restoreCurrentAnswerView(){const q=questions[idx], rec=answerFor(q.id); if(!rec) return; selectedChoice=rec.choice; $('nextBtn').disabled=false; const buttons=[...$('options').children]; buttons.forEach((b,i)=>{b.classList.toggle('selected',i===rec.choice);}); if(currentMode==='exam'){$('feedback').className='feedback'; $('feedback').innerHTML=''; return;} locked=true; buttons.forEach((b,i)=>{b.disabled=true; if(i===q.answer) b.classList.add('correct'); if(i===rec.choice&&i!==q.answer) b.classList.add('wrong'); if(i!==rec.choice&&i!==q.answer) b.classList.add('dim');}); const fb=$('feedback'); fb.className='feedback '+(rec.correct?'good':'bad'); fb.innerHTML=rec.correct?`<strong>✅ Correcto</strong>${expHtml(q.exp)}`:`<strong>❌ Incorrecto</strong>Respuesta correcta: <b>${letters[q.answer]}) ${escHtml(q.options[q.answer])}</b><br>${expHtml(q.exp)}`;}
 function equalizeOptionHeights(){const buttons=[...document.querySelectorAll('.option')]; if(!buttons.length) return; buttons.forEach(b=>b.style.height='auto'); const max=Math.max(...buttons.map(b=>b.offsetHeight)); buttons.forEach(b=>b.style.height=Math.max(max,76)+'px');}
 function renderQuestionList(){
   const box=$('questionList');
@@ -349,10 +377,10 @@ function toggleQuestionList(){
   }
   const box=$('questionList'); box.classList.toggle('hidden'); $('listBtn').textContent=box.classList.contains('hidden')?'Ver todas las preguntas':'Ocultar lista'; if(!box.classList.contains('hidden')) renderQuestionList();
 }
-function storeAnswer(choice, options={}){const q=questions[idx], correct=choice===q.answer, existing=answers.findIndex(a=>a.id===q.id); const record={id:q.id,q:q.q,options:q.options,answer:q.answer,choice,correct,exp:q.exp,topic:q.topic}; if(existing>=0) answers[existing]=record; else answers.push(record); const updateWrongBank=options.updateWrongBank!==false; if(updateWrongBank && typeof removeWrongAnswer==='function' && typeof saveWrongAnswer==='function'){ if(correct) removeWrongAnswer(q.id); else saveWrongAnswer(record); } return record;}
-function selectOption(choice){const q=questions[idx]; selectedChoice=choice; const buttons=[...$('options').children]; buttons.forEach((b,i)=>{b.classList.toggle('selected',i===choice);}); $('nextBtn').disabled=false; if(currentMode==='exam'){storeAnswer(choice,{updateWrongBank:false}); saveProgress(); $('questionList').classList.add('hidden'); $('feedback').className='feedback'; $('feedback').innerHTML=''; updateProgressUI(); return;} if(locked) return; locked=true; const rec=storeAnswer(choice); buttons.forEach((b,i)=>{b.disabled=true; if(i===q.answer) b.classList.add('correct'); if(i===choice&&i!==q.answer) b.classList.add('wrong'); if(i!==choice&&i!==q.answer) b.classList.add('dim');}); const fb=$('feedback'); fb.className='feedback '+(rec.correct?'good':'bad'); fb.innerHTML=rec.correct?`<strong>✅ Correcto</strong>${escHtml(q.exp)}`:`<strong>❌ Incorrecto</strong>Respuesta correcta: <b>${letters[q.answer]}) ${escHtml(q.options[q.answer])}</b><br>${escHtml(q.exp)}`; saveProgress(); updateProgressUI(); renderQuestionList();}
+function storeAnswer(choice, options={}){const q=questions[idx], correct=choice===q.answer, existing=answers.findIndex(a=>a.id===q.id); const record={id:q.id,q:q.q,options:q.options,answer:q.answer,choice,correct,exp:q.exp,topic:q.topic,keepOptionOrder:!!q.keepOptionOrder}; if(existing>=0) answers[existing]=record; else answers.push(record); const updateWrongBank=options.updateWrongBank!==false; if(updateWrongBank && typeof removeWrongAnswer==='function' && typeof saveWrongAnswer==='function'){ if(correct) removeWrongAnswer(q.id); else saveWrongAnswer(record); } return record;}
+function selectOption(choice){const q=questions[idx]; selectedChoice=choice; const buttons=[...$('options').children]; buttons.forEach((b,i)=>{b.classList.toggle('selected',i===choice);}); $('nextBtn').disabled=false; if(currentMode==='exam'){storeAnswer(choice,{updateWrongBank:false}); saveProgress(); $('questionList').classList.add('hidden'); $('feedback').className='feedback'; $('feedback').innerHTML=''; updateProgressUI(); return;} if(locked) return; locked=true; const rec=storeAnswer(choice); buttons.forEach((b,i)=>{b.disabled=true; if(i===q.answer) b.classList.add('correct'); if(i===choice&&i!==q.answer) b.classList.add('wrong'); if(i!==choice&&i!==q.answer) b.classList.add('dim');}); const fb=$('feedback'); fb.className='feedback '+(rec.correct?'good':'bad'); fb.innerHTML=rec.correct?`<strong>✅ Correcto</strong>${expHtml(q.exp)}`:`<strong>❌ Incorrecto</strong>Respuesta correcta: <b>${letters[q.answer]}) ${escHtml(q.options[q.answer])}</b><br>${expHtml(q.exp)}`; saveProgress(); updateProgressUI(); renderQuestionList();}
 function nextQuestion(){if(currentMode==='exam'){if(selectedChoice===null&&!answerForCurrent()) return; if(selectedChoice!==null) storeAnswer(selectedChoice,{updateWrongBank:false});} saveProgress(); if(idx<questions.length-1){idx++; saveProgress(); renderQuestion(); if(currentMode!=='exam' && !$('questionList').classList.contains('hidden')) renderQuestionList();} else showResult();}
-function showResult(){saveProgress({completed:true}); ['quiz','menu','subjectSelect','unitSelect','login'].forEach(id=>$(id).classList.add('hidden')); $('result').classList.remove('hidden'); const total=questions.length, score=answers.filter(a=>a.correct).length, p=pct(score,total); if(currentMode==='exam' && typeof removeWrongAnswer==='function' && typeof saveWrongAnswer==='function'){ answers.forEach(a=>{ if(a.correct) removeWrongAnswer(a.id); else saveWrongAnswer(a); }); } if(!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))){ localStorage.setItem(scoreKey(currentSection.key),JSON.stringify({score,total,p,date:new Date().toISOString()})); } trackAnalyticsEvent('finish_block',{block_key:currentSection.key,mode:currentMode,score,total,percent:p,synthetic:!!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))}); $('resultPill').textContent=subjectLabel()+' · '+currentSection.title; const rm=$('resultMode'); rm.textContent=modeLabel(); rm.className='modeTag '+modeClass(); $('resultSub').textContent=currentSection.subtitle; $('resultTitle').textContent=p>=80?'Muy bien, estás fuerte en este bloque.':p>=60?'Buen avance, pero hay puntos para revisar.':'Necesitas reforzar este contenido antes de la prueba.'; $('scorePct').textContent=p+'%'; $('scoreNum').textContent=score+'/'+total; $('scoreMsg').textContent=p>=80?'Dominio alto':p>=60?'Regular/medio':'Reforzar'; const topicMap={}; answers.forEach(a=>{if(!topicMap[a.topic]) topicMap[a.topic]={ok:0,total:0}; topicMap[a.topic].total++; if(a.correct) topicMap[a.topic].ok++;}); let topicHtml='<h3>Resultado por tema</h3>'; Object.entries(topicMap).sort((a,b)=>pct(a[1].ok,a[1].total)-pct(b[1].ok,b[1].total)).forEach(([t,v])=>{const pp=pct(v.ok,v.total); topicHtml+=`<span class="topicTag">${escHtml(t)}: ${v.ok}/${v.total} (${pp}%)</span>`;}); $('topicResults').innerHTML=topicHtml; const wrong=answers.filter(a=>!a.correct); let rev='<h3>Revisión de errores</h3>'; if(!wrong.length) rev+='<p class="small">No hubo errores en este intento.</p>'; wrong.forEach((a,i)=>{rev+=`<details><summary>${i+1}. ${escHtml(a.q)}</summary><p><b>Tu respuesta:</b> ${letters[a.choice]}) ${escHtml(a.options[a.choice])}</p><p><b>Correcta:</b> ${letters[a.answer]}) ${escHtml(a.options[a.answer])}</p><p>${escHtml(a.exp)}</p></details>`;}); $('review').innerHTML=rev; renderDashboard(); renderCards();}
+function showResult(){saveProgress({completed:true}); ['quiz','menu','subjectSelect','unitSelect','microUnitSelect','login'].forEach(id=>$(id).classList.add('hidden')); $('result').classList.remove('hidden'); const total=questions.length, score=answers.filter(a=>a.correct).length, p=pct(score,total); if(currentMode==='exam' && typeof removeWrongAnswer==='function' && typeof saveWrongAnswer==='function'){ answers.forEach(a=>{ if(a.correct) removeWrongAnswer(a.id); else saveWrongAnswer(a); }); } if(!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))){ localStorage.setItem(scoreKey(currentSection.key),JSON.stringify({score,total,p,date:new Date().toISOString()})); } trackAnalyticsEvent('finish_block',{block_key:currentSection.key,mode:currentMode,score,total,percent:p,synthetic:!!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))}); $('resultPill').textContent=subjectLabel()+' · '+currentSection.title; const rm=$('resultMode'); rm.textContent=modeLabel(); rm.className='modeTag '+modeClass(); $('resultSub').textContent=currentSection.subtitle; $('resultTitle').textContent=p>=80?'Muy bien, estás fuerte en este bloque.':p>=60?'Buen avance, pero hay puntos para revisar.':'Necesitas reforzar este contenido antes de la prueba.'; $('scorePct').textContent=p+'%'; $('scoreNum').textContent=score+'/'+total; $('scoreMsg').textContent=p>=80?'Dominio alto':p>=60?'Regular/medio':'Reforzar'; const topicMap={}; answers.forEach(a=>{if(!topicMap[a.topic]) topicMap[a.topic]={ok:0,total:0}; topicMap[a.topic].total++; if(a.correct) topicMap[a.topic].ok++;}); let topicHtml='<h3>Resultado por tema</h3>'; Object.entries(topicMap).sort((a,b)=>pct(a[1].ok,a[1].total)-pct(b[1].ok,b[1].total)).forEach(([t,v])=>{const pp=pct(v.ok,v.total); topicHtml+=`<span class="topicTag">${escHtml(t)}: ${v.ok}/${v.total} (${pp}%)</span>`;}); $('topicResults').innerHTML=topicHtml; const wrong=answers.filter(a=>!a.correct); let rev='<h3>Revisión de errores</h3>'; if(!wrong.length) rev+='<p class="small">No hubo errores en este intento.</p>'; wrong.forEach((a,i)=>{rev+=`<details><summary>${i+1}. ${escHtml(a.q)}</summary><p><b>Tu respuesta:</b> ${letters[a.choice]}) ${escHtml(a.options[a.choice])}</p><p><b>Correcta:</b> ${letters[a.answer]}) ${escHtml(a.options[a.answer])}</p><div class="reviewExp">${expHtml(a.exp)}</div></details>`;}); $('review').innerHTML=rev; renderDashboard(); renderCards();}
 function backToMenu(){saveProgress(); showMenuForUser();}
 function restartCurrent(){if(!currentSection) return; if(typeof restartSyntheticQuiz==='function' && restartSyntheticQuiz()) return; localStorage.removeItem(attemptKey(currentSection.key,currentMode)); startSection(currentSection.key,currentMode,false);}
 function clearHistory(){if(!currentSubject) return; if(confirm('¿Quieres borrar los resultados, avances y errores guardados de '+subjectLabel()+'?')){getSections().forEach(s=>{localStorage.removeItem(scoreKeyFor(currentSubject,s.key)); localStorage.removeItem(attemptKeyFor(currentSubject,s.key,'study')); localStorage.removeItem(attemptKeyFor(currentSubject,s.key,'exam'));}); if(typeof wrongKeyFor==='function') localStorage.removeItem(wrongKeyFor(currentSubject)); renderDashboard(); renderCards();}}

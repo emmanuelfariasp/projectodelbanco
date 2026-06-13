@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap26",
+  "title": "Capítulo 26",
+  "subtitle": "Sistema urinario: anatomía funcional y formación de orina en los riñones",
+  "questions": [
+    {
+      "id": "fisio_renal_cap26_001",
+      "q": "Un paciente con insuficiencia renal completa no tratada desarrolla retención de potasio, acidosis, sobrecarga de líquido y acumulación de productos nitrogenados. ¿Cuál explicación fisiológica integra mejor este cuadro?",
+      "exp": "La insuficiencia renal completa interrumpe varias funciones homeostáticas al mismo tiempo: eliminación de productos de desecho, regulación de agua, electrólitos y equilibrio acidobásico. Por eso se acumulan potasio, ácidos, líquido y otras sustancias.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "La falla renal reduce principalmente la eliminación de urea, mientras el control de potasio, ácidos y volumen depende de otros órganos.",
+        "La interrupción de las funciones homeostáticas renales impide ajustar la excreción de agua, electrólitos, ácidos y desechos metabólicos.",
+        "La pérdida de filtración glomerular afecta solo la formación inicial del filtrado, pero la composición corporal se mantiene por los túbulos.",
+        "La alteración renal compromete sobre todo la micción, por lo que la acumulación sistémica se debe al vaciamiento vesical insuficiente.",
+        "La insuficiencia renal causa acumulación de líquido por reducción de eritropoyetina, siendo secundaria la retención de electrolitos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_002",
+      "q": "¿Cuál conjunto reúne productos de desecho que los riñones deben eliminar con rapidez según su origen metabólico?",
+      "exp": "El capítulo cita urea, creatinina, ácido úrico, bilirrubina y metabolitos hormonales como productos de desecho que los riñones eliminan.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Urea de aminoácidos, creatinina de creatina muscular y ácido úrico de ácidos nucleicos.",
+        "Glucosa de lípidos, bilirrubina de proteínas plasmáticas y sodio de eritrocitos.",
+        "Albúmina de hemoglobina, cloro de glucógeno y calcio de ácidos grasos.",
+        "Eritropoyetina de músculo, calcitriol de aminoácidos y renina de nucleótidos.",
+        "Bicarbonato de creatina, potasio de bilirrubina y urea de fosfatos óseos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_003",
+      "q": "Tras aumentar bruscamente la ingesta de sodio de 30 a 300 mEq/día, ¿qué respuesta renal representa mejor la adaptación descrita?",
+      "exp": "Ante un aumento de sodio de 30 a 300 mEq/día, la excreción renal se ajusta en aproximadamente 2 a 3 días hasta igualar la nueva ingesta.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "La excreción cae durante 2 a 3 días para conservar volumen extracelular.",
+        "La excreción sube lentamente en semanas sin modificar el volumen extracelular.",
+        "La excreción aumenta en 2 a 3 días hasta aproximarse a la nueva ingesta.",
+        "La excreción queda fija, y el exceso de sodio se elimina por la piel.",
+        "La excreción se detiene porque la concentración plasmática de sodio no cambia."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_004",
+      "q": "Durante los primeros días de una ingesta alta de sodio, ¿por qué puede aumentar ligeramente el volumen del líquido extracelular?",
+      "exp": "Durante la adaptación existe retención transitoria de sodio. Esa retención aumenta discretamente el líquido extracelular y activa mecanismos compensadores.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Porque la excreción renal aumenta antes que la ingesta y causa pérdida neta de sodio.",
+        "Porque existe una retención transitoria de sodio hasta que la excreción se iguala a la ingesta.",
+        "Porque el sodio ingerido entra exclusivamente al líquido intracelular durante 48 h.",
+        "Porque la vejiga absorbe agua desde la orina y la devuelve al intersticio.",
+        "Porque la filtración glomerular se anula mientras se ajusta la excreción tubular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_005",
+      "q": "En la regulación de la presión arterial, ¿qué diferencia funcional entre mecanismos renales es más correcta?",
+      "exp": "A largo plazo, la presión arterial depende mucho de la excreción renal de sodio y agua. A corto plazo, hormonas como renina y angiotensina II ayudan a regularla.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "La excreción de sodio y agua domina a largo plazo; la renina contribuye a corto plazo.",
+        "La secreción de eritropoyetina domina a corto plazo; la micción domina a largo plazo.",
+        "La activación del detrusor regula el gasto cardíaco; la mácula densa controla la volemia.",
+        "La excreción de creatinina regula la presión; la angiotensina II solo modifica la orina.",
+        "La vejiga controla la presión arterial al variar el volumen residual después de micción."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_006",
+      "q": "¿Cuál función renal justifica que una nefropatía grave pueda alterar el equilibrio acidobásico?",
+      "exp": "Los riñones excretan ácidos no volátiles, como sulfúrico y fosfórico, y regulan amortiguadores. Por eso son esenciales en el equilibrio acidobásico.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Los riñones eliminan ácidos como sulfúrico y fosfórico y regulan amortiguadores corporales.",
+        "Los riñones producen CO2 alveolar y por eso sustituyen por completo a los pulmones.",
+        "Los riñones transforman todo ácido fuerte en urea antes de que llegue al plasma.",
+        "Los riñones impiden la formación de ácido carbónico en los tejidos periféricos.",
+        "Los riñones secretan hemoglobina para amortiguar H+ en el líquido extracelular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_007",
+      "q": "Una persona con nefropatía grave en hemodiálisis desarrolla anemia. ¿Cuál explicación se ajusta al capítulo?",
+      "exp": "Los riñones secretan eritropoyetina, estimulada por hipoxia. En nefropatía grave disminuye esta producción y puede aparecer anemia.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "La médula ósea filtra eritrocitos al túbulo proximal y los pierde por la orina.",
+        "La menor producción renal de eritropoyetina reduce el estímulo hematopoyético.",
+        "La ausencia de calcitriol destruye directamente los eritrocitos en los capilares.",
+        "La renina bloquea la maduración eritrocitaria cuando la presión arterial baja.",
+        "La creatinina inhibe la absorción intestinal de hierro como mecanismo primario."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_008",
+      "q": "¿Qué afirmación integra mejor la función endocrina renal relacionada con la vitamina D?",
+      "exp": "El riñón produce calcitriol al hidroxilar la vitamina D en la posición 1; esto favorece la absorción intestinal y depósito normal de calcio.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "El riñón convierte calcitriol en vitamina D inactiva para aumentar fosfato urinario.",
+        "El riñón hidroxila vitamina D en posición 1 y forma 1,25-dihidroxivitamina D3.",
+        "El riñón secreta vitamina D intacta hacia la orina para activar calcio intestinal.",
+        "El riñón forma eritropoyetina a partir de vitamina D durante el ayuno prolongado.",
+        "El riñón inhibe la vitamina D cuando aumenta la reabsorción digestiva de calcio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_009",
+      "q": "¿En qué situación cobra importancia la gluconeogenia renal descrita en el capítulo?",
+      "exp": "Durante el ayuno prolongado, los riñones pueden sintetizar glucosa a partir de aminoácidos y otros precursores, rivalizando con el hígado.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Después de cada comida rica en sodio, para almacenar glucosa como glucógeno renal.",
+        "Durante el ayuno prolongado, usando aminoácidos y otros precursores.",
+        "Solo durante la micción, cuando el músculo detrusor consume glucosa.",
+        "En la obstrucción ureteral, para convertir creatinina en glucosa plasmática.",
+        "En la absorción de orina vesical, para recuperar nutrientes desde la vejiga."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_010",
+      "q": "¿Qué descripción anatómica general del riñón adulto es más compatible con el capítulo?",
+      "exp": "Los riñones son retroperitoneales, pesan alrededor de 150 g, tienen hilio medial y están rodeados por una cápsula fibrosa resistente.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Órgano intraperitoneal de 500 g, con cápsula laxa y drenaje directo a la uretra.",
+        "Órgano retroperitoneal de unos 150 g, con hilio medial y cápsula fibrosa tensa.",
+        "Órgano pélvico de 50 g, sin irrigación propia y rodeado por músculo detrusor.",
+        "Órgano torácico protegido por pleura, con papilas que desembocan en la vejiga.",
+        "Órgano medular único, sin corteza, unido a la vejiga por cálices mayores."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_011",
+      "q": "Si se sigue el trayecto de la orina desde la papila renal, ¿cuál secuencia anatómica es más coherente?",
+      "exp": "La orina sale por papilas, pasa a cálices menores, cálices mayores, pelvis renal y finalmente al uréter.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Papila - cáliz menor - cáliz mayor - pelvis renal - uréter.",
+        "Papila - uréter - cáliz menor - pelvis renal - cáliz mayor.",
+        "Corteza - cápsula - cáliz mayor - vejiga - pelvis renal.",
+        "Pirámide - arteria renal - cáliz menor - uréter - cápsula.",
+        "Médula - túbulo proximal - pelvis renal - glomérulo - vejiga."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_012",
+      "q": "El flujo sanguíneo de ambos riñones es cercano al 22% del gasto cardíaco. ¿Qué valor aproxima mejor esa cifra?",
+      "exp": "Ambos riñones reciben cerca del 22% del gasto cardíaco, aproximadamente 1.100 ml/min, para sostener filtración y reabsorción intensas.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "110 ml/min, porque el riñón recibe poco flujo en reposo.",
+        "300 ml/min, equivalente a la filtración glomerular diaria.",
+        "600 ml/min, similar al flujo plasmático filtrado por minuto.",
+        "1.100 ml/min, valor alto para sostener filtración y reabsorción.",
+        "3.000 ml/min, porque todo el plasma pasa primero por los riñones."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap26_013",
+      "q": "¿Cuál orden arterial conduce de forma más adecuada hacia el glomérulo?",
+      "exp": "La arteria renal se ramifica hacia arterias interlobulares, arciformes, interlobulillares o radiales y arteriolas aferentes que llegan al glomérulo.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Renal - arciforme - interlobulillar - aferente - capilares glomerulares.",
+        "Renal - eferente - interlobulillar - arciforme - capilares peritubulares.",
+        "Renal - vena renal - aferente - capilares glomerulares - uréter.",
+        "Arciforme - renal - interlobular - peritubular - cápsula de Bowman.",
+        "Interlobulillar - renal - eferente - glomérulo - vasos rectos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_014",
+      "q": "¿Por qué la circulación renal tiene dos lechos capilares en serie separados por la arteriola eferente?",
+      "exp": "La presión alta glomerular favorece filtración; la baja presión peritubular favorece reabsorción. La arteriola eferente separa ambos lechos.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Para mantener presión glomerular alta para filtración y presión peritubular baja para reabsorción.",
+        "Para impedir toda filtración de agua y permitir que solo proteínas crucen al túbulo.",
+        "Para llevar la orina directamente desde el glomérulo hasta la vena renal.",
+        "Para hacer que la presión peritubular sea mayor que la glomerular durante toda la vida.",
+        "Para separar la sangre oxigenada de la sangre venosa dentro de la pelvis renal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_015",
+      "q": "En condiciones aproximadas, ¿qué combinación de presiones se asocia con la función de los capilares renales?",
+      "exp": "Los capilares glomerulares tienen presión hidrostática cercana a 60 mmHg; los peritubulares, alrededor de 13 mmHg.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Glomerular 13 mmHg para reabsorción; peritubular 60 mmHg para filtración.",
+        "Glomerular 60 mmHg para filtración; peritubular 13 mmHg para reabsorción.",
+        "Glomerular 5 mmHg para secreción; peritubular 100 mmHg para micción.",
+        "Glomerular 0 mmHg en reposo; peritubular 40 mmHg durante llenado vesical.",
+        "Glomerular 120 mmHg constante; peritubular igual a la presión arterial sistémica."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_016",
+      "q": "¿Qué afirmación sobre el número de nefronas y envejecimiento es más precisa?",
+      "exp": "Cada riñón tiene cerca de 800.000 a 1.000.000 de nefronas. No se regeneran de forma significativa; su número disminuye con lesión o edad.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Cada riñón tiene cerca de 80.000 nefronas, que se regeneran tras lesión.",
+        "Cada riñón tiene 800.000 a 1.000.000 de nefronas, sin regeneración importante.",
+        "La cantidad de nefronas aumenta después de los 40 años por hipertrofia cortical.",
+        "A los 80 años todas las nefronas desaparecen, por eso la diálisis es obligatoria.",
+        "Las nefronas se forman de nuevo cada década si el flujo sanguíneo renal aumenta."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_017",
+      "q": "¿Cuál recorrido del filtrado dentro de una nefrona está mejor ordenado?",
+      "exp": "El filtrado pasa de la cápsula de Bowman al túbulo proximal, asa de Henle, túbulo distal y sistema colector.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Cápsula de Bowman - túbulo proximal - asa de Henle - túbulo distal - colector.",
+        "Túbulo distal - glomérulo - túbulo proximal - colector - cápsula de Bowman.",
+        "Asa de Henle - cápsula de Bowman - mácula densa - uréter - túbulo proximal.",
+        "Conducto colector - túbulo proximal - glomérulo - pelvis renal - túbulo distal.",
+        "Cápsula renal - cáliz mayor - túbulo distal - glomérulo - asa de Henle."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_018",
+      "q": "¿Dónde se localiza la mácula densa y por qué es relevante?",
+      "exp": "La mácula densa se ubica al final de la rama ascendente gruesa, antes del túbulo distal, y ayuda a controlar la función de la nefrona.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "En el extremo del túbulo proximal; controla el tono del esfínter externo.",
+        "Al final de la rama ascendente gruesa; participa en el control de la función nefronal.",
+        "En el cuello vesical; detecta el llenado antes del reflejo miccional.",
+        "En el uréter distal; impide el reflujo vesicoureteral durante la micción.",
+        "En la papila renal; transforma el filtrado en orina definitiva."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_019",
+      "q": "¿Qué dato expresa mejor la convergencia del sistema colector renal?",
+      "exp": "Los túbulos colectores se unen progresivamente. En cada riñón hay cerca de 250 conductos colectores grandes, cada uno recibiendo muchas nefronas.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Cada nefrona posee un uréter propio que desemboca de forma separada en la vejiga.",
+        "Los conductos colectores se fusionan y unos 250 conductos grandes drenan muchas nefronas.",
+        "Cada conducto colector grande recibe orina de solo una nefrona cortical externa.",
+        "Los conductos colectores vacían la orina en la cápsula de Bowman antes de la pelvis.",
+        "El túbulo proximal se une directamente al cáliz mayor sin pasar por colectores."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_020",
+      "q": "¿Cuál comparación entre nefronas corticales y yuxtamedulares es más adecuada?",
+      "exp": "Las nefronas corticales tienen glomérulos en corteza externa y asas cortas; las yuxtamedulares tienen glomérulos profundos y asas largas.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Las corticales tienen asas largas profundas; las yuxtamedulares carecen de glomérulo.",
+        "Las corticales poseen glomérulos externos y asas cortas; las yuxtamedulares tienen asas largas.",
+        "Las corticales drenan a vasos rectos profundos; las yuxtamedulares solo al intersticio.",
+        "Las corticales producen orina concentrada; las yuxtamedulares solo filtran proteínas.",
+        "Las corticales están en la médula; las yuxtamedulares están dentro de la pelvis renal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_021",
+      "q": "¿Por qué los vasos rectos se asocian especialmente a nefronas yuxtamedulares?",
+      "exp": "En las nefronas yuxtamedulares, las arteriolas eferentes forman vasos rectos que descienden hacia la médula junto a las asas largas de Henle.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Porque reemplazan a la cápsula de Bowman en la filtración de proteínas plasmáticas.",
+        "Porque son capilares peritubulares especializados que descienden junto a asas largas.",
+        "Porque llevan orina desde la papila hasta los cálices menores durante la micción.",
+        "Porque conectan directamente la arteria renal con la uretra posterior.",
+        "Porque controlan el esfínter externo mediante fibras somáticas voluntarias."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_022",
+      "q": "¿Cuál enunciado resume mejor los dos pasos principales de la micción?",
+      "exp": "La micción ocurre por llenado progresivo hasta un umbral de tensión y luego activación del reflejo miccional.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "La vejiga filtra plasma y luego secreta solutos hacia la uretra.",
+        "La vejiga se llena hasta un umbral y luego se activa el reflejo miccional.",
+        "El uréter relaja la pelvis renal y luego el riñón detiene la filtración.",
+        "El detrusor se paraliza primero y luego el esfínter externo se contrae.",
+        "La corteza renal inhibe la orina y después el cáliz mayor la reabsorbe."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_023",
+      "q": "En la anatomía vesical, ¿qué diferencia entre cuerpo y cuello es más correcta?",
+      "exp": "El cuerpo vesical almacena orina; el cuello se continúa hacia la uretra posterior y participa en el control del vaciamiento.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "El cuerpo acumula orina; el cuello continúa hacia la uretra posterior.",
+        "El cuerpo forma el esfínter externo; el cuello produce la orina final.",
+        "El cuerpo es músculo estriado; el cuello contiene glomérulos filtrantes.",
+        "El cuerpo es el trígono; el cuello equivale a la pelvis renal.",
+        "El cuerpo contiene uréteres; el cuello se conecta con los cálices menores."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_024",
+      "q": "¿Qué característica del músculo detrusor favorece que la vejiga se contraiga como una unidad?",
+      "exp": "El detrusor es músculo liso con conexiones de baja resistencia entre células, lo que permite propagación eléctrica y contracción conjunta.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Sus células están aisladas y bloquean la propagación de potenciales de acción.",
+        "Sus fibras se fusionan con vías eléctricas de baja resistencia entre células.",
+        "Está formado por músculo esquelético sometido solo a control voluntario.",
+        "Se contrae únicamente por estimulación simpática de vasos sanguíneos.",
+        "Carece de músculo liso y depende del peristaltismo ureteral para vaciarse."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_025",
+      "q": "¿Qué rasgo permite reconocer el trígono vesical?",
+      "exp": "El trígono posee mucosa lisa y se ubica entre las entradas ureterales y la apertura del cuello hacia la uretra posterior.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Mucosa lisa entre entradas ureterales y apertura hacia la uretra posterior.",
+        "Mucosa plegada que forma arrugas en la cara superior de la vejiga.",
+        "Zona externa de músculo esquelético que rodea todo el cuerpo vesical.",
+        "Conducto medular que recoge orina de unas 4.000 nefronas.",
+        "Papila renal que se proyecta hacia la pelvis antes del uréter."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_026",
+      "q": "¿Por qué la entrada oblicua del uréter en la vejiga ayuda a evitar el reflujo?",
+      "exp": "El trayecto oblicuo e intramural del uréter permite que el tono del detrusor lo comprima cuando aumenta la presión vesical, evitando reflujo.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Porque el tono del detrusor comprime el segmento intramural durante el aumento de presión.",
+        "Porque el uréter secreta una válvula epitelial que se cierra por acción de renina.",
+        "Porque la presión ureteral siempre es menor que la presión vesical durante la micción.",
+        "Porque el esfínter externo rodea los dos uréteres y los ocluye voluntariamente.",
+        "Porque los cálices mayores absorben la orina antes de que entre a la vejiga."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_027",
+      "q": "¿Cuál comparación entre los esfínteres vesicales es correcta?",
+      "exp": "El esfínter interno pertenece al músculo liso del cuello vesical; el externo es músculo esquelético voluntario del diafragma urogenital.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "El interno es músculo liso del cuello; el externo es músculo esquelético voluntario.",
+        "El interno es somático voluntario; el externo es músculo liso sin control nervioso.",
+        "Ambos son músculo cardíaco y se contraen por marcapasos de los cálices.",
+        "Ambos se localizan dentro del glomérulo y regulan la filtración glomerular.",
+        "El interno relaja la uretra posterior; el externo impide el llenado de la vejiga."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_028",
+      "q": "¿Qué fibras viajan principalmente por los nervios pélvicos hacia la vejiga?",
+      "exp": "Los nervios pélvicos conectan la vejiga con segmentos S2-S3 y llevan fibras sensitivas de distensión y parasimpáticas motoras al detrusor.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Fibras simpáticas L2 que contraen el esfínter externo durante micción.",
+        "Fibras parasimpáticas motoras y sensitivas de distensión desde S2-S3.",
+        "Fibras somáticas del nervio pudendo hacia los uréteres y cálices.",
+        "Fibras motoras renales que filtran plasma en la cápsula de Bowman.",
+        "Fibras sensitivas hepáticas que detectan urea y creatinina circulante."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_029",
+      "q": "¿Qué combinación de inervación vesical está mejor relacionada con su función?",
+      "exp": "El nervio pélvico lleva parasimpático al detrusor; el nervio pudendo lleva fibras somáticas al esfínter externo voluntario.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Pudendo: detrusor liso; hipogástrico: esfínter externo; pélvico: vasos renales.",
+        "Pélvico: parasimpático al detrusor; pudendo: somático al esfínter externo.",
+        "Hipogástrico: parasimpático sacro; pudendo: peristaltismo del uréter.",
+        "Pélvico: solo dolor ureteral; hipogástrico: micción voluntaria cortical.",
+        "Pudendo: mácula densa; pélvico: vasos rectos; hipogástrico: cálices menores."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_030",
+      "q": "¿Qué ocurre con la composición de la orina al pasar por cálices, uréteres y vejiga?",
+      "exp": "La orina no cambia de forma significativa al pasar por cálices, uréteres y vejiga; conserva la composición que sale de los conductos colectores.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Cambia mucho porque la vejiga reabsorbe casi toda la glucosa y el sodio.",
+        "Permanece prácticamente igual a la que sale de los conductos colectores.",
+        "Se convierte en plasma porque los uréteres filtran proteínas hacia la sangre.",
+        "Pierde toda la urea por secreción activa de las células del trígono.",
+        "Aumenta su concentración por absorción intensa de agua en la uretra."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_031",
+      "q": "¿Cómo se modifica el peristaltismo ureteral por la inervación autónoma?",
+      "exp": "El músculo liso ureteral aumenta su peristaltismo con estímulo parasimpático y lo reduce con estímulo simpático.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "La estimulación parasimpática lo potencia y la simpática lo inhibe.",
+        "La estimulación simpática lo potencia y la parasimpática lo bloquea.",
+        "Ambos sistemas lo eliminan, porque el uréter solo depende de filtración.",
+        "El nervio pudendo lo inicia, y los nervios pélvicos lo detienen.",
+        "El tronco encefálico lo reemplaza por contracción voluntaria del uréter."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_032",
+      "q": "Un cálculo obstruye el uréter y aparece dolor intenso. ¿Qué reflejo renal acompaña este cuadro?",
+      "exp": "La obstrucción ureteral produce dolor y un reflejo simpático hacia el riñón que contrae arteriolas renales, reduciendo la producción de orina.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Reflejo que dilata arteriolas renales para aumentar la producción de orina.",
+        "Reflejo simpático que contrae arteriolas renales y reduce la producción de orina.",
+        "Reflejo parasimpático que reabsorbe orina desde la pelvis renal al plasma.",
+        "Reflejo cortical que convierte la vejiga en un órgano de filtración.",
+        "Reflejo pudendo que relaja los cálices y aumenta el flujo hacia el uréter."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_033",
+      "q": "En una cistometrografía normal, ¿qué patrón de presión se espera durante el llenado?",
+      "exp": "Con vejiga vacía la presión es casi 0; con 30-50 ml sube a 5-10 cmH2O y luego aumenta poco durante 200-300 ml más.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Presión de 0 con vejiga vacía, leve aumento hasta 30-50 ml y luego meseta inicial.",
+        "Presión de 100 cmH2O con vejiga vacía y caída continua durante el llenado.",
+        "Presión fija de 40-60 mmHg desde el primer mililitro hasta la micción.",
+        "Presión idéntica a la glomerular porque la vejiga depende de la arteriola aferente.",
+        "Presión que no cambia por volumen, ya que el trígono absorbe la distensión."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_034",
+      "q": "¿Qué representa una onda de micción en la cistometrografía?",
+      "exp": "Las ondas de micción son picos agudos de presión causados por el reflejo miccional, superpuestos al tono de llenado.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Una caída lenta de presión causada por relajación del detrusor después de orinar.",
+        "Un pico agudo de presión producido por el reflejo miccional.",
+        "Una secreción tubular de potasio que aumenta la osmolaridad vesical.",
+        "Una contracción ureteral que cambia la composición de la orina.",
+        "Una señal de filtración glomerular cuando se supera el umbral renal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_035",
+      "q": "¿Cuál es la vía básica del reflejo miccional?",
+      "exp": "La distensión activa receptores vesicales; las señales van por nervios pélvicos a médula sacra y vuelven por parasimpático al detrusor.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Receptores de distensión - nervios pélvicos - médula sacra - parasimpático - detrusor.",
+        "Glomérulo - nervio hipogástrico - corteza renal - pudendo - túbulo distal.",
+        "Mácula densa - médula lumbar - simpático - esfínter externo - cápsula de Bowman.",
+        "Receptores vesicales - nervio vago - bulbo - ureter - glomérulo.",
+        "Trígono - nervio frénico - diafragma - uréter - pelvis renal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_036",
+      "q": "¿Qué significa que el reflejo miccional sea autorregenerativo?",
+      "exp": "La contracción inicial aumenta la activación de receptores de distensión, lo que incrementa impulsos sensitivos y refuerza la contracción.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Que una contracción inicial aumenta la distensión sensitiva y refuerza la contracción vesical.",
+        "Que la vejiga genera nefronas nuevas cada vez que aumenta la presión intravesical.",
+        "Que el esfínter externo inicia la filtración antes de que el detrusor se contraiga.",
+        "Que el uréter produce impulsos corticales que siempre bloquean la micción.",
+        "Que la orina se reabsorbe y vuelve al riñón si el reflejo no se completa."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_037",
+      "q": "Cuando el reflejo miccional se vuelve suficientemente potente, ¿qué efecto adicional puede producir?",
+      "exp": "Si el reflejo es suficientemente potente, puede inhibir el esfínter externo a través de señales que pasan por los nervios pudendos.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Estimula el nervio pudendo para contraer más el esfínter externo.",
+        "Inhibe el esfínter externo a través de vías que pasan por nervios pudendos.",
+        "Bloquea la contracción del detrusor para mantener la vejiga llena.",
+        "Cierra los uréteres y aumenta el reflujo hacia la pelvis renal.",
+        "Reduce la presión intravesical a cero antes de abrir la uretra."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_038",
+      "q": "¿Cuál papel tienen los centros superiores en la micción?",
+      "exp": "Los centros superiores inhiben parcialmente el reflejo, pueden mantener cerrado el esfínter externo y también facilitar la micción cuando conviene.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Solo producen orina; no influyen sobre el reflejo sacro de la vejiga.",
+        "Mantienen inhibición parcial y pueden facilitar la micción en el momento adecuado.",
+        "Sustituyen por completo a los nervios pélvicos en la contracción del detrusor.",
+        "Eliminan la función del esfínter externo cuando la vejiga está vacía.",
+        "Actúan únicamente sobre la secreción de renina y no sobre el vaciamiento vesical."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_039",
+      "q": "¿Cómo suele iniciarse voluntariamente la micción?",
+      "exp": "La micción voluntaria puede iniciarse contrayendo músculos abdominales, aumentando presión vesical y estirando cuello vesical y uretra posterior.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Contrayendo músculos abdominales, aumentando presión vesical y activando distensión uretral.",
+        "Relajando los uréteres, disminuyendo presión vesical y bloqueando el reflejo sacro.",
+        "Activando la arteriola eferente, filtrando más plasma y cerrando el esfínter externo.",
+        "Contrayendo el esfínter interno para que la orina retroceda hacia los cálices.",
+        "Inhibiendo el detrusor hasta que el volumen residual sea superior a 300 ml."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_040",
+      "q": "Una lesión destruye fibras sensitivas vesicales hacia la médula sacra. ¿Qué trastorno se espera?",
+      "exp": "Si se destruyen fibras sensitivas, no se activa el reflejo miccional: la vejiga se llena en exceso y ocurre incontinencia por rebosamiento.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Vejiga atónica con llenado excesivo e incontinencia por rebosamiento.",
+        "Vejiga automática con reflejos miccionales normales desde el primer día.",
+        "Micción frecuente por pérdida aislada de señales corticales inhibitorias.",
+        "Reflujo vesicoureteral por acortamiento congénito del segmento ureteral.",
+        "Espasmo ureteral por cálculo y reducción refleja de la producción de orina."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_041",
+      "q": "¿Qué caracteriza a la vejiga automática por lesión medular por encima de la región sacra?",
+      "exp": "Si la lesión está por encima de la región sacra, los reflejos sacros pueden volver, pero sin control encefálico, causando vaciamiento no anunciado.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Los segmentos sacros intactos permiten reflejos miccionales, pero sin control encefálico.",
+        "La destrucción sacra impide todo reflejo y solo quedan gotas por rebosamiento.",
+        "La vejiga se vacía de forma voluntaria porque el nervio pudendo queda hiperactivo.",
+        "Los uréteres cambian la composición de la orina para activar el reflejo.",
+        "Los centros corticales aumentan la inhibición y eliminan la micción no anunciada."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_042",
+      "q": "¿Cuál mecanismo explica la vejiga neurógena sin inhibición?",
+      "exp": "En la vejiga neurógena sin inhibición se pierden señales inhibitorias desde encéfalo o tronco, dejando centros sacros demasiado excitables.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Lesión parcial que interrumpe señales inhibidoras y deja centros sacros demasiado excitables.",
+        "Destrucción completa de nervios sensitivos vesicales con pérdida total de distensión.",
+        "Obstrucción ureteral que activa reflejo simpático y reduce producción renal de orina.",
+        "Contracción voluntaria permanente del esfínter externo por lesión del nervio pélvico.",
+        "Falta de cápsula renal que aumenta la presión hidrostática del glomérulo."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_043",
+      "q": "¿Cuál expresión resume la excreción urinaria de una sustancia?",
+      "exp": "La excreción urinaria se calcula como filtración glomerular menos reabsorción tubular más secreción tubular.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Excreción = filtración - reabsorción + secreción.",
+        "Excreción = reabsorción - filtración - secreción.",
+        "Excreción = secreción vesical - filtración ureteral.",
+        "Excreción = filtración + reabsorción - secreción.",
+        "Excreción = presión vesical dividida por volumen urinario."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_044",
+      "q": "Al inicio de la formación de orina, ¿qué característica tiene el filtrado que entra a la cápsula de Bowman?",
+      "exp": "El filtrado glomerular casi no contiene proteínas, pero muchos solutos pequeños están en concentraciones similares a las plasmáticas.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Tiene casi las mismas proteínas plasmáticas que la sangre arterial.",
+        "Tiene grandes cantidades de eritrocitos y leucocitos para ser eliminados.",
+        "Es un líquido casi sin proteínas, con muchos solutos en concentración similar al plasma.",
+        "Es orina final, sin posibilidad de modificación tubular posterior.",
+        "Está formado por células tubulares secretadas desde los capilares peritubulares."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_045",
+      "q": "Una sustancia se filtra libremente y luego se reabsorbe por completo. ¿Qué patrón del capítulo representa y qué ejemplo se asocia?",
+      "exp": "El patrón C corresponde a sustancias filtradas libremente y reabsorbidas por completo, como glucosa y aminoácidos.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Patrón A; creatinina, porque todo lo filtrado se excreta.",
+        "Patrón B; sodio, porque siempre se reabsorbe solo una pequeña fracción.",
+        "Patrón C; glucosa o aminoácidos, porque se conservan en el cuerpo.",
+        "Patrón D; ácidos orgánicos, porque se secretan además de filtrarse.",
+        "Patrón de micción; urea, porque se transforma en líquido vesical."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_046",
+      "q": "¿Qué sustancia se aproxima al patrón de filtrarse libremente y casi no reabsorberse ni secretarse, permitiendo excretar casi lo filtrado?",
+      "exp": "La creatinina se maneja de forma cercana al patrón de filtración con poca reabsorción, por lo que se excreta casi lo filtrado.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Glucosa.",
+        "Aminoácidos.",
+        "Creatinina.",
+        "Bicarbonato.",
+        "Sodio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap26_047",
+      "q": "¿Qué diferencia de manejo renal entre sustancias es más correcta?",
+      "exp": "Nutrientes como glucosa y aminoácidos se reabsorben por completo; desechos como urea y creatinina se eliminan en mayor cantidad.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Los nutrientes se excretan mucho; los productos finales se reabsorben por completo.",
+        "Glucosa y aminoácidos se conservan; urea y creatinina se eliminan en mayor cantidad.",
+        "Sodio y cloro nunca se reabsorben; por eso aparecen siempre como carga filtrada total.",
+        "Fármacos y bases orgánicas no se secretan y dependen solo de filtración mínima.",
+        "Proteínas plasmáticas se filtran libremente y luego se secretan hacia la orina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_048",
+      "q": "¿Por qué pequeños cambios en filtración o reabsorción pueden modificar mucho la excreción final?",
+      "exp": "Como la filtración y la reabsorción son muy grandes respecto a la excreción final, cambios pequeños pueden producir efectos grandes en la orina.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Porque filtración y reabsorción son cuantitativamente grandes frente al volumen excretado.",
+        "Porque el volumen urinario siempre es mayor que todo el filtrado glomerular diario.",
+        "Porque la vejiga decide cuánto soluto reabsorber en cada onda miccional.",
+        "Porque la secreción tubular elimina todas las sustancias filtradas sin regulación.",
+        "Porque los uréteres secretan electrolitos cuando aumenta la presión vesical."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap26_049",
+      "q": "¿Cuál es una ventaja fisiológica de una filtración glomerular alta?",
+      "exp": "Una FG alta facilita eliminar rápidamente productos de desecho que dependen principalmente de la filtración para ser retirados del plasma.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Evita por completo la necesidad de reabsorción tubular selectiva.",
+        "Permite eliminar rápidamente desechos que dependen sobre todo de la filtración.",
+        "Hace que la orina conserve glucosa y aminoácidos sin participación tubular.",
+        "Impide cualquier cambio en la composición del líquido extracelular.",
+        "Convierte los capilares peritubulares en el principal sitio de micción."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap26_050",
+      "q": "Si el volumen plasmático es de 3 l y la filtración glomerular diaria es de 180 l/día, ¿qué interpretación es correcta?",
+      "exp": "Si se filtran 180 l/día y el plasma es de 3 l, el plasma se procesa aproximadamente 60 veces por día.",
+      "topic": "Capítulo 26 - Sistema urinario: anatomía funcional y formación de orina en los riñones",
+      "options": [
+        "Todo el plasma se filtra y procesa unas 60 veces al día.",
+        "Solo el 1% del plasma se procesa al día porque el resto queda en la vejiga.",
+        "El filtrado equivale a la orina final, por lo que se excretan 180 l/día.",
+        "El plasma no se filtra; únicamente se secretan sustancias desde la vejiga.",
+        "La filtración se limita a la fracción contenida en los eritrocitos."
+      ],
+      "answer": 0
+    }
+  ]
+}

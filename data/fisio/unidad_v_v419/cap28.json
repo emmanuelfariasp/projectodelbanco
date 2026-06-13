@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap28",
+  "title": "Capítulo 28",
+  "subtitle": "Reabsorción y secreción tubular renal",
+  "questions": [
+    {
+      "id": "fisio_renal_cap28_001",
+      "q": "Una sustancia se filtra en el glomérulo, se reabsorbe parcialmente y además se secreta desde los capilares peritubulares hacia la luz tubular. ¿Cuál relación expresa mejor su excreción final?",
+      "exp": "La orina final resulta de lo que se filtra, menos lo que vuelve a la sangre, más lo que se agrega a la luz tubular por secreción.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Excreción = reabsorción tubular - filtración glomerular - secreción tubular.",
+        "Excreción = filtración glomerular - reabsorción tubular + secreción tubular.",
+        "Excreción = secreción tubular - reabsorción tubular - filtración glomerular.",
+        "Excreción = filtración glomerular + reabsorción tubular - secreción tubular.",
+        "Excreción = reabsorción capilar peritubular + filtración tubular final."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_002",
+      "q": "Si la FG permanece constante, una reducción relativamente pequeña de la reabsorción tubular puede aumentar mucho el volumen urinario. ¿Qué idea fisiológica explica mejor este efecto?",
+      "exp": "Como se filtran y reabsorben grandes volúmenes, pequeños cambios porcentuales en la reabsorción dejan una cantidad mucho mayor de líquido para excretar.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "La filtración glomerular pierde selectividad y empieza a filtrar eritrocitos y proteínas.",
+        "El túbulo distal bloquea la secreción de potasio y convierte solutos en agua libre.",
+        "La cápsula de Bowman aumenta su capacidad de almacenar filtrado antes de excretarlo.",
+        "La filtración y la reabsorción son cuantitativamente grandes frente a la excreción final.",
+        "La orina normal depende sobre todo de la secreción tubular y no de la reabsorción."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_003",
+      "q": "Para que una sustancia filtrada sea reabsorbida hacia la sangre, ¿qué secuencia general es más correcta?",
+      "exp": "La reabsorción incluye transporte transcelular o paracelular hacia el intersticio renal y luego paso al capilar peritubular por fuerzas físicas.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Debe pasar de la luz tubular al plasma glomerular y luego al espacio de Bowman.",
+        "Debe moverse del capilar peritubular a la luz, y luego regresar al glomérulo.",
+        "Debe cruzar el epitelio tubular hacia el intersticio y después entrar al capilar peritubular.",
+        "Debe atravesar primero la vejiga y después retornar a los vasos rectos medulares.",
+        "Debe permanecer en la luz tubular hasta que el túbulo colector modifique su carga."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_004",
+      "q": "En el túbulo proximal, la bomba Na+-K+ ATPasa basolateral favorece la entrada de sodio desde la luz tubular. ¿Por qué?",
+      "exp": "La bomba expulsa sodio hacia el intersticio e introduce potasio, manteniendo bajo el Na+ intracelular y un potencial negativo que favorecen la entrada luminal de Na+.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Porque aumenta la concentración intracelular de sodio y vuelve positiva la célula.",
+        "Porque secreta sodio al túbulo y arrastra glucosa hacia la luz por ósmosis.",
+        "Porque bloquea la difusión de potasio y elimina el gradiente eléctrico luminal.",
+        "Porque convierte el sodio filtrado en bicarbonato antes de su reabsorción.",
+        "Porque mantiene bajo el sodio intracelular y crea un potencial celular negativo."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_005",
+      "q": "La glucosa se reabsorbe contra su gradiente en el túbulo proximal, aunque el transportador luminal no hidroliza ATP directamente. ¿Cuál explicación es más adecuada?",
+      "exp": "Es transporte activo secundario: el Na+ entra a favor de su gradiente y esa energía impulsa el cotransporte luminal de glucosa.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Usa la energía del gradiente de sodio mantenido por la Na+-K+ ATPasa basolateral.",
+        "Difunde por vía paracelular junto con el agua, sin depender de proteínas específicas.",
+        "Se secreta primero al intersticio y luego regresa a la luz para ser reabsorbida.",
+        "Atraviesa la membrana luminal por GLUT, que funciona como bomba primaria de ATP.",
+        "Depende de la presión coloidosmótica tubular generada por proteínas filtradas."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_006",
+      "q": "Respecto al transporte de glucosa en el túbulo proximal, ¿qué combinación es la más correcta?",
+      "exp": "El capítulo describe SGLT2 en la primera parte del túbulo proximal para la mayor parte de la glucosa filtrada y SGLT1 en segmentos posteriores.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "SGLT1 reabsorbe casi toda la glucosa en S1 y GLUT2 secreta glucosa a la luz.",
+        "GLUT1 y GLUT2 están en la membrana luminal y dependen directamente del ATP.",
+        "SGLT2 reabsorbe cerca del 90% en S1 y SGLT1 transporta el resto más distal.",
+        "SGLT2 secreta glucosa al túbulo colector y SGLT1 actúa solo en la mácula densa.",
+        "La glucosa se reabsorbe por pinocitosis y sale por canales de cloro basolaterales."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_007",
+      "q": "Un transportador luminal proximal permite la entrada de sodio a la célula mientras expulsa H+ hacia la luz tubular. ¿Cómo se clasifica mejor este proceso?",
+      "exp": "El intercambiador Na+-H+ usa la entrada de Na+ a favor de gradiente para secretar H+ en dirección opuesta hacia la luz tubular.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Transporte activo primario por hidrólisis directa de ATP en la membrana luminal.",
+        "Contratransporte secundario sodio-hidrógeno impulsado por el gradiente de Na+.",
+        "Difusión simple de hidrógeno a favor de gradiente sin participación del sodio.",
+        "Pinocitosis de protones seguida de digestión lisosomal en aminoácidos libres.",
+        "Filtración glomerular de hidrógeno regulada por la presión de Bowman."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_008",
+      "q": "Una pequeña cantidad de proteínas filtradas llega al túbulo proximal y debe recuperarse. ¿Qué mecanismo explica mejor esa recuperación?",
+      "exp": "La reabsorción de proteínas en el túbulo proximal ocurre por endocitosis/pinocitosis y posterior degradación a aminoácidos.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Difusión simple por canales de urea en la membrana apical proximal.",
+        "Cotransporte con sodio por SGLT2 en la primera mitad del túbulo proximal.",
+        "Secreción hacia el capilar peritubular por el transportador de PAH.",
+        "Paso directo por uniones estrechas debido al arrastre del disolvente.",
+        "Pinocitosis, digestión intracelular y salida de aminoácidos por la membrana basolateral."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_009",
+      "q": "En la curva de manejo renal de glucosa, aparece glucosa en orina antes de alcanzar el transporte máximo global. ¿Cuál es la razón más importante?",
+      "exp": "El umbral aparece antes del Tm global porque algunas nefronas saturan su transporte antes que otras.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "La glucosa deja de filtrarse libremente cuando supera 100 mg/100 ml.",
+        "La reabsorción de glucosa se vuelve pasiva y ya no requiere sodio luminal.",
+        "La creatinina compite con la glucosa por los canales basolaterales GLUT.",
+        "No todas las nefronas poseen exactamente el mismo transporte máximo de glucosa.",
+        "El túbulo colector secreta glucosa cuando aumenta la concentración de ADH."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_010",
+      "q": "La reabsorción proximal de sodio se ajusta a principios de transporte gradiente-tiempo. ¿Qué situación aumentaría el porcentaje reabsorbido en ese segmento?",
+      "exp": "En el transporte gradiente-tiempo importan el gradiente, la permeabilidad y el tiempo de permanencia del líquido tubular; menor flujo permite mayor reabsorción porcentual.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Un flujo tubular más lento, con mayor tiempo de contacto con la membrana luminal.",
+        "Un aumento de la permeabilidad de la rama ascendente gruesa al agua.",
+        "Una pérdida completa de fuerzas coloidosmóticas en capilares peritubulares.",
+        "Un bloqueo de la Na+-K+ ATPasa basolateral en todas las células proximales.",
+        "Una reducción del gradiente electroquímico de sodio hacia el interior celular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_011",
+      "q": "Una región tubular presenta gran gradiente osmótico hacia el intersticio, pero casi no reabsorbe agua. ¿Qué conclusión fisiológica es más correcta?",
+      "exp": "El gradiente osmótico solo puede mover agua si la membrana es permeable; por eso la rama ascendente casi no reabsorbe agua.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "El agua necesita una bomba ATPasa luminal específica para moverse por ósmosis.",
+        "La osmolaridad intersticial no participa en la reabsorción tubular de agua.",
+        "El movimiento de agua exige que el epitelio tubular sea permeable al agua.",
+        "El arrastre del disolvente impide siempre la reabsorción de agua y solutos.",
+        "La reabsorción de agua depende solo de la filtración glomerular inicial."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_012",
+      "q": "Durante la reabsorción activa de sodio, el cloro puede reabsorberse pasivamente. ¿Qué combinación explica mejor este acoplamiento?",
+      "exp": "Al reabsorberse Na+, la luz queda relativamente negativa; además, la reabsorción de agua concentra Cl- en la luz, favoreciendo su difusión.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "El cloro se reabsorbe por pinocitosis y luego se digiere en la membrana basal.",
+        "La urea arrastra cloro hacia la sangre por transporte activo primario apical.",
+        "La albúmina filtrada crea una presión oncótica que empuja cloro al intersticio.",
+        "El cloro se secreta primero hacia la luz para aumentar la osmolaridad tubular.",
+        "El potencial eléctrico luminal negativo y el gradiente de concentración favorecen su difusión."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_013",
+      "q": "¿Cuál comparación entre urea y creatinina se ajusta mejor al manejo tubular descrito?",
+      "exp": "La urea se reabsorbe de forma pasiva en grado limitado; la creatinina atraviesa poco la membrana tubular y se excreta casi toda.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Ambas se reabsorben completamente en el túbulo proximal y por eso no aparecen en orina.",
+        "La urea se reabsorbe parcialmente, mientras que la creatinina casi no se reabsorbe.",
+        "La creatinina se reabsorbe más que el agua y la urea se filtra solo unida a proteínas.",
+        "La urea se secreta activamente por SGLT1 y la creatinina entra por canales de urea.",
+        "Ambas dependen de aldosterona para ser eliminadas en los conductos colectores."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_014",
+      "q": "¿Qué rasgo explica mejor la gran capacidad reabsortiva del túbulo proximal?",
+      "exp": "El túbulo proximal tiene borde en cepillo, canales intercelulares y muchas mitocondrias, lo que favorece transporte activo y pasivo intenso.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Pocas mitocondrias y ausencia de borde en cepillo para reducir el gasto energético.",
+        "Baja permeabilidad al agua y uniones muy estrechas semejantes al túbulo colector.",
+        "Predominio exclusivo de secreción de potasio por células principales apicales.",
+        "Alto metabolismo, abundantes mitocondrias y gran superficie luminal y basolateral.",
+        "Impermeabilidad a sodio y cloro, con reabsorción selectiva solo de creatinina."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_015",
+      "q": "En la segunda mitad del túbulo proximal aumenta la reabsorción de NaCl. ¿Qué cambio luminal favorece especialmente este proceso?",
+      "exp": "En la primera mitad se reabsorben preferentemente otros solutos con Na+, dejando una concentración luminal de Cl- mayor que favorece su difusión en la segunda mitad.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Aumento relativo de la concentración de cloro por reabsorción previa de glucosa, bicarbonato y solutos orgánicos.",
+        "Desaparición del gradiente de sodio por inhibición fisiológica de la bomba Na+-K+ ATPasa.",
+        "Aumento de proteínas plasmáticas filtradas que arrastran cloro hacia el intersticio renal.",
+        "Entrada masiva de potasio desde la luz tubular por canales ROMK de alta conductancia.",
+        "Conversión de cloro en bicarbonato por acción directa de la anhidrasa carbónica luminal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_016",
+      "q": "A lo largo del túbulo proximal, ¿qué patrón de concentración tubular es más esperado?",
+      "exp": "La reabsorción de agua acompaña a la de sodio, manteniendo osmolaridad casi constante; glucosa y aminoácidos se reabsorben con avidez, mientras creatinina se concentra.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "La concentración de sodio aumenta mucho porque el agua no acompaña su reabsorción.",
+        "La glucosa se concentra progresivamente porque se reabsorbe menos que el agua.",
+        "La osmolaridad cambia poco, la glucosa disminuye y la creatinina se concentra.",
+        "El bicarbonato aumenta al mismo ritmo que la creatinina por secreción proximal.",
+        "Los aminoácidos permanecen constantes porque no tienen transporte activo secundario."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_017",
+      "q": "El PAH se usa para estimar el flujo plasmático renal porque su manejo tubular tiene una característica especial. ¿Cuál es?",
+      "exp": "El PAH se filtra y además se secreta intensamente en el túbulo proximal; por eso se aclara de cerca del 90% del plasma renal.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Se reabsorbe casi por completo, por lo que su aclaramiento se aproxima a cero.",
+        "Se filtra libremente pero no se secreta ni se reabsorbe en ningún segmento tubular.",
+        "Solo aparece en la orina cuando se supera un transporte máximo semejante al de glucosa.",
+        "Se une a proteínas plasmáticas y por eso no entra en contacto con el túbulo proximal.",
+        "Se secreta con rapidez en el túbulo proximal y se elimina de gran parte del plasma renal."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_018",
+      "q": "¿Qué afirmación diferencia mejor los segmentos finos del asa de Henle?",
+      "exp": "El segmento descendente fino permite difusión simple y reabsorbe agua; las ramas ascendentes son casi impermeables al agua.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "La rama descendente fina reabsorbe activamente NaCl y es impermeable al agua.",
+        "La rama descendente fina es muy permeable al agua; la ascendente es casi impermeable al agua.",
+        "Ambas ramas finas tienen abundantes mitocondrias y alto transporte activo de potasio.",
+        "La rama ascendente fina contiene la mácula densa y controla la retroalimentación glomerular.",
+        "La rama descendente fina secreta bicarbonato y la ascendente reabsorbe glucosa por SGLT2."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_019",
+      "q": "Un diurético de asa bloquea el cotransportador 1-Na+, 2-Cl-, 1-K+ en la rama ascendente gruesa. ¿Qué efecto directo se espera?",
+      "exp": "La rama ascendente gruesa reabsorbe activamente NaCl y K+ por NKCC y es casi impermeable al agua; los diuréticos de asa inhiben ese cotransportador.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Aumento de la reabsorción de agua por incremento de AQP-2 luminal.",
+        "Aumento de la reabsorción de glucosa por activación secundaria de SGLT1.",
+        "Bloqueo de la secreción proximal de PAH y reducción del flujo plasmático renal.",
+        "Reducción de la reabsorción de Na+, Cl- y K+ en un segmento impermeable al agua.",
+        "Aumento de la reabsorción de urea en el túbulo colector cortical."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_020",
+      "q": "En la rama ascendente gruesa, parte del potasio vuelve a la luz tubular. ¿Qué consecuencia funcional produce esta retrodifusión?",
+      "exp": "La retrodifusión de K+ crea un potencial luminal positivo que impulsa cationes como calcio y magnesio por la vía paracelular.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Genera una luz positiva que favorece reabsorción paracelular de cationes como Mg++ y Ca++.",
+        "Genera una luz negativa que impide la reabsorción de sodio por vía transcelular.",
+        "Elimina el gradiente de sodio necesario para el cotransporte 1-Na+, 2-Cl-, 1-K+.",
+        "Convierte la rama ascendente gruesa en un segmento altamente permeable al agua.",
+        "Bloquea la secreción de hidrógeno por inversión del intercambiador Na+-H+."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_021",
+      "q": "¿Qué afirmación identifica correctamente la primera parte del túbulo distal?",
+      "exp": "La primera parte del túbulo distal es un segmento diluyente que reabsorbe NaCl por el cotransportador Na+-Cl-, blanco de las tiacidas.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Es el principal lugar de pinocitosis de proteínas y reabsorción completa de glucosa.",
+        "Es muy permeable a agua y urea, por lo que concentra el líquido tubular desde el inicio.",
+        "Contiene células principales reguladas por aldosterona como único tipo celular.",
+        "Secreta PAH con tanta rapidez que permite estimar el flujo plasmático renal.",
+        "Reabsorbe NaCl por cotransportador sodio-cloro y es inhibida por tiacidas."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_022",
+      "q": "La porción final del túbulo distal y el túbulo colector cortical tienen dos tipos celulares principales. ¿Qué asociación es correcta?",
+      "exp": "Las principales manejan Na+ y K+; las intercaladas participan en secreción/reabsorción de H+, bicarbonato y potasio según el estado acidobásico.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Células principales: secretan H+; células intercaladas: reabsorben glucosa por SGLT2.",
+        "Células principales: reabsorben urea; células intercaladas: secretan PAH proximal.",
+        "Células principales: reabsorben Na+ y secretan K+; intercaladas: regulan H+, HCO3- y K+.",
+        "Células principales: forman la mácula densa; intercaladas: controlan la FG por renina.",
+        "Células principales: reabsorben fosfato; intercaladas: bloquean la acción de ADH."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_023",
+      "q": "En las células principales, la secreción de potasio depende indirectamente de la reabsorción de sodio. ¿Cuál explicación es más correcta?",
+      "exp": "La bomba basolateral expulsa Na+ e introduce K+, elevando el K+ intracelular; luego el K+ difunde hacia la luz por canales luminales.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "El sodio luminal se convierte en potasio dentro de la célula por acción de aldosterona.",
+        "La Na+-K+ ATPasa basolateral introduce K+ y mantiene el gradiente para su salida luminal.",
+        "El potasio filtrado se une a glucosa y entra por SGLT2 en la membrana apical.",
+        "La secreción de K+ solo ocurre cuando el túbulo colector se vuelve permeable a urea.",
+        "La entrada de sodio bloquea todos los canales luminales y retiene K+ en el intersticio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_024",
+      "q": "¿Por qué la espironolactona, eplerenona, amilorida y triamtereno reducen la pérdida urinaria de potasio?",
+      "exp": "Al antagonizar aldosterona o bloquear canales de sodio, reducen la reabsorción de Na+ por células principales y disminuyen el gradiente/señal para secretar K+.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Aumentan la acción de aldosterona sobre ENaC y elevan la captación celular de K+.",
+        "Bloquean SGLT2 y reducen la carga filtrada de glucosa que llega al túbulo distal.",
+        "Inhiben el cotransportador Na+-Cl- de la primera parte del túbulo distal.",
+        "Disminuyen la entrada de Na+ o la acción de aldosterona en células principales.",
+        "Aumentan la permeabilidad a urea del túbulo colector cortical y arrastran K+."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_025",
+      "q": "En acidosis, ¿qué respuesta de las células intercaladas de tipo A ayuda a corregir el trastorno?",
+      "exp": "Las células intercaladas tipo A eliminan ácido secretando H+ y regeneran/reabsorben bicarbonato hacia la sangre, mecanismo clave en acidosis.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Secretan H+ hacia la luz y reabsorben HCO3- hacia la sangre.",
+        "Secretan HCO3- hacia la luz y reabsorben H+ hacia el intersticio.",
+        "Bloquean H+-ATPasa y aumentan la excreción de bicarbonato.",
+        "Secretan urea en el túbulo colector para elevar la osmolaridad medular.",
+        "Reabsorben sodio por SGLT1 y secretan glucosa hacia la luz tubular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_026",
+      "q": "Sin ADH, la porción final del túbulo distal y los conductos colectores se vuelven casi impermeables al agua. ¿Qué consecuencia es más coherente?",
+      "exp": "La ADH aumenta la permeabilidad al agua en segmentos distales; sin ADH, el agua permanece en la luz y se produce orina abundante y diluida.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "El agua se reabsorbe con avidez y se forma un pequeño volumen de orina concentrada.",
+        "La urea deja de filtrarse por el glomérulo y desaparece del líquido tubular.",
+        "Se excreta mayor volumen de orina diluida por falta de reabsorción distal de agua.",
+        "La Na+-K+ ATPasa se invierte y secreta sodio masivamente al conducto colector.",
+        "El túbulo proximal pierde su permeabilidad normal al agua y concentra glucosa."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_027",
+      "q": "Aunque el conducto colector medular reabsorbe menos del 10% del agua y sodio filtrados, es fisiológicamente crucial porque:",
+      "exp": "El conducto colector medular determina el ajuste final de volumen y concentración urinaria; es regulado por ADH, secreta H+ y permite reabsorción de urea.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "es el segmento donde se filtra inicialmente el plasma hacia la cápsula de Bowman.",
+        "reabsorbe casi toda la glucosa y los aminoácidos por transporte activo secundario.",
+        "contiene la mácula densa y controla directamente la resistencia aferente.",
+        "secreta PAH con una eficiencia cercana al 90% del flujo plasmático renal.",
+        "realiza el procesamiento final de la orina y regula agua, H+ y urea."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_028",
+      "q": "En la figura conceptual de concentración tubular/plasma, un cociente mayor que 1 para una sustancia indica generalmente que:",
+      "exp": "Si el cociente tubular/plasma sube, la sustancia se concentra porque se reabsorbió más agua que soluto o porque hubo secreción neta al túbulo.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "la sustancia se reabsorbe más ávidamente que el agua en ese segmento.",
+        "se reabsorbe menos que el agua o se secreta hacia el líquido tubular.",
+        "la sustancia dejó de filtrarse y por eso se diluye en la luz tubular.",
+        "la sustancia se transformó en agua libre por acción de la ADH.",
+        "la concentración plasmática aumentó, pero la tubular permaneció constante."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_029",
+      "q": "Al final del túbulo proximal, el cociente concentración tubular/plasma de inulina es cercano a 3. ¿Qué interpretación es correcta?",
+      "exp": "La inulina no se reabsorbe ni se secreta; si su concentración se triplica, el agua restante equivale aproximadamente a un tercio de la filtrada.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "La inulina se reabsorbió en dos tercios y queda un tercio en la luz tubular.",
+        "La inulina fue secretada tres veces más que la cantidad filtrada inicialmente.",
+        "Toda el agua filtrada permanece en la luz y la inulina se concentró por secreción.",
+        "Permanece cerca de un tercio del agua filtrada y se reabsorbieron dos tercios.",
+        "La inulina atravesó la membrana basolateral por difusión facilitada dependiente de GLUT."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_030",
+      "q": "Si la FG aumenta de 125 a 150 ml/min y el túbulo proximal mantiene una reabsorción cercana al 65%, ¿qué expresa este fenómeno?",
+      "exp": "El equilibrio glomerulotubular mantiene relativamente constante la fracción reabsorbida, de modo que la reabsorción absoluta aumenta cuando aumenta la carga filtrada.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Equilibrio glomerulotubular, con aumento de reabsorción absoluta ante mayor carga filtrada.",
+        "Diuresis por presión, con reducción obligatoria de toda reabsorción proximal.",
+        "Transporte máximo de glucosa, porque todas las nefronas saturan SGLT2.",
+        "Aclaramiento de PAH, porque el túbulo proximal secreta más soluto orgánico.",
+        "Bloqueo de autorregulación, porque la mácula densa deja de funcionar."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_031",
+      "q": "La reabsorción capilar peritubular aumenta cuando cambian las fuerzas de Starling a favor de entrada de líquido al capilar. ¿Cuál cambio favorece más esa reabsorción?",
+      "exp": "La captación por capilares peritubulares aumenta con menor presión hidrostática capilar y mayor presión coloidosmótica capilar.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Aumento de la presión hidrostática capilar peritubular con caída de proteínas plasmáticas.",
+        "Disminución de la presión coloidosmótica capilar por menor fracción de filtración.",
+        "Aumento de la presión coloidosmótica capilar peritubular y menor presión hidrostática capilar.",
+        "Aumento de la presión hidrostática intersticial con pérdida de gradiente oncótico capilar.",
+        "Disminución del coeficiente de filtración peritubular hasta valores cercanos a cero."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_032",
+      "q": "La angiotensina II contrae preferentemente la arteriola eferente. ¿Cómo esto favorece la reabsorción proximal de sodio y agua?",
+      "exp": "La constricción eferente reduce la presión hidrostática en capilares peritubulares y aumenta la fracción de filtración, elevando la presión oncótica que favorece reabsorción.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Eleva la presión hidrostática peritubular y reduce la presión oncótica capilar.",
+        "Abre canales AQP-2 en el túbulo proximal por activación directa de V2.",
+        "Convierte células intercaladas de tipo B en células principales secretoras de K+.",
+        "Aumenta la presión de Bowman y reduce la carga filtrada de sodio.",
+        "Reduce la presión hidrostática peritubular y aumenta la presión coloidosmótica capilar."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_033",
+      "q": "Un aumento de la presión hidrostática en el intersticio renal tiende a reducir la reabsorción tubular neta. ¿Cuál mecanismo lo explica mejor?",
+      "exp": "La presión intersticial elevada favorece el retorno de agua y solutos hacia la luz tubular, reduciendo la reabsorción neta.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Estimula SGLT2 y aumenta la reabsorción de glucosa con sodio en el túbulo proximal.",
+        "Favorece la retrodifusión de sodio y agua desde el intersticio hacia la luz tubular.",
+        "Aumenta la concentración de proteínas plasmáticas en la cápsula de Bowman.",
+        "Convierte la presión coloidosmótica peritubular en fuerza secretora de PAH.",
+        "Inhibe la filtración glomerular de sodio pero conserva la filtración de agua."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_034",
+      "q": "Un pequeño aumento de la presión arterial puede aumentar la excreción de sodio y agua aun con autorregulación de FG. ¿Qué mecanismo contribuye a esto?",
+      "exp": "La natriuresis y diuresis por presión se deben en parte a menor reabsorción tubular, aumento de presiones intersticiales/peritubulares y menor angiotensina II.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Aumento de aldosterona y angiotensina II por estiramiento auricular directo.",
+        "Mayor secreción de ADH que vuelve impermeable al agua el túbulo colector.",
+        "Aumento de pinocitosis proximal de proteínas y reducción de creatinina plasmática.",
+        "Menor reabsorción tubular por cambios peritubulares e intersticiales, además de menor angiotensina II.",
+        "Bloqueo de la reabsorción de fosfato por activación intensa de hormona paratiroidea."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_035",
+      "q": "¿Cuál efecto tubular resume mejor la acción renal de la aldosterona?",
+      "exp": "La aldosterona actúa sobre todo en células principales y segmentos colectores, aumentando reabsorción de Na+ y secreción de K+; también favorece secreción de H+.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Aumenta reabsorción de Na+ y favorece secreción de K+ y H+ en segmentos distales.",
+        "Reduce la permeabilidad al agua por retirada de AQP-2 de la membrana luminal.",
+        "Inhibe la bomba Na+-K+ ATPasa en células principales del colector cortical.",
+        "Disminuye la reabsorción de calcio y aumenta la reabsorción proximal de fosfato.",
+        "Bloquea la reabsorción de sodio por el cotransportador Na+-Cl- distal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_036",
+      "q": "El capítulo señala que la aldosterona suele ser más crítica para regular potasio que sodio. ¿Cuál razonamiento lo justifica mejor?",
+      "exp": "Aunque la aldosterona participa en sodio, su ajuste es especialmente importante para la secreción renal de K+ y la concentración de potasio corporal.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "El sodio no se filtra en el glomérulo y por eso depende poco del túbulo renal.",
+        "La aldosterona no actúa en células principales cuando cambia el potasio plasmático.",
+        "Pequeñas variaciones de aldosterona modifican mucho la secreción distal de K+.",
+        "La concentración de potasio extracelular se regula solo por el aparato respiratorio.",
+        "La excreción de sodio depende exclusivamente de ADH y no de la reabsorción tubular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_037",
+      "q": "En hipovolemia, la angiotensina II permite retener sodio y agua sin retener en exceso productos de desecho. ¿Qué conjunto de acciones explica mejor esto?",
+      "exp": "La angiotensina II conserva sodio y agua por aldosterona, efectos hemodinámicos eferentes y estimulación directa del transporte tubular.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Inhibe aldosterona, dilata la eferente y bloquea el intercambio Na+-H+ proximal.",
+        "Aumenta AQP-2 luminal, secreta PAH y reduce la presión oncótica peritubular.",
+        "Bloquea la reabsorción distal de NaCl y aumenta el flujo tubular hacia la mácula densa.",
+        "Estimula ANP, reabsorbe fosfato y aumenta la excreción urinaria de sodio.",
+        "Estimula aldosterona, contrae eferente y aumenta transporte tubular de sodio."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_038",
+      "q": "¿Por qué la constricción eferente inducida por angiotensina II ayuda a conservar la excreción de urea y creatinina durante depleción de volumen?",
+      "exp": "Al contraer la arteriola eferente, la angiotensina II sostiene la presión hidrostática glomerular y ayuda a mantener la FG.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Porque aumenta la secreción tubular de creatinina en el túbulo colector medular.",
+        "Porque ayuda a mantener la presión glomerular y una FG suficiente para filtrar desechos.",
+        "Porque disminuye la fracción de filtración y diluye proteínas peritubulares.",
+        "Porque transforma la urea en PAH, que se aclara por secreción proximal rápida.",
+        "Porque aumenta la presión de Bowman y favorece el paso de solutos al espacio tubular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_039",
+      "q": "¿Cuál secuencia describe mejor la acción celular de la ADH en los túbulos distales tardíos y colectores?",
+      "exp": "La ADH se une a receptores V2, activa AMPc y proteína cinasa A, y promueve inserción luminal de AQP-2 para aumentar reabsorción de agua.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Receptor V1, IP3, salida de AQP-3 apical y secreción activa de agua.",
+        "Receptor mineralocorticoide, síntesis de ENaC y aumento de secreción de K+.",
+        "Bloqueo de adenilato ciclasa, descenso de AMPc y retirada de AQP-2 luminal.",
+        "Receptor V2, AMPc/PKA y movimiento de AQP-2 hacia la membrana luminal.",
+        "Activación de SGLT2, cotransporte de glucosa y entrada de agua por GLUT2."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_040",
+      "q": "Durante expansión del volumen plasmático, las aurículas liberan ANP. ¿Qué efecto renal general se espera?",
+      "exp": "El ANP reduce la reabsorción tubular de sodio y agua, inhibe renina y favorece natriuresis/diuresis para normalizar el volumen.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Disminución de reabsorción de Na+ y agua, con aumento de la excreción urinaria.",
+        "Aumento de aldosterona y retención de sodio para elevar el volumen extracelular.",
+        "Inserción de AQP-2 luminal para concentrar la orina durante hiperhidratación.",
+        "Mayor secreción de renina y aumento secundario de angiotensina II.",
+        "Reabsorción completa de urea en el colector cortical por transportadores UT."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_041",
+      "q": "¿Cuál acción renal de la hormona paratiroidea es más compatible con el capítulo?",
+      "exp": "La PTH aumenta la reabsorción tubular de calcio, especialmente distal, e inhibe la reabsorción de fosfato en el túbulo proximal.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Reduce la reabsorción de calcio en el túbulo distal y aumenta la excreción de magnesio.",
+        "Estimula SGLT2 para conservar glucosa durante hipocalcemia sostenida.",
+        "Aumenta reabsorción de Ca++ e inhibe reabsorción proximal de fosfato.",
+        "Bloquea la secreción de H+ por células intercaladas de tipo A.",
+        "Aumenta la permeabilidad al agua por inserción directa de AQP-2."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_042",
+      "q": "Una activación simpática leve reduce la excreción de sodio y agua aunque cambie poco la FG. ¿Qué mecanismo participa?",
+      "exp": "El simpático aumenta la reabsorción tubular de sodio por receptores alfa y estimula renina, lo que eleva angiotensina II y retención de sodio.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Bloqueo completo de la bomba Na+-K+ ATPasa en el túbulo proximal.",
+        "Aumento de ANP por estiramiento de las aurículas cardíacas.",
+        "Pérdida de receptores alfa-adrenérgicos en células tubulares renales.",
+        "Disminución de renina y reducción de la formación de angiotensina II.",
+        "Aumento de reabsorción tubular de Na+ y estimulación del sistema renina-angiotensina."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_043",
+      "q": "Si Us es la concentración urinaria de una sustancia, V el flujo urinario y Ps su concentración plasmática, ¿cómo se calcula su aclaramiento renal?",
+      "exp": "El aclaramiento es el volumen de plasma necesario para aportar la cantidad excretada por minuto: excreción urinaria dividida por concentración plasmática.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Cs = Ps / (Us x V), porque la concentración plasmática determina la excreción.",
+        "Cs = (Us x V) / Ps, porque relaciona excreción urinaria con concentración plasmática.",
+        "Cs = FG x Ps, porque todo aclaramiento equivale a carga filtrada.",
+        "Cs = Us - Ps, porque el gradiente de concentración define el volumen aclarado.",
+        "Cs = V / Us, porque el flujo urinario sustituye al filtrado glomerular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_044",
+      "q": "Una sustancia filtrada libremente no se reabsorbe ni se secreta en los túbulos. ¿Qué representa su aclaramiento?",
+      "exp": "Si la excreción urinaria de la sustancia iguala su carga filtrada, su aclaramiento equivale a la FG; la inulina cumple este criterio.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "La reabsorción tubular neta de agua y sodio.",
+        "El flujo sanguíneo renal total, incluyendo eritrocitos.",
+        "La secreción proximal máxima de ácidos orgánicos.",
+        "La filtración glomerular, como ocurre con la inulina.",
+        "La fracción de plasma que permanece en los capilares peritubulares."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_045",
+      "q": "¿Cuál limitación explica por qué el aclaramiento de creatinina no es un marcador perfecto de FG?",
+      "exp": "La creatinina se elimina casi por filtración, pero hay ligera secreción tubular, lo que puede hacer que su aclaramiento sobreestime algo la FG.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Una pequeña cantidad de creatinina se secreta en los túbulos.",
+        "La creatinina se reabsorbe casi por completo junto con glucosa.",
+        "La creatinina no se filtra porque está unida totalmente a albúmina.",
+        "La creatinina se elimina por el hígado y no por los riñones.",
+        "La creatinina se convierte en inulina dentro del túbulo proximal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap28_046",
+      "q": "Para estimar el flujo plasmático renal con PAH, ¿qué condición es necesaria además de la filtración glomerular?",
+      "exp": "Como solo una fracción del plasma se filtra, para estimar FPR el PAH debe ser secretado además de filtrado, eliminándose de la mayor parte del plasma renal.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Que el PAH se reabsorba pasivamente en el colector medular por transportadores de urea.",
+        "Que el PAH sea impermeable al túbulo proximal y permanezca unido a proteínas plasmáticas.",
+        "Que el PAH se secrete intensamente desde capilares peritubulares hacia la luz tubular.",
+        "Que el PAH tenga un aclaramiento igual al de glucosa durante el estado posprandial.",
+        "Que el PAH bloquee el cotransportador Na+-Cl- de la primera parte del distal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap28_047",
+      "q": "Si el aclaramiento de PAH es 585 ml/min y el cociente de extracción renal del PAH es 0,90, ¿cuál es la mejor estimación del flujo plasmático renal real?",
+      "exp": "Si solo se extrae el 90% del PAH, el FPR real se estima como aclaramiento de PAH / 0,90 = 650 ml/min.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "526 ml/min, porque se multiplica el aclaramiento por el cociente de extracción.",
+        "585 ml/min, porque el cociente de extracción no modifica el valor calculado.",
+        "612 ml/min, porque se suma el 10% que no fue eliminado del plasma.",
+        "700 ml/min, porque el PAH se filtra solo en el 20% del plasma renal.",
+        "650 ml/min, porque el aclaramiento se divide por el cociente de extracción."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap28_048",
+      "q": "Con FG de 125 ml/min y FPR de 650 ml/min, ¿cuál fracción de filtración se aproxima mejor?",
+      "exp": "La fracción de filtración es FG/FPR. Con 125/650, el valor aproximado es 0,19.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "0,05, porque solo una pequeña parte del filtrado se excreta como orina.",
+        "0,19, porque se calcula como FG dividida por FPR.",
+        "0,52, porque el FPR se divide por el flujo sanguíneo total.",
+        "1,25, porque la inulina se concentra 125 veces en la orina final.",
+        "5,20, porque el FPR supera a la FG y se corrige por hematocrito."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap28_049",
+      "q": "Al comparar el aclaramiento de una sustancia con el de inulina, ¿qué conclusión es correcta?",
+      "exp": "Menor que inulina indica que parte de la sustancia filtrada se reabsorbió; mayor que inulina indica secreción neta; igual sugiere solo filtración.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "Si es menor que inulina, existe secreción tubular neta de esa sustancia.",
+        "Si es mayor que inulina, la sustancia solo se filtra sin reabsorción ni secreción.",
+        "Si es igual a inulina, la sustancia se reabsorbe completamente antes de la orina.",
+        "Si es menor que inulina, debe haber reabsorción tubular neta de la sustancia.",
+        "Si es igual a cero, la sustancia se secreta intensamente en el túbulo proximal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap28_050",
+      "q": "Un paciente tiene FG de 100 ml/min, PNa de 140 uEq/ml, UNa de 70 uEq/ml y flujo urinario de 1 ml/min. ¿Cuál es la reabsorción tubular neta de sodio?",
+      "exp": "Carga filtrada = 100 x 140 = 14.000 uEq/min; excreción = 70 x 1 = 70 uEq/min; reabsorción = 14.000 - 70 = 13.930 uEq/min.",
+      "topic": "Capítulo 28 - Reabsorción y secreción tubular renal",
+      "options": [
+        "13.930 uEq/min, porque se resta la excreción urinaria a la carga filtrada.",
+        "14.070 uEq/min, porque se suma la excreción urinaria a la carga filtrada.",
+        "7.000 uEq/min, porque se multiplica UNa por FG y luego se divide por PNa.",
+        "70 uEq/min, porque la concentración urinaria equivale a reabsorción tubular.",
+        "140 uEq/min, porque la concentración plasmática define la reabsorción neta."
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "key": "micro_viro_07_picornavirus",
+  "title": "Picornavirus",
+  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 5 Picornavirus.pdf",
+  "questions": [
+    {
+      "id": "micro_viro_07_picornavirus_001",
+      "q": "La descripcion más correcta de los picornavirus es:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “ARN positivo monocatenario, cápside icosaedrica y sin envoltura.” porque, dentro de UNIDAD 5 - Picornavirus, ese dato encaja con el tema de virología: un genoma de ARN de sentido positivo, capaz de funcionar como ARNm al entrar en la célula. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “ARN negativo segmentado, cápside helicoidal y envoltura.”: un genoma que debe ser transcrito por una polimerasa viral antes de producir proteínas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “ARN positivo monocatenario, cápside icosaedrica y sin envoltura.”.\nb) No. El concepto de esta alternativa es “ADN bicatenario lineal, fibras y pentonas.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “ARN positivo monocatenario, cápside icosaedrica y sin envoltura.”.\nc) Correcta. “ARN positivo monocatenario, cápside icosaedrica y sin envoltura.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Aquí se está describiendo “ADN monocatenario, eritrotropo y envuelto.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “ARN positivo monocatenario, cápside icosaedrica y sin envoltura.”.\ne) No. Esa opción apunta a “ARN bicatenario con transcriptasa inversa.”: ARN de doble cadena, característico de Reovirus/Rotavirus y distinto de influenza, picornavirus o paramixovirus. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “ARN positivo monocatenario, cápside icosaedrica y sin envoltura.”.",
+      "topic": "Virología - Picornavirus",
+      "options": [
+        "ARN negativo segmentado, cápside helicoidal y envoltura.",
+        "ADN bicatenario lineal, fibras y pentonas.",
+        "ARN positivo monocatenario, cápside icosaedrica y sin envoltura.",
+        "ADN monocatenario, eritrotropo y envuelto.",
+        "ARN bicatenario con transcriptasa inversa."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_002",
+      "q": "Los enterovirus, aunque se transmiten por vía fecal-oral, normalmente:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “No provocan enfermedades entéricas como rasgo principal.” porque, dentro de UNIDAD 5 - Picornavirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Se destruyen siempre en el estomago.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “No provocan enfermedades entéricas como rasgo principal.”.\nb) No. Esta alternativa se refiere a “Requieren picadura de mosquito.”: artrópodo vector; puede transmitir arbovirus o Plasmodium según el género y contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “No provocan enfermedades entéricas como rasgo principal.”.\nc) No. Aquí se está describiendo “Solo infectan el ojo.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “No provocan enfermedades entéricas como rasgo principal.”.\nd) No. Esa opción apunta a “Tienen envoltura muy fragil.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “No provocan enfermedades entéricas como rasgo principal.”.\ne) Correcta. “No provocan enfermedades entéricas como rasgo principal.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Picornavirus",
+      "options": [
+        "Se destruyen siempre en el estomago.",
+        "Requieren picadura de mosquito.",
+        "Solo infectan el ojo.",
+        "Tienen envoltura muy fragil.",
+        "No provocan enfermedades entéricas como rasgo principal."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_003",
+      "q": "Qué propiedad favorece la transmisión fecal-oral de enterovirus?",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Resistencia a ácido gastrico, bilis y detergentes.” porque, dentro de UNIDAD 5 - Picornavirus, ese dato encaja con el tema de virología: una propiedad de resistencia ambiental. Hay que relacionarla con la presencia o ausencia de envoltura y con el agente concreto. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Labilidad extrema a pH neutro.”: una propiedad de resistencia ambiental. Hay que relacionarla con la presencia o ausencia de envoltura y con el agente concreto. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Resistencia a ácido gastrico, bilis y detergentes.”.\nb) Correcta. “Resistencia a ácido gastrico, bilis y detergentes.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esa opción apunta a “Necesidad de vector biologico.”: artrópodo en el que el agente se desarrolla o multiplica antes de transmitirse. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Resistencia a ácido gastrico, bilis y detergentes.”.\nd) No. Lo que menciona esta opción corresponde a “Latencia en ganglios sensitivos.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Resistencia a ácido gastrico, bilis y detergentes.”.\ne) No. El concepto de esta alternativa es “Replicación solo nuclear.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Resistencia a ácido gastrico, bilis y detergentes.”.",
+      "topic": "Virología - Picornavirus",
+      "options": [
+        "Labilidad extrema a pH neutro.",
+        "Resistencia a ácido gastrico, bilis y detergentes.",
+        "Necesidad de vector biologico.",
+        "Latencia en ganglios sensitivos.",
+        "Replicación solo nuclear."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_004",
+      "q": "Los rinovirus se diferencian de los enterovirus porque:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Son labiles a pH ácido y crecen mejor a 33 C.” porque, dentro de UNIDAD 5 - Picornavirus, ese dato encaja con el tema de virología: una propiedad de resistencia ambiental. Hay que relacionarla con la presencia o ausencia de envoltura y con el agente concreto. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Son virus ADN envueltos.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Son labiles a pH ácido y crecen mejor a 33 C.”.\nb) No. Esa opción apunta a “Se transmiten por heces de felinos.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Son labiles a pH ácido y crecen mejor a 33 C.”.\nc) No. Lo que menciona esta opción corresponde a “Producen huevos en vías biliares.”: localización de adultos de Fasciola, donde depositan huevos que salen por heces. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Son labiles a pH ácido y crecen mejor a 33 C.”.\nd) Correcta. “Son labiles a pH ácido y crecen mejor a 33 C.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esta alternativa se refiere a “Tienen fase de trofozoito.”: forma móvil y metabólicamente activa de protozoarios; se observa mejor en heces recientes. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Son labiles a pH ácido y crecen mejor a 33 C.”.",
+      "topic": "Virología - Picornavirus",
+      "options": [
+        "Son virus ADN envueltos.",
+        "Se transmiten por heces de felinos.",
+        "Producen huevos en vías biliares.",
+        "Son labiles a pH ácido y crecen mejor a 33 C.",
+        "Tienen fase de trofozoito."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_005",
+      "q": "El poliovirus puede producir paralisis porque afecta principalmente:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Neuronas motoras del asta anterior.” porque, dentro de UNIDAD 5 - Picornavirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Linfocitos B de amigdala.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Neuronas motoras del asta anterior.”.\nb) No. Lo que menciona esta opción corresponde a “Celulas precursoras eritroides.”: células de médula ósea que producen la serie roja; B19 las destruye y puede frenar la eritropoyesis. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Neuronas motoras del asta anterior.”.\nc) Correcta. “Neuronas motoras del asta anterior.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esta alternativa se refiere a “Conductos biliares intrahepaticos.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Neuronas motoras del asta anterior.”.\ne) No. Aquí se está describiendo “Queratinocitos del estrato corneo.”: célula epitelial donde HPV se replica y puede mantenerse localizado/latente. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Neuronas motoras del asta anterior.”.",
+      "topic": "Virología - Picornavirus",
+      "options": [
+        "Linfocitos B de amigdala.",
+        "Celulas precursoras eritroides.",
+        "Neuronas motoras del asta anterior.",
+        "Conductos biliares intrahepaticos.",
+        "Queratinocitos del estrato corneo."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_006",
+      "q": "Coxsackie A se vincula clásically con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Herpangina y mano-pie-boca.” porque, dentro de UNIDAD 5 - Picornavirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Herpangina y mano-pie-boca.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. El concepto de esta alternativa es “Rabia paralitica.”: rhabdovirus neurotrópico transmitido sobre todo por saliva de animales infectados. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Herpangina y mano-pie-boca.”.\nc) No. Esta alternativa se refiere a “Sarcoma de Kaposi.”: neoplasia asociada a VHH-8, sobre todo en inmunodepresión. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Herpangina y mano-pie-boca.”.\nd) No. Aquí se está describiendo “Fasciolosis hepática.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Herpangina y mano-pie-boca.”.\ne) No. Esa opción apunta a “Neurocisticercosis.”: larva de Taenia en tejidos; en carne causa teniasis, y si el humano ingiere huevos de T. solium puede producir cisticercosis. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Herpangina y mano-pie-boca.”.",
+      "topic": "Virología - Picornavirus",
+      "options": [
+        "Herpangina y mano-pie-boca.",
+        "Rabia paralitica.",
+        "Sarcoma de Kaposi.",
+        "Fasciolosis hepática.",
+        "Neurocisticercosis."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_007",
+      "q": "Coxsackie B debe recordarse por su relacion con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Miocarditis y pleurodinia.” porque, dentro de UNIDAD 5 - Picornavirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Verrugas plantares.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Miocarditis y pleurodinia.”.\nb) No. Esta alternativa se refiere a “Hidatidosis pulmonar.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Miocarditis y pleurodinia.”.\nc) No. Aquí se está describiendo “Paludismo terciario.”: malaria: infección por Plasmodium con fase hepática inicial y fase eritrocitaria clínica. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Miocarditis y pleurodinia.”.\nd) No. Esa opción apunta a “Leishmaniasis visceral.”: protozoo transmitido por flebótomos, con formas promastigote en vector y amastigote en macrófagos humanos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Miocarditis y pleurodinia.”.\ne) Correcta. “Miocarditis y pleurodinia.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Picornavirus",
+      "options": [
+        "Verrugas plantares.",
+        "Hidatidosis pulmonar.",
+        "Paludismo terciario.",
+        "Leishmaniasis visceral.",
+        "Miocarditis y pleurodinia."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_008",
+      "q": "En picornavirus, la replicacion ocurre principalmente en:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Citoplasma de la célula.” porque, dentro de UNIDAD 5 - Picornavirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Nucleo con inclusion grande.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citoplasma de la célula.”.\nb) Correcta. “Citoplasma de la célula.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esa opción apunta a “Mitocondria exclusivamente.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citoplasma de la célula.”.\nd) No. Lo que menciona esta opción corresponde a “Eritrocito sin núcleo.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citoplasma de la célula.”.\ne) No. El concepto de esta alternativa es “Intestino del mosquito.”: artrópodo vector; puede transmitir arbovirus o Plasmodium según el género y contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Citoplasma de la célula.”.",
+      "topic": "Virología - Picornavirus",
+      "options": [
+        "Nucleo con inclusion grande.",
+        "Citoplasma de la célula.",
+        "Mitocondria exclusivamente.",
+        "Eritrocito sin núcleo.",
+        "Intestino del mosquito."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_009",
+      "q": "Un cuadro de meningitis aseptica en verano por virus pequeno ARN positivo puede relacionarse con:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “Enterovirus.” porque, dentro de UNIDAD 5 - Picornavirus, ese dato encaja con el tema de virología: picornavirus resistentes al ácido y transmisión fecal-oral; no siempre producen enfermedad entérica. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Poxvirus.”: virus ADN grandes y complejos, con envoltura, que se replican en citoplasma. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Enterovirus.”.\nb) No. Esa opción apunta a “Toxoplasma.”: protozoo apicomplejo; felinos son hospedadores definitivos y humanos se infectan por ooquistes o quistes tisulares. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Enterovirus.”.\nc) No. Lo que menciona esta opción corresponde a “Fasciola.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Enterovirus.”.\nd) Correcta. “Enterovirus.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esta alternativa se refiere a “Bothrops.”: género responsable de la mayoría de accidentes ofídicos en Sudamérica y de gran relevancia sanitaria en Paraguay. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Enterovirus.”.",
+      "topic": "Virología - Picornavirus",
+      "options": [
+        "Poxvirus.",
+        "Toxoplasma.",
+        "Fasciola.",
+        "Enterovirus.",
+        "Bothrops."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_010",
+      "q": "La prevencion de poliomielitis se basa principalmente en:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Vacunacion.” porque, dentro de UNIDAD 5 - Picornavirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Vacunacion.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Lo que menciona esta opción corresponde a “Suero antiofidico.”: tratamiento específico del envenenamiento por serpiente, indicado según tipo y gravedad. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacunacion.”.\nc) No. El concepto de esta alternativa es “Antibiotico betalactamico.”: un concepto de bacteriología. Puede ser válido para bacterias, pero desplaza la respuesta hacia otro tipo de microorganismo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacunacion.”.\nd) No. Esta alternativa se refiere a “Desparasitacion canina unica.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacunacion.”.\ne) No. Aquí se está describiendo “Coccion de pescado.”: prevención de cestodos del pescado, no de rotavirus. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Vacunacion.”.",
+      "topic": "Virología - Picornavirus",
+      "options": [
+        "Vacunacion.",
+        "Suero antiofidico.",
+        "Antibiotico betalactamico.",
+        "Desparasitacion canina unica.",
+        "Coccion de pescado."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    }
+  ]
+}

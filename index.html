@@ -11,7 +11,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Banco de cuestiones 4º semestre</title>
-<link rel="stylesheet" href="css/style-v4.css?v=4.16.0" />
+<link rel="stylesheet" href="css/style-v4.css?v=4.20.0" />
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -50,7 +50,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
       <div class="subjectCard" onclick="chooseSubject('fisio')">
         <div><div class="subjectIcon">🧬</div><h3>Fisiología</h3><p>Elige primero la unidad: Unidad XIV - Endocrinología y reproducción o Unidad V - Los líquidos corporales y los riñones.</p></div>
-        <div class="subjectStats"><span>2 unidades</span><span>1097 preguntas</span><span>PDFs disponibles</span></div>
+        <div class="subjectStats"><span>2 unidades</span><span>1140 preguntas</span><span>PDFs disponibles</span></div>
+      </div>
+      <div class="subjectCard" onclick="chooseSubject('micro')">
+        <div><div class="subjectIcon">🦠</div><h3>Microbiología</h3><p>Elige entre Virología, Parasitología, Artrópodos o Serpientes. Cada clase tiene 10 preguntas con explicación detallada.</p></div>
+        <div class="subjectStats"><span>4 bloques</span><span>230 preguntas</span><span>PDF disponible</span></div>
       </div>
     </div>
   </section>
@@ -72,11 +76,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="subjectGrid unitGrid">
       <div class="subjectCard" onclick="chooseFisioUnit('fisio_endocrino')">
         <div><div class="subjectIcon">🧪</div><h3>Unidad XIV</h3><p><b>Endocrinología y reproducción.</b><br>Capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.</p></div>
-        <div class="subjectStats"><span>11 bloques</span><span>747 preguntas</span><span>PDF disponible</span></div>
+        <div class="subjectStats"><span>11 bloques</span><span>790 preguntas</span><span>PDF disponible</span></div>
       </div>
       <div class="subjectCard" onclick="chooseFisioUnit('fisio_renal')">
         <div><div class="subjectIcon">🩺</div><h3>Unidad V</h3><p><b>Los líquidos corporales y los riñones.</b><br>Capítulos 25 al 31, con 50 preguntas por capítulo.</p></div>
         <div class="subjectStats"><span>7 bloques</span><span>350 preguntas</span><span>PDF disponible</span></div>
+      </div>
+    </div>
+  </section>
+
+
+  <section id="microUnitSelect" class="panel hidden">
+    <div class="subjectTop">
+      <div>
+        <h2>Microbiología: elige el bloque</h2>
+        <p>Primero selecciona el bloque que quieres estudiar. Después podrás elegir la clase, hacer simulado o revisar tus errores.</p>
+      </div>
+      <div class="menuActions">
+        <button class="btn secondary" onclick="showSubjectSelection()">Volver a áreas</button>
+        <button class="btn secondary" onclick="changeVisitorName()">Cambiar nombre</button>
+      </div>
+    </div>
+    <div id="microUnitGreeting" class="greetingBox"></div>
+    <div class="subjectGrid unitGrid">
+      <div class="subjectCard" onclick="chooseMicroUnit('micro_virologia')">
+        <div><div class="subjectIcon">🧫</div><h3>Virología</h3><p><b>12 clases.</b><br>Generalidades, herpesvirus, HPV, adenovirus, parvovirus, influenza, rabia, arbovirus y retrovirus.</p></div>
+        <div class="subjectStats"><span>12 clases</span><span>120 preguntas</span><span>Explicación detallada</span></div>
+      </div>
+      <div class="subjectCard" onclick="chooseMicroUnit('micro_parasitologia')">
+        <div><div class="subjectIcon">🪱</div><h3>Parasitología</h3><p><b>9 clases.</b><br>Generalidades, paludismo, Trypanosoma, Toxoplasma, Leishmania, protozoarios y helmintos.</p></div>
+        <div class="subjectStats"><span>9 clases</span><span>90 preguntas</span><span>Explicación detallada</span></div>
+      </div>
+      <div class="subjectCard" onclick="chooseMicroUnit('micro_artropodes')">
+        <div><div class="subjectIcon">🦟</div><h3>Artrópodos</h3><p><b>1 clase.</b><br>Artrópodos de importancia médica, vectores y medidas de prevención.</p></div>
+        <div class="subjectStats"><span>1 clase</span><span>10 preguntas</span><span>Explicación detallada</span></div>
+      </div>
+      <div class="subjectCard" onclick="chooseMicroUnit('micro_serpientes')">
+        <div><div class="subjectIcon">🐍</div><h3>Serpientes</h3><p><b>1 clase.</b><br>Importancia médica de serpientes, accidentes ofídicos y manejo inicial.</p></div>
+        <div class="subjectStats"><span>1 clase</span><span>10 preguntas</span><span>Explicación detallada</span></div>
       </div>
     </div>
   </section>
@@ -138,9 +175,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>
   <div class="footerNote">Sitio creado por Emmanuel Farias. Banco de cuestiones 4º semestre.</div>
 </div>
-<script src="js/data-loader.js?v=4.16.0"></script>
-<script src="js/storage.js?v=4.16.0"></script>
-<script src="js/simulado.js?v=4.16.0"></script>
-<script src="js/app.js?v=4.16.0"></script>
+<script src="js/data-loader.js?v=4.20.0"></script>
+<script src="js/storage.js?v=4.20.0"></script>
+<script src="js/simulado.js?v=4.20.0"></script>
+<script src="js/app.js?v=4.20.0"></script>
 </body>
 </html>

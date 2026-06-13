@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap25",
+  "title": "Capítulo 25",
+  "subtitle": "Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+  "questions": [
+    {
+      "id": "fisio_renal_cap25_001",
+      "q": "En un adulto de 70 kg, ¿cuál distribución se aproxima mejor a los compartimientos líquidos descritos en el capítulo?",
+      "exp": "En el adulto de 70 kg, el agua corporal total es cerca de 60% del peso: 42 l; el LIC es 28 l y el LEC 14 l, con 3 l de plasma y 11 l de intersticio.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Agua corporal total 35 l; LEC 20 l; LIC 15 l; plasma 5 l.",
+        "Agua corporal total 50 l; LEC 14 l; LIC 36 l; plasma 7 l.",
+        "Agua corporal total 42 l; LEC 14 l; LIC 28 l; plasma 3 l.",
+        "Agua corporal total 42 l; LEC 28 l; LIC 14 l; plasma 11 l.",
+        "Agua corporal total 60 l; LEC 20 l; LIC 40 l; plasma 3 l."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_002",
+      "q": "Sobre la entrada diaria de agua en condiciones estables, ¿cuál interpretación es más correcta?",
+      "exp": "El capítulo describe unos 2.100 ml/día por líquidos y alimentos, más cerca de 200 ml/día por oxidación metabólica.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Depende casi por completo del metabolismo y cambia poco entre individuos.",
+        "Procede sobre todo de líquidos y alimentos, con una fracción metabólica menor.",
+        "Es igual a la pérdida renal y no incluye el agua contenida en los alimentos.",
+        "Se calcula por la sudoración y aumenta solamente durante el ejercicio.",
+        "Se limita al agua bebida porque el agua metabólica no participa en el balance."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_003",
+      "q": "Una persona con quemaduras extensas pierde la capa cornificada. ¿Qué cambio se espera?",
+      "exp": "La capa cornificada limita la difusión de agua; en quemaduras extensas la evaporación cutánea puede aumentar hasta 3-5 l/día.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Disminución de la pérdida cutánea por bloqueo de glándulas sudoríparas.",
+        "Pérdida cutánea cercana a 100 ml/día porque depende solo del sudor.",
+        "Aumento solo si también existe hiperventilación por dolor o fiebre.",
+        "Igualación con la pérdida fecal normal, alrededor de 100 ml/día.",
+        "Aumento marcado de la evaporación cutánea, incluso hasta 3-5 l/día."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_004",
+      "q": "¿Qué dato expresa mejor la capacidad renal para ajustar la pérdida de agua?",
+      "exp": "El riñón puede reducir la orina a cerca de 0,5 l/día o aumentarla hasta 20 l/día según el estado hídrico.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "La orina puede variar de 0,5 l/día en deshidratación a 20 l/día con gran ingesta de agua.",
+        "La orina se mantiene fija en 1,5 l/día para preservar la osmolaridad plasmática.",
+        "La excreción urinaria depende poco del riñón y más de la pérdida fecal.",
+        "El volumen urinario acompaña siempre de forma paralela al volumen de sudor.",
+        "El riñón regula el agua, pero no puede adaptar de forma importante los electrolitos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_005",
+      "q": "¿Qué diferencia composicional entre LIC y LEC es más importante para entender los desplazamientos de agua?",
+      "exp": "El LEC es rico en Na+ y Cl-; el LIC contiene más K+, fosfato y proteínas.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "El LIC posee más sodio y cloro; el LEC posee más potasio y fosfato.",
+        "Ambos compartimientos tienen composición iónica casi idéntica.",
+        "El LEC carece de bicarbonato y depende solo de proteínas plasmáticas.",
+        "El LEC es rico en sodio y cloro; el LIC es rico en potasio, fosfato y proteínas.",
+        "El LIC contiene mucho calcio libre; el LEC contiene casi todo el fosfato corporal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_006",
+      "q": "Por el efecto Donnan, ¿cuál comparación entre plasma e intersticio es más adecuada?",
+      "exp": "Las proteínas plasmáticas negativas retienen ligeramente más cationes en el plasma.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Los aniones son ligeramente mayores en plasma porque se unen a albúmina.",
+        "Los cationes son ligeramente menores en plasma por repulsión proteica.",
+        "Los cationes son algo mayores en plasma por la carga negativa de proteínas plasmáticas.",
+        "La composición iónica cambia mucho porque los capilares bloquean los iones.",
+        "El efecto Donnan elimina la diferencia de proteínas entre plasma e intersticio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_007",
+      "q": "Al interpretar un hematocrito medido por centrifugación, ¿qué detalle evita una sobreestimación del volumen eritrocitario real?",
+      "exp": "Una pequeña cantidad de plasma queda atrapada entre eritrocitos, por eso el hematocrito verdadero es menor.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "El hematocrito verdadero es mayor porque los eritrocitos absorben agua durante el giro.",
+        "El hematocrito verdadero es menor porque queda plasma atrapado entre eritrocitos.",
+        "El hematocrito medido no incluye eritrocitos jóvenes ni reticulocitos circulantes.",
+        "El hematocrito medido solo es válido si el plasma representa 40% de la sangre.",
+        "El hematocrito verdadero equivale al volumen plasmático dividido por eritrocitos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_008",
+      "q": "Para medir un compartimiento por dilución del indicador, ¿qué condición es indispensable?",
+      "exp": "El indicador debe quedarse y distribuirse de manera uniforme en el compartimiento que se desea medir.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Que el indicador se una a proteínas aunque salga lentamente del compartimiento.",
+        "Que el indicador sea metabolizado de forma constante para medir su depuración.",
+        "Que atraviese todas las membranas y se concentre luego en el plasma.",
+        "Que modifique poco la presión osmótica pero se elimine por la orina.",
+        "Que se distribuya uniformemente solo en ese compartimiento y no se pierda."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_009",
+      "q": "Si se desea estimar el agua corporal total, ¿qué indicador se ajusta mejor al compartimiento?",
+      "exp": "Tritio, deuterio y antipirina se distribuyen en el agua corporal total.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Tritio, deuterio o antipirina, porque se distribuyen por el agua corporal total.",
+        "Inulina, porque atraviesa membranas celulares y entra al LIC.",
+        "Azul de Evans, porque permanece solo en el espacio intersticial.",
+        "Albúmina marcada, porque cruza capilares y membranas celulares.",
+        "Eritrocitos marcados con cromo, porque se mezclan con el agua intracelular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_010",
+      "q": "¿Qué sustancia se usa mejor para medir volumen plasmático y no volumen extracelular total?",
+      "exp": "Albúmina marcada y azul de Evans permanecen en el sistema vascular, por eso sirven para volumen plasmático.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Inulina, porque queda solamente en el plasma después de la inyección.",
+        "Tiosulfato, porque se une de forma irreversible a los eritrocitos.",
+        "Sodio radiactivo, porque no entra en el intersticio durante 30-60 min.",
+        "Albúmina marcada con I-125 o azul de Evans unido a proteínas plasmáticas.",
+        "Antipirina, porque no atraviesa membranas capilares ni celulares."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_011",
+      "q": "Si el volumen plasmático es 3 l y el hematocrito es 0,40, ¿cuál volumen sanguíneo se obtiene?",
+      "exp": "Volumen sanguíneo = volumen plasmático / (1 - hematocrito): 3 / 0,60 = 5 l.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "3,0 l, porque el hematocrito no se usa para calcular volumen sanguíneo.",
+        "5,0 l, al dividir el plasma por 1 menos el hematocrito.",
+        "7,5 l, al dividir el plasma directamente por el hematocrito.",
+        "1,2 l, al multiplicar el plasma por el hematocrito.",
+        "4,2 l, al sumar plasma y porcentaje eritrocitario medido."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_012",
+      "q": "La membrana celular permite equilibrio osmótico entre LIC y LEC principalmente porque:",
+      "exp": "La membrana celular permite paso rápido de agua, pero es poco permeable a muchos solutos.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "es muy permeable al sodio y al cloro, pero poco permeable al agua.",
+        "permite difusión libre de proteínas plasmáticas hacia el citoplasma.",
+        "bloquea el agua hasta que cambie la presión hidrostática capilar.",
+        "transporta potasio fuera de la célula siempre que aumente el LEC.",
+        "es muy permeable al agua y relativamente impermeable a muchos solutos."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_013",
+      "q": "¿Cuál afirmación distingue mejor osmolaridad y osmolalidad en el contexto clínico?",
+      "exp": "Osmolaridad: osmoles/litro de solución; osmolalidad: osmoles/kg de agua.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "La osmolaridad usa litros de solución; la osmolalidad usa kilogramos de agua.",
+        "La osmolaridad mide solo solutos difusibles; la osmolalidad solo no difusibles.",
+        "La osmolalidad se aplica al plasma; la osmolaridad solo al líquido intracelular.",
+        "La osmolaridad excluye electrolitos; la osmolalidad excluye glucosa y urea.",
+        "Ambas se diferencian mucho en líquidos diluidos y no pueden intercambiarse."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_014",
+      "q": "Una solución de NaCl 0,9% se aproxima a la isotonicidad. ¿Por qué su osmolaridad real no es 308 mOsm/l?",
+      "exp": "El coeficiente osmótico del NaCl corrige la atracción interiónica, llevando el valor real a cerca de 286 mOsm/l.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Porque el sodio entra de inmediato en células y reduce el número de osmoles.",
+        "Porque el cloro se une por completo a proteínas y deja de ejercer presión.",
+        "Porque el agua plasmática rompe el NaCl en más de dos partículas por mol.",
+        "Porque la atracción interiónica reduce la actividad osmolar efectiva a cerca de 286 mOsm/l.",
+        "Porque el NaCl 0,9% contiene glucosa suficiente para equilibrar la solución."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_015",
+      "q": "¿Qué afirmación sobre los solutos osmolares corporales es más precisa?",
+      "exp": "En el LEC predominan Na+ y Cl-; en el LIC el K+ aporta una parte importante de la osmolaridad.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Las proteínas explican cerca de 80% de la osmolaridad total del LEC.",
+        "El calcio libre es el principal determinante osmolar del plasma normal.",
+        "Na+ y Cl- explican gran parte del LEC, mientras el K+ pesa mucho en el LIC.",
+        "La urea explica casi toda la osmolaridad efectiva entre LIC y LEC.",
+        "La glucosa es el soluto más abundante del intersticio en condiciones normales."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_016",
+      "q": "Al infundir solución salina isotónica, ¿qué efecto se espera tras el equilibrio osmótico?",
+      "exp": "La solución isotónica expande el LEC sin crear gradiente osmótico celular importante.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Aumento de LIC y disminución de LEC por entrada de NaCl a las células.",
+        "Aumento del LEC sin cambio importante del LIC ni de la osmolaridad.",
+        "Reducción de ambos compartimientos por estímulo osmótico de diuresis.",
+        "Aumento de osmolaridad en ambos compartimientos y contracción celular.",
+        "Disminución de osmolaridad con hinchazón celular predominante."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_017",
+      "q": "Después de administrar solución salina hipertónica, ¿qué patrón final es más compatible con el capítulo?",
+      "exp": "La solución hipertónica aumenta la osmolaridad extracelular y extrae agua del LIC hacia el LEC.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Disminuye el LEC, aumenta el LIC y baja la osmolaridad corporal.",
+        "Aumentan LIC y LEC por igual, sin cambio de osmolaridad.",
+        "Solo aumenta el plasma, porque el intersticio no intercambia sodio.",
+        "La solución se vuelve hipotónica al entrar NaCl en las células.",
+        "Aumenta el LEC, disminuye el LIC y sube la osmolaridad en ambos."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap25_018",
+      "q": "Una solución hipotónica agregada al LEC produce, tras el equilibrio:",
+      "exp": "La solución hipotónica baja la osmolaridad extracelular y parte del agua entra a las células.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "aumento del LEC y del LIC, con mayor expansión relativa del LIC.",
+        "reducción del LIC y aumento aislado del plasma intravascular.",
+        "expansión exclusiva del LEC porque el agua no cruza membranas.",
+        "aumento de osmolaridad en ambos compartimientos por retención de NaCl.",
+        "contracción de las células y aumento de tonicidad extracelular."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_019",
+      "q": "¿Qué ejemplo muestra por qué isoosmótico no siempre significa isotónico en estado estable?",
+      "exp": "La urea atraviesa membranas, por lo que su efecto sobre el volumen celular sostenido es pequeño.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "NaCl, porque atraviesa de inmediato la membrana celular y no cambia volumen.",
+        "Albúmina, porque difunde libremente y se reparte entre LIC y LEC.",
+        "Urea, porque puede igualarse entre compartimientos y perder efecto sostenido.",
+        "Potasio, porque es el principal ion extracelular y se mantiene fuera de células.",
+        "Bicarbonato, porque no participa en la osmolaridad plasmática."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_020",
+      "q": "Tras beber agua, ¿por qué el equilibrio osmótico corporal total no es instantáneo?",
+      "exp": "El agua cruza membranas rápido, pero debe absorberse y distribuirse por la circulación a todos los tejidos.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Porque el agua primero debe oxidarse para transformarse en agua metabólica.",
+        "Porque el agua entra por intestino y debe distribuirse por sangre a los tejidos.",
+        "Porque el sodio debe entrar al LIC antes de que el agua pueda moverse.",
+        "Porque la piel elimina toda el agua absorbida durante los primeros minutos.",
+        "Porque el plasma no permite ninguna difusión de agua hacia el intersticio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_021",
+      "q": "¿Por qué la glucosa al 5% puede corregir hiperosmolaridad sin comportarse como agua pura durante la infusión?",
+      "exp": "La glucosa al 5% es casi isoosmótica, pero al metabolizarse deja agua que reduce la osmolaridad extracelular.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Porque es casi isoosmótica al inicio y la glucosa luego entra en células y se metaboliza.",
+        "Porque contiene NaCl suficiente para expandir solo el compartimiento extracelular.",
+        "Porque la glucosa nunca atraviesa membranas celulares y permanece en plasma.",
+        "Porque aumenta la osmolaridad extracelular y extrae agua de las células.",
+        "Porque inhibe por completo la excreción renal de agua libre durante varias horas."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_022",
+      "q": "Un paciente presenta hiponatremia con volumen extracelular reducido. ¿Qué mecanismo primario encaja mejor?",
+      "exp": "Vómitos, diarrea, diuréticos o enfermedad de Addison pueden producir hiponatremia por pérdida de NaCl.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Exceso de secreción de ADH con retención pura de agua.",
+        "Pérdida primaria de NaCl por vómitos, diarrea o diuréticos.",
+        "Exceso de aldosterona con retención renal de sodio.",
+        "Administración rápida de solución salina hipertónica.",
+        "Diabetes insípida central con pérdida de agua libre."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_023",
+      "q": "¿Qué situación corresponde mejor a hiponatremia con sobrehidratación?",
+      "exp": "La ADH excesiva retiene agua, diluye el sodio y causa hiponatremia con sobrehidratación.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Falta de ADH con diuresis acuosa abundante.",
+        "Pérdida cutánea de agua durante ejercicio prolongado.",
+        "Retención excesiva de agua por secreción inadecuada de ADH.",
+        "Pérdida de sodio y agua por diarrea intensa no tratada.",
+        "Aumento de NaCl extracelular por mineralocorticoides."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_024",
+      "q": "La manifestación más peligrosa de una hiponatremia aguda se explica por:",
+      "exp": "En hiponatremia aguda entra agua a células encefálicas, pudiendo causar edema cerebral.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "salida de agua desde neuronas hacia un LEC hipertónico.",
+        "entrada de agua a células encefálicas con aumento de volumen intracraneal.",
+        "expansión del plasma sin cambios celulares relevantes.",
+        "pérdida de proteínas plasmáticas que reduce la presión coloidosmótica.",
+        "bloqueo linfático encefálico que aumenta proteínas intersticiales."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_025",
+      "q": "En hiponatremia crónica, el encéfalo reduce el edema celular principalmente porque:",
+      "exp": "En hiponatremia crónica las células encefálicas expulsan Na+, K+, Cl- y osmoles orgánicos para reducir la entrada de agua.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "aumenta la entrada de NaCl al interior neuronal.",
+        "bloquea la difusión de agua por la barrera hematoencefálica.",
+        "convierte el exceso de agua en líquido cefalorraquídeo.",
+        "expulsa Na+, K+, Cl- y osmoles orgánicos hacia el exterior celular.",
+        "aumenta la secreción de aldosterona solo en tejido nervioso."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_026",
+      "q": "¿Por qué la corrección rápida de una hiponatremia crónica puede ser peligrosa?",
+      "exp": "La corrección rápida puede causar lesión osmótica y desmielinización porque el encéfalo no recupera osmoles a tiempo.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Porque causa filtración capilar excesiva por aumento de presión venosa.",
+        "Porque impide la reabsorción renal de sodio y agrava la hiponatremia.",
+        "Porque el encéfalo recupera lentamente sus osmoles y puede sufrir desmielinización.",
+        "Porque bloquea la sed y reduce la secreción de ADH por varios días.",
+        "Porque transforma un edema con fóvea en edema sin fóvea generalizado."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_027",
+      "q": "¿Qué cuadro encaja mejor con hipernatremia por pérdida primaria de agua?",
+      "exp": "La diabetes insípida central o nefrógena impide conservar agua y puede causar hipernatremia por pérdida hídrica.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Síndrome nefrótico con pérdida urinaria de proteínas.",
+        "Diabetes insípida central o nefrógena con incapacidad de conservar agua.",
+        "Diarrea con pérdida predominante de cloruro de sodio.",
+        "SIADH con reabsorción renal excesiva de agua libre.",
+        "Cirrosis con ascitis por hipertensión portal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_028",
+      "q": "¿Por qué la hipernatremia grave suele aparecer en situaciones clínicas particulares?",
+      "exp": "La sed y la ADH protegen contra grandes aumentos de sodio, salvo si fallan o si no hay acceso al agua.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Porque la hipernatremia siempre activa edema cerebral protector.",
+        "Porque el Na+ extracelular se mueve con rapidez al interior celular.",
+        "Porque los riñones dejan de filtrar NaCl cuando aumenta la osmolaridad.",
+        "Porque normalmente la sed y la ADH limitan el aumento sostenido del sodio.",
+        "Porque el plasma elimina sodio por los capilares hacia espacios virtuales."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_029",
+      "q": "En una zona isquémica, ¿cuál secuencia explica mejor el edema intracelular?",
+      "exp": "La isquemia deprime bombas iónicas, acumula Na+ intracelular y atrae agua por ósmosis.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Aumenta el drenaje linfático, baja la presión intersticial y entra agua.",
+        "Baja el metabolismo, fallan bombas iónicas, se acumula Na+ intracelular y entra agua.",
+        "Sube la albúmina plasmática, se contrae el intersticio y entra líquido al LIC.",
+        "Aumenta el NaCl extracelular, sale agua de células y luego vuelve por filtración.",
+        "Se bloquean proteoglucanos, aparece líquido libre y se forma ascitis."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_030",
+      "q": "¿Cuál afirmación resume mejor las dos vías generales del edema extracelular?",
+      "exp": "El edema extracelular aparece por filtración capilar excesiva o por drenaje linfático insuficiente.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Aumento de agua intracelular y bloqueo de bombas sodio-potasio.",
+        "Disminución de osmolaridad plasmática y contracción de espacios virtuales.",
+        "Fuga capilar excesiva al intersticio o drenaje linfático insuficiente.",
+        "Aumento de hematocrito y reducción del volumen plasmático efectivo.",
+        "Paso de proteínas al LIC y aumento de actividad metabólica celular."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_031",
+      "q": "Según los determinantes de filtración capilar, ¿qué cambio favorece edema por aumento de filtración?",
+      "exp": "El aumento de Kf, de presión capilar o la reducción de presión coloidosmótica plasmática favorecen filtración.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Disminución de la presión hidrostática capilar.",
+        "Aumento de la presión coloidosmótica plasmática.",
+        "Aumento del coeficiente de filtración capilar.",
+        "Disminución de la permeabilidad capilar a líquidos.",
+        "Reducción de la presión coloidosmótica intersticial."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_032",
+      "q": "En un linfedema intenso, ¿por qué la acumulación de líquido puede volverse especialmente marcada?",
+      "exp": "El bloqueo linfático retiene proteínas intersticiales, aumenta la presión coloidosmótica local y atrae más agua.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Porque se elimina todo el sodio intersticial y entra agua al LIC.",
+        "Porque no se retiran bien proteínas intersticiales y aumenta la presión coloidosmótica local.",
+        "Porque la presión venosa siempre baja por debajo de la presión atmosférica.",
+        "Porque la albúmina plasmática sube y arrastra agua fuera del capilar.",
+        "Porque la filtración glomerular aumenta y elimina demasiado NaCl."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_033",
+      "q": "Un paciente con infección por Wuchereria bancrofti presenta elefantiasis. ¿Qué mecanismo inmediato del edema se relaciona con este cuadro?",
+      "exp": "La filariasis puede obstruir vasos linfáticos y producir linfedema grave.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Bloqueo u obstrucción linfática por filarias adultas.",
+        "Pérdida urinaria masiva de albúmina por síndrome nefrótico.",
+        "Disminución de aldosterona con pérdida renal de sodio.",
+        "Retención de agua por secreción inadecuada de ADH.",
+        "Aumento aislado de permeabilidad por déficit de vitamina C."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_034",
+      "q": "¿Qué combinación clasifica correctamente causas frecuentes de edema extracelular?",
+      "exp": "Las grandes categorías son: presión capilar alta, proteínas plasmáticas bajas, permeabilidad alta y bloqueo linfático.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Presión capilar alta, baja proteína plasmática, permeabilidad capilar alta y bloqueo linfático.",
+        "Presión capilar baja, proteína plasmática alta, permeabilidad baja y exceso linfático.",
+        "Hipernatremia aislada, hematocrito alto, urea elevada y glucosa baja.",
+        "Tonicidad alta, filtración glomerular alta, sed intensa y ADH baja.",
+        "Contracción celular, aumento de proteoglucanos, alcalosis y pH alto."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_035",
+      "q": "En insuficiencia cardíaca no tratada, ¿por qué el edema tiende a ser intenso y generalizado?",
+      "exp": "La insuficiencia cardíaca eleva presiones venosas/capilares y activa retención renal de sal y agua.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Porque el corazón aumenta la presión arterial y bloquea la ADH.",
+        "Porque el riñón elimina sodio en exceso y reduce el volumen extracelular.",
+        "Porque solo cae la permeabilidad capilar, acumulando líquido en el plasma.",
+        "Porque suben presión venosa/capilar y retención renal de sal y agua por RAAS.",
+        "Porque disminuye la presión capilar pulmonar y aumenta la linfa."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_036",
+      "q": "Un niño con glomerulonefritis aguda desarrolla edema e hipertensión. ¿Qué relación fisiopatológica es más directa?",
+      "exp": "En glomerulonefritis se reduce la filtración adecuada, se retienen sal y agua y aparecen edema e hipertensión.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Destrucción de eritrocitos con liberación de potasio intracelular.",
+        "Retención renal de sal y agua por reducción de filtración adecuada.",
+        "Pérdida de todos los linfáticos periféricos por inflamación bacteriana.",
+        "Disminución primaria del sodio plasmático por secreción alta de ADH.",
+        "Contracción celular por aumento rápido de sodio plasmático."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_037",
+      "q": "¿Qué situación favorece edema por reducción de la presión coloidosmótica plasmática?",
+      "exp": "El síndrome nefrótico pierde proteínas por orina, reduce presión coloidosmótica plasmática y favorece edema.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Síndrome nefrótico con pérdida urinaria de proteínas plasmáticas.",
+        "Fallo venoso con aumento aislado de presión hidrostática capilar.",
+        "Ejercicio intenso con elevación de la presión linfática.",
+        "Infusión lenta de glucosa al 5% en deshidratación.",
+        "Aumento transitorio de hematocrito por centrifugación incompleta."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_038",
+      "q": "En la cirrosis, la ascitis puede explicarse mejor por la suma de:",
+      "exp": "La cirrosis reduce síntesis de proteínas y puede aumentar presión portal, favoreciendo ascitis.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "hiponatremia aguda y contracción de células encefálicas.",
+        "aumento de proteínas plasmáticas y aumento de flujo linfático.",
+        "pérdida de agua libre y aumento de concentración de sodio.",
+        "menor síntesis de proteínas y aumento de presión capilar portal.",
+        "bloqueo de ADH y diuresis acuosa con deshidratación."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_039",
+      "q": "¿Cuál es el valor aproximado de la protección total contra edema aportada por los mecanismos de seguridad?",
+      "exp": "Los mecanismos suman cerca de 17 mmHg: 3 mmHg + 7 mmHg + 7 mmHg.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "17 mmHg, por baja distensibilidad, aumento de linfa y lavado de proteínas.",
+        "3 mmHg, exclusivamente por baja distensibilidad intersticial.",
+        "7 mmHg, solamente por aumento del flujo linfático.",
+        "10 mmHg, por suma de presión linfática y hematocrito.",
+        "30 mmHg, por aumento de la presión coloidosmótica plasmática."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_040",
+      "q": "Mientras la presión del líquido intersticial es negativa, la baja distensibilidad tisular protege contra edema porque:",
+      "exp": "Con presión intersticial negativa, poco líquido aumenta mucho la presión y se opone a mayor filtración.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "un pequeño aumento de volumen eleva mucho la presión intersticial y se opone a la filtración.",
+        "la albúmina intersticial aumenta y retiene líquido dentro del capilar.",
+        "los capilares dejan de filtrar agua mientras la presión venosa sea normal.",
+        "el NaCl entra al LIC y reduce la fuerza osmótica extracelular.",
+        "la linfa se bloquea para impedir la pérdida de proteínas tisulares."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_041",
+      "q": "¿Qué característica diferencia mejor edema con fóvea de edema sin fóvea?",
+      "exp": "La fóvea aparece por líquido libre desplazable en el intersticio.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "El edema con fóvea depende solo de hinchazón celular intracelular.",
+        "El edema sin fóvea siempre indica hiponatremia aguda encefálica.",
+        "La fóvea aparece cuando hay líquido intersticial libre que se desplaza con presión.",
+        "La fóvea ocurre solo si la albúmina plasmática supera 2,5 g/100 ml.",
+        "El edema sin fóvea se define por acumulación de líquido ascítico abdominal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_042",
+      "q": "Aunque los proteoglucanos intersticiales dificultan el flujo libre de líquido, la nutrición tisular no se altera mucho porque:",
+      "exp": "Los proteoglucanos frenan el flujo de masa, pero la difusión de solutos sigue casi normal.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "la difusión de solutos en el líquido intersticial sigue siendo casi normal.",
+        "los proteoglucanos sustituyen la función de los capilares en el intercambio.",
+        "el líquido intersticial se vuelve completamente inmóvil e hipertónico.",
+        "los linfáticos transportan oxígeno directamente al interior celular.",
+        "las proteínas plasmáticas atraviesan libremente las membranas celulares."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_043",
+      "q": "Cuando empieza a acumularse líquido intersticial, ¿cómo contribuye el sistema linfático a evitar edema?",
+      "exp": "El flujo linfático puede aumentar 10-50 veces y retirar líquido y proteínas.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Reduce la presión coloidosmótica plasmática para retener líquido capilar.",
+        "Aumenta 10-50 veces su flujo para retirar líquido y proteínas filtradas.",
+        "Cierra los espacios virtuales y evita todo intercambio con capilares.",
+        "Convierte el líquido libre en gel mediante producción de fibrinógeno.",
+        "Estimula entrada de sodio al LIC para bajar el volumen extracelular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_044",
+      "q": "El lavado de proteínas intersticiales protege contra edema porque:",
+      "exp": "Al lavar proteínas intersticiales baja la presión coloidosmótica intersticial y disminuye la filtración.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "aumenta la presión coloidosmótica intersticial y retiene agua en tejido.",
+        "impide que los capilares filtren sodio y cloro hacia el intersticio.",
+        "eleva la albúmina plasmática por síntesis hepática inmediata.",
+        "reduce la presión coloidosmótica intersticial y disminuye la fuerza de filtración.",
+        "transforma el líquido de edema en líquido intracelular no desplazable."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_045",
+      "q": "¿Qué descripción corresponde mejor a los espacios virtuales corporales?",
+      "exp": "Los espacios virtuales tienen superficies casi en contacto y una fina película lubricante.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Cavidades con superficies casi en contacto, lubricadas por fina capa de líquido proteináceo.",
+        "Compartimientos cerrados sin intercambio de líquidos, electrolitos ni proteínas.",
+        "Regiones intracelulares que solo contienen agua metabólica y potasio.",
+        "Espacios vasculares que contienen eritrocitos y determinan el hematocrito.",
+        "Zonas con presión siempre positiva que no dependen del drenaje linfático."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_046",
+      "q": "Cuando se acumula líquido de edema en un espacio virtual, ¿cómo se denomina y cuál ejemplo es clásico?",
+      "exp": "El líquido de edema en espacios virtuales se llama derrame; en abdomen, ascitis.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Linfedema; ejemplo clásico: tumefacción por filarias en vasos linfáticos.",
+        "Derrame; en cavidad abdominal se denomina ascitis.",
+        "Hematocrito; ejemplo clásico: plasma atrapado entre eritrocitos.",
+        "Gel intersticial; ejemplo clásico: proteoglucanos bajo presión negativa.",
+        "Hiponatremia; ejemplo clásico: SIADH con sobrehidratación."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap25_047",
+      "q": "¿Qué dato sobre espacios virtuales apoya que se comporten como espacios tisulares grandes?",
+      "exp": "Su membrana ofrece poca resistencia al paso de líquidos, electrolitos y proteínas.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "Su membrana superficial ofrece poca resistencia al paso de líquidos, electrolitos y proteínas.",
+        "No poseen vasos linfáticos y por eso nunca acumulan proteínas.",
+        "El líquido de sus cavidades siempre tiene presión hidrostática positiva.",
+        "Sus proteínas no provienen de capilares sino de células musculares.",
+        "Su volumen se calcula por hematocrito y volumen plasmático."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap25_048",
+      "q": "En un tejido inflamado, el edema intracelular puede surgir porque la inflamación:",
+      "exp": "La inflamación aumenta permeabilidad celular y permite entrada de iones con agua.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "disminuye la permeabilidad celular al sodio y bloquea la entrada de agua.",
+        "aumenta la presión coloidosmótica plasmática y contrae las células.",
+        "aumenta la permeabilidad de membranas celulares y permite entrada de iones y agua.",
+        "reduce el espacio intersticial hasta impedir el paso de nutrientes.",
+        "disminuye la osmolaridad intracelular por salida obligatoria de potasio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap25_049",
+      "q": "Al infundir 2 l de NaCl al 3% en un adulto de 70 kg con osmolaridad inicial de 280 mOsm/l, ¿qué resultado final aproxima el ejemplo del capítulo?",
+      "exp": "El ejemplo del capítulo da aproximadamente LEC 19,02 l, LIC 24,98 l y osmolaridad 313,9 mOsm/l.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "LEC 14 l, LIC 28 l y osmolaridad 280 mOsm/l.",
+        "LEC 16 l, LIC 28 l y osmolaridad 373 mOsm/l.",
+        "LEC 11 l, LIC 31 l y osmolaridad 314 mOsm/l.",
+        "LEC 19 l, LIC 25 l y osmolaridad cercana a 314 mOsm/l.",
+        "LEC 24 l, LIC 19 l y osmolaridad cercana a 286 mOsm/l."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap25_050",
+      "q": "¿Cuál razonamiento ayuda más a diferenciar hiponatremia por pérdida de sal de hiponatremia por exceso de agua?",
+      "exp": "La pérdida de sal reduce LEC; el exceso de agua diluye sodio y tiende a expandir agua corporal.",
+      "topic": "Capítulo 25 - Compartimientos del líquido corporal: líquido extracelular, intracelular y edema",
+      "options": [
+        "La primera tiende a reducir el LEC; la segunda tiende a aumentar el agua corporal y diluir el sodio.",
+        "La primera siempre causa hipernatremia; la segunda siempre produce contracción celular.",
+        "Ambas son iguales porque dependen solo del sodio total y no del volumen de agua.",
+        "La pérdida de sal siempre aumenta el LIC; el exceso de agua siempre reduce el LIC.",
+        "La concentración de sodio no orienta el estado hídrico ni el compartimiento afectado."
+      ],
+      "answer": 0
+    }
+  ]
+}

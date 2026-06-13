@@ -1,0 +1,157 @@
+{
+  "key": "micro_para_03_trypanosoma",
+  "title": "Trypanosoma",
+  "subtitle": "Parasitología · 10 preguntas · Fuente: 3 Unidad XVI.2 Trypanosoma.pdf",
+  "questions": [
+    {
+      "id": "micro_para_03_trypanosoma_001",
+      "q": "La enfermedad de Chagas se produce por:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Trypanosoma cruzi.” porque, dentro de UNIDAD XVI.2 - Trypanosoma, ese dato encaja con el tema de protozoología/parasitología: protozoo causante de Chagas americano, transmitido principalmente por triatominos. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Trypanosoma brucei gambiense.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Trypanosoma cruzi.”.\nb) No. El concepto de esta alternativa es “Trypanosoma rangeli exclusivamente.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Trypanosoma cruzi.”.\nc) No. Esta alternativa se refiere a “Leishmania infantum.”: protozoo transmitido por flebótomos, con formas promastigote en vector y amastigote en macrófagos humanos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Trypanosoma cruzi.”.\nd) Correcta. “Trypanosoma cruzi.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esa opción apunta a “Plasmodium falciparum.”: protozoo causante de paludismo/malaria; se transmite usualmente por mosquito Anopheles hembra. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Trypanosoma cruzi.”.",
+      "topic": "Parasitología - Trypanosoma",
+      "options": [
+        "Trypanosoma brucei gambiense.",
+        "Trypanosoma rangeli exclusivamente.",
+        "Leishmania infantum.",
+        "Trypanosoma cruzi.",
+        "Plasmodium falciparum."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_03_trypanosoma_002",
+      "q": "El mecanismo vectorial principal de Chagas ocurre cuando:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Heces de triatomino contaminan piel lesionada o mucosas.” porque, dentro de UNIDAD XVI.2 - Trypanosoma, ese dato encaja con el tema de protozoología/parasitología: insecto vector de T. cruzi; la infección ocurre por contaminación con heces infectantes cerca de la picadura o mucosas. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Heces de triatomino contaminan piel lesionada o mucosas.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esta alternativa se refiere a “La vinchuca inocula larvas por saliva siempre.”: nombre común de triatominos transmisores de Chagas. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Heces de triatomino contaminan piel lesionada o mucosas.”.\nc) No. Aquí se está describiendo “El mosquito Anopheles deposita ooquistes.”: artrópodo vector; puede transmitir arbovirus o Plasmodium según el género y contexto. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Heces de triatomino contaminan piel lesionada o mucosas.”.\nd) No. Esa opción apunta a “El caracol libera cercarias al agua.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Heces de triatomino contaminan piel lesionada o mucosas.”.\ne) No. Lo que menciona esta opción corresponde a “La pulga transmite proglotides.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Heces de triatomino contaminan piel lesionada o mucosas.”.",
+      "topic": "Parasitología - Trypanosoma",
+      "options": [
+        "Heces de triatomino contaminan piel lesionada o mucosas.",
+        "La vinchuca inocula larvas por saliva siempre.",
+        "El mosquito Anopheles deposita ooquistes.",
+        "El caracol libera cercarias al agua.",
+        "La pulga transmite proglotides."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_03_trypanosoma_003",
+      "q": "La forma intracélular tisular de T. cruzi es:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Amastigote.” porque, dentro de UNIDAD XVI.2 - Trypanosoma, ese dato encaja con el tema de protozoología/parasitología: forma intracelular sin flagelo visible que se multiplica en tejidos en Chagas o Leishmania. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Ooquiste.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Amastigote.”.\nb) No. Aquí se está describiendo “Metacercaria.”: forma enquistada infectante de trematodos como Fasciola en vegetación acuática. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Amastigote.”.\nc) Correcta. “Amastigote.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Lo que menciona esta opción corresponde a “Plerocercoide.”: larva infectante de Diphyllobothrium latum en pescado crudo o mal cocido. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Amastigote.”.\ne) No. El concepto de esta alternativa es “Hipnozoito.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Amastigote.”.",
+      "topic": "Parasitología - Trypanosoma",
+      "options": [
+        "Ooquiste.",
+        "Metacercaria.",
+        "Amastigote.",
+        "Plerocercoide.",
+        "Hipnozoito."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_03_trypanosoma_004",
+      "q": "En sangre periférica durante fase aguda de Chagas se puede buscar:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Tripomastigotes.” porque, dentro de UNIDAD XVI.2 - Trypanosoma, ese dato encaja con el tema de protozoología/parasitología: forma de Trypanosoma observable en sangre, especialmente en fase aguda. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Huevos mamelonados.”: huevos típicos de Ascaris; no son hallazgo citológico de herpes. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tripomastigotes.”.\nb) No. Esa opción apunta a “Quistes hidatidicos.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tripomastigotes.”.\nc) No. Lo que menciona esta opción corresponde a “Cercarias.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tripomastigotes.”.\nd) No. El concepto de esta alternativa es “Pentonas.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tripomastigotes.”.\ne) Correcta. “Tripomastigotes.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Parasitología - Trypanosoma",
+      "options": [
+        "Huevos mamelonados.",
+        "Quistes hidatidicos.",
+        "Cercarias.",
+        "Pentonas.",
+        "Tripomastigotes."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_03_trypanosoma_005",
+      "q": "El signo de Romana se relaciona con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Edema palpebral unilateral por puerta de entrada conjuntival.” porque, dentro de UNIDAD XVI.2 - Trypanosoma, ese dato encaja con el tema de protozoología/parasitología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Ulceracion nasal mucocutanea.”: forma de leishmaniasis que puede destruir mucosas y causar desfiguración. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Edema palpebral unilateral por puerta de entrada conjuntival.”.\nb) Correcta. “Edema palpebral unilateral por puerta de entrada conjuntival.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. El concepto de esta alternativa es “Vesiculas en dermatoma.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Edema palpebral unilateral por puerta de entrada conjuntival.”.\nd) No. Esta alternativa se refiere a “Mordedura de serpiente coral.”: vía de exposición típica para rabia u ofidismo según el contexto; el significado depende del agente. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Edema palpebral unilateral por puerta de entrada conjuntival.”.\ne) No. Aquí se está describiendo “Diarrea por Giardia.”: flagelado intestinal que se adhiere al duodeno/yeyuno y causa malabsorción, diarrea fétida y meteorismo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Edema palpebral unilateral por puerta de entrada conjuntival.”.",
+      "topic": "Parasitología - Trypanosoma",
+      "options": [
+        "Ulceracion nasal mucocutanea.",
+        "Edema palpebral unilateral por puerta de entrada conjuntival.",
+        "Vesiculas en dermatoma.",
+        "Mordedura de serpiente coral.",
+        "Diarrea por Giardia."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_03_trypanosoma_006",
+      "q": "En la fase crónica de Chagas, una complicacion clásica es:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Cardiomiopatia dilatada y trastornos de conduccion.” porque, dentro de UNIDAD XVI.2 - Trypanosoma, ese dato encaja con el tema de protozoología/parasitología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Bronquiolitis por sincitios.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Cardiomiopatia dilatada y trastornos de conduccion.”.\nb) No. El concepto de esta alternativa es “Condiloma acuminado.”: verruga anogenital vinculada típicamente a HPV mucoso de bajo riesgo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Cardiomiopatia dilatada y trastornos de conduccion.”.\nc) No. Esta alternativa se refiere a “Anemia megaloblastica por pescado.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Cardiomiopatia dilatada y trastornos de conduccion.”.\nd) Correcta. “Cardiomiopatia dilatada y trastornos de conduccion.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esa opción apunta a “Hidrofobia.”: signo neurológico clásico de rabia por espasmos faríngeos y disfunción del SNC. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Cardiomiopatia dilatada y trastornos de conduccion.”.",
+      "topic": "Parasitología - Trypanosoma",
+      "options": [
+        "Bronquiolitis por sincitios.",
+        "Condiloma acuminado.",
+        "Anemia megaloblastica por pescado.",
+        "Cardiomiopatia dilatada y trastornos de conduccion.",
+        "Hidrofobia."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_03_trypanosoma_007",
+      "q": "Otra manifestacion digestiva crónica de Chagas es:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Megaesofago o megacolon.” porque, dentro de UNIDAD XVI.2 - Trypanosoma, ese dato encaja con el tema de protozoología/parasitología: manifestación digestiva crónica de Chagas por daño del plexo entérico. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Colitis por huevos de Schistosoma.”: trematodo sanguíneo cuyas cercarias penetran activamente la piel y cuyos huevos causan inflamación. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Megaesofago o megacolon.”.\nb) No. Esta alternativa se refiere a “Ictericia por Fasciola.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Megaesofago o megacolon.”.\nc) Correcta. “Megaesofago o megacolon.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esa opción apunta a “Enteritis por rotavirus.”: virus de diarrea infantil por Reoviridae; no infecta queratinocitos ni produce verrugas. No debe marcarse porque lleva la explicación hacia virología, no hacia el parásito o helminto preguntado. En cambio, la respuesta correcta exige reconocer “Megaesofago o megacolon.”.\ne) No. Lo que menciona esta opción corresponde a “Apendicitis por Ascaris.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Megaesofago o megacolon.”.",
+      "topic": "Parasitología - Trypanosoma",
+      "options": [
+        "Colitis por huevos de Schistosoma.",
+        "Ictericia por Fasciola.",
+        "Megaesofago o megacolon.",
+        "Enteritis por rotavirus.",
+        "Apendicitis por Ascaris."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_03_trypanosoma_008",
+      "q": "Para diagnóstico crónico de Chagas se prefiere:",
+      "exp": "La pregunta está evaluando qué prueba o hallazgo confirma mejor el agente o el cuadro señalado. La opción correcta es “Serologia con pruebas diferentes.” porque, dentro de UNIDAD XVI.2 - Trypanosoma, ese dato encaja con el tema de protozoología/parasitología: la búsqueda de anticuerpos o antígenos; es útil en varias infecciones, pero depende de la fase y del agente. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Serologia con pruebas diferentes.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Aquí se está describiendo “Gota gruesa unica.”: un método parasitológico para malaria: concentra sangre y aumenta la sensibilidad para ver parásitos. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Serologia con pruebas diferentes.”.\nc) No. Esa opción apunta a “Cinta adhesiva perianal.”: la prueba de Graham; recoge huevos de Enterobius alrededor del ano por la mañana. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Serologia con pruebas diferentes.”.\nd) No. Lo que menciona esta opción corresponde a “Cultivo de garganta.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Serologia con pruebas diferentes.”.\ne) No. El concepto de esta alternativa es “Papanicolau.”: una prueba citológica cervical útil para detectar alteraciones por HPV, como coilocitosis o lesiones intraepiteliales. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Serologia con pruebas diferentes.”.",
+      "topic": "Parasitología - Trypanosoma",
+      "options": [
+        "Serologia con pruebas diferentes.",
+        "Gota gruesa unica.",
+        "Cinta adhesiva perianal.",
+        "Cultivo de garganta.",
+        "Papanicolau."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_03_trypanosoma_009",
+      "q": "Trypanosoma rangeli es importante porque:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Puede confundirse epidemiologicamente con T. cruzi y es poco patogeno.” porque, dentro de UNIDAD XVI.2 - Trypanosoma, ese dato encaja con el tema de protozoología/parasitología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Produce siempre cardiopatia mortal.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Puede confundirse epidemiologicamente con T. cruzi y es poco patogeno.”.\nb) No. Esa opción apunta a “Es transmitido por Anopheles.”: mosquito hembra transmisor habitual de malaria. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Puede confundirse epidemiologicamente con T. cruzi y es poco patogeno.”.\nc) No. Lo que menciona esta opción corresponde a “Genera quistes musculares.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Puede confundirse epidemiologicamente con T. cruzi y es poco patogeno.”.\nd) No. El concepto de esta alternativa es “Causa sarcoma de Kaposi.”: neoplasia asociada a VHH-8, sobre todo en inmunodepresión. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Puede confundirse epidemiologicamente con T. cruzi y es poco patogeno.”.\ne) Correcta. “Puede confundirse epidemiologicamente con T. cruzi y es poco patogeno.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Parasitología - Trypanosoma",
+      "options": [
+        "Produce siempre cardiopatia mortal.",
+        "Es transmitido por Anopheles.",
+        "Genera quistes musculares.",
+        "Causa sarcoma de Kaposi.",
+        "Puede confundirse epidemiologicamente con T. cruzi y es poco patogeno."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_para_03_trypanosoma_010",
+      "q": "La tripanosomiasis africana se asocia con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “T. brucei y mosca tsetse.” porque, dentro de UNIDAD XVI.2 - Trypanosoma, ese dato encaja con el tema de protozoología/parasitología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “T. cruzi y vinchuca.”: nombre común de triatominos transmisores de Chagas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “T. brucei y mosca tsetse.”.\nb) Correcta. “T. brucei y mosca tsetse.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. El concepto de esta alternativa es “Leishmania y flebotomo.”: protozoo transmitido por flebótomos, con formas promastigote en vector y amastigote en macrófagos humanos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “T. brucei y mosca tsetse.”.\nd) No. Esta alternativa se refiere a “Plasmodium y Anopheles.”: mosquito hembra transmisor habitual de malaria. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “T. brucei y mosca tsetse.”.\ne) No. Aquí se está describiendo “Toxoplasma y gato.”: hospedador definitivo de Toxoplasma gondii y fuente de ooquistes por heces. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “T. brucei y mosca tsetse.”.",
+      "topic": "Parasitología - Trypanosoma",
+      "options": [
+        "T. cruzi y vinchuca.",
+        "T. brucei y mosca tsetse.",
+        "Leishmania y flebotomo.",
+        "Plasmodium y Anopheles.",
+        "Toxoplasma y gato."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "key": "fisio_renal_cap30",
+  "title": "Capítulo 30",
+  "subtitle": "Potasio, calcio, fosfato, magnesio y volumen extracelular",
+  "questions": [
+    {
+      "id": "fisio_renal_cap30_001",
+      "q": "Un paciente recibe una carga oral de potasio después de una comida. Si ese potasio permaneciera en el líquido extracelular, la concentración plasmática podría elevarse mucho. ¿Qué mecanismo evita primero ese aumento brusco antes de la eliminación renal?",
+      "exp": "La redistribución hacia el líquido intracelular es la primera defensa contra cambios rápidos del K+ extracelular, porque más del 98% del K+ corporal está dentro de las células.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Aumento inmediato de la filtración glomerular hasta eliminar todo el potasio absorbido.",
+        "Secreción intestinal rápida de potasio hacia la luz antes de que llegue al plasma.",
+        "Desplazamiento del potasio hacia el interior celular, que actúa como reserva transitoria.",
+        "Conversión hepática del potasio en urea para facilitar su eliminación urinaria.",
+        "Unión irreversible del potasio a proteínas plasmáticas para reducir su actividad eléctrica."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_002",
+      "q": "Un paciente diabético con deficiencia de insulina presenta tendencia a hiperpotasemia después de comer. ¿Cuál explicación fisiológica es la más adecuada?",
+      "exp": "La insulina favorece la entrada de K+ en las células. Cuando falta, el K+ ingerido permanece más en el líquido extracelular y puede aumentar la potasemia.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "La deficiencia de insulina impide la filtración glomerular normal del potasio.",
+        "La falta de insulina reduce la captación celular de potasio tras la carga alimentaria.",
+        "La insulina normalmente expulsa potasio desde las células hacia el plasma.",
+        "La diabetes transforma potasio intracelular en sodio extracelular por ósmosis.",
+        "La insulina solo actúa en el intestino y aumenta la excreción fecal de potasio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_003",
+      "q": "Un paciente tratado con un bloqueante beta presenta mayor riesgo de hiperpotasemia después de ejercicio intenso. ¿Qué combinación explica mejor este riesgo?",
+      "exp": "El ejercicio prolongado libera K+ del músculo. La estimulación beta2 favorece la captación celular de K+; al bloquearla, aumenta la tendencia a hiperpotasemia.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "El bloqueo beta aumenta aldosterona y favorece lisis eritrocitaria generalizada.",
+        "El ejercicio inhibe la bomba Na+-K+ y el beta-bloqueo aumenta la excreción renal.",
+        "El músculo capta potasio durante el ejercicio y el beta-bloqueo impide su filtración.",
+        "El ejercicio libera K+ desde músculo y el bloqueo beta reduce su captación celular.",
+        "El beta-bloqueo activa canales ROMK y evita que el potasio salga por la orina."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_004",
+      "q": "Durante una acidosis metabólica aguda, se observa aumento del potasio extracelular. ¿Cuál mecanismo contribuye a este cambio?",
+      "exp": "El aumento agudo de H+ reduce la actividad de la bomba Na+-K+ ATPasa, disminuye la captación celular de K+ y eleva su concentración extracelular.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Disminución de la actividad de la ATPasa Na+-K+, con menor captación celular de K+.",
+        "Aumento de la secreción de aldosterona con desplazamiento de K+ al líquido tubular.",
+        "Activación de la absorción intestinal de K+ por aumento del pH intracelular.",
+        "Bloqueo de la difusión de K+ desde el músculo hacia el líquido extracelular.",
+        "Estimulación directa de los receptores V2 para retener K+ en la sangre."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_005",
+      "q": "Un paciente con traumatismo muscular extenso desarrolla hiperpotasemia. ¿Cuál interpretación integra mejor la fisiología del capítulo?",
+      "exp": "Como el K+ está predominantemente dentro de las células, la destrucción de muchas células libera K+ al líquido extracelular y puede causar hiperpotasemia acentuada.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "La lesión muscular aumenta la secreción distal de K+, pero reduce su filtración glomerular.",
+        "El músculo lesionado transforma sodio extracelular en potasio y eleva la osmolaridad.",
+        "La destrucción celular reduce la concentración intracelular de proteínas y causa hipopotasemia.",
+        "El daño muscular inhibe selectivamente los canales BK del túbulo colector cortical.",
+        "La lisis celular libera gran cantidad de K+ intracelular hacia el compartimiento extracelular."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_006",
+      "q": "Un aumento de la osmolaridad extracelular puede elevar la concentración extracelular de potasio. ¿Cuál es la secuencia más coherente?",
+      "exp": "La hiperosmolaridad extracelular extrae agua de las células, aumenta la concentración intracelular de K+ y favorece su salida al líquido extracelular.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Entrada de agua a la célula, dilución intracelular de K+ y salida pasiva de sodio.",
+        "Salida de agua de la célula, aumento de K+ intracelular y difusión de K+ hacia afuera.",
+        "Bloqueo de la aldosterona, menor filtración de K+ y retención tubular proximal.",
+        "Entrada de cloro al túbulo distal, activación de PTH y secreción de potasio.",
+        "Reducción de la osmolaridad medular, aumento de ADH y pérdida fecal de K+."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_007",
+      "q": "En condiciones normales, la mayor parte de la variación diaria en la excreción renal de potasio depende principalmente de:",
+      "exp": "El túbulo proximal y el asa de Henle reabsorben fracciones relativamente constantes. El control fino diario ocurre sobre todo por secreción distal/colectora.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Cambios en la secreción de K+ en la porción final del túbulo distal y colector cortical.",
+        "Variaciones amplias de la reabsorción de K+ en el túbulo proximal.",
+        "Ajustes de la filtración de K+ por unión variable a proteínas plasmáticas.",
+        "Secreción de K+ en el asa descendente de Henle durante la antidiuresis.",
+        "Excreción fecal, que elimina la mayor parte del potasio ingerido cada día."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_008",
+      "q": "Una dieta extremadamente rica en potasio puede hacer que la excreción urinaria de K+ supere la cantidad filtrada. ¿Qué indica este dato?",
+      "exp": "Si se excreta más K+ que el filtrado, debe existir secreción tubular neta; esta ocurre sobre todo en células principales del túbulo distal tardío y colector cortical.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "El glomérulo secreta potasio activamente cuando se satura el túbulo proximal.",
+        "La reabsorción intestinal de potasio se vuelve negativa durante la carga alimentaria.",
+        "La filtración de potasio deja de depender de la concentración plasmática.",
+        "La secreción tubular distal puede añadir K+ al líquido tubular de forma importante.",
+        "El potasio urinario procede principalmente de degradación de urea en la médula."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_009",
+      "q": "En las células principales, ¿cuál es el primer paso esencial para secretar potasio hacia la luz tubular?",
+      "exp": "La ATPasa Na+-K+ basolateral introduce K+ en la célula y crea una concentración intracelular alta que favorece su difusión luminal.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Entrada luminal de K+ por canales ROMK y salida por ENaC hacia el intersticio.",
+        "Captación basolateral de K+ mediada por la ATPasa Na+-K+.",
+        "Conversión intracelular de K+ en H+ por la anhidrasa carbónica.",
+        "Secreción de Na+ hacia la luz para arrastrar K+ por ósmosis.",
+        "Filtración de K+ a través de la membrana basal glomerular distal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_010",
+      "q": "La aldosterona aumenta la secreción de potasio por las células principales. ¿Qué combinación de acciones explica mejor este efecto?",
+      "exp": "La aldosterona aumenta la captación celular de K+ por ATPasa Na+-K+ y eleva la permeabilidad luminal al K+, facilitando su secreción.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Inhibe ENaC y disminuye la carga negativa de la luz tubular.",
+        "Reduce la ATPasa Na+-K+ y bloquea canales ROMK luminales.",
+        "Aumenta la secreción de ADH y reduce el flujo tubular distal.",
+        "Activa la PTH y aumenta la reabsorción de K+ en el túbulo proximal.",
+        "Estimula la ATPasa Na+-K+ basolateral y aumenta canales de K+ luminales."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_011",
+      "q": "En una pérdida acentuada de potasio, el riñón puede reducir mucho la excreción de K+. ¿Qué célula participa especialmente en la reabsorción distal de potasio?",
+      "exp": "Durante pérdidas importantes de K+, las células intercaladas tipo A pueden reabsorber K+ mediante una H+-K+ ATPasa luminal.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Célula mesangial extraglomerular.",
+        "Célula principal del túbulo proximal.",
+        "Célula intercalada tipo A.",
+        "Podocito de la cápsula de Bowman.",
+        "Célula yuxtaglomerular secretora de renina."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_012",
+      "q": "Un aumento de la concentración extracelular de potasio estimula la secreción renal de K+ por varios mecanismos. ¿Cuál opción expresa uno de ellos?",
+      "exp": "El K+ extracelular elevado estimula la ATPasa Na+-K+, aumenta el K+ intracelular, reduce la retrodifusión basolateral y favorece la secreción luminal.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Aumenta la captación basolateral de K+ y reduce su retrodifusión desde la célula.",
+        "Disminuye la síntesis de canales luminales para limitar el exceso de excreción.",
+        "Bloquea la aldosterona, evitando efectos redundantes sobre los colectores.",
+        "Convierte las células principales en células intercaladas tipo A permanentes.",
+        "Reduce el gradiente de difusión luminal y obliga a secretar K+ activamente."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_013",
+      "q": "Un paciente con enfermedad de Addison tiene riesgo de hiperpotasemia. ¿Cuál explicación es la más correcta según el sistema aldosterona-potasio?",
+      "exp": "La aldosterona estimula la secreción renal de K+ y también favorece su captación celular. Su deficiencia reduce la excreción y favorece hiperpotasemia.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "La deficiencia de aldosterona aumenta el flujo distal y arrastra potasio a la sangre.",
+        "La falta de aldosterona bloquea la filtración glomerular selectiva de potasio.",
+        "La deficiencia de aldosterona estimula la reabsorción proximal obligatoria de potasio.",
+        "La secreción distal de K+ disminuye y se pierde un controlador importante de la potasemia.",
+        "La aldosterona baja aumenta la captación celular de K+, causando falsa hiperpotasemia."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_014",
+      "q": "En el hiperaldosteronismo primario, la hipopotasemia aparece principalmente porque:",
+      "exp": "La aldosterona aumenta la secreción distal de K+ y también desplaza K+ al interior celular; ambos efectos favorecen hipopotasemia.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "El potasio deja de filtrarse y se acumula en el túbulo proximal.",
+        "La aldosterona aumenta la secreción renal de K+ y su captación por células.",
+        "La aldosterona bloquea todos los canales de sodio en el túbulo colector.",
+        "La presión arterial elevada impide la secreción de potasio por las células principales.",
+        "El exceso de aldosterona transforma K+ en Ca2+ en el túbulo distal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_015",
+      "q": "Un aumento del flujo tubular distal estimula la secreción de potasio. ¿Cuál mecanismo participa en este efecto?",
+      "exp": "El flujo distal alto evita que el K+ se acumule en la luz y activa canales BK, aumentando la conductancia luminal y la secreción de K+.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "El flujo alto concentra el K+ luminal y reduce el gradiente de secreción.",
+        "El flujo alto inhibe canales BK y reduce la conductancia luminal del potasio.",
+        "El flujo alto disminuye la llegada de sodio al colector cortical.",
+        "El flujo alto transforma las células principales en células impermeables al potasio.",
+        "El flujo alto arrastra K+ secretado y activa canales BK de alta conductancia."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_016",
+      "q": "Una dieta rica en sodio suele cambiar poco la excreción de potasio. ¿Cuál equilibrio explica mejor este fenómeno?",
+      "exp": "Con alta ingesta de Na+, baja aldosterona tendería a reducir secreción de K+, pero el mayor flujo distal tiende a aumentarla; los efectos se compensan.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Baja la aldosterona, lo que reduce secreción de K+, pero aumenta el flujo distal, que la estimula.",
+        "Sube la aldosterona y baja el flujo tubular, produciendo efectos idénticos sobre K+.",
+        "Se bloquean los canales ENaC y ROMK, por lo que el potasio deja de depender del riñón.",
+        "El sodio filtrado se convierte en potasio en el asa ascendente y compensa la pérdida.",
+        "La dieta rica en sodio reduce la filtración glomerular y elimina menos agua."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_017",
+      "q": "¿Qué diferencia fisiológica entre acidosis aguda y acidosis crónica es importante para la excreción de potasio?",
+      "exp": "La acidosis aguda inhibe la secreción de K+ al reducir la ATPasa Na+-K+. En la acidosis prolongada, menor reabsorción proximal de NaCl y agua aumenta el flujo distal y puede aumentar la pérdida de K+.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "La acidosis aguda aumenta K+ urinario por más flujo distal, mientras la crónica lo reduce siempre.",
+        "Ambas reducen la excreción de K+ por inhibición permanente de los canales BK.",
+        "La aguda reduce secreción de K+; la crónica puede aumentar pérdida de K+ por mayor flujo distal.",
+        "La crónica impide la entrega distal de NaCl, bloqueando toda secreción de potasio.",
+        "La acidosis aguda elimina el efecto de la ATPasa Na+-K+ solo en el túbulo proximal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_018",
+      "q": "En relación con dieta y riesgo cardiovascular, ¿qué patrón dietético se considera más favorable según el capítulo?",
+      "exp": "El texto relaciona dietas bajas en sodio y ricas en potasio con menor presión arterial y menor riesgo cardiovascular y renal.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Alto sodio y bajo potasio, porque reduce el flujo tubular distal.",
+        "Bajo sodio y alto potasio, similar a dietas ricas en frutas y verduras.",
+        "Alto sodio y alto potasio, porque ambos elevan la aldosterona de forma estable.",
+        "Bajo sodio y bajo potasio, porque reduce toda excreción renal de electrólitos.",
+        "Sodio y potasio exclusivamente de alimentos procesados para estabilizar la presión."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_019",
+      "q": "Un paciente tiene alcalosis y desarrolla signos de tetania con calcio plasmático total no extremadamente bajo. ¿Qué cambio explica mejor su mayor susceptibilidad?",
+      "exp": "En alcalosis, más calcio se une a proteínas plasmáticas, disminuye el calcio ionizado activo y aumenta la excitabilidad neuromuscular.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "La alcalosis aumenta la unión de Ca2+ a proteínas y reduce el calcio ionizado.",
+        "La alcalosis libera calcio del hueso y aumenta el calcio ionizado en plasma.",
+        "La alcalosis disminuye la unión proteica y causa hipercalcemia ionizada.",
+        "La alcalosis transforma calcio en magnesio y reduce la excreción renal.",
+        "La alcalosis aumenta la secreción intestinal de calcio hacia las heces."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_020",
+      "q": "¿Cuál afirmación sobre las formas de calcio plasmático es más fiel al capítulo?",
+      "exp": "El calcio plasmático se distribuye en fracción ionizada activa, fracción unida a proteínas y fracción complejada con aniones como fosfato o citrato.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Una parte importante está ionizada y activa; otra está unida a proteínas o complejada con aniones.",
+        "Todo el calcio plasmático está ionizado y se filtra libremente por el glomérulo.",
+        "La mayor parte del calcio plasmático está dentro de eritrocitos y no participa en membranas.",
+        "El calcio unido a proteínas es la única fracción con actividad biológica directa.",
+        "El calcio complejado con fosfato no influye en la excreción renal ni en el equilibrio."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_021",
+      "q": "La PTH corrige una disminución del calcio ionizado mediante varios efectos integrados. ¿Cuál conjunto corresponde mejor a esos efectos?",
+      "exp": "La PTH aumenta la resorción ósea, favorece la activación renal de vitamina D y estimula la reabsorción tubular de calcio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Inhibe resorción ósea, reduce vitamina D activa y aumenta excreción renal de Ca2+.",
+        "Aumenta secreción intestinal directa de Ca2+ y bloquea reabsorción tubular distal.",
+        "Disminuye el fosfato urinario y reduce la liberación de calcio desde el hueso.",
+        "Estimula resorción ósea, activa vitamina D y aumenta reabsorción renal de Ca2+.",
+        "Convierte calcio ionizado en calcio unido a proteínas para estabilizar el plasma."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_022",
+      "q": "Respecto al manejo renal del calcio, ¿cuál afirmación es correcta?",
+      "exp": "El calcio se filtra y se reabsorbe; no se secreta de forma significativa. Por eso, excreción = filtración - reabsorción.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "El calcio se filtra, se secreta de forma activa y casi no se reabsorbe.",
+        "La secreción distal de calcio es el principal mecanismo de control rápido.",
+        "La excreción renal depende de calcio filtrado menos calcio reabsorbido, sin secreción tubular relevante.",
+        "Todo el calcio unido a proteínas se filtra y luego se reabsorbe en el asa descendente.",
+        "El calcio se elimina principalmente por secreción en los conductos colectores medulares."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_023",
+      "q": "La mayor parte del calcio filtrado se reabsorbe en el túbulo proximal. ¿Qué vía predomina en ese segmento?",
+      "exp": "En el túbulo proximal, la mayor parte del calcio se reabsorbe por vía paracelular, junto con el agua y el sodio reabsorbidos.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Transporte activo luminal regulado principalmente por ADH.",
+        "Ruta paracelular, acompañando al agua y a la reabsorción de sodio.",
+        "Secreción transcelular acoplada al contratransporte H+-K+.",
+        "Difusión desde el intersticio hacia la luz por canales BK.",
+        "Reabsorción dependiente exclusivamente de calcitonina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_024",
+      "q": "En el túbulo distal, la reabsorción de calcio difiere del túbulo proximal porque:",
+      "exp": "En el túbulo distal, el calcio se reabsorbe casi por completo por vía transcelular activa, con canales luminales y salida basolateral; la PTH lo estimula.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Ocurre casi toda por arrastre del solvente entre uniones muy permeables.",
+        "Depende de la secreción de calcio hacia la luz tubular para formar gradiente.",
+        "Es independiente de canales luminales y de bombas basolaterales.",
+        "Se realiza casi por completo por transporte activo transcelular estimulado por PTH.",
+        "Solo ocurre cuando la ADH está ausente y el túbulo se vuelve impermeable al agua."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_025",
+      "q": "Un paciente con expansión del volumen extracelular presenta aumento de la excreción urinaria de calcio. ¿Cuál mecanismo lo explica mejor?",
+      "exp": "La expansión del volumen reduce la reabsorción proximal de Na+ y agua; como la reabsorción proximal de Ca2+ suele acompañarlas, aumenta la calciuria.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Menor reabsorción proximal de sodio y agua, con menor reabsorción paralela de calcio.",
+        "Mayor PTH por expansión de volumen, que inhibe el transporte distal de calcio.",
+        "Conversión del calcio ionizado en calcio unido a proteínas filtrables.",
+        "Aumento de vitamina D que bloquea canales de calcio en el asa de Henle.",
+        "Secreción activa de calcio por células principales en el túbulo colector cortical."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_026",
+      "q": "Un aumento de fosfato plasmático puede reducir la excreción renal de calcio. ¿Cuál es la mediación más probable?",
+      "exp": "El aumento del fosfato plasmático estimula PTH, y la PTH aumenta la reabsorción renal de calcio, reduciendo su excreción.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "El fosfato plasmático alto inhibe PTH y reduce la reabsorción distal de calcio.",
+        "El fosfato alto bloquea la filtración glomerular del calcio ionizado.",
+        "El fosfato alto convierte calcio filtrado en magnesio reabsorbible.",
+        "El fosfato alto aumenta la secreción tubular de calcio por células intercaladas.",
+        "El fosfato alto estimula PTH, que aumenta la reabsorción tubular de calcio."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_027",
+      "q": "La excreción renal de fosfato se describe como un mecanismo de “exceso de flujo”. ¿Qué significa esto?",
+      "exp": "Los túbulos tienen un transporte máximo para fosfato; cuando la carga filtrada lo supera, el exceso permanece en el túbulo y se excreta.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "El fosfato nunca alcanza transporte máximo porque se filtra unido a proteínas.",
+        "El fosfato se secreta activamente apenas cae por debajo del umbral plasmático.",
+        "Cuando la carga filtrada supera el transporte máximo tubular, el exceso se excreta.",
+        "El fosfato se elimina solo si la PTH está completamente ausente.",
+        "La reabsorción de fosfato ocurre principalmente en el colector medular interno."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_028",
+      "q": "¿Dónde se reabsorbe normalmente la mayor parte del fosfato filtrado y por qué mecanismo principal?",
+      "exp": "El túbulo proximal reabsorbe la mayor parte del fosfato mediante entrada luminal por cotransporte sodio-fosfato.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "En el túbulo proximal, por cotransporte sodio-fosfato transcelular.",
+        "En el asa descendente, por arrastre de solvente dependiente de ADH.",
+        "En el conducto colector medular, por transportadores activados por aldosterona.",
+        "En el glomérulo, por endocitosis de fosfato unido a proteínas.",
+        "En la vejiga, por difusión pasiva durante el almacenamiento urinario."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_029",
+      "q": "La PTH aumenta la excreción de fosfato. ¿Cuál acción renal explica directamente este efecto?",
+      "exp": "La PTH reduce la capacidad tubular de reabsorber fosfato, por lo que una mayor proporción del fosfato filtrado se pierde en la orina.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Aumenta el transporte máximo tubular de fosfato.",
+        "Convierte fosfato filtrado en calcio no filtrable.",
+        "Estimula la reabsorción de fosfato en el túbulo proximal.",
+        "Reduce el transporte máximo de fosfato en los túbulos renales.",
+        "Bloquea la filtración glomerular de fosfato por unión a albúmina."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_030",
+      "q": "Sobre el magnesio corporal y renal, ¿cuál afirmación es más adecuada?",
+      "exp": "El asa de Henle reabsorbe cerca del 65% del magnesio filtrado, siendo la zona más importante para su reabsorción.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "La mayor parte del magnesio extracelular está libre y no unido a proteínas.",
+        "La principal zona de reabsorción renal de magnesio es el asa de Henle.",
+        "El túbulo proximal reabsorbe casi todo el magnesio filtrado.",
+        "El magnesio se regula principalmente por secreción en el túbulo colector.",
+        "El exceso de calcio extracelular disminuye la excreción renal de magnesio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_031",
+      "q": "¿Cuál situación tiende a aumentar la excreción renal de magnesio?",
+      "exp": "Aunque los mecanismos no se conocen por completo, el texto cita aumento de Mg2+ extracelular, expansión de volumen y aumento de Ca2+ extracelular como factores que elevan la magnesiuria.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Aumento de magnesio extracelular, expansión del volumen extracelular o aumento de calcio extracelular.",
+        "Disminución de calcio extracelular, contracción de volumen y caída de magnesio plasmático.",
+        "Aumento de PTH, dieta baja en magnesio y reducción del flujo tubular distal.",
+        "Estimulación de ADH con médula hiperosmótica y túbulo distal impermeable.",
+        "Bloqueo de la filtración glomerular con aumento de proteínas plasmáticas."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_032",
+      "q": "En condiciones estables, ¿qué principio rige el control renal de sodio a largo plazo?",
+      "exp": "A largo plazo, para mantener la vida, la excreción renal de sodio debe equilibrar la ingestión, aunque se requieran ajustes intrarrenales, hormonales o de presión arterial.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "La excreción de sodio debe igualar casi exactamente la ingestión de sodio.",
+        "La excreción de sodio permanece fija aunque cambie la dieta.",
+        "La concentración plasmática de sodio regula directamente todo el volumen extracelular.",
+        "La vejiga ajusta la excreción final de sodio según el volumen almacenado.",
+        "El sodio se elimina solo por mecanismos fecales cuando aumenta la ingesta."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_033",
+      "q": "Si la FG aumenta 5% sin compensación tubular, el volumen urinario aumentaría mucho. ¿Qué respuesta intrarrenal ayuda a amortiguar ese cambio?",
+      "exp": "El aumento de carga filtrada estimula reabsorción proximal proporcional y la llegada elevada de NaCl a mácula densa tiende a normalizar la FG.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Bloqueo completo de la filtración glomerular por vasodilatación aferente.",
+        "Secreción distal de glucosa para arrastrar agua al túbulo colector.",
+        "Equilibrio glomerulotubular y retroalimentación de la mácula densa.",
+        "Aumento de secreción de calcio por células principales.",
+        "Conversión de sodio filtrado en urea para mantener osmolaridad estable."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_034",
+      "q": "La natriuresis por presión se refiere a:",
+      "exp": "La natriuresis por presión es el incremento de la excreción urinaria de sodio causado por aumento de la presión arterial.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Reducción de la excreción de sodio cuando aumenta la presión arterial.",
+        "Aumento de la reabsorción de sodio por acción directa de ADH.",
+        "Excreción de sodio independiente de la presión arterial y dependiente solo de PTH.",
+        "Aumento de la excreción de sodio cuando se eleva la presión arterial.",
+        "Transformación del exceso de sodio en potasio en la médula renal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_035",
+      "q": "En el sistema renal-líquido corporal, una ingestión elevada de sal y agua tiende inicialmente a aumentar el volumen extracelular. ¿Qué respuesta cierra el circuito de retroalimentación?",
+      "exp": "El aumento de volumen eleva la presión arterial; esto aumenta la excreción renal de sodio y agua hasta igualarla a la ingesta.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Caída de presión arterial con retención renal de agua.",
+        "Aumento de presión arterial que incrementa natriuresis y diuresis.",
+        "Bloqueo de la filtración glomerular para conservar sodio.",
+        "Aumento de aldosterona para reforzar la reabsorción de sodio.",
+        "Aumento de secreción de renina por expansión del volumen extracelular."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_036",
+      "q": "¿Por qué el volumen sanguíneo puede permanecer relativamente constante aunque el volumen extracelular aumente de forma considerable?",
+      "exp": "Los espacios intersticiales pueden almacenar grandes volúmenes de líquido como edema, protegiendo relativamente al sistema circulatorio de sobrecarga inmediata.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Porque el intersticio funciona como reservorio de rebosamiento para el exceso de líquido.",
+        "Porque el plasma no intercambia agua con el líquido intersticial.",
+        "Porque los eritrocitos absorben todo el exceso de líquido extracelular.",
+        "Porque la presión coloidosmótica capilar aumenta siempre durante la expansión.",
+        "Porque el riñón impide que el volumen intersticial cambie más de 1 litro."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_037",
+      "q": "Tras una hemorragia importante, la activación simpática renal reduce la excreción de sodio y agua. ¿Qué conjunto de acciones participa?",
+      "exp": "La activación simpática renal contrae arteriolas, aumenta reabsorción tubular y estimula renina, Ang II y aldosterona, conservando sal y agua.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Vasodilatación renal, disminución de renina y bloqueo de aldosterona.",
+        "Menor reabsorción tubular y aumento de ANP por estiramiento auricular.",
+        "Constricción renal, mayor reabsorción tubular y activación renina-Ang II-aldosterona.",
+        "Aumento de filtración glomerular y secreción de sodio en el túbulo proximal.",
+        "Bloqueo de barorreceptores y supresión completa de la sed."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_038",
+      "q": "Cuando aumenta la ingestión de sodio, ¿qué cambio en el sistema renina-angiotensina ayuda a evitar una expansión excesiva del volumen extracelular?",
+      "exp": "La ingesta alta de sodio suprime renina y Ang II; al faltar el efecto antinatriurético de Ang II, aumenta la excreción de sodio y agua.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Aumento de renina y Ang II para retener sodio.",
+        "Reducción de renina y Ang II, con menor reabsorción tubular de sodio.",
+        "Conversión de Ang II en ANP para aumentar la filtración de proteínas.",
+        "Aumento de aldosterona independiente de Ang II para ahorrar agua.",
+        "Estimulación de Ang II para desplazar la curva de natriuresis a presiones altas."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_039",
+      "q": "Un paciente no logra suprimir adecuadamente la formación de angiotensina II durante alta ingesta de sodio. ¿Qué consecuencia se espera sobre la presión arterial?",
+      "exp": "Si la Ang II permanece alta, la natriuresis por presión pierde pendiente; la presión arterial debe subir más para lograr la misma excreción de sodio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "La presión arterial se vuelve menos sensible a la sal por mayor ANP.",
+        "El exceso de sodio se elimina a presiones arteriales más bajas.",
+        "La curva de natriuresis se vuelve más empinada y reduce la presión.",
+        "Se requieren aumentos mayores de presión para excretar el sodio ingerido.",
+        "La Ang II bloquea toda reabsorción tubular y causa hipotensión inmediata."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_040",
+      "q": "Los inhibidores de la enzima convertidora de angiotensina reducen de forma mantenida la presión arterial en muchos hipertensos porque:",
+      "exp": "Al bloquear Ang II, la curva de natriuresis por presión se desplaza a presiones más bajas, permitiendo equilibrio de sodio con menor presión arterial.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Aumentan la unión de sodio a proteínas plasmáticas y reducen su filtración.",
+        "Mejoran la capacidad renal de excretar sodio a presiones arteriales menores.",
+        "Eliminan la secreción de ANP y reducen el volumen urinario.",
+        "Bloquean todos los efectos de la aldosterona sobre el potasio.",
+        "Aumentan la osmolaridad medular y concentran más la orina."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_041",
+      "q": "En una persona con secreción elevada y sostenida de aldosterona, la retención de sodio no continúa indefinidamente. ¿Cuál mecanismo explica el “escape” de aldosterona?",
+      "exp": "Después de retener sodio y agua, suben el volumen extracelular y la presión arterial; la natriuresis/diuresis por presión restablece la excreción de sodio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "El aumento de volumen y presión arterial provoca natriuresis y diuresis por presión.",
+        "La aldosterona se convierte en ADH y pierde acción sobre células principales.",
+        "La filtración glomerular cae a cero y deja de filtrarse sodio.",
+        "La médula renal lava el sodio hacia el intestino por los vasos rectos.",
+        "El calcio plasmático inhibe la reabsorción de sodio en todos los segmentos."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_042",
+      "q": "En insuficiencia suprarrenal con falta marcada de aldosterona, ¿qué cuadro fisiológico se espera si no se compensa con ingesta de sal y agua?",
+      "exp": "La falta de aldosterona reduce la reabsorción de sodio, causando pérdida de sal y agua, caída del volumen extracelular y tendencia a hipotensión.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Retención masiva de sodio y agua con hipertensión sostenida.",
+        "Aumento de ANP con reducción primaria de la diuresis.",
+        "Escape de aldosterona con volumen extracelular alto.",
+        "Hipercalcemia por aumento de reabsorción distal de calcio.",
+        "Pérdida renal de sodio y agua, reducción del volumen extracelular e hipotensión."
+      ],
+      "answer": 4
+    },
+    {
+      "id": "fisio_renal_cap30_043",
+      "q": "La ADH es importante durante privación de agua porque:",
+      "exp": "La ADH aumenta la permeabilidad al agua en segmentos distales y colectores, conservando agua durante privación hídrica.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Aumenta la secreción renal de sodio y reduce la osmolaridad urinaria.",
+        "Permite reabsorber agua en túbulos distales y colectores, minimizando la pérdida de volumen.",
+        "Estimula la excreción fecal de agua y reduce el volumen extracelular.",
+        "Bloquea la reabsorción de urea y destruye la hiperosmolaridad medular.",
+        "Aumenta la presión arterial principalmente por secreción tubular de potasio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_044",
+      "q": "El exceso sostenido de ADH suele producir grandes reducciones de la concentración extracelular de sodio, pero no gran aumento del volumen extracelular. ¿Por qué?",
+      "exp": "La ADH retiene agua y diluye el sodio; la expansión inicial activa mecanismos de presión que eliminan parte del volumen y sodio, limitando la expansión.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "La ADH retiene sodio y agua en proporciones idénticas.",
+        "La ADH bloquea la natriuresis por presión y elimina el exceso de volumen.",
+        "La presión elevada por expansión inicial favorece diuresis/natriuresis por presión, mientras el agua retenida diluye el sodio.",
+        "La ADH inhibe completamente la sed, evitando toda entrada adicional de agua.",
+        "La ADH aumenta ANP de forma obligatoria y transforma sodio en urea."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_045",
+      "q": "¿Cuál es el estímulo principal para la liberación del péptido natriurético auricular y su efecto renal integrado?",
+      "exp": "El ANP se libera por estiramiento auricular en exceso de volumen y favorece la excreción de sal y agua al aumentar algo la FG y reducir reabsorción colectora de sodio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Baja presión arterial; aumenta aldosterona y reabsorción de sodio.",
+        "Hipopotasemia; bloquea canales ROMK y retiene potasio.",
+        "Acidosis; aumenta reabsorción proximal de bicarbonato y sodio.",
+        "Estiramiento auricular; aumenta algo la FG y reduce reabsorción de sodio en colectores.",
+        "Hipocalcemia; estimula PTH y reduce la excreción de fosfato."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_renal_cap30_046",
+      "q": "Tras un aumento importante de la ingesta de sal y agua, ¿qué mecanismo predomina en las primeras horas o primer día para aumentar la excreción renal?",
+      "exp": "La expansión de volumen activa receptores de estiramiento auriculares y pulmonares; sus señales inhiben la actividad simpática renal y reducen la reabsorción tubular de sodio.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Inhibición simpática renal por reflejos de receptores de baja presión.",
+        "Activación sostenida de renina y aldosterona por estiramiento auricular.",
+        "Aumento de Ang II para desplazar sodio desde el intersticio al plasma.",
+        "Secreción máxima de ADH para conservar agua y normalizar el sodio.",
+        "Aumento de PTH para reducir la reabsorción de sodio en el túbulo distal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_renal_cap30_047",
+      "q": "En insuficiencia cardíaca congestiva, los riñones retienen sal y agua inicialmente porque:",
+      "exp": "La insuficiencia cardíaca reduce gasto cardíaco y presión arterial, activando simpático, renina-Ang II, aldosterona y retención renal de sal y agua.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "El volumen plasmático alto inhibe todos los sistemas antinatriuréticos desde el inicio.",
+        "El aumento de presión arterial activa natriuresis por presión intensa.",
+        "El gasto cardíaco bajo reduce la presión arterial y activa sistemas ahorradores de sodio.",
+        "La aurícula siempre libera ANP suficiente para evitar edema sistémico.",
+        "El corazón débil aumenta directamente la filtración glomerular de sodio."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_048",
+      "q": "El embarazo o grandes várices pueden aumentar el volumen sanguíneo. ¿Cuál es el mecanismo general?",
+      "exp": "Si aumenta la capacidad vascular, cae inicialmente la presión media de llenado; los riñones retienen sal y agua hasta llenar esa capacidad extra.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Reducción de la capacidad vascular que obliga a concentrar el volumen en arterias.",
+        "Aumento de la capacidad vascular, caída inicial de llenado circulatorio y retención renal de sal y agua.",
+        "Proteinuria masiva que reduce la presión coloidosmótica y causa edema generalizado.",
+        "Hipercalcemia que activa PTH y retiene sodio en el túbulo proximal.",
+        "Inhibición permanente de la sed con aumento compensador de ADH."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_renal_cap30_049",
+      "q": "En el síndrome nefrótico aparece edema masivo con retención renal de sodio. ¿Cuál secuencia es más correcta?",
+      "exp": "La proteinuria reduce proteínas plasmáticas y presión oncótica, favorece edema y reduce volumen plasmático efectivo; los riñones retienen sal y agua, agravando el edema.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Proteinuria baja, presión oncótica alta, entrada de líquido al plasma y diuresis.",
+        "Aumento de síntesis hepática de proteínas, hipertensión portal y ascitis aislada.",
+        "Pérdida de proteínas por orina, baja presión coloidosmótica, salida de líquido al intersticio y retención renal compensadora.",
+        "Deficiencia de aldosterona, pérdida renal de sodio y contracción del intersticio.",
+        "Hiperosmolaridad medular, aumento de urea y entrada de líquido desde tejidos al plasma."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_renal_cap30_050",
+      "q": "En la cirrosis hepática puede haber ascitis y retención renal de sodio. ¿Qué combinación explica mejor este proceso?",
+      "exp": "La cirrosis reduce la producción de proteínas plasmáticas y aumenta la presión portal; líquido y proteínas salen, aparece ascitis y los riñones retienen sal y agua para sostener el volumen circulante.",
+      "topic": "Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen extracelular",
+      "options": [
+        "Aumento de albúmina plasmática y reducción de presión portal, con salida de agua al intersticio.",
+        "Menor síntesis hepática de proteínas y aumento de presión portal, con pérdida de líquido hacia la cavidad peritoneal y respuesta renal de retención.",
+        "Exceso de PTH y calcitonina, con reabsorción renal de calcio y agua.",
+        "Bloqueo de Ang II por el hígado cirrótico, con natriuresis intensa persistente.",
+        "Aumento de proteínas plasmáticas por fibrosis hepática, con expansión exclusiva del plasma."
+      ],
+      "answer": 1
+    }
+  ]
+}

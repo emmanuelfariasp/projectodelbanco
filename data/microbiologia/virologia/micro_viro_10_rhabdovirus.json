@@ -1,0 +1,157 @@
+{
+  "key": "micro_viro_10_rhabdovirus",
+  "title": "Rhabdovirus",
+  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 8 Rhabdovirus.pdf",
+  "questions": [
+    {
+      "id": "micro_viro_10_rhabdovirus_001",
+      "q": "La morfologia clásica del virus de la rabia es:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Virion envuelto en forma de bala.” porque, dentro de UNIDAD 8 - Rhabdovirus, ese dato encaja con el tema de virología: morfología clásica del virus rábico. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Capsidem icosaedrica desnuda pequena.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Virion envuelto en forma de bala.”.\nb) No. El concepto de esta alternativa es “Bacilo grampositivo esporulado.”: un concepto de bacteriología. Puede ser válido para bacterias, pero desplaza la respuesta hacia otro tipo de microorganismo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Virion envuelto en forma de bala.”.\nc) No. Esta alternativa se refiere a “Huevo operculado grande.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Virion envuelto en forma de bala.”.\nd) Correcta. “Virion envuelto en forma de bala.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esa opción apunta a “Gusano plano segmentado.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Virion envuelto en forma de bala.”.",
+      "topic": "Virología - Rhabdovirus",
+      "options": [
+        "Capsidem icosaedrica desnuda pequena.",
+        "Bacilo grampositivo esporulado.",
+        "Huevo operculado grande.",
+        "Virion envuelto en forma de bala.",
+        "Gusano plano segmentado."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_002",
+      "q": "El genoma del virus rabico es:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “ARN monocatenario negativo.” porque, dentro de UNIDAD 8 - Rhabdovirus, ese dato encaja con el tema de virología: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “ADN circular bicatenario.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario negativo.”.\nb) No. Esta alternativa se refiere a “ARN positivo segmentado.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario negativo.”.\nc) Correcta. “ARN monocatenario negativo.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esa opción apunta a “ADN monocatenario lineal.”: la estructura de parvovirus B19: ADN de cadena simple lineal, muy pequeño y sin envoltura. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario negativo.”.\ne) No. Lo que menciona esta opción corresponde a “ARN bicatenario con cápside triple.”: ARN de doble cadena, característico de Reovirus/Rotavirus y distinto de influenza, picornavirus o paramixovirus. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ARN monocatenario negativo.”.",
+      "topic": "Virología - Rhabdovirus",
+      "options": [
+        "ADN circular bicatenario.",
+        "ARN positivo segmentado.",
+        "ARN monocatenario negativo.",
+        "ADN monocatenario lineal.",
+        "ARN bicatenario con cápside triple."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_003",
+      "q": "Una exposicion humana tipica a rabia ocurre por:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Mordedura o lamida de animal infectado sobre mucosa/herida.” porque, dentro de UNIDAD 8 - Rhabdovirus, ese dato encaja con el tema de virología: vía de exposición típica para rabia u ofidismo según el contexto; el significado depende del agente. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Mordedura o lamida de animal infectado sobre mucosa/herida.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Aquí se está describiendo “Ingestion de pescado crudo.”: vía de Diphyllobothrium latum, no de CMV congénito. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Mordedura o lamida de animal infectado sobre mucosa/herida.”.\nc) No. Esa opción apunta a “Picadura de Anopheles hembra.”: mosquito hembra transmisor habitual de malaria. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Mordedura o lamida de animal infectado sobre mucosa/herida.”.\nd) No. Lo que menciona esta opción corresponde a “Contacto con heces de gato con ooquistes.”: hospedador definitivo de Toxoplasma gondii y fuente de ooquistes por heces. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Mordedura o lamida de animal infectado sobre mucosa/herida.”.\ne) No. El concepto de esta alternativa es “Consumo de berro con metacercarias.”: forma enquistada infectante de trematodos como Fasciola en vegetación acuática. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Mordedura o lamida de animal infectado sobre mucosa/herida.”.",
+      "topic": "Virología - Rhabdovirus",
+      "options": [
+        "Mordedura o lamida de animal infectado sobre mucosa/herida.",
+        "Ingestion de pescado crudo.",
+        "Picadura de Anopheles hembra.",
+        "Contacto con heces de gato con ooquistes.",
+        "Consumo de berro con metacercarias."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_004",
+      "q": "Qué factor acorta o agrava el periodo de incubacion de rabia?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Herida cercana al cerebro.” porque, dentro de UNIDAD 8 - Rhabdovirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Lesion lejana en pie sin inoculo.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Herida cercana al cerebro.”.\nb) No. Esa opción apunta a “Vacunacion prevía completa.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Herida cercana al cerebro.”.\nc) No. Lo que menciona esta opción corresponde a “Baja concentracion viral.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Herida cercana al cerebro.”.\nd) No. El concepto de esta alternativa es “Piel intacta sin contacto.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Herida cercana al cerebro.”.\ne) Correcta. “Herida cercana al cerebro.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Rhabdovirus",
+      "options": [
+        "Lesion lejana en pie sin inoculo.",
+        "Vacunacion prevía completa.",
+        "Baja concentracion viral.",
+        "Piel intacta sin contacto.",
+        "Herida cercana al cerebro."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_005",
+      "q": "Despues de replicarse en el sitio de inoculacion, el virus rabico progresa hacia el SNC por:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Transporte neural retrogrado.” porque, dentro de UNIDAD 8 - Rhabdovirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Huevos en vía biliar.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Transporte neural retrogrado.”.\nb) Correcta. “Transporte neural retrogrado.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. El concepto de esta alternativa es “Fecalismo intestinal.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Transporte neural retrogrado.”.\nd) No. Esta alternativa se refiere a “Viremia masiva por eritrocitos.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Transporte neural retrogrado.”.\ne) No. Aquí se está describiendo “Larvas por circulacion portal.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Transporte neural retrogrado.”.",
+      "topic": "Virología - Rhabdovirus",
+      "options": [
+        "Huevos en vía biliar.",
+        "Transporte neural retrogrado.",
+        "Fecalismo intestinal.",
+        "Viremia masiva por eritrocitos.",
+        "Larvas por circulacion portal."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_006",
+      "q": "El tiempo de observacion del perro o gato agresor se relaciona con el periodo de transmisibilidad y suele ser:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “10 dias.” porque, dentro de UNIDAD 8 - Rhabdovirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “24 horas.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “10 dias.”.\nb) No. El concepto de esta alternativa es “3 meses.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “10 dias.”.\nc) No. Esta alternativa se refiere a “2 anos.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “10 dias.”.\nd) Correcta. “10 dias.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esa opción apunta a “18 dias.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “10 dias.”.",
+      "topic": "Virología - Rhabdovirus",
+      "options": [
+        "24 horas.",
+        "3 meses.",
+        "2 anos.",
+        "10 dias.",
+        "18 dias."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_007",
+      "q": "El cuadro neurologico clasico de rabia puede incluir:",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Hidrofobia, agitacion, encefalitis y coma.” porque, dentro de UNIDAD 8 - Rhabdovirus, ese dato encaja con el tema de virología: signo neurológico clásico de rabia por espasmos faríngeos y disfunción del SNC. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Hidrofobia, agitacion, encefalitis y coma.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esta alternativa se refiere a “Diarrea grasa crónica.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidrofobia, agitacion, encefalitis y coma.”.\nc) No. Aquí se está describiendo “Exantema en mejilla abofeteada.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidrofobia, agitacion, encefalitis y coma.”.\nd) No. Esa opción apunta a “Condilomás genitales.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidrofobia, agitacion, encefalitis y coma.”.\ne) No. Lo que menciona esta opción corresponde a “Anemia megaloblastica por pescado.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidrofobia, agitacion, encefalitis y coma.”.",
+      "topic": "Virología - Rhabdovirus",
+      "options": [
+        "Hidrofobia, agitacion, encefalitis y coma.",
+        "Diarrea grasa crónica.",
+        "Exantema en mejilla abofeteada.",
+        "Condilomás genitales.",
+        "Anemia megaloblastica por pescado."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_008",
+      "q": "La conducta inicial más correcta ante mordedura sospechosa es:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Lavado inmediato, evaluacion y profilaxis segun riesgo.” porque, dentro de UNIDAD 8 - Rhabdovirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Cerrar la herida sin limpieza.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Lavado inmediato, evaluacion y profilaxis segun riesgo.”.\nb) No. Aquí se está describiendo “Aplicar torniquete por 24 horas.”: medida contraindicada porque puede empeorar isquemia y daño local. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Lavado inmediato, evaluacion y profilaxis segun riesgo.”.\nc) Correcta. “Lavado inmediato, evaluacion y profilaxis segun riesgo.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Lo que menciona esta opción corresponde a “Esperar fiebre antes de actuar.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Lavado inmediato, evaluacion y profilaxis segun riesgo.”.\ne) No. El concepto de esta alternativa es “Dar solo analgesico y alta.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Lavado inmediato, evaluacion y profilaxis segun riesgo.”.",
+      "topic": "Virología - Rhabdovirus",
+      "options": [
+        "Cerrar la herida sin limpieza.",
+        "Aplicar torniquete por 24 horas.",
+        "Lavado inmediato, evaluacion y profilaxis segun riesgo.",
+        "Esperar fiebre antes de actuar.",
+        "Dar solo analgesico y alta."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_009",
+      "q": "El diagnóstico postmortem clasico de rabia puede apoyarse en:",
+      "exp": "La pregunta está evaluando qué prueba o hallazgo confirma mejor el agente o el cuadro señalado. La opción correcta es “Cuerpos de Negri o inmunofluorescencia en tejido nervioso.” porque, dentro de UNIDAD 8 - Rhabdovirus, ese dato encaja con el tema de virología: inclusiones citoplasmáticas neuronales clásicas de rabia, observadas sobre todo en diagnóstico postmortem. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Huevos mamelonados en heces.”: huevos típicos de Ascaris; no son hallazgo citológico de herpes. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Cuerpos de Negri o inmunofluorescencia en tejido nervioso.”.\nb) No. Esa opción apunta a “Quistes de Giardia en duodeno.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Cuerpos de Negri o inmunofluorescencia en tejido nervioso.”.\nc) No. Lo que menciona esta opción corresponde a “Proglotides gravidas.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Cuerpos de Negri o inmunofluorescencia en tejido nervioso.”.\nd) No. El concepto de esta alternativa es “Amastigotes en sangre periférica.”: forma intracelular sin flagelo visible que se multiplica en tejidos en Chagas o Leishmania. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Cuerpos de Negri o inmunofluorescencia en tejido nervioso.”.\ne) Correcta. “Cuerpos de Negri o inmunofluorescencia en tejido nervioso.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Rhabdovirus",
+      "options": [
+        "Huevos mamelonados en heces.",
+        "Quistes de Giardia en duodeno.",
+        "Proglotides gravidas.",
+        "Amastigotes en sangre periférica.",
+        "Cuerpos de Negri o inmunofluorescencia en tejido nervioso."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_010",
+      "q": "Filovirus, incluidos Ebola y Marburg, se diferencian por ser:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “ARN negativos envueltos filamentarios con fiebre hemorragica.” porque, dentro de UNIDAD 8 - Rhabdovirus, ese dato encaja con el tema de virología: un genoma que debe ser transcrito por una polimerasa viral antes de producir proteínas. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “ADN pequenos desnudos eritrotropos.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “ARN negativos envueltos filamentarios con fiebre hemorragica.”.\nb) Correcta. “ARN negativos envueltos filamentarios con fiebre hemorragica.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. El concepto de esta alternativa es “Protozoos con flebotomo vector.”: insecto vector de Leishmania. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “ARN negativos envueltos filamentarios con fiebre hemorragica.”.\nd) No. Esta alternativa se refiere a “Cestodos por carne bovina.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “ARN negativos envueltos filamentarios con fiebre hemorragica.”.\ne) No. Aquí se está describiendo “Trematodos con caracol Lymnaea.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “ARN negativos envueltos filamentarios con fiebre hemorragica.”.",
+      "topic": "Virología - Rhabdovirus",
+      "options": [
+        "ADN pequenos desnudos eritrotropos.",
+        "ARN negativos envueltos filamentarios con fiebre hemorragica.",
+        "Protozoos con flebotomo vector.",
+        "Cestodos por carne bovina.",
+        "Trematodos con caracol Lymnaea."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    }
+  ]
+}

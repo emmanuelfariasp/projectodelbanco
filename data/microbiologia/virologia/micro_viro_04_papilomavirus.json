@@ -1,0 +1,157 @@
+{
+  "key": "micro_viro_04_papilomavirus",
+  "title": "Papilomavirus",
+  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 3 Papilomavirus.pdf",
+  "questions": [
+    {
+      "id": "micro_viro_04_papilomavirus_001",
+      "q": "La estructura que mejor describe al HPV es:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “ADN circular bicatenario sin envoltura.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: la estructura de papilomavirus: ADN circular de doble cadena y cápside sin envoltura. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “ARN segmentado con envoltura.”: descripción de influenza, no de HPV. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN circular bicatenario sin envoltura.”.\nb) Correcta. “ADN circular bicatenario sin envoltura.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esta alternativa se refiere a “ARN negativo helicoidal con envoltura.”: rasgo de virus como rabia o paramixovirus, no de HPV. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN circular bicatenario sin envoltura.”.\nd) No. Aquí se está describiendo “ADN monocatenario envuelto.”: combinación que no corresponde a HPV; parvovirus tiene ADN monocatenario pero no envoltura. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN circular bicatenario sin envoltura.”.\ne) No. Esa opción apunta a “ARN bicatenario con doble cápside.”: rasgo de rotavirus/reovirus, no de HPV. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN circular bicatenario sin envoltura.”.",
+      "topic": "Virología - Papilomavirus",
+      "options": [
+        "ARN segmentado con envoltura.",
+        "ADN circular bicatenario sin envoltura.",
+        "ARN negativo helicoidal con envoltura.",
+        "ADN monocatenario envuelto.",
+        "ARN bicatenario con doble cápside."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_04_papilomavirus_002",
+      "q": "Un virus que infecta queratinocitos del estrato espinoso y produce verrugas corresponde mejor a:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Papilomavirus humano.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: virus ADN circular sin envoltura que infecta queratinocitos y produce verrugas/condilomas; algunos tipos son oncogénicos. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Rotavirus.”: virus de diarrea infantil por Reoviridae; no infecta queratinocitos ni produce verrugas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Papilomavirus humano.”.\nb) No. Esta alternativa se refiere a “Rabdovirus.”: familia del virus de la rabia; no explica mononucleosis heterófilo negativa por CMV. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Papilomavirus humano.”.\nc) No. Aquí se está describiendo “Citomegalovirus.”: herpesvirus que puede causar mononucleosis heterófilo negativa y enfermedad congénita o en inmunodeprimidos. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Papilomavirus humano.”.\nd) Correcta. “Papilomavirus humano.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Lo que menciona esta opción corresponde a “Plasmodium.”: protozoo causante de paludismo/malaria; se transmite usualmente por mosquito Anopheles hembra. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Papilomavirus humano.”.",
+      "topic": "Virología - Papilomavirus",
+      "options": [
+        "Rotavirus.",
+        "Rabdovirus.",
+        "Citomegalovirus.",
+        "Papilomavirus humano.",
+        "Plasmodium."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_04_papilomavirus_003",
+      "q": "La latencia local del HPV se relaciona principalmente con:",
+      "exp": "La pregunta está evaluando dónde persiste el agente o qué hospedador mantiene el ciclo. La opción correcta es “Queratinocito infectado.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: célula epitelial donde HPV se replica y puede mantenerse localizado/latente. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Queratinocito infectado.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Aquí se está describiendo “Neurona de ganglio dorsal.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Queratinocito infectado.”.\nc) No. Esa opción apunta a “Linfocito B de memoria.”: sitio de latencia del VEB, no de HPV. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Queratinocito infectado.”.\nd) No. Lo que menciona esta opción corresponde a “Eritroblasto medular.”: precursor eritroide de médula ósea; clave para parvovirus B19, no para herpes simple. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Queratinocito infectado.”.\ne) No. El concepto de esta alternativa es “Hepatocito periportal.”: célula hepática; importante en malaria u otros agentes, no en latencia de VHS. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Queratinocito infectado.”.",
+      "topic": "Virología - Papilomavirus",
+      "options": [
+        "Queratinocito infectado.",
+        "Neurona de ganglio dorsal.",
+        "Linfocito B de memoria.",
+        "Eritroblasto medular.",
+        "Hepatocito periportal."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_04_papilomavirus_004",
+      "q": "Qué asociacion entre genotipo y riesgo clinico es más adecuada?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “HPV 16/18 - cáncer cervical.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: tipo cutáneo relacionado con verrugas plantares, no con sarcoma de Kaposi. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “HPV 6/11 - alto riesgo cervical.”: tipos de bajo riesgo relacionados con condilomas acuminados. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “HPV 16/18 - cáncer cervical.”.\nb) No. Esa opción apunta a “HPV 1 - sarcoma de Kaposi.”: tipo cutáneo relacionado con verrugas plantares, no con sarcoma de Kaposi. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “HPV 16/18 - cáncer cervical.”.\nc) Correcta. “HPV 16/18 - cáncer cervical.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. El concepto de esta alternativa es “HPV 2 - encefalitis necrosante.”: tipo cutáneo de verrugas comunes, no de encefalitis necrosante. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “HPV 16/18 - cáncer cervical.”.\ne) No. Esta alternativa se refiere a “HPV 5 - paludismo grave.”: tipo vinculado a epidermodisplasia verruciforme y lesiones cutáneas; no causa paludismo grave. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “HPV 16/18 - cáncer cervical.”.",
+      "topic": "Virología - Papilomavirus",
+      "options": [
+        "HPV 6/11 - alto riesgo cervical.",
+        "HPV 1 - sarcoma de Kaposi.",
+        "HPV 16/18 - cáncer cervical.",
+        "HPV 2 - encefalitis necrosante.",
+        "HPV 5 - paludismo grave."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_04_papilomavirus_005",
+      "q": "El mecanismo oncogenico del HPV de alto riesgo se explica mejor por:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Inactivacion de p53 y Rb por proteinas virales.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: proteínas reguladoras del ciclo celular inactivadas por E6/E7 de HPV de alto riesgo. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Produccion de neurotoxina salival.”: mecanismo de venenos o toxinas, no oncogénesis de HPV. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Inactivacion de p53 y Rb por proteinas virales.”.\nb) No. Lo que menciona esta opción corresponde a “Destruccion de eritrocitos por merozoitos.”: mecanismo de malaria, no transformación celular por HPV. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Inactivacion de p53 y Rb por proteinas virales.”.\nc) No. El concepto de esta alternativa es “Bloqueo de canales de sodio bacterianos.”: mecanismo farmacológico antibacteriano, no oncogénesis viral. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Inactivacion de p53 y Rb por proteinas virales.”.\nd) No. Esta alternativa se refiere a “Formacion de huevos en vía biliar.”: proceso de Fasciola u otros helmintos, no HPV. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Inactivacion de p53 y Rb por proteinas virales.”.\ne) Correcta. “Inactivacion de p53 y Rb por proteinas virales.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Papilomavirus",
+      "options": [
+        "Produccion de neurotoxina salival.",
+        "Destruccion de eritrocitos por merozoitos.",
+        "Bloqueo de canales de sodio bacterianos.",
+        "Formacion de huevos en vía biliar.",
+        "Inactivacion de p53 y Rb por proteinas virales."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_04_papilomavirus_006",
+      "q": "Un condiloma acuminado genital se asocia con más frecuencia a:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “HPV mucoso de bajo riesgo.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Adenovirus urinario.”: adenovirus puede afectar aparato urinario, pero no es causa típica de condiloma acuminado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “HPV mucoso de bajo riesgo.”.\nb) Correcta. “HPV mucoso de bajo riesgo.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esta alternativa se refiere a “Virus de la rabia.”: rhabdovirus neurotrópico transmitido sobre todo por saliva de animales infectados. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “HPV mucoso de bajo riesgo.”.\nd) No. Aquí se está describiendo “Toxoplasma tisular.”: protozoo con quistes tisulares; no produce condiloma genital. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “HPV mucoso de bajo riesgo.”.\ne) No. Esa opción apunta a “Diphyllobothrium.”: cestodo del pescado asociado a B12 baja, no a condiloma genital. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “HPV mucoso de bajo riesgo.”.",
+      "topic": "Virología - Papilomavirus",
+      "options": [
+        "Adenovirus urinario.",
+        "HPV mucoso de bajo riesgo.",
+        "Virus de la rabia.",
+        "Toxoplasma tisular.",
+        "Diphyllobothrium."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_04_papilomavirus_007",
+      "q": "Cuál vía de adquisicion es más coherente con HPV mucoso genital?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Contacto sexual directo.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Inhalacion en cuevas.”: posible vía de rabia en murciélagos, no de HPV genital. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Contacto sexual directo.”.\nb) No. Esta alternativa se refiere a “Picadura de Anopheles.”: mosquito hembra transmisor habitual de malaria. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Contacto sexual directo.”.\nc) No. Aquí se está describiendo “Ingestion de berro acuatico.”: vía de Fasciola hepatica, no de HPV. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Contacto sexual directo.”.\nd) Correcta. “Contacto sexual directo.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Lo que menciona esta opción corresponde a “Mordedura de perro.”: vía típica de rabia; no es mecanismo de CMV congénito. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Contacto sexual directo.”.",
+      "topic": "Virología - Papilomavirus",
+      "options": [
+        "Inhalacion en cuevas.",
+        "Picadura de Anopheles.",
+        "Ingestion de berro acuatico.",
+        "Contacto sexual directo.",
+        "Mordedura de perro."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_04_papilomavirus_008",
+      "q": "Una razon por la cuál la infección por HPV puede persistir es que:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “La infección se mantiene localizada y protegida de la respuesta inmune.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “El virus destruye siempre todo el epitelio basal en horas.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “La infección se mantiene localizada y protegida de la respuesta inmune.”.\nb) No. Aquí se está describiendo “El virus no infecta células humanas.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “La infección se mantiene localizada y protegida de la respuesta inmune.”.\nc) Correcta. “La infección se mantiene localizada y protegida de la respuesta inmune.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Lo que menciona esta opción corresponde a “La replicacion ocurre solo en eritrocitos circulantes.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “La infección se mantiene localizada y protegida de la respuesta inmune.”.\ne) No. El concepto de esta alternativa es “La cápside tiene envoltura muy fragil.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “La infección se mantiene localizada y protegida de la respuesta inmune.”.",
+      "topic": "Virología - Papilomavirus",
+      "options": [
+        "El virus destruye siempre todo el epitelio basal en horas.",
+        "El virus no infecta células humanas.",
+        "La infección se mantiene localizada y protegida de la respuesta inmune.",
+        "La replicacion ocurre solo en eritrocitos circulantes.",
+        "La cápside tiene envoltura muy fragil."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_04_papilomavirus_009",
+      "q": "El metodo preventivo más relevante frente a lesiones malignas asociadas a HPV es:",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Vacunacion contra tipos oncogenicos.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: prevención primaria de lesiones malignas por HPV, antes o independientemente del tamizaje. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Vacunacion contra tipos oncogenicos.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esa opción apunta a “Suero antiofidico polivalente.”: tratamiento específico del envenenamiento por serpiente, indicado según tipo y gravedad. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Vacunacion contra tipos oncogenicos.”.\nc) No. Lo que menciona esta opción corresponde a “Cloracion unica del agua.”: medida de saneamiento hídrico; no previene lesiones malignas por HPV. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Vacunacion contra tipos oncogenicos.”.\nd) No. El concepto de esta alternativa es “Quimioprofilaxis antimalarica universal.”: prevención de malaria, no de HPV. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Vacunacion contra tipos oncogenicos.”.\ne) No. Esta alternativa se refiere a “Cinta adhesiva perianal.”: la prueba de Graham; recoge huevos de Enterobius alrededor del ano por la mañana. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Vacunacion contra tipos oncogenicos.”.",
+      "topic": "Virología - Papilomavirus",
+      "options": [
+        "Vacunacion contra tipos oncogenicos.",
+        "Suero antiofidico polivalente.",
+        "Cloracion unica del agua.",
+        "Quimioprofilaxis antimalarica universal.",
+        "Cinta adhesiva perianal."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_04_papilomavirus_010",
+      "q": "En una prueba de tamizaje cervical, el hallazgo que hace pensar en infección por HPV es:",
+      "exp": "La pregunta está evaluando qué prueba o hallazgo confirma mejor el agente o el cuadro señalado. La opción correcta es “Koilocitosis.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: un cambio citopático de HPV: células escamosas con halo perinuclear y alteración nuclear, típico en tamizaje cervical. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Cuerpos de Negri.”: inclusiones citoplasmáticas neuronales clásicas de rabia, observadas sobre todo en diagnóstico postmortem. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Koilocitosis.”.\nb) No. Lo que menciona esta opción corresponde a “Celulas falciformes.”: alteración eritrocitaria, no hallazgo citológico por HPV. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Koilocitosis.”.\nc) No. El concepto de esta alternativa es “Huevos mamelonados.”: huevos típicos de Ascaris; no son hallazgo citológico de herpes. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Koilocitosis.”.\nd) No. Esta alternativa se refiere a “Amastigotes en macrofagos.”: forma intracelular sin flagelo visible que se multiplica en tejidos en Chagas o Leishmania. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “Koilocitosis.”.\ne) Correcta. “Koilocitosis.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Papilomavirus",
+      "options": [
+        "Cuerpos de Negri.",
+        "Celulas falciformes.",
+        "Huevos mamelonados.",
+        "Amastigotes en macrofagos.",
+        "Koilocitosis."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    }
+  ]
+}

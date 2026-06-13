@@ -1,0 +1,157 @@
+{
+  "key": "micro_viro_02_herpes_vvz",
+  "title": "Herpes simple y Varicela-Zoster",
+  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 2.1 Herpes simple y VVZ.pdf",
+  "questions": [
+    {
+      "id": "micro_viro_02_herpes_vvz_001",
+      "q": "Una paciente presenta lesiones vesiculares recurrentes en la misma zona. Qué propiedad del VHS explica mejor estas recurrencias?",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Latencia en ganglios sensoriales.” porque, dentro de UNIDAD 2.1 - Herpes simple y Varicela-Zoster, ese dato encaja con el tema de virología: persistencia del herpes simple en neuronas sensitivas; explica recurrencias en la misma región. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Latencia en ganglios sensoriales.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. El concepto de esta alternativa es “Mutación diaria de la cápside.”: una formulación exagerada e inespecífica; las recurrencias de VHS se explican por latencia/reactivación, no por cambio diario de cápside. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Latencia en ganglios sensoriales.”.\nc) No. Esta alternativa se refiere a “Eliminacion completa del genoma.”: lo contrario de latencia: si el genoma desapareciera totalmente, no habría recurrencias por el mismo virus. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Latencia en ganglios sensoriales.”.\nd) No. Aquí se está describiendo “Replicación exclusiva en eritrocitos.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Latencia en ganglios sensoriales.”.\ne) No. Esa opción apunta a “Resistencia por cápside desnuda.”: un virus sin envoltura lipídica; suele resistir mejor desecación, ácido y detergentes. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Latencia en ganglios sensoriales.”.",
+      "topic": "Virología - Herpes simple y Varicela-Zoster",
+      "options": [
+        "Latencia en ganglios sensoriales.",
+        "Mutación diaria de la cápside.",
+        "Eliminacion completa del genoma.",
+        "Replicación exclusiva en eritrocitos.",
+        "Resistencia por cápside desnuda."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_02_herpes_vvz_002",
+      "q": "Para iniciar una infección por VHS, que condicion de entrada es más coherente con su patogenia?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Piel o mucosa lesionada.” porque, dentro de UNIDAD 2.1 - Herpes simple y Varicela-Zoster, ese dato encaja con el tema de virología: puerta de entrada del VHS: el virus necesita mucosa o piel con microlesiones porque la piel intacta resiste más. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Eritrocito maduro intacto.”: célula sin núcleo, importante en malaria o anemia, pero no es puerta de entrada del VHS. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Piel o mucosa lesionada.”.\nb) No. Esta alternativa se refiere a “Hepatocito sin receptor.”: célula hepática sin relación con la entrada típica del VHS por piel o mucosas lesionadas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Piel o mucosa lesionada.”.\nc) No. Aquí se está describiendo “Hueso cortical compacto.”: tejido óseo, no una superficie epitelial de entrada para herpes simple. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Piel o mucosa lesionada.”.\nd) No. Esa opción apunta a “Cartilago articular sano.”: tejido conectivo articular; no corresponde al tropismo inicial del VHS. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Piel o mucosa lesionada.”.\ne) Correcta. “Piel o mucosa lesionada.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Herpes simple y Varicela-Zoster",
+      "options": [
+        "Eritrocito maduro intacto.",
+        "Hepatocito sin receptor.",
+        "Hueso cortical compacto.",
+        "Cartilago articular sano.",
+        "Piel o mucosa lesionada."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_02_herpes_vvz_003",
+      "q": "En la replicacion de herpes simple, las proteinas beta se relacionan principalmente con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Replicación del ADN viral.” porque, dentro de UNIDAD 2.1 - Herpes simple y Varicela-Zoster, ese dato encaja con el tema de virología: función asociada a proteínas beta en herpes simple, dentro de la secuencia alfa-beta-gamma. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Ensamble tardio de cápside.”: fase más relacionada con proteínas gamma, porque participan en formación/ensamblaje de partículas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Replicación del ADN viral.”.\nb) Correcta. “Replicación del ADN viral.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esa opción apunta a “Bloqueo de la fusion célular.”: inhibiría un efecto citopático; no corresponde a la función beta de herpes, que se vincula a replicación del ADN. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Replicación del ADN viral.”.\nd) No. Lo que menciona esta opción corresponde a “Formacion de ooquistes.”: proceso de parásitos como Toxoplasma en felinos; no existe en replicación de herpes. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Replicación del ADN viral.”.\ne) No. El concepto de esta alternativa es “Maduracion en mosquito.”: fase de ciclos vectoriales como malaria o arbovirus; no corresponde a VHS. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Replicación del ADN viral.”.",
+      "topic": "Virología - Herpes simple y Varicela-Zoster",
+      "options": [
+        "Ensamble tardio de cápside.",
+        "Replicación del ADN viral.",
+        "Bloqueo de la fusion célular.",
+        "Formacion de ooquistes.",
+        "Maduracion en mosquito."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_02_herpes_vvz_004",
+      "q": "Un niño desarrolla varicela y años despues herpes zoster. Cuál secuencia biologica es la más correcta?",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Primoinfección respiratoria, latencia y reactivacion.” porque, dentro de UNIDAD 2.1 - Herpes simple y Varicela-Zoster, ese dato encaja con el tema de virología: secuencia de varicela-zóster: infección primaria, latencia neuronal y zóster al reactivarse. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Infeccion intestinal, quiste y excistacion.”: secuencia propia de protozoarios intestinales con quistes; no explica varicela-zóster. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Primoinfección respiratoria, latencia y reactivacion.”.\nb) No. Esa opción apunta a “Bacteriemia primaria, endospora y toxina.”: terminología bacteriana; no describe la biología del VVZ. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Primoinfección respiratoria, latencia y reactivacion.”.\nc) No. Lo que menciona esta opción corresponde a “Viremia nula, eliminacion total y reinfección.”: niega la latencia: si el virus se eliminara, el zóster no sería reactivación del mismo virus. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Primoinfección respiratoria, latencia y reactivacion.”.\nd) Correcta. “Primoinfección respiratoria, latencia y reactivacion.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esta alternativa se refiere a “Vectorizacion, esporozoito y merozoito.”: vocabulario de malaria: esporozoíto y merozoíto pertenecen a Plasmodium, no a VVZ. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Primoinfección respiratoria, latencia y reactivacion.”.",
+      "topic": "Virología - Herpes simple y Varicela-Zoster",
+      "options": [
+        "Infeccion intestinal, quiste y excistacion.",
+        "Bacteriemia primaria, endospora y toxina.",
+        "Viremia nula, eliminacion total y reinfección.",
+        "Primoinfección respiratoria, latencia y reactivacion.",
+        "Vectorizacion, esporozoito y merozoito."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_02_herpes_vvz_005",
+      "q": "El virus varicela-zoster comparte con los herpesvirus la capacidad de:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Establecer infección persistente de por vida.” porque, dentro de UNIDAD 2.1 - Herpes simple y Varicela-Zoster, ese dato encaja con el tema de virología: propiedad central de los herpesvirus: permanecen latentes y pueden reactivarse. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Establecer infección persistente de por vida.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Lo que menciona esta opción corresponde a “Vivir libremente fuera de células.”: sería vida extracelular independiente; los herpesvirus son intracelulares obligados. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Establecer infección persistente de por vida.”.\nc) No. El concepto de esta alternativa es “Formar huevos en heces humanas.”: característica de helmintos, no de herpesvirus. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Establecer infección persistente de por vida.”.\nd) No. Esta alternativa se refiere a “Replicarse solo en citoplasma sin núcleo.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Establecer infección persistente de por vida.”.\ne) No. Aquí se está describiendo “Tener ARN segmentado negativo.”: un genoma dividido en segmentos, importante en influenza y rotavirus; permite reorganización si dos cepas infectan la misma célula. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Establecer infección persistente de por vida.”.",
+      "topic": "Virología - Herpes simple y Varicela-Zoster",
+      "options": [
+        "Establecer infección persistente de por vida.",
+        "Vivir libremente fuera de células.",
+        "Formar huevos en heces humanas.",
+        "Replicarse solo en citoplasma sin núcleo.",
+        "Tener ARN segmentado negativo."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_02_herpes_vvz_006",
+      "q": "Un paciente inmunodeprimido con VHS tiene riesgo aumentado de cuadros graves porque estos virus:",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Pueden producir morbilidad significativa.” porque, dentro de UNIDAD 2.1 - Herpes simple y Varicela-Zoster, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Nunca reactivan en inmunidad normal.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Pueden producir morbilidad significativa.”.\nb) No. El concepto de esta alternativa es “Son siempre benignos en todo hospedador.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Pueden producir morbilidad significativa.”.\nc) Correcta. “Pueden producir morbilidad significativa.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Aquí se está describiendo “No inducen infección latente.”: niega una propiedad esencial de Herpesviridae: latencia con reactivación. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Pueden producir morbilidad significativa.”.\ne) No. Esa opción apunta a “Carecen de tropismo tisular.”: incorrecto: herpesvirus tienen tropismos definidos, como neuronas sensitivas para latencia de VHS/VVZ. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Pueden producir morbilidad significativa.”.",
+      "topic": "Virología - Herpes simple y Varicela-Zoster",
+      "options": [
+        "Nunca reactivan en inmunidad normal.",
+        "Son siempre benignos en todo hospedador.",
+        "Pueden producir morbilidad significativa.",
+        "No inducen infección latente.",
+        "Carecen de tropismo tisular."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_02_herpes_vvz_007",
+      "q": "Qué hallazgo citologico apoya una infección por herpesvirus, aunque no distingue con precision el tipo viral?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Celulas gigantes multinucleadas.” porque, dentro de UNIDAD 2.1 - Herpes simple y Varicela-Zoster, ese dato encaja con el tema de virología: efecto citopático por fusión celular; apoya herpesvirus o paramixovirus según el contexto. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Huevos mamelonados.”: huevos típicos de Ascaris; no son hallazgo citológico de herpes. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Celulas gigantes multinucleadas.”.\nb) No. Esta alternativa se refiere a “Larvas filariformes.”: larvas infectantes de Strongyloides/uncinarias; no son efecto citopático viral. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Celulas gigantes multinucleadas.”.\nc) No. Aquí se está describiendo “Quistes con cuatro núcleos.”: quistes de Entamoeba histolytica; no son células infectadas por herpes. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas gigantes multinucleadas.”.\nd) No. Esa opción apunta a “Eritrocitos parasitados en anillo.”: forma eritrocitaria de Plasmodium; no corresponde a herpesvirus. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas gigantes multinucleadas.”.\ne) Correcta. “Celulas gigantes multinucleadas.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Herpes simple y Varicela-Zoster",
+      "options": [
+        "Huevos mamelonados.",
+        "Larvas filariformes.",
+        "Quistes con cuatro núcleos.",
+        "Eritrocitos parasitados en anillo.",
+        "Celulas gigantes multinucleadas."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_02_herpes_vvz_008",
+      "q": "En herpes simple, la zona de latencia más caracteristica corresponde a:",
+      "exp": "La pregunta está evaluando dónde persiste el agente o qué hospedador mantiene el ciclo. La opción correcta es “Neurona de ganglio sensorial.” porque, dentro de UNIDAD 2.1 - Herpes simple y Varicela-Zoster, ese dato encaja con el tema de virología: sitio clásico de latencia de VHS y VVZ; por eso puede reactivarse. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Macrofagos esplenicos.”: células fagocíticas del bazo; no son el sitio clásico de latencia de VHS. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Neurona de ganglio sensorial.”.\nb) Correcta. “Neurona de ganglio sensorial.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Esa opción apunta a “Hepatocito periportal.”: célula hepática; importante en malaria u otros agentes, no en latencia de VHS. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Neurona de ganglio sensorial.”.\nd) No. Lo que menciona esta opción corresponde a “Eritroblasto medular.”: precursor eritroide de médula ósea; clave para parvovirus B19, no para herpes simple. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Neurona de ganglio sensorial.”.\ne) No. El concepto de esta alternativa es “Queratinocito cornificado.”: célula epitelial superficial queratinizada; HPV infecta queratinocitos, pero la latencia de VHS es neuronal. No debe marcarse porque ubica la persistencia, reservorio o hospedador en un lugar que no corresponde a este agente. En cambio, la respuesta correcta exige reconocer “Neurona de ganglio sensorial.”.",
+      "topic": "Virología - Herpes simple y Varicela-Zoster",
+      "options": [
+        "Macrofagos esplenicos.",
+        "Neurona de ganglio sensorial.",
+        "Hepatocito periportal.",
+        "Eritroblasto medular.",
+        "Queratinocito cornificado."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_02_herpes_vvz_009",
+      "q": "Cuál afirmacion compara mejor VHS-1 y VHS-2?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Comparten caracteristicas, pero difieren en patrones clinicos frecuentes.” porque, dentro de UNIDAD 2.1 - Herpes simple y Varicela-Zoster, ese dato encaja con el tema de virología: comparación correcta de VHS-1 y VHS-2: comparten estructura y biología, pero se asocian a patrones clínicos distintos. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “No comparten ADN ni antigenos.”: componentes del agente reconocidos por pruebas rápidas o inmunológicas; en malaria se usan para detectar infección actual. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Comparten caracteristicas, pero difieren en patrones clinicos frecuentes.”.\nb) No. Esa opción apunta a “Ambos son virus ARN envueltos.”: falso para VHS-1/VHS-2: son virus ADN envueltos que replican en el núcleo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Comparten caracteristicas, pero difieren en patrones clinicos frecuentes.”.\nc) No. Lo que menciona esta opción corresponde a “Solo VHS-2 puede permanecer latente.”: falso: tanto VHS-1 como VHS-2 pueden establecer latencia. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Comparten caracteristicas, pero difieren en patrones clinicos frecuentes.”.\nd) Correcta. “Comparten caracteristicas, pero difieren en patrones clinicos frecuentes.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esta alternativa se refiere a “Solo VHS-1 se replica en núcleo.”: falso: ambos tipos de herpes simple son virus ADN que replican en el núcleo. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Comparten caracteristicas, pero difieren en patrones clinicos frecuentes.”.",
+      "topic": "Virología - Herpes simple y Varicela-Zoster",
+      "options": [
+        "No comparten ADN ni antigenos.",
+        "Ambos son virus ARN envueltos.",
+        "Solo VHS-2 puede permanecer latente.",
+        "Comparten caracteristicas, pero difieren en patrones clinicos frecuentes.",
+        "Solo VHS-1 se replica en núcleo."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_02_herpes_vvz_010",
+      "q": "En una sospecha de encefalitis herpetica, la herramienta diagnostica directa más util para LCR suele ser:",
+      "exp": "La pregunta está evaluando qué prueba o hallazgo confirma mejor el agente o el cuadro señalado. La opción correcta es “PCR para ADN viral.” porque, dentro de UNIDAD 2.1 - Herpes simple y Varicela-Zoster, ese dato encaja con el tema de virología: una prueba molecular directa para buscar ADN viral en la muestra clínica; en LCR es muy útil ante encefalitis por herpes. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Hemocultivo anaerobio.”: un cultivo de sangre para bacterias anaerobias; no sirve como prueba directa de encefalitis herpética. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “PCR para ADN viral.”.\nb) No. Lo que menciona esta opción corresponde a “Cinta adhesiva perianal.”: la prueba de Graham; recoge huevos de Enterobius alrededor del ano por la mañana. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “PCR para ADN viral.”.\nc) Correcta. “PCR para ADN viral.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esta alternativa se refiere a “Gota gruesa de malaria.”: un método parasitológico para malaria: concentra sangre y aumenta la sensibilidad para ver parásitos. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “PCR para ADN viral.”.\ne) No. Aquí se está describiendo “Busqueda de huevos operculados.”: huevos con opérculo, característicos de varios trematodos como Fasciola. No debe marcarse porque no detecta el blanco diagnóstico que se está buscando en el caso; orienta a otra muestra, otro agente o una metodología distinta. En cambio, la respuesta correcta exige reconocer “PCR para ADN viral.”.",
+      "topic": "Virología - Herpes simple y Varicela-Zoster",
+      "options": [
+        "Hemocultivo anaerobio.",
+        "Cinta adhesiva perianal.",
+        "PCR para ADN viral.",
+        "Gota gruesa de malaria.",
+        "Busqueda de huevos operculados."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    }
+  ]
+}
